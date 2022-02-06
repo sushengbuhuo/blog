@@ -64,3 +64,4 @@
 
 - 博客内容
   - [有趣网站系列](blog/有趣网站系列.md)
+  - [chrome扩展系列](blog/chrome扩展系列.md)
