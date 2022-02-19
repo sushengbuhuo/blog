@@ -1386,3 +1386,54 @@ https://tutorial.pictureknow.com/book?id=cbaee24c11c64cac9d5e384e7814a716
 之前文章[分享几个 Windows 实用技巧](https://mp.weixin.qq.com/s/vPXae_ylqPTTNKoGMN__gg) 分享过通过修改hosts访问GitHub ，这个扩展可以很方便的管理hosts文件，扩展地址 https://chrome.google.com/webstore/detail/hostadmin-app/mfoaclfeiefiehgaojbmncmefhdnikeg 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-146ed8d57f03dfd9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+### User-Agent Switcher and Manager 
+这个扩展用于改变浏览器的ua，方便浏览只适配手机页面的网站，比如之前网易云音乐做的摸鱼计算器 http://sg.music.163.com/g/lazyfish ，扩展地址
+https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b2edd147a974ebbd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 音乐解锁
+之前文章[分享几个音乐下载神器，一键下载全网音乐](https://mp.weixin.qq.com/s/1WZQkoAmxOTxlPRCdE-YbA) 分享过音乐格式解密网站 https://unlock-music-2dd0.pages.dev/  ，   https://github.com/unlock-music/unlock-music ，它还有对应chrome扩展https://chrome.google.com/webstore/detail/%E9%9F%B3%E4%B9%90%E8%A7%A3%E9%94%81/gldlhhhmienbhlpkfanjpmffdjblmegd/ ，解密下载歌曲更方便了。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6db011203c4913c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 微博助手 
+这个扩展支持归档微博原图, 解析视频地址，帐号切换等https://chrome.google.com/webstore/detail/%E5%BE%AE%E5%8D%9A%E5%8A%A9%E6%89%8B/mlgicmacgnloflibjaidfcmpemnmlkci   ，如果想批量下载微博图片和视频见之前文章[一键批量下微博内容/图片/视频，获取博主最受欢迎微博，图片查找微博博主](https://mp.weixin.qq.com/s/fmboKshIIoeeB21dTBazGg)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e5e1a82c045cbcae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ee31c00ffa7ec52d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### Stylus 
+这个扩展通过更改 CSS 为网站安装主题和皮肤调整网页外观，点击 Stylus 图标 选择查找更多样式会列出适配当前网站的所有主题和模板，扩展地址https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fbf545e9c58aa02e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 小番茄
+番茄工作法是著名的高效时间管理方法，这个扩展借助番茄计时工作法帮助你最大化地提升生产力，扩展地址https://chrome.google.com/webstore/detail/cherry-tomato/cghomilbbfdmgfidkdinillpmdpdjgmm?hl=zh-CN
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6c4899a5ca1ee6f2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### AdGuard
+这是个无与伦比的广告拦截扩展，用于对抗各种广告弹窗，可有效拦截所有网页上的广告，甚至跳过某些视频网站的几十秒广告，扩展地址https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d5ec065d3f311117.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### iTab 新标签页
+之前安装过很多新标签页扩展，不过后来都懒得用了，iTab是个好看好用可自定义卡片式浏览器新标签页扩展， 有精美日历、炫酷天气、每日头条、海量壁纸等，摸鱼姿势又增加了，扩展地址   
+https://chrome.google.com/webstore/detail/itab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/mhloojimgilafopcmlcikiidgbbnelip?hl=zh-CN
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-324fa26f90ecf11e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### omni
+最后推荐这个有 50 多项特性，功能强大的 Chrome 扩展，它为提高生产力而生，你可以像极客一样使用 Chrome，比如快速切换和搜索页面标签，浏览和管理书签，搜索网页浏览历史记录，并集成了 Notion、Figma、Docs 等，扩展地址https://chrome.google.com/webstore/detail/omni/mapjgeachilmcbbokkgcbgpbakaaeehi?hl=zh-CN github.com/alyssaxuu/omni 
+
+输入 /history 会自动切换到搜索浏览历史记录：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a63505adb8f83fbb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有 /tabs 在打开的标签页搜索和跳转，/bookmarks 搜索书签，/actions 搜索可用动作，/remove 删除书签或者关闭某个tab，/actions搜索支持的跳转操作。
+
+### FakeScreenshot  
+这个chrome扩展一键修改微博内容 https://chrome.google.com/webstore/detail/fakescreenshot/jiojdapfbpmhpihdejiglphhoeakjhmi/ ，如果你下载不了，在公众号后台回复 ``获取扩展文件 ，如何安装chrome扩展见之前我的文章[上不了谷歌如何安装 Chrome 扩展？](https://mp.weixin.qq.com/s/xC9K_z7zpmAIEzUK6s1x3w)
+
+这里选一条支付宝的微博，右键选择修改文字和图片。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-752694adb7945987.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+生成的效果图如下，是不很逼真了，现在可以发到朋友圈或者微博了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a6eeccaa551bda81.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+扫码的人多了，说不定你也能像这样日入过百。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6ecef622729ed90a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-821d99ed3330bd26.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![1634220722(1).png](https://upload-images.jianshu.io/upload_images/23152173-99f212d0a1f9a24f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+

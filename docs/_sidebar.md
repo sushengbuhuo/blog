@@ -69,3 +69,5 @@
 - 博客内容
   - [有趣网站系列](blog/有趣网站系列.md)
   - [chrome扩展系列](blog/chrome扩展系列.md)
+  - [宝藏app系列](blog/宝藏app系列.md)
+  - [windows软件系列](blog/windows软件系列.md)
