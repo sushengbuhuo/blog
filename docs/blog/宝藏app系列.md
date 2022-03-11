@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理。
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-03-11。
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -472,3 +472,55 @@ https://www.youguotv.com/  ，可以直接在线看 YouTube 的视频， ios在 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-a780d759028a72ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 电脑上再用谷歌浏览器打印将html转为pdf。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-9b877ce88194bba3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 好课帮
+这是个免费搜题看视频app，学生朋友可能用得上
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7c532be43beaf648.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# 微信APK安装器
+
+微信里收到 APK 文件会在文件名后添加 .1 ，导致系统无法识别成安装包直接安装。
+https://github.com/twiceyuan/WXAPK
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f6e74d7475c5e9ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+有了这个app直接打开就能安装。本应用通过拦截 apk.1 后缀来免除用户需要下载后修改文件名才能安装的问题。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c6dcfb524266bed2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3f901546919cf3ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 有来急救百科
+之前分享过[花 2 分钟学习下海姆立克急救法，关键时刻能救命](https://mp.weixin.qq.com/s/KnKBtVBYEdmxlrSFm0ifqQ) ，这个app包含了急救科普、突发公共事件应急响应、急救培训、急救服务和急救产品等为一体的软件。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-40a483dcb2b7638d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 摸鱼kik
+这是个免费的事件追踪app，支持全网各大内容APP优质博主推荐服务 ，比如最近的冬奥会http://moyukik.sohu.com/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-53054aca682ca15d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还能顺便摸鱼玩，可以订阅自己关注的话题。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-13e33d6b7b098037.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 图叨叨
+这是个卖萌作图神器，功能有宫格切图、模板拼图、长图拼接等 https://wwe.lanzoui.com/s/daodaopic
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-178eda35bf7e5ec4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+# 傻瓜英语
+这是个非常方便的练习英语口语和背单词app，单词量非常丰富，覆盖小学，初中，高中，四级，六级，考研词汇等http://www.easyenglish888.com/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-76a26d8be9631103.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+口语支持提供真人发音，可以跟着外国人练习口型，会对你的口语发音评分，让你知道有哪些不足需要改进。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d4f1474a5a2e12b8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 检讨书生成器
+有了这个检讨书应该不用跪搓衣板了。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0c47e0829d51f385.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# DeepL翻译
+这是个快速、准确和高质量的翻译app，在之前文章[那些好用的翻译工具](https://mp.weixin.qq.com/s/nCul2QL156Zs7gStO3J30g)分享过网页版 https://www.deepl.com/translator 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9b709b82f90ccd6b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Android助手
+这个app有18大功能助你高效的管理安卓手机 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2fe1553986df77a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a8b257612508d042.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 万年历
+
+这个app基于传统黄历、日程记录等日历功能上提供个性化阅读和生活提醒服务等。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3cf43dcf86f82791.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+

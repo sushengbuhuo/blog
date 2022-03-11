@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理。
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-03-11。
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1437,3 +1437,6 @@ https://chrome.google.com/webstore/detail/itab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1
 
 ![1634220722(1).png](https://upload-images.jianshu.io/upload_images/23152173-99f212d0a1f9a24f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+
+最后推荐下我今年新建的付费知识星球互联网达人，目前已更新100多条内容（还在完善），收费50（后续看情况调整价格），微信扫码加入吧，目前可提供的服务有下载备份公众号（导出文章数据包含阅读数点赞数在看数留言数等），备份微博，刷微信运动步数，b站升级账号，网易云音乐听歌升级账号，领取京豆等，当然有其他问题也可以在星球交流学习。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-83381836f12598ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 

@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理。
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-03-11。
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -170,7 +170,7 @@ httpie            2.4.0
 # 抓包工具fiddler
 除了之前文章[一键下载公众号所有文章，导出文件支持PDF，HTML，Markdown，Excel，chm等格式](https://mp.weixin.qq.com/s/sBK_NkSnS3qTOnajl6Y94Q)分享的Charles，fiddler也是不错的抓包工具https://www.telerik.com/fiddler，比如抓取公众号的历史文章链接。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c58625505944a466.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- 
+
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-4bdc1bc7cb911a1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 卸载工具Hibit 
@@ -299,7 +299,7 @@ https://cdn.iobit.com/dl/unlocker-setup.exe
 和道客巴巴一样需要下载chromedriver文件。 https://max.book118.com/html/2021/1020/5221332302004033.shtm
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c10aa263bca3f210.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ppt文档也能下载。 https://max.book118.com/html/2017/0104/80038871.shtm
- 
+
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-8c22ca4c0fa62519.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # PandaOCR 
 这是款多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码https://github.com/miaomiaosoft/PandaOCR ，支持图片识别，截图识别，剪切识别，效果如图：
@@ -377,7 +377,7 @@ http://sourcegear.com/diffmerge/downloads.php
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-17b35e6062b9cf39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # BilibiliVideoDownload
 上面几个都是Windows软件，这是个跨平台下载bilibili视频的桌面端软件， 支持 Windows、macOS、Linux 三个平台https://github.com/blogwy/BilibiliVideoDownload
- 
+
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-41b72802963cc86c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # 命令行下载
 除了BilibiliVideoDownload命令行下载也支持各个系统 https://github.com/iawia002/annie，我一般用annie下载视频。
@@ -512,7 +512,7 @@ INFO: Initial texture: 720x1560
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c7af0a8642a33a96.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 上传图片选择位置去除即可。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-8b1fe6625410bc64.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- 
+
 # 分流抢票bypass
 一个从2013年更新至今的分流抢票神器https://www.bypass.cn/，国庆节回家还没买到票可以试试。
 
@@ -534,7 +534,7 @@ INFO: Initial texture: 720x1560
 # 浏览器密码查看器
 
 webbrowserpassview这个软件可以一键查看保存在本地浏览器中的账号和密码，支持chrome和Firefox https://www.nirsoft.net/utils/web_browser_password.html
- 
+
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-94336895fa1b7378.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
@@ -552,20 +552,20 @@ webbrowserpassview这个软件可以一键查看保存在本地浏览器中的�
 
 # 轻量pdf阅读器sumatrapdf
 这是个轻量高效的PDF阅读器 https://github.com/sumatrapdfreader/sumatrapdf，支持打开PDF、ePub、MOBI、XPS等格式文件，比如查看微信派发过的公众号文章[一键下载公众号所有文章，导出文件支持PDF，HTML，Markdown，Excel，chm等格式](https://mp.weixin.qq.com/s/sBK_NkSnS3qTOnajl6Y94Q)
- 
+
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-48970bb4ba1c1b3a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 文本转语音
 输入文字可播放和下载音频，支持调整语速，语调和音量。
- 
- 
+
+
 几乎支持世界上所有常用语言。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-09ed61a79a5e7234.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 另外微软Edge浏览器的大声朗读功能不错，但是不能保存语音文件，这个软件基于微软的接口转换语音，输入文字点击朗读，软件会识别文字播放语音，录制即可下载。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-69cc473e76a8fa48.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-  
+
 # 全能下载工具motrix
 之前分享过下载神器idm，不过它不能下载磁力链接，这是个免费开源基于aria2的下载软件，不仅可以下载文件，还可以下载磁力和种子文件，支持Windows和mac https://motrix.app/
  ![image.png](https://upload-images.jianshu.io/upload_images/23152173-2bc1f6e50011ee86.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -592,7 +592,7 @@ webbrowserpassview这个软件可以一键查看保存在本地浏览器中的�
 现在公众号文章的图片都用webp格式保存了，这个工具可以转为jpg，png等格式 https://github.com/s337443501/WebPFormat ，当然也可以使用这个网站转换 https://anywebp.com/
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c53b7de2af68bdae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # GitMind
- 
+
 GitMind是一款全能且免费的思维导图软件，在电脑和手机上都能畅享思维碰撞体验，GitMind是一款免费在线流程图、思维导图软件，支持多平台使用及内容同步，可以用来快速绘制流程图、思维导图、组织结构图、网络拓扑图等十多种图形。 https://gitmind.cn/faq/how-to-use-gitmind.html
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-111b04396eed1472.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # 电脑功能开关
@@ -607,7 +607,7 @@ c盘空间又告急了？用FolderMove将已安装的程序移到其他目录htt
 
 # 天若OCR
 这是天若ocr开源版本的本地版，采用Chinese-lite和paddle-ocr识别，不用联网和设置接口key就能识别图片里的文字
- 
+
 https://gitee.com/wanglifree/tianruoocr-cl  
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-7e042fe6b5cf62f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -709,3 +709,48 @@ https://www.sordum.org/downloads/?st-windows-update-blocker
 之前分享过screentogif，VeryCapture 可以很方便的截图和录屏，比如全屏截图、矩形截图、任意截图、延时截图、长截图，以及 GIF 录制、视频录制。
 https://verycapture.com/  
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-1be8c8c07a97d71e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 第三方网易云音乐
+这是个第三方高颜值网易云音乐播放器https://github.com/qier222/YesPlayMusic ，能登录网易账号，如果想下载音乐见之前文章[分享几个音乐下载神器，一键下载全网音乐](https://mp.weixin.qq.com/s/1WZQkoAmxOTxlPRCdE-YbA)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-92723370be5715d7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+解锁音乐https://github.com/UnblockNeteaseMusic
+# foobar2000  
+这个复古卡带版经典播放器堪称回忆杀https://wwi.lanzouj.com/ibSNJ00jao1a
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0b76b487c0d6ed60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+顺便分享个音乐标签https://wwe.lanzoui.com/iu0ihswra2j ，可以将音乐标题、演唱者、封面图、歌词、专辑名添加到音乐文件内。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8b36ed0bcb05c62d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# GitHub加速
+之前分享过 [10 分钟带你免费搭建一个属于自己的博客](https://mp.weixin.qq.com/s/9bGiBJmPJ0RszkpBjML5KA)，有了这个工具不用自己改hosts了  
+https://github.com/dotnetcore/FastGithub
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8004f1fd7ec690fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 多功能计算器
+一个功能强大的windows计算器替代工具  https://github.com/Qalculate   
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a54363014c0fd83f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 流量监控
+
+这是个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示和更换皮肤https://github.com/zhongyang219/TrafficMonitor
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-75d363a5a89fa8bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有这个在电脑右侧显示硬件诊断信息的https://github.com/ArcadeRenegade/SidebarDiagnostics
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ec9294c23f7d9b33.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 重复文件查找
+这个软件可以检测和移除电脑上的重复文件，包括文字、图片、音乐、视频。 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e9736a98df354478.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# BitTorrent客户端
+这是个免费开源的BitTorrent客户端，磁力链接BT种子下载工具，支持资源搜索引擎插件和订阅Tracker服务地址。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c73a8d07c2874d83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 格式工厂
+这是个老牌知名免费音视频/压缩转换软件，支持转换几乎所有主流的多媒体文件格式，包括视频 MP4、AVI、3GP、WMV、MKV、VOB、MOV、FLV、SWF、GIF和音频 MP3、WMA、FLAC、AAC、MMF、AMR、M4A、M4R、OGG、MP2、WAV、WavPack，以及图像 JPG、PNG、ICO、BMP、GIF、TIF、PCX、TGA 等 
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-b45343188ae6d558.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Koodo Reader
+这是个免费好用的跨平台电子书阅读器，支持Windows，macOS，Linux 和网页版，文件格式支持 epub, pdf, mobi, azw3, txt, djvu, markdown, fb2, cbz, cbt, cbr, rtf 和 docx 等 https://github.com/troyeguo/koodo-reader 
+ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-188ab757a571d5f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 实用万年历
+这是单文件纯净版日历，功能挺多的，注意需要的是只能在程序里点退出 
+https://www.aliyundrive.com/s/rX6Wz832Jhq
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8d4e8998d56667b2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
