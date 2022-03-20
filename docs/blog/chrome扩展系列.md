@@ -1440,3 +1440,14 @@ https://chrome.google.com/webstore/detail/itab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1
 
 最后推荐下我今年新建的付费知识星球互联网达人，目前已更新100多条内容（还在完善），收费50（后续看情况调整价格），微信扫码加入吧，目前可提供的服务有下载备份公众号（导出文章数据包含阅读数点赞数在看数留言数等），备份微博，刷微信运动步数，b站升级账号，网易云音乐听歌升级账号，领取京豆等，当然有其他问题也可以在星球交流学习。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-83381836f12598ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+# 切换到其他搜索引擎
+这个chrome浏览器扩展可以帮你快速切换到其他搜索引擎 https://ex.xiaoshu.app/ https://chrome.google.com/webstore/detail/lcalpcoppmdamffdmmchmadbpaoibaep?authuser=0&hl=zh-CN ，扩展最近更新时间2022年3月3日。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-18a1c04a738a37cd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+左侧默认分组有国内外常用搜索引擎，视频网站，音乐网站，学术网站，摸鱼网站等，比如使用谷歌搜索的时候点击左侧的百度进入百度搜索，不用再打开百度复制搜索。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-eb31e8587fb38b91.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+右键可以自定义添加搜索引擎。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-efc562bd90aed09f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+也可以自己添加分组：双击标题就能自定义图标，自定义分组名称，自定义分组排序（长按后拖动鼠标），按Enter保存 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-48d082724ce7a18f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
