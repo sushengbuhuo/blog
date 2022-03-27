@@ -498,7 +498,7 @@ https://github.com/twiceyuan/WXAPK
 # 图叨叨
 这是个卖萌作图神器，功能有宫格切图、模板拼图、长图拼接等 https://wwe.lanzoui.com/s/daodaopic
  ![image.png](https://upload-images.jianshu.io/upload_images/23152173-178eda35bf7e5ec4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- 
+
 # 傻瓜英语
 这是个非常方便的练习英语口语和背单词app，单词量非常丰富，覆盖小学，初中，高中，四级，六级，考研词汇等http://www.easyenglish888.com/
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-76a26d8be9631103.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -524,3 +524,16 @@ https://github.com/twiceyuan/WXAPK
 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-3cf43dcf86f82791.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+# 卡音
+之前分享过很多音乐app[又一音乐神器APP，免费听全网音乐](https://mp.weixin.qq.com/s/Kjv_4g49dkjOdJbetZsOOw) ，这个app能免费下载网易，QQ，酷狗，酷我歌曲，支持自定义QQ，网易歌单，还有热门歌单推荐 http://www.janz.plus/v2/ https://lanzouw.com/b015p86wd  
+搜索周杰伦选择qq源：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e05233615e6c155d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+现在可以听周杰伦了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-091b47451e05856d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 洛雪音乐
+这个软件有电脑和app版本：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-35a0a204e989df44.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bc0d7c07439b355d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜索直接收听，而且无广告，业界良心。
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c8172d886cb23efb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

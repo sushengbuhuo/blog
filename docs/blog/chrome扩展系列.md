@@ -1451,3 +1451,8 @@ https://chrome.google.com/webstore/detail/itab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1
 
 也可以自己添加分组：双击标题就能自定义图标，自定义分组名称，自定义分组排序（长按后拖动鼠标），按Enter保存 。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-48d082724ce7a18f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 音乐解锁
+这个网站可以解锁QQ/网易云/酷我/酷狗音乐下载的特殊格式文件https://github.com/ix64/unlock-music https://demo.unlock-music.dev/ ，它还有对应chrome扩展https://chrome.google.com/webstore/detail/%E9%9F%B3%E4%B9%90%E8%A7%A3%E9%94%81/gldlhhhmienbhlpkfanjpmffdjblmegd/ ，转换更方便了。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6db011203c4913c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
