@@ -1456,3 +1456,13 @@ https://chrome.google.com/webstore/detail/itab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1
 这个网站可以解锁QQ/网易云/酷我/酷狗音乐下载的特殊格式文件https://github.com/ix64/unlock-music https://demo.unlock-music.dev/ ，它还有对应chrome扩展https://chrome.google.com/webstore/detail/%E9%9F%B3%E4%B9%90%E8%A7%A3%E9%94%81/gldlhhhmienbhlpkfanjpmffdjblmegd/ ，转换更方便了。
 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-6db011203c4913c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 谷歌助手
+在公众号后台对话框回复 `浏览器` 获取扩展下载地址，然后打开扩展程序chrome://extensions/ ，将下载的文件拖进去。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aa8c18bbc5e7b83a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+输入自己的邮箱注册个号就行了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-19dfc5c750b282a6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+安装成功。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-294572c8bbb67e99.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+现在可以打开谷歌搜索了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c4cf1a5f7d00992f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
