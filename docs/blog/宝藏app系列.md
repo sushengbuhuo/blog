@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-03-11。
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-04-16
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -537,3 +537,91 @@ https://github.com/twiceyuan/WXAPK
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-bc0d7c07439b355d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 搜索直接收听，而且无广告，业界良心。
  ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c8172d886cb23efb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 微软 tts 语音引擎
+分享个微软 tts 语音引擎app（在公众号后台对话框回复 `app`  获取下载地址） https://wwn.lanzouf.com/i1uiX02l53da，用来听电子书非常舒服，语气接近于真人朗读：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-970e63e14b131f10.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+安装app后在手机的文本转语音设置里选择tts。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-94043172a272e3d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+使用之前分享的阅读app 看小说[别找了，这个神器 app 小说资源最全](https://mp.weixin.qq.com/s/UOZCE8J4zOWYbVSFgt2idA) ：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-54e787ab2671d3d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+点朗读设置选择系统tts就可以听书了 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e76511f14c307062.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 微拾
+分享个导出微信语音的app微拾（在应用商店搜索即可下载），之前在文章 [如何导出你的微信语音](https://mp.weixin.qq.com/s/Nu8x-dA2IRXtOcjVJuenKA) 分享过个电脑软件，不过有点麻烦。
+
+app首页可以看到我的语音，朋友圈，视频号，公众号，小程序，文件，下载，安装包，还有图片，视频，语音，文件等。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9bdd6b6c8a5454ce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+进入语音可以看到微信里的语音列表，点击可播放。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0fe6b56cb0015147.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+批量选择需要下载的语音。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-12532742eaf0c7d6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+导出后在文件管理里可以看到刚导出的语音mp3文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5e5198ebb6bbed59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+在我的导出也可以看到：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1c6fd84a233605e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+文件也可以下载，这个app使用还是很方便的，不过每次进入就弹2次广告，如果很烦建议使用完卸载它。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-655e84cce2c4eecf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+它还有个清理文件的功能：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-44fcc4f51bd605ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# b站漫游版
+
+这个特殊版本的app功能挺多的，包括解除B站番剧区域限制，港澳台CDN加速 ，缓存番剧，自定义主题色，关闭青少年模式弹窗，显示评论区楼层，不以小程序形式分享视频，自动点赞视频，替换音乐状态栏为原生样式，提取视频、直播封面，自定义屏启动图等。
+
+打开软件进入哔哩漫游设置，拉到最下面，多次点击版本，开启隐藏设置，比如解锁番剧限制，下载番剧等，功能很多，自己挖掘。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4ff8a231c74ca401.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+设置解析服务器为bili.lli.cx需要登陆b站账号：https://github.com/yujincheng08/BiliRoaming/wiki/%E5%85%AC%E5%85%B1%E8%A7%A3%E6%9E%90%E6%9C%8D%E5%8A%A1%E5%99%A8
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2fcbb6983fc98fed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+然后就可以播放进击的巨人了。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-14c9ea8b9de3bed4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f58f950a89bc7669.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果搜不到在网页版打开https://www.bilibili.com/bangumi/play/ss37757 ，跳转到app
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-4109511496f0120e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+支持下载缓存：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ab9aaf4cc8ddc38d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+想看更多番剧可以搜索哔哩哔哩番剧出差这个账号，因为它的主页打不开https://space.bilibili.com/11783021/dynamic
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-675f3c6c6fd208f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果你用的苹果手机，找个能安装油猴脚本的手机浏览器 https://apps.apple.com/cn/app/userscripts/id1463298887 ，  https://apps.apple.com/app/apple-store/id1458962238 ，再安装这个脚本http://greasyfork.org/zh-CN/scripts/25718 ，和电脑端使用一样的。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-23304c3621885bdc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+播放效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f2c4d9c5f989c682.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+而且有了这个脚本， 哔哩哔哩番剧出差这个官方账号主页也可以打开了https://space.bilibili.com/11783021/dynamic
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-63fed127069a5e82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 万能下载
+这个app可以提取视频号的缓存视频，支持各大短视频平台的无水印视频下载，内置嗅探功能，还可以压缩视频。更多app https://magictool.cn/apk/
+ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1c0f40e4f2f1e899.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如下载这个b站视频 https://www.bilibili.com/video/BV11S4y1T7ca
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-07630ccdbea7a19b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载抖音视频 https://v.douyin.com/RpkUNex/， 支持在线播放。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1210bcf4e36f417a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+公众号文章视频下载， 如果想批量下载可以看我之前文章[一键批量下载微信公众号文章内容/图片/封面/视频/音频，支持导出html和pdf格式，包含阅读数/点赞数/在看数/留言数](https://mp.weixin.qq.com/s/ogxF4j5PncxIQ91PtIwU-A) 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a9d42661c8b5b857.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载视频号需要先在微信里播放视频再回到app提取下载，不过我的华为手机一点就闪退，可能是兼容问题，在Windows下载视频号可以用之前分享的工具[微信又更新了，分享几个实用的微信神器](https://mp.weixin.qq.com/s/C2ht6VHwAVv76uYEw7mG_A) https://github.com/xuncv/WeChatDownloader ，播放视频后点获取视频地址即可。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-28ddbd0b7bd7f2b1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a51d861c4844a224.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 全能下载
+这是个全能下载器，支持http、ed2k、magnet、ftp等多种协议，内置3大下载引擎，可以根据链接格式自动识别下载。
+ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5fef75d688d1e47c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+找个电影资源的磁力链接 [在线影视剧网站/app合集，全网资源在线看](https://mp.weixin.qq.com/s/AGQVh_R916o3KJqAPk9Lyw)  开始下载 magnet:?xt=urn:btih:RQAGLZFPGFHSKK4IQO5IL4A4L2UZRL6J
+ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b596100438991577.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载速度还行。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8d318a8a50097569.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 1dm+
+idm神器应该都用过，之前分享过idm下载百度网盘文件[2022 年最新百度网盘不限速下载方法整理](https://mp.weixin.qq.com/s/o4jEI_VSzg8GZ0UQOrPK2g) ，现在它有安卓版本了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-795d97de187e55c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+打开网页视频点右上角进入即可抓取视频并下载，更多功能就不一一演示了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d39f527443c02d9c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

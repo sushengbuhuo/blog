@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-03-11。
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-04-16
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -747,10 +747,39 @@ https://github.com/dotnetcore/FastGithub
  ![image.png](https://upload-images.jianshu.io/upload_images/23152173-b45343188ae6d558.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # Koodo Reader
 这是个免费好用的跨平台电子书阅读器，支持Windows，macOS，Linux 和网页版，文件格式支持 epub, pdf, mobi, azw3, txt, djvu, markdown, fb2, cbz, cbt, cbr, rtf 和 docx 等 https://github.com/troyeguo/koodo-reader 
- 
+
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-188ab757a571d5f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 实用万年历
 这是单文件纯净版日历，功能挺多的，注意需要的是只能在程序里点退出 
 https://www.aliyundrive.com/s/rX6Wz832Jhq
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-8d4e8998d56667b2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 公众号音频视频话题批量下载
+
+单篇文章[神雕侠侣，绝迹江湖！金庸经典武侠《神雕侠侣》大结局](https://mp.weixin.qq.com/s/XiBPKApaLBpZGUa9bWHivw) 的视频可以用idm下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1c4e95f4c70369fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+视频链接通过正则匹配来批量下载视频：
+```js
+def video(res, headers):
+    vid = re.search(r'wxv_.{19}',res.text).group(0)
+    time.sleep(2)
+    if vid:
+        url = f'https://mp.weixin.qq.com/mp/videoplayer?action=get_mp_video_play_url&preview=0&vid={vid}'
+        data = requests.get(url,headers=headers).json()
+        video_url = data['url_info'][0]['url']
+        video_data = requests.get(video_url,headers=headers)
+        print('正在下载视频：'+trimName(data['title'])+'.mp4')
+        with open(trimName(data['title'])+'.mp4','wb') as f4:
+            f4.write(video_data.content)
+```
+批量下载视频效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fe492f552640a74c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bd19258636c1de42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+话题就以我的公众号话题为例https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyMjg2ODExMA==&action=getalbum&album_id=2267160702144708611&scene=173&from_msgid=2247494456&from_itemidx=1&count=3&nolastread=1 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0c9be7505f5606b8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+同样打开我打包的工具，输入话题链接开始下载：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d4ac1ad61e8b0518.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+视频和音频都下载，如果有bug可以向我反馈：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-37c02150b1bcdcec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
