@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-03-11。
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-04-28
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1466,3 +1466,23 @@ https://chrome.google.com/webstore/detail/itab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-294572c8bbb67e99.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 现在可以打开谷歌搜索了。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c4cf1a5f7d00992f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 听歌识曲
+微信和网易云音乐这样的app都有听歌识曲功能，这个扩展也可以做到，点一下就能识别出正在播放的歌曲 ，比如这首赵雷的《成都》https://music.163.com/song?id=436514312 ，chrome扩展地址https://chrome.google.com/webstore/detail/shazam/mmioliijnhnoblpgimnlajmefafdfilb/  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-acf20489f57e9bb6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 鼠标手势
+ 
+这个chrome扩展可以充分发掘鼠标的所有操作，比如鼠标手势,拖曳,滚轮手势,平滑滚动,标签页列表等，chrome扩展地址https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo?hl=zh-CN  
+ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7333f545aa2bc97f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 网易云音乐下载
+之前分享过[收听和下载音乐全搞定，一键解锁网易云音乐变灰歌曲](https://mp.weixin.qq.com/s/ZX4HdnVMgNGIupS3ICNQfw) ，这个chrome扩展可让你直接在网易云音乐网页版下载音乐，不必打开网易云客户端 ，扩展地址https://chrome.google.com/webstore/detail/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E4%B8%8B%E8%BD%BD%E6%8F%92%E4%BB%B620/cnlnkiocccioogaajdifbkifbgfaphcg  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0381aa0b3f0d8960.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+另外现在网页版默认只显示前10首歌 ， https://greasyfork.org/zh-CN/scripts/406054 这个油猴脚本可以展示出所有歌曲。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e2d5e5e1934a2513.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 下载m3u8视频
+之前分享过很多视频下载工具[视频下载神器：支持腾讯/优酷/爱奇艺/b站/微博等全网视频](https://mp.weixin.qq.com/s/n9ddxx6Zu5hC7cqEXRnMOg)  ，这个扩展可以下载m3u8为mp4，播放视频后录制下载，chrome扩展地址
+ https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm/related?hl=zh-CN
+https://www.hlsloader.com/irec.html   
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4e56a37fa52131b1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

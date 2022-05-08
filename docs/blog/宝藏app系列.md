@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-04-16
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-04-28
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -583,7 +583,7 @@ app首页可以看到我的语音，朋友圈，视频号，公众号，小程�
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-f58f950a89bc7669.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 如果搜不到在网页版打开https://www.bilibili.com/bangumi/play/ss37757 ，跳转到app
  ![image.png](https://upload-images.jianshu.io/upload_images/23152173-4109511496f0120e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- 
+
 支持下载缓存：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-ab9aaf4cc8ddc38d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 想看更多番剧可以搜索哔哩哔哩番剧出差这个账号，因为它的主页打不开https://space.bilibili.com/11783021/dynamic
@@ -597,7 +597,7 @@ app首页可以看到我的语音，朋友圈，视频号，公众号，小程�
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-63fed127069a5e82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # 万能下载
 这个app可以提取视频号的缓存视频，支持各大短视频平台的无水印视频下载，内置嗅探功能，还可以压缩视频。更多app https://magictool.cn/apk/
- 
+
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-1c0f40e4f2f1e899.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 比如下载这个b站视频 https://www.bilibili.com/video/BV11S4y1T7ca
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-07630ccdbea7a19b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -612,10 +612,10 @@ app首页可以看到我的语音，朋友圈，视频号，公众号，小程�
 
 # 全能下载
 这是个全能下载器，支持http、ed2k、magnet、ftp等多种协议，内置3大下载引擎，可以根据链接格式自动识别下载。
- 
+
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-5fef75d688d1e47c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 找个电影资源的磁力链接 [在线影视剧网站/app合集，全网资源在线看](https://mp.weixin.qq.com/s/AGQVh_R916o3KJqAPk9Lyw)  开始下载 magnet:?xt=urn:btih:RQAGLZFPGFHSKK4IQO5IL4A4L2UZRL6J
- 
+
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-b596100438991577.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 下载速度还行。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-8d318a8a50097569.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -625,3 +625,29 @@ idm神器应该都用过，之前分享过idm下载百度网盘文件[2022 年�
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-795d97de187e55c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 打开网页视频点右上角进入即可抓取视频并下载，更多功能就不一一演示了。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-d39f527443c02d9c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 火龙果影视
+每天同步更新全网热门影视资源，播放速度快，高清视频无广告，支持弹幕，倍速播放和TV投屏，在公众号后台对话框回复关键词 `影视剧` 获取下载地址。
+
+首页有内地，美剧，韩剧等几个频道，也可以自己设置。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c846e865a647f3b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+在片库里可以自己选择想看的影视剧。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1b141126add618e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+也可以搜索：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e81fb0c4e7861a76.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+播放无广告，支持缓存下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-16aa0ba7fc660ffa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 樱花动漫
+首页默认显示新番的时间表，左侧可以选择动漫分类进行筛选https://github.com/670848654/SakuraAnime ：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-06fc3516e02545b3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+每天推荐的新番：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-410993151f25973a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+分类齐全：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-09033b545986bf41.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜索进击的巨人就可以在线看了，如果想在b站看参考之前文章[玩转哔哩哔哩：说说关于使用 b 站看港澳台番剧的几个问题](https://mp.weixin.qq.com/s/xSX1M7qTaZzpuA8AnSyzRQ)：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1bbea6fb091975a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+高清无码，有中文字幕：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3fb5865e00f2079f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可倍速播放和选集：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a2d17e48ad0af5f2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

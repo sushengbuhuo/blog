@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-04-16
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-04-28
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -782,4 +782,64 @@ def video(res, headers):
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-d4ac1ad61e8b0518.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 视频和音频都下载，如果有bug可以向我反馈：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-37c02150b1bcdcec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 知乎专栏文章下载
+输入专栏id即可批量导出pdf，比如https://www.zhihu.com/column/c_1492085411900530689 这个的c_1492085411900530689 ，导出效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e971ec4466cd798e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e5e153d9d12e946c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# PotPlayer
+这个号称最强播放器之前分享过[借用 potplayer 播放器，在本地播放 b 站视频也能看弹幕了](https://mp.weixin.qq.com/s/tlV7G943bHP5WqZeuaOolw) ，[下载b站外挂字幕,用 potplayer 播放视频也能看字幕了](https://mp.weixin.qq.com/s/qhyszeXXa_0c8DNWYswBhQ)    https://wwn.lanzouf.com/ieqsa02m0l9a  ，如果想更换皮肤，下载皮肤文件放在Skins目录就行了https://github.com/dy-sh/one-dark-potplayer-theme
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-a7594280230a655b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+顺便分享个直播源 ，包含上百个卫视电视台，下载文件后拖进播放器就行了 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f3cd0c4259de6750.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-863b74687ba6f4f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如 cctv 电影频道：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5579e7e50e3d7ed8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Bandicam
+这是个录制屏幕和截图软件，免安装，可以录制电脑屏幕和声音同步，高清游戏录制、网络视频、课件制作教程等 。https://wwi.lanzoup.com/irLv1yjshwf
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c6bbcf4fc2b80cd2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 键盘鼠标录制
+这个工具可以记录你所有的鼠标和键盘操作，然后重复动作，节省大量的时间和精力，还可以方便地创建计划任务。  https://www.aliyundrive.com/s/f81PbCUyg4F
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d459d8b72cf3dcc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 抖音 PC 版 
+抖音之前上线了网页版 douyin.com，现在PC 版客户端也来了，如果想批量下载抖音视频参考之前文章[分享几个视频下载神器，一键批量下载抖音视频](https://mp.weixin.qq.com/s/JYXIdEbLMiAbbCJB9QkAZQ)   
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aff196a072f3d4ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 4K壁纸下载器
+输入要下载壁纸图片的关键词，比如汽车、风景、动物、动漫、明星等，一键采集下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-322e9a86b32fa19e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# M3U8下载器
+之前分享过视频下载工具[又一视频下载神器，批量下载腾讯/优酷/爱奇艺/b站/抖音视频](https://mp.weixin.qq.com/s/LajCXCBUN-V1PKZ40SXmqA) ， idm结合这个M3U8下载器几乎可以下载99%的网页视频 https://nilaoda.github.io/N_m3u8DL-CLI/Introductory.html  https://github.com/nilaoda/N_m3u8DL-CLI/releases ，比如打开控制台复制m3u8地址https://v.qq.com/x/cover/x0xc94s4x8jdrpm.html 即可下载腾讯视频：
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3ee149120ff62684.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# QQ空间备份
+这个在之前文章也分享过 [一键下载QQ空间相册，微博相册，知乎回答图片，豆瓣图片，instagram图片](https://mp.weixin.qq.com/s/eYr4ejBq3TeRqI25zkVK_g) ，需要先下载和谷歌浏览器同版本的chromedriver  https://chromedriver.chromium.org/downloads ，下载后跟这个软件在同一个目录 ， 输入自己QQ号和要导出的QQ号。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-45da1528102c549a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+它会打开你的谷歌浏览器，点击登录QQ。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-063b24cd3fde3fc8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+很快空间图片下载完了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f719afd97c0c1beb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# defenderui
+这个软件让微软杀毒 Windows Defender 更好用 https://www.defenderui.com/ 
+ https://post.smzdm.com/p/a4dmw3ww/
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-16156b4162b7cd7a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 微信撤回
+这个软件支持微信、QQ、TIM多开和查看撤回信息，先打开软件安装补丁，然后再登陆微信
+查看撤回消息：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9630c1feecb38bc1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# Excel/WPS正则插件
+这个软件可以让Excel/WPS支持正则表达式https://github.com/liuyi91/Excel ，处理数据更方便，比如打开之前抓取的深圳卫健委公众号数据[听说公众号深圳卫健委被网友投诉尺度大，我抓取了所有文章标题和阅读数分析了下](https://mp.weixin.qq.com/s/AS4_H2dsAd2zu_vakWCHkA)，用快捷键win+z启用插件：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ec4e0401b7402e18.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
