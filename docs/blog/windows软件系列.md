@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-04-28
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-06-18
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -843,3 +843,206 @@ def video(res, headers):
 这个软件可以让Excel/WPS支持正则表达式https://github.com/liuyi91/Excel ，处理数据更方便，比如打开之前抓取的深圳卫健委公众号数据[听说公众号深圳卫健委被网友投诉尺度大，我抓取了所有文章标题和阅读数分析了下](https://mp.weixin.qq.com/s/AS4_H2dsAd2zu_vakWCHkA)，用快捷键win+z启用插件：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-ec4e0401b7402e18.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+# b站升级
+首先登陆b站网页版，打开浏览器控制台复制cookie字符串。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6efb78217bec8122.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+先用本地版本 https://wwn.lanzouf.com/iEPAs04uur9g ，打开配置文件appsettings.json复制cookie进去，再打开exe文件，执行效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c776dd1b4b57851c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后使用腾讯云https://console.cloud.tencent.com/scf/ 每天自动执行脚本，先自定义创建一个云函数，函数名称bilibili_tool，运行环境是CustomRuntime，函数代码直接上传下载好的zip包 ，执行方法index.main_handler
+函数代码：点击后选择之前本地下载好的zip包 https://wwn.lanzouf.com/iYr8N04uuk8d
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-de8b39bbaa31595a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后点击展开高级配置，初始化超时时间30秒，执行超时时间：86400秒，
+环境变量加3个：Ray_BiliBiliCookies__1 为之前浏览器复制的cookie字符串，Ray_Security__RandomSleepMaxMin 为 0 （为了方便测试，所以先关掉，后面测好之后再删掉该配置，或者自己改一个value值），Ray_Serilog__WriteTo__9__Args__token 为pushplus的token，这样就可以收到微信通知https://www.pushplus.plus/push1.html ea367b31884848e587bb42fbe000acab  ，异步执行勾选启用，，状态追踪勾选启用。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-54357acee868c468.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+完成后点击左侧创建触发器按钮，触发方式选定时触发，定时任务名称DailyTask，cron表达式20 8 * * *表示每天8点20执行脚本，附加信息内容Daily。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ba1bcea8b45ac3d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+进入函数代码点测试看执行是否有问题：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9fc4b9f3b257d751.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+看b站的个人中心每日奖励经验值到手了https://account.bilibili.com/account/home
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b89524c1882173a7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+之后每天早8点20定时执行脚本，微信收到的推送消息：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-993781554adb13cd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+最后说下自定义配置，就是环境变量的设置，如果需要加多账号再加个Ray_BiliBiliCookies__2，Ray_BiliBiliCookies__3，以此类推，如果需要指定支持的up主添加Ray_DailyTaskConfig__SupportUpIds为up主uid ，多个uid用英文逗号分隔，投币数量用Ray_DailyTaskConfig__NumberOfCoins控制。
+
+# 京东试用小助手
+ 打开软件编辑配置，输入京东的cookie ，cookie来自 https://home.m.jd.com/myJd/newhome.action ：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a6207c7f8720e254.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+点击开始运行，稍微等待一会就有结果了，可以看到商品价格，试用价格，数量，申请人数和中奖概率，选择申请人数少，中奖概率高的点击商品右键申请，会跳转到京东页面申请：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0c7af174ec7db791.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7ca7d8ac9b3b2023.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 微博评论导出
+以最近大火的刘耕宏这条微博为例https://m.weibo.cn/detail/4764632424907631 https://weibo.com/1767819164/Lr7nQkAHl 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2944ebee183f3bb8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+先抓取微博评论数据，包含评论时间，评论用户昵称，评论内容，点赞数和ip归属地等：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7416434b20353945.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+我打包了个exe工具  ，输入微博mid和微博cookie就行：导入不了pyecharts，所以只有导出excel功能https://wwn.lanzouf.com/imeZr04dw5af 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ea70afa38d90223e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 批量下载器闪豆
+它支持下载的网站平台有B站、A站、腾讯、爱奇艺、优酷、西瓜、微博、抖音、快手等，在公众号后台对话框回复关键词 `万能` 获取下载地址。
+最新版 https://www.lanzouy.com/b015c0ksh https://www.aliyundrive.com/s/6ELXSqQQeXm
+输入B站视频地址解析效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-eec3302f934f33e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以下载视频，封面，音频，弹幕，字幕等：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cb1101f4c2c65c46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+up主的所有视频列表：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fdf02f9dae4e3c83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有搜索视频，方便找学习视频了：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-088477ba6c19ae7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+其他平台就不一一演示了，输入视频地址就行，也可以登陆自己账号下载我的收藏，追番，关注等：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5cc131442e5198cc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-40aa8c74620d3284.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 追剧神器zyplayer 
+https://github.com/cuiocean/ZY-Player/ ，这是个跨平台视频资源播放器（支持安卓，iOS，Windows, Mac, Linux）, 简洁免费无广告 http://zyplayer.fun/      ，安装软件后如果显示空白，点击设置按钮，拉到下面选择软件重置，重新打开软件就好了，类似的还有这个https://github.com/ZyqGitHub1/h-player-v2 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-67e0f66dbddfe7c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+聚合了多个影视剧网站资源。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9f71f54651f72e07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜索即可在线播放。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-255c30508608aecb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+设置里可以管理视频源，也支持自定义, 支持导入, 导出https://gitcode.net/-/snippets/1706/raw/master/ZY-Player.json
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4e7356f8e86cbf46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+直播源管理里导入直播源就能看卫视直播了，之前用的是PotPlayer [实用 Windows 软件系列分享（九）](https://mp.weixin.qq.com/s/NLrlthhLJCBZ75IbjWYm3Q) 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a30bed97f23a0ee0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+http://www.le.com/ptv/vplay/23960689.html#vid=23960689    
+顺便再分享几个播放源：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0c5fc9df7976fc3d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# gif录制
+这个gif录制软件相比之前分享过的 https://www.screentogif.com/ 极其简单，只有 3 个功能：录制、预览、复制  https://github.com/aardio/gif123
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8b3cd9bd14a8eb4f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# PDFXEdit
+这个PDF编辑软件除了常规的页面编辑外，还有书签的导入导出，OCR识别等功能，比如之前抓取过的公众号历史文章[听说公众号深圳卫健委被网友投诉尺度大，我抓取了所有文章标题和阅读数分析了下](https://mp.weixin.qq.com/s/AS4_H2dsAd2zu_vakWCHkA) https://wwn.lanzouf.com/ilJq7058txlc
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3d8f7d99371f300c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 文件快速复制Fastcopy 
+这是个海量文件快速复制工具，比默认的文件复制功能快很多倍 https://fastcopy.jp/
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ac1b75c52db6bb26.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 文件快速搜索WizFile
+一个类似Everything的文件快速搜索工具 https://www.aliyundrive.com/s/q4KzjdbEvzj https://wwn.lanzouf.com/icEaS058uuze
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4f468f790422747e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#  图片转微信表情 
+不到1MB的小工具，可以将图片转微信表情，方便收藏到微信丰富你的表情包
+https://wwc.lanzoum.com/iGr6S01hmewh
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ef9f9e99bdb3cf46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#  多功能Steam工具箱
+这是个开源跨平台多功能的游戏工具箱 https://steampp.net/    ，内置了大量的游戏相关油猴脚本： Steam 显示史低价格、一键出售 Steam 库存物品、跨区汇率换算等，不仅能下载老版本的 Steam 游戏，还能对 Steam 游戏成就进行直接管理 https://github.com/BeyondDimension/SteamTools https://github.com/BeyondDimension/SteamTools/releases/download/2.6.9/Steam++_win_x64_v2.6.9.exe
+
+下载安装软件后点一键加速：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-775c716b86d7bd83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+ 
+# 蜻蜓FM/喜马拉雅批量下载
+之前分享过喜马拉雅批量下载工具，这个还支持蜻蜓FM ，输入专辑地址即可下载https://www.qingting.fm/channels/5142975/programs/1422261 
+https://www.aliyundrive.com/s/c8VEbt2e4zP https://wwn.lanzouf.com/iZ5DL058v4dc
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c8ea8efbb1bb7d4f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果想下载付费音频安装这个油猴脚本下载。
+# 照片编辑PhotoDemon
+一个开源免费可替代ps的照片编辑软件，支持基础的Photoshop操作  
+https://github.com/tannerhelland/PhotoDemon https://wwn.lanzouf.com/ioJ6V058vzje
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7d80e2b7c15cbf8c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# WPS2016单文件
+这个WPS单文件极简版包含WPS文字，WPS演示和WPS表格，功能一应俱全。https://wwn.lanzouf.com/ieE3S058xeqh
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fd4f0efe3e917984.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# ShareX 全功能截图
+一个开源免费的多功能屏幕截图工具https://github.com/ShareX/ShareX ，自带简单的编辑功能，截图后直接加特效，还有拾色器、尺子、图像编辑、图像缩略图、二维码、哈希校验、DNS修改等，支持自动上传到图床，可以把分享的图片网址自动缩短，除了截图以外，还可以分享剪切板内的文字，或者上传文件到各种服务 附图床配置，发帖再也不怕找不到图床了。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d7f670954203e27b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 公众号文章下载
+输入文章链接可以批量下载音频和视频 [因为读者的一个问题，我写了个公众号批量下载工具](https://mp.weixin.qq.com/s/Tf3DMLG6oEOWvuCT5RdR5w) ，效果如图，顺便把文章内容也下载了：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e57ac1261dab0f02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+批量下载视频效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fe492f552640a74c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bd19258636c1de42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+话题也支持[我又开发了个公众号音频视频和话题批量下载工具](https://mp.weixin.qq.com/s/KEoNW8_xRl2nn6tfMWNRPA)  ，以我的公众号话题为例：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0c9be7505f5606b8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+输入话题地址就行 https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyMjg2ODExMA==&action=getalbum&album_id=2267160702144708611&scene=173&from_msgid=2247494456&from_itemidx=1&count=3&nolastread=1  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d4ac1ad61e8b0518.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+视频和音频都可以下载，如果有bug可以向我反馈：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-37c02150b1bcdcec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+为了防止文章被删或者收藏，导出公众号文章内容pdf和数据 [听说公众号深圳卫健委被网友投诉尺度大，我抓取了所有文章标题和阅读数分析了下](https://mp.weixin.qq.com/s/AS4_H2dsAd2zu_vakWCHkA)，[一键批量下载微信公众号文章内容/图片/封面/视频/音频，支持导出html和pdf格式，包含阅读数/点赞数/在看数](https://mp.weixin.qq.com/s/ogxF4j5PncxIQ91PtIwU-A) ，文章留言内容也可以导出到excel，比如深圳卫健委在2月份有1万6千多条留言，如果你有需要下载的公众号或抓取数据可以微信联系我。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-31b9013f0f92a419.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+以及分析留言区的ip归属地[微博/公众号/抖音等各大平台都显示 ip 归属地了，能改吗？](https://mp.weixin.qq.com/s/WeLhg7s__Kn9QGLu_-xSlQ)：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bd33de8fc097509e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+部分公众号的历史文章同步到了我的博客 https://blog-susheng.vercel.app/ ，不用在手机上翻历史文章了：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6bcdb824db1b6301.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 微信运动修改
+在小米运动app绑定微信后，打开软件输入要修改的微信运动步数，小米运动账号和密码，就是这么简单[2022 年 一键修改微信运动步数](https://mp.weixin.qq.com/s/yTkI315tFKgxqDL0wFEJgg)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e025ff15c9528fde.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+修改微信运动步数为66666，成功占领了封面。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7da8fba1aeba1f32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 知乎下载
+输入知乎专栏id即可批量导出知乎专栏文章为pdf [周末又写了个知乎专栏批量下载工具，顺便通知个事](https://mp.weixin.qq.com/s/vfNd1OAapLDRkSMMUoxuoA) ，比如 https://www.zhihu.com/column/c_1492085411900530689 这个的c_1492085411900530689 ，导出效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e971ec4466cd798e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+生成的pdf文件：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e5e153d9d12e946c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有知乎回答抓取 [一键下载QQ空间相册，微博相册，知乎回答图片，豆瓣图片，instagram图片](https://mp.weixin.qq.com/s/eYr4ejBq3TeRqI25zkVK_g)  [如何批量下载知乎回答图片](https://mp.weixin.qq.com/s/oSvtFuH2_RYn_AE10x8iSQ) 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e684796b65fe100a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+输入问题id，很快就下载了回答里几百张周杰伦的图片： 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ac1ef4cb0eacb5f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+回答内容也可以批量下载到excel，包括回答人昵称和回答内容：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-de4834e885aeba82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有这个最近刚研究的https://wwn.lanzouf.com/ixdO5063ydre  ，输入知乎id，比如https://www.zhihu.com/org/zhi-hu-14-94-58/answers ，可以批量下载知乎回答，文章和想法：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f4e15de274a94019.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的html文件在当前目录，目录名为知乎id ，有3个目录：文章，回答和想法，以及一个包含时间，标题，类型的excel文件：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5c667cb0bee8eb2c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7f679bd2e8254b68.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dacc5d75ecb88001.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果想转换为pdf可以用这个脚本：
+```js
+def export_pdf():
+    import pdfkit,os
+    print('导出 PDF...')
+    htmls = []
+    for root, dirs, files in os.walk('.'):
+     for name in files:
+      if name.endswith(".html"):
+       print(name)
+       try:
+         pdfkit.from_file(name, 'pdf/'+name.replace('.html', '')+'.pdf')
+       except Exception as e:
+             print(e)
+export_pdf()
+```
+### 微博下载
+下载我打包的工具 https://wwi.lanzoui.com/iMYcIu65weh ，   输入微博uid [一键批量下微博内容/图片/视频，获取博主最受欢迎微博，图片查找微博博主](https://mp.weixin.qq.com/s/fmboKshIIoeeB21dTBazGg)  ，是否下载图片和视频，1为是，0为否，如果想全部下载时间就输入2010-01-01。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d50453376e32798a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+cookie需要登陆网页版微博 https://m.weibo.cn/ 在控制台获取。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6b6175dbc44477ed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的微博数据和图片视频保存在weibo目录[一键备份微博并导出生成PDF，顺便用Python分析微博账号数据](https://mp.weixin.qq.com/s/PlkPDmK2SUdQT59CzOJFMA)， 下载的所有微博图片：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-12700374754decca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的所有微博视频：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8126b5603939ea7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的所有微博博文excel文件：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-eef0ef2f59bf2080.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有微博评论区数据导出及IP归属地分析[一键批量下载微博评论数据，并分析ip归属地分布](https://mp.weixin.qq.com/s/jVch1yXpZBOAT4txL-AYNQ)：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-04b4392f61433a8b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 豆丁文档下载
+打开软件[2022 最新一键下载百度文库/豆丁/道客巴巴/原创力文档](https://mp.weixin.qq.com/s/tR9J-FK_2DKnppnrBGdA4A)  ，输入豆丁文档地址https://www.docin.com/p-260938994.html 即可下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-414a11450d9c62e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 抖音视频音频下载
+打开软件输入抖音主页地址 https://v.douyin.com/eLhwxF2/  即可下载[刘德华开抖音了，一键下载华仔所有无水印视频](https://mp.weixin.qq.com/s/j8Py56hLt2pOyU2DRKM8Iw)  ，[分享几个视频下载神器，一键批量下载抖音视频](https://mp.weixin.qq.com/s/JYXIdEbLMiAbbCJB9QkAZQ)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0e8ac645ef13fbe4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的无水印视频和音频在download目录，支持增量下载，就是跳过已经下载过的视频。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-56e9708df3209238.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0fb32c7427281901.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 迷你版b站
+https://github.com/chitosai/bilimini  ，也支持Windows和mac系统：
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cb3fc0898c7b87c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+有个老板键ctrl+e，按一下就隐藏，摸鱼更高效了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2b437b42c3c7837c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

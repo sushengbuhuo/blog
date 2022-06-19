@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-04-28
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-06-18
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -651,3 +651,147 @@ idm神器应该都用过，之前分享过idm下载百度网盘文件[2022 年�
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-3fb5865e00f2079f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 可倍速播放和选集：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-a2d17e48ad0af5f2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 安卓壁纸
+这是一个纯壁纸软件 https://pan.lanzouv.com/b03cocn0f 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3e0eefab5ea6d88b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9011d43a8a7483a3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 电工计算器
+这是个专业的计算器软件，用来进行电工的数据计算
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-41f6cde320b2410c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# autojs
+之前分享过autojs脚本检测微信好友[一键批量检测微信是否被好友删除，支持最新版微信](https://mp.weixin.qq.com/s/Cnu6kZc3Au4kyZFU2Z6Btg)，通过这个app结合js脚本可以做很多事情https://github.com/Orange-shirt/OrangeJs ：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fe528ee057d1b0b8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# MX Player 
+作为安卓上最强悍的视频播放器，MX Player以超强的解码性能闻名：
+ https://lanzoup.com/b0cw9vjaj 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cf98d35b1f714d9d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 中国象棋
+一个摸鱼神器，界面比较友好，支持无限悔棋、自定义编辑棋盘、街头挑战 http://www.cnvcs.com/ mdevs.cn
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1b0e8a0c86a83c5c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+这个网站还有五子棋军旗围棋等游戏，支持安卓和iOS：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5ad0dc0a91f1861a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 布丁扫描
+这个app支持文档扫描、文字提取、证件扫描、表格识别，且支持批量识别、批量扫描 
+https://qitu.lanzouf.com/iQHLs04so2ze
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-284ed5e6d7dcc983.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# 微软TTS语音引擎
+之前文章就分享过这个app [微软的语音太逼真了，用来听小说舒服了](https://mp.weixin.qq.com/s/9KLPvN3kDzzmy5H5UcQ-CA) ， https://wwn.lanzouf.com/i1uiX02l53da ，用来听电子书非常舒服，语气接近于真人朗读：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-970e63e14b131f10.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+安装app后在手机的文本转语音设置里选择tts。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-94043172a272e3d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 安卓版解压ZArchiver
+非常实用的手机解压软件  http://zdevs.ru/en/
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-17fe6bc78642035b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Python编译器
+在手机上也可以写python代码了，偶尔用用还行https://wwp.lanzoup.com/iUADM01kyacd  
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-95abc424991a74d6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# My APK
+这是个应用程序管理，Apk安装与提取工具
+https://wwc.lanzout.com/icwu102al6gb
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9900ef7b242b98b3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 家常菜做法大全
+这个APP汇集了来自全国各地的数十万道美食菜谱，包含八大菜系、家常菜、烘焙等，配有精美图片，内容丰富详细https://wws.lanzoub.com/inoLf04w2xzc
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-813c7eeaf4522d2f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3f766d5ec0644218.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 神奇工具
+这个app聚合了很多小工具，包括日常、系统、图片、查询、提取、开发、文字、计算、趣味游戏等。https://dmla.lanzouh.com/b05o9hddc 论坛 https://support.qq.com/embed/phone/403635
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-596c0ec9f4f5e17c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8c90120a22f7d3ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 漫画阅读器 Tachiyomi 
+这是个看全网漫画的开源漫画阅读器 https://github.com/tachiyomiorg/tachiyomi  ，最大特点是漫画阅读源是以插件形式存在的，如果某个阅读源失效了，只需更新阅读源，不用更新软件
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-20ffd6bb8e6964f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如安装快看漫画的阅读源：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5eb5317266fe7e56.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9cc11de6d934762d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# insplus
+https://insplusapp.com，有安卓和iOS版本。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bd232ff88ecf6a66.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+在发现里就可以看到周杰伦：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5e9f2c1558fd9099.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+就是这条ins了 ：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3bce483c4c7e51dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# foll 
+https://www.foll.net/ ，同样有安卓和iOS版本。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3f0b9766751f0ee5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+在港台男星里可以看到周杰伦，林俊杰等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d44a297548574964.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+就是这条了，可惜看不了评论：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-21735b5988f098cd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 京豆618脚本
+用脚本前先在手机设置里开启无障碍和悬浮窗权限。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-70e11f7c7dab5272.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+然后打开autojs 这个app，新建或者导入脚本文件。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4059e2ea18378902.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后点运行就是。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4a335230bc742f52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e18c7a25f8b3ab4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+脚本启动后就可以帮你自动完成任务了，成功获得8000金币。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5c77e7e4a4cf1988.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# BiuBiuTV 
+https://wwn.lanzouf.com/ifhkt05a14gh  ，在公众号后台对话框回复关键词 `追剧` 获取下载地址，可自由选择手机布局和电视布局，画质高，播放流畅，无广告水印，需要先配置接口才能使用。
+https://www.vxat.com/zb_users/upload/2022/03/202203251648216359199361.json  http://www.mikkk.xyz/bb.json https://wwp.lanzoul.com/iFo8L052z5yh
+在软件设置全局接口那输入接口地址就行了http://www.mikkk.xyz/317.json
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f04e84067d3b07f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+再回到首页有数据了：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2d818e14ac21721e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+进入电影页面：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e9d7eedd75621e60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+观看播放体验非常棒：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-39db53ad3c45ab7a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 听/看小说
+看小说推荐聚合小说资源神器阅读https://github.com/gedoor/legado ，iOS 版 https://github.com/kaich/Yuedu 
+https://apps.apple.com/cn/app/%E6%BA%90%E9%98%85%E8%AF%BB/id1561787704 ，它本身没有小说资源，需要先导入书源，在我的书源管理点击网络导入。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a9e83037e56d3631.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+输入书源地址，可以看到加载了400多个小说资源站。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-54e787ab2671d3d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+也可以使用这个网站http://yck.mumuceo.com/yuedu/shuyuan/index.html 生成书源。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8986facf150ccae8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+导入成功后就可以搜索资源了，以小说《三体》为例： 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-23567a66ca7c0e28.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果阅读显示空白点击换源解决。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-eee1b9a7048f4a9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还可以导入订阅源，几乎囊括了全网小说资源，不怕找不到小说了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5dc3f2341aca8cb2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+听小说可以结合之前分享过的微软tts引擎听书[微软的语音太逼真了，用来听小说舒服了](https://mp.weixin.qq.com/s/9KLPvN3kDzzmy5H5UcQ-CA)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3c2240513a029208.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+如果嫌自己导入书源麻烦，可以用我的听书app，开启书源后就可以用了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b0e827660eca7a51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+不过这个app有广告。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d760ff6043ccb5f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+电脑端可以下载小说后上传到微信读书，微信读书的网页版也很好用[玩转微信读书](https://mp.weixin.qq.com/s/13tErvC_GTnlDt8w0a5oiQ) 。
+小说下载器v1.3.0 https://wwi.lanzouf.com/ifTLhollo4j
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e44f1006909065d6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 听/下载音乐
+之前分享过的卡音app可以听周杰伦：歌词适配 https://wwp.lanzoux.com/i1NXP05j00mh
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-091b47451e05856d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+以及洛雪音乐助手，它有电脑和app版本：https://github.com/lyswhut/lx-music-desktop https://lxmusic.toside.cn/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-35a0a204e989df44.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bc0d7c07439b355d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜索直接收听，而且无广告，业界良心。
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c8172d886cb23efb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+如果还是习惯用网易云音乐可以使用第三方工具设置代理，重启后就可以听周杰伦了，详情见文章
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3edfcbd4ba89dd2f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-27d0f53c1e581737.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

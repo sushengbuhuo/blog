@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-04-28
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-06-18
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1470,9 +1470,9 @@ https://chrome.google.com/webstore/detail/itab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1
 微信和网易云音乐这样的app都有听歌识曲功能，这个扩展也可以做到，点一下就能识别出正在播放的歌曲 ，比如这首赵雷的《成都》https://music.163.com/song?id=436514312 ，chrome扩展地址https://chrome.google.com/webstore/detail/shazam/mmioliijnhnoblpgimnlajmefafdfilb/  
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-acf20489f57e9bb6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # 鼠标手势
- 
+
 这个chrome扩展可以充分发掘鼠标的所有操作，比如鼠标手势,拖曳,滚轮手势,平滑滚动,标签页列表等，chrome扩展地址https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo?hl=zh-CN  
- 
+
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-7333f545aa2bc97f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 网易云音乐下载
@@ -1486,3 +1486,115 @@ https://chrome.google.com/webstore/detail/itab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1
  https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm/related?hl=zh-CN
 https://www.hlsloader.com/irec.html   
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-4e56a37fa52131b1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 字幕翻译
+在b站除了刷视频杀时间，还有很多实用的学习视频，而且网页版有个记笔记的功能，方便你记笔记复习。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cc553caa7da48b71.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+如果看英文视频没有字幕比较费劲，可以安装彩云小译Chrome扩展 https://chrome.google.com/webstore/detail/lingocloud-web-translatio/jmpepeebcbihafjjadogphmbgiffiajh  ，这个扩展能让你看外文视频的时候自动翻译为中文，安装Chrome扩展见之前文章 [上不了谷歌如何安装 Chrome 扩展？](https://mp.weixin.qq.com/s/xC9K_z7zpmAIEzUK6s1x3w)  ，点击视频翻译后开启音频识别 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d91f4144e6eeade2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如这个视频（其实不限制于b站，任何视频网站都可以） https://www.bilibili.com/video/BV1g7411K7ut  ，然后可以实时看到下面翻译的中文字幕，效果还不错。
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-e97d443dd10ba7c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果也想在本地看有字幕的视频可以下载字幕和视频文件后，将字幕和视频文件名改成一样，比如`普林斯顿大学丨算法第四版.mp4` 和 `普林斯顿大学丨算法第四版.srt`，播放视频就能看到字幕了，详情见之前文章[下载b站外挂字幕,用 potplayer 播放视频也能看字幕了](https://mp.weixin.qq.com/s/qhyszeXXa_0c8DNWYswBhQ)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-22a7d123432888a1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+顺便说下现在谷歌浏览器有实时字幕功能了，在chrome://settings/accessibility 开启就行：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b0d67f346f07b227.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+效果如图，可惜目前只支持英文，期待增加日语支持：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fd4a1b6b1ef97e1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 浏览器历史记录统计
+ chrome/edge浏览器历史记录统计扩展 https://chrome.google.com/webstore/detail/timer-running-browse-time/dkdhhcbjijekmneelocdllcldcpmekmm/  ，最近更新时间2022年5月16日 ，可以方便的统计你每天上了多少网站，上了哪些网，功能有：
+```js
+1. 饼形图展示今日数据。
+2. 报表详细显示你每天花在每个网站上的时间。
+3. 统计在某网站的上网趋势。
+4. 统计你在每个时间段的上网趋势。
+附加功能：
+1. 网站白名单
+2. 子域名合并统计
+3. 限制每日访问每个网站的时长
+```
+关于chrome扩展的安装和浏览器使用技巧之前写过很多 [玩转谷歌浏览器](https://mp.weixin.qq.com/s/Z4jRObAZn1QlF3YcmOWvfQ) ，我都更新到博客上https://blog-susheng.vercel.app/ ，这里不细说了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-37d177a9059bf495.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+手机端可以用之前分享过能安装chrome扩展的浏览器Iceraven   https://github.com/fork-maintainers/iceraven-browser 和  Kiwi Browser https://kiwibrowser.com/ ，狐猴浏览器https://lemurbrowser.com，打开https://microsoftedge.microsoft.com/addons/detail/%E7%BD%91%E8%B4%B9%E5%BE%88%E8%B4%B5-%E4%B8%8A%E7%BD%91%E6%97%B6%E9%97%B4%E7%BB%9F%E8%AE%A1/fepjgblalcnepokjblgbgmapmlkgfahc 就可以直接安装了 ：
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-80a938aac974ec1b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f31a3a6f0db27300.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+这个扩展统计的数据来源是你的浏览器历史记录chrome://history/  ，存储在chrome://version/ 个人资料目录：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-23ba68b6476d3dfc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+所有数据线下存储，绝不侵犯用户隐私，有能力的可以看作者的开源代码 https://github.com/sheepzh/timer   https://meta.appinn.net/t/topic/31889
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-eff0330004947874.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还可以选择时间段和浏览时长看数据：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6043d88e81c98a10.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+在所有功能里有详细数据 chrome-extension://dkdhhcbjijekmneelocdllcldcpmekmm/static/app.html#/data/report ，可以将数据导出json和csv格式。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-101bcf1a0bd70665.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+这是我都上网习惯统计数据：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b18897bb6f104aae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+我访问b站的历史记录图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b7c1f66b9a2a3423.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+访问时间比较长，限制下使用b站摸鱼的时间为1小时。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0c3ed5d019121ad7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+到时间点后b站的网页就不能操作了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-20fb1a24452212e4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# AIX智能下载器
+下载图片/视频/音乐/文档 https://chrome.google.com/webstore/detail/aix-downloaderpicturevide/ddicoofdkbcdkkeecgafcoabogcgicfp/related?hl=zh-CN ，最近更新时间2022年5月9日，它能高效实现下载管理，网页图片，视频，音频等内容的嗅探和下载，同时扩展集成多个网站的智能脚本，快速提取你想要的内容。 
+
+比如下载b站视频 https://www.bilibili.com/video/BV1Hf4y1F7ru?t=00m10s 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-51ed27748622d95f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载微博视频https://weibo.com/tv/show/1034:4755319549788186?mid=4755324726935589 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-766f8572f0cf9e8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+下载网易云音乐歌曲：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a42311abbde8c91a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+批量下载网页图片，比如谷歌搜索周杰伦：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f1537b97f0f6dde2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+更多设置见chrome-extension://ddicoofdkbcdkkeecgafcoabogcgicfp/options.html
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-71dfe5421a7c5c30.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可开启你想要的脚本：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ce2088e17f529e40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# auto-tab-discard
+谷歌浏览器打开了太多标签页风扇可能会转，这个扩展能提升浏览器速度并减少内存占用 https://chrome.google.com/webstore/detail/auto-tab-discard/jhnleheckmknfcgijgkadoemagpecfol/ ，我用了下效果明显。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a667ca72b0753a56.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# EditThisCookie
+之前分享的京东脚本[免费使用腾讯云每天定时签到京东领取京豆](https://mp.weixin.qq.com/s/bC3eHWZcGPxZFjVUXvO60Q)  ，我认为挺简单的，但总有人不知道怎么复制cookie，有了这个扩展就方便了
+https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg/related?hl=zh-CN
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5f1fab634537c82e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# adb
+使用这个chrome扩展可以调试安卓手机上的网页 https://chrome.google.com/webstore/detail/dpngiggdglpdnjdoaefidgiigpemgage ，在手机设置里打开允许 USB 调试，然后用 USB 连接手机和电脑，之后打开 chrome://inspect或者edge://inspect/#devices 点击inspect即可调试手机上的网页了：
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a3a4b2c2bb7f8dff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ee1295dc03d028e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-056d3b4a57c62c26.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# AIX智能下载器
+这个chrome扩展资源下载神器AIX智能下载器(图片/视频/音乐/文档)   能高效实现下载管理，网页图片，视频，音频等内容的嗅探和下载，同时扩展集成多个网站的智能脚本，快速提取你想要的内容https://chrome.google.com/webstore/detail/aix-downloaderpicturevide/ddicoofdkbcdkkeecgafcoabogcgicfp/related?hl=zh-CN 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5aa7b27338029ad3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# 导出markdown 
+我现在写文章都是用的markdown，这个扩展可以直接将网页导出markdown https://chrome.google.com/webstore/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi/ ，比如这篇文章[解放双手，一键自动完成2022京东618任务](https://mp.weixin.qq.com/s/z76O82l7kum6vGcgo3mJpg)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b964ac7bca1d49fa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# Bionic Reading
+传说Bionic Reading可以显著提高英语阅读效率，就是每个单词的前部分写加粗提升阅读速度，有chrome扩展 https://github.com/ansh/jiffyreader.com 和油猴脚本https://lab.magiconch.com/bionic-reading.user.js ，效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ff780459b7587a85.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# Bypass Paywalls
+这个扩展可以解锁外媒网站 https://github.com/iamadamdev/bypass-paywalls-chrome，  让你免费阅读几乎所有英文新闻杂志，包括经济学人，金融时报，纽约时报等。
+
+# 捕捉网页截图 
+这个扩展可以截取整个网页生成长图，截图后还可以对图片编辑，包括添加注释，批注，添加线条，上传，分享等https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg ，以这篇文章为例 [一键批量下载微信公众号文章内容/图片/封面/视频/音频，支持导出html和pdf格式，包含阅读数/点赞数/在看数/留言数](https://mp.weixin.qq.com/s?__biz=MzIyMjg2ODExMA==&mid=2247493612&idx=1&sn=5c8eb0e69a6a167d1a51105939a5a105&scene=21#wechat_redirect)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d0555332cef3297b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
