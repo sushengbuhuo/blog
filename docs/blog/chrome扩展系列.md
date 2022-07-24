@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-06-18
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-07-24
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1596,5 +1596,34 @@ https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccc
 # 捕捉网页截图 
 这个扩展可以截取整个网页生成长图，截图后还可以对图片编辑，包括添加注释，批注，添加线条，上传，分享等https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg ，以这篇文章为例 [一键批量下载微信公众号文章内容/图片/封面/视频/音频，支持导出html和pdf格式，包含阅读数/点赞数/在看数/留言数](https://mp.weixin.qq.com/s?__biz=MzIyMjg2ODExMA==&mid=2247493612&idx=1&sn=5c8eb0e69a6a167d1a51105939a5a105&scene=21#wechat_redirect)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-d0555332cef3297b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Automa
+最近了解到RPA，这是个浏览器自动化扩展https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca  ，可实现自动填写表格、执行重复性任务、截屏、抓取网站数据等，还是很实用的。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dfbad2ba6bc34153.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+有点类似之前写的chrome扩展web scraper   [不用写代码，Chrome 扩展神器 web scraper 抓取知乎热榜/话题/回答/专栏，豆瓣电影](https://mp.weixin.qq.com/s/1PVwF-vtVizWSkiNXNkAkg)   ，[不会 Python 没关系，手把手教你用 web scraper 抓取豆瓣电影 top 250 和 b 站排行榜](https://mp.weixin.qq.com/s/6UrMYkJoQGhNS_JvCZYwWA)   ，比如抓取b站排行榜的视频排名，标题，播放量，弹幕数，up主，点赞数，投币数，收藏数等 https://www.bilibili.com/v/popular/rank/all   
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-659634956b42d48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+导出的excel数据：
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-a3c954dbf2fd34c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+# 多关键词搜索
+浏览器的ctrl+f只能搜索一个词，这个chrome扩展支持同时搜索多个关键词
+，并用不同颜色区分 https://chrome.google.com/webstore/detail/multiple-search-and-highl/doagleaopbffngpffnmnajoiablpakfj https://chrome.google.com/webstore/detail/multi-highlight/ghinpogonpmlphfkmnjfapdaoaainejn
+https://chrome.google.com/webstore/detail/onepmapfbjohnegdmfhndpefjkppbjkm  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fbc98b5d73d0f85a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 随机猫
+打开新标签页上显示一只会动的猫，就是好玩 https://chrome.google.com/webstore/detail/tabby-cat/mefhakmgclhhfbdadeojlkbllmecialg
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4be1a7968c7cf54c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 修改网站默认编码
+部分网站无法判断其使用的编码，可能导致网站显示乱码，这个扩展可以自己调整编码https://chrome.google.com/webstore/detail/oenllhgkiiljibhfagbfogdbchhdchml 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f97236d8327a5ba6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+https://github.com/jinliming2/Chrome-Charset
+
+# 微信读书导出
+这是个网页版微信读书笔记分享和导出插件，支持划线摘抄句子、划线生成分享书签图片、一键导出读书笔记、划线同步第三方、切换字体、切换皮肤等功能 secreter.github.io/ireader
+https://chrome.google.com/webstore/detail/i%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6/feicgfcihlfhjjepgibmbieodedbggjh?hl=zh-CN
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c3e04c24ce0fea1b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

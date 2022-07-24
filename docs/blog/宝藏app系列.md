@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-06-18
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-07-24
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -795,3 +795,105 @@ https://apps.apple.com/cn/app/%E6%BA%90%E9%98%85%E8%AF%BB/id1561787704 ，它本
 如果还是习惯用网易云音乐可以使用第三方工具设置代理，重启后就可以听周杰伦了，详情见文章
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-3edfcbd4ba89dd2f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-27d0f53c1e581737.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 下载工具箱
+这个app支持46种下载协议，几乎可以下载所有图片，音频，视频，包括主流的抖音，快手，西瓜，微博，b站，小红书等平台https://wwn.lanzouf.com/iVqjP06n21ib  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a23da06c62eaff2e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如下载单个抖音视频，支持无水印 https://v.douyin.com/eLXBnJE/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-561936cfd5733ea1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+下载抖音用户刘德华所有视频  https://v.douyin.com/eLhwxF2/ ，其他平台就不一一演示了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b721da641dbf5308.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还支持图集下载，比如小红书的 http://xhslink.com/HgBtQh 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b15d558fcfca5ad0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+抖音图集https://v.douyin.com/YUmfN7B/ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bf99f2bfddbc840d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+电脑端的图集可以用这个软件下载，输入地址就行：https://wwn.lanzouf.com/iLaKO06n217a
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1765ee8e1d317191.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a1c246f5dd6c91aa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+还有歌曲搜索：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2bc52b0a86dc98fa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以在线听和下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b7d43f13753cedfa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+网页视频可以用嗅探功能下载，比如公众号的视频，当然如果想批量下载可以用我开发的小工具，见文章[整理下苏生不惑开发过的那些软件和脚本](https://mp.weixin.qq.com/s/jpnqgxbeUw-lF0gLUITuGQ) 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6bf70046af925ffb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 短视频解析  
+
+https://wwn.lanzouf.com/iRjZl06wbpni 这又是个强大的视频下载器，支持腾讯/优酷/爱奇艺/抖音/快手等几十个平台，部分可去水印。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-73f9d695ca1645e4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+以抖音为例，输入视频地址解析。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3422ffc7698adf6e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+点下载就好了，其他平台就不演示了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6ec6ac7b91c6fea4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 轻下载
+
+这个免费无广告的app同样可以下载视频，图片和音频，支持国内大部分平台比如微博/知乎/b站/抖音/快手等，部分平台可去水印。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7c14edc0afdac720.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+解析网页图片下载，以这篇文章为例[整理下苏生不惑开发过的那些软件和脚本](https://mp.weixin.qq.com/s/jpnqgxbeUw-lF0gLUITuGQ)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dc78cefa8de54370.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 万能下载器
+这个app可以嗅探下载主流短视频包括抖音，快手，b站等平台的视频，网页视频也支持，还有图片提取、壁纸下载，音乐下载，视频处理，九宫格切图等功能[一个号称万能下载的app](https://mp.weixin.qq.com/s/aN214gnDnyY2zYVlItWh0g) 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cdaa2e6f0c739a0f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如b站的解析结果包括文案，封面，视频，在电脑端可以使用之前分享过的工具[下载b站视频最简单的方法，还能去水印](https://mp.weixin.qq.com/s/XZhWhaeqYe6unk2MxwCZzQ)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ca590dd4c151538b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 万能下载
+这个app支持各大短视频平台的无水印视频下载，内置嗅探功能，还可以压缩视频。
+https://wwu.lanzouw.com/iT51G01x6cpi
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1c0f40e4f2f1e899.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如下载这个b站视频 https://www.bilibili.com/video/BV11S4y1T7ca
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-07630ccdbea7a19b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载抖音视频 https://v.douyin.com/RpkUNex/， 支持在线播放。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1210bcf4e36f417a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 全能下载
+这是个全能下载器，支持http、ed2k、magnet、ftp等多种协议，内置3大下载引擎，可以根据链接格式自动识别下载。
+ https://xiaomianao.lanzoum.com/izVsk01ffd8d
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5fef75d688d1e47c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+找个电影资源的磁力链接试试 [在线影视剧网站/app合集，全网资源在线看](https://mp.weixin.qq.com/s/AGQVh_R916o3KJqAPk9Lyw) 开始下载，magnet:?xt=urn:btih:RQAGLZFPGFHSKK4IQO5IL4A4L2UZRL6J
+下载您的设备上使用磁铁链接，洪流网址或torrent文件的torrent文件，您想要的超快万能下载神器！加上了资源嗅探以及广告拦截等功能。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b596100438991577.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载速度还行。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8d318a8a50097569.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# p2p 下载器
+ https://pan.lanzoux.com/b03d4h4zc  这个app支持magnet、thunder、https、ed2k、BT 等格式链接下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1f5068166c39071a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 椒盐音乐
+这是个原生Android音乐播放器，可识别手机里的音乐文件播放，纯净无广告 https://github.com/Moriafly/SaltPlayerSource
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-276d860dab32309e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e96553b0e5f5445f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 人人迷
+
+ https://wwn.lanzouf.com/iOqVH07aurid 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ab85d17ad57a5dc2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e632da427676c684.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 火龙果影视
+ https://soso.lanzouj.com/b00pajqcd#1zgd
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f472ad129cd211d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# TVBox
+安卓盒子app 
+https://wwn.lanzouf.com/i4N1207m2zuh
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3ef2efe31eca09ed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+同样的需要先设置数据源接口地址。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e26417700f9ce5c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后就可以看剧了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-667e82a1a9b33bd1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ca9bfb5628019665.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+播放无广告，速度还行。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-28d6eaed25d960c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+也可以搜索影视剧。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-00dc9e3d4859edcd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# tegouTV
+这是个类似tvbox的看剧app ，有安卓和iOS版 https://www.tegouys.com/app/ 
+https://www.lanzouw.com/iqL3i06j7hvg  
+https://wwp.lanzoum.com/i8G3007c4g8d
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3f0a39b81ca2db75.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 人人视频
+https://wws.lanzout.com/iSvp807lqjkj
+这个app类似火龙果，有电影，美剧，番剧等https://wwn.lanzouf.com/iA6Ng07my9jc，也可以在分类里筛选想看的影视剧：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8893ba193275c553.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

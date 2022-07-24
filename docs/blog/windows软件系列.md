@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-06-18
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-07-24
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -905,7 +905,7 @@ https://github.com/cuiocean/ZY-Player/ ，这是个跨平台视频资源播放�
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-255c30508608aecb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 设置里可以管理视频源，也支持自定义, 支持导入, 导出https://gitcode.net/-/snippets/1706/raw/master/ZY-Player.json
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-4e7356f8e86cbf46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- 
+
 直播源管理里导入直播源就能看卫视直播了，之前用的是PotPlayer [实用 Windows 软件系列分享（九）](https://mp.weixin.qq.com/s/NLrlthhLJCBZ75IbjWYm3Q) 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-a30bed97f23a0ee0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 http://www.le.com/ptv/vplay/23960689.html#vid=23960689    
@@ -940,7 +940,7 @@ https://wwc.lanzoum.com/iGr6S01hmewh
 下载安装软件后点一键加速：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-775c716b86d7bd83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
- 
+
 # 蜻蜓FM/喜马拉雅批量下载
 之前分享过喜马拉雅批量下载工具，这个还支持蜻蜓FM ，输入专辑地址即可下载https://www.qingting.fm/channels/5142975/programs/1422261 
 https://www.aliyundrive.com/s/c8VEbt2e4zP https://wwn.lanzouf.com/iZ5DL058v4dc
@@ -991,7 +991,7 @@ https://github.com/tannerhelland/PhotoDemon https://wwn.lanzouf.com/ioJ6V058vzje
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-e684796b65fe100a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 输入问题id，很快就下载了回答里几百张周杰伦的图片： 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-ac1ef4cb0eacb5f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- 
+
 回答内容也可以批量下载到excel，包括回答人昵称和回答内容：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-de4834e885aeba82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 还有这个最近刚研究的https://wwn.lanzouf.com/ixdO5063ydre  ，输入知乎id，比如https://www.zhihu.com/org/zhi-hu-14-94-58/answers ，可以批量下载知乎回答，文章和想法：
@@ -1016,7 +1016,7 @@ def export_pdf():
              print(e)
 export_pdf()
 ```
-### 微博下载
+# 微博下载
 下载我打包的工具 https://wwi.lanzoui.com/iMYcIu65weh ，   输入微博uid [一键批量下微博内容/图片/视频，获取博主最受欢迎微博，图片查找微博博主](https://mp.weixin.qq.com/s/fmboKshIIoeeB21dTBazGg)  ，是否下载图片和视频，1为是，0为否，如果想全部下载时间就输入2010-01-01。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-d50453376e32798a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1046,3 +1046,108 @@ https://github.com/chitosai/bilimini  ，也支持Windows和mac系统：
 
 有个老板键ctrl+e，按一下就隐藏，摸鱼更高效了。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-2b437b42c3c7837c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# AG视频解析
+这是个类似you-get 的视频下载神器，能搞定主流视频平台的下载，包括腾讯视频、爱奇艺、优酷、芒果TV、搜狐视频、B站、乐视、央视、PPTV等 [一个软件下载腾讯视频/爱奇艺/芒果TV/搜狐视频/B站/央视频等全网视频](https://mp.weixin.qq.com/s/Y7EIeJQZL70Hwzq0o3uL7Q)  
+  https://www.aliyundrive.com/s/vCUget9VnpM https://wwn.lanzouf.com/iBTD7059tv6b 
+比如下载腾讯视频 https://v.qq.com/x/cover/h2itnfn19gd928b/e00244m0l7s.html
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ce5327d97a9a6139.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载b站视频https://www.bilibili.com/video/BV11S4y1T7ca
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-08513476d426a6bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果要下载会员视频需要填写自己的cookie：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8d7b225ed0a2526d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 短视频解析下载
+这个软件支持多个平台的视频下载，包含抖音，快手，西瓜，好看，微博视频等，部分支持无水印下载。支持抖音（支持无水印、最高1080P）、快手（支持无水印、最高1080P）、TikTok（支持无水印、最高1080P）、西瓜视频（不支持无水印、最高720P）、好看视频（支持无水印、最高1080P）、微博视频（不支持无水印、最高1080P） https://wwn.lanzouf.com/iZf2d06n23qb  
+比如微博视频 https://weibo.com/tv/show/1034:4781831363690498?mid=4781831633243259
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b11355b166fa0e73.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+好看视频https://haokan.baidu.com/v?vid=15209935439280868599&tab=recommend&sfrom=recommend
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3f54471c97d490c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+西瓜视频支持无水印https://www.ixigua.com/6996614407480410665?logTag=018572872b7bd463898e
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e03e735cacfba5d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Hitomi
+这也是一款多功能下载器，可快速下载各大网站（YouTube，b站，微博，优酷等）的视频、漫画、电影、音乐等，同时还支持 BT /磁力/ M3U8 的下载 https://github.com/KurtBestor/Hitomi-Downloader
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6d4361ed871becc8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+它还有对应的chrome扩展https://github.com/KurtBestor/Hitomi-Downloader/wiki/Chrome-Extension ，安装chrome扩展见之前文章[上不了谷歌如何安装 Chrome 扩展？](https://mp.weixin.qq.com/s/xC9K_z7zpmAIEzUK6s1x3w)
+
+# 闪豆视频下载器 
+
+这个软件支持60多个视频平台下载，包括B站/YouTube/爱奇艺/优酷/腾讯/抖音/快手/西瓜/微博等，输入B站视频地址解析效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-eec3302f934f33e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以下载视频，封面，音频，弹幕，字幕等：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cb1101f4c2c65c46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 公众号下载
+这是我开发的公众号音频/视频批量下载，最近更新了下，更多我开发的工具见
+[整理下苏生不惑开发过的那些软件和脚本](https://mp.weixin.qq.com/s/jpnqgxbeUw-lF0gLUITuGQ) 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e57ac1261dab0f02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+批量下载视频效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fe492f552640a74c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bd19258636c1de42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 流氓软件查找
+如果已经安装了流氓软件可以使用流氓软件查找工具SoftCnKiller（在公众号后台回复 `Windows`）
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cf0c0a4a9de374bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+对广告弹窗也可以定位删除，顺便推荐下火绒安全https://www.huorong.cn/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-029932b0025069d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+也可以打开任务管理器找到进程对应的文件夹删除。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-054678033d1d066b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+找到后用geek uninstaller卸载软件https://geekuninstaller.com/，这个软件卸载方便且彻底，不会留下一些残留的注册文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b8b97f8985aee57c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# foobox
+这个软件基于 CUI 的 foobar2000 界面配置，适合大界面使用，善于管理曲目数量大的媒体库 ，对音乐各种封面提供丰富的支持，并扩展了一些网络功能 https://github.com/dream7180/foobox-cn
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d180739ddc20b494.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果电脑里没有歌可以用这个软件下载，输入歌名或者歌手即可下载音乐：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9454f5d101d25d54.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+想找歌曲也可以去这个网站 https://www.hifini.com/ ，有很多网友分享的好歌，都是网盘地址。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b8e2392453d48dd0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 千千静听纪念版
+千千静听有20年历史了，名字出自歌曲《千千阙歌》，纪念版让这个经典老软件焕发青春，内含几十款主流皮肤。https://wwn.lanzouf.com/ijCtp06z0qpi
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bb6cdae40ef6e83f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以选择皮肤，下载歌词。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-45bb70c1c12be708.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 命令行下载
+这个python命令行工具支持下载网易云音乐（包括歌单），qq音乐等平台的歌曲https://github.com/0xHJK/music-dl https://music.163.com/playlist?id=5355761709 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ef60338aec13edc3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+还有这个下载高质量音乐的命令行工具 https://www.npmjs.com/package/musicn npm install musicn -g
+# lux
+这是个基于golang的下载视频工具https://github.com/iawia002/lux ，使用go install github.com/iawia002/lux@latest安装或者作者提供的exe，轻松下载b站，腾讯，爱奇艺等视频，更多视频下载工具见文章。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-448120eb18e3acfe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 豆丁/道客巴巴/原创力文档下载
+之前文章写的很清楚了[2022 最新一键下载百度文库/豆丁/道客巴巴/原创力文档](https://mp.weixin.qq.com/s/tR9J-FK_2DKnppnrBGdA4A)  ，输入文档地址即可下载，只支持免费文档。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-414a11450d9c62e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果下载失败进入软件目录执行命令行，看输出错误提示没找到chromedriver，从
+https://registry.npmmirror.com/binary.html?path=chromedriver/ 下载就好了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-976c63883a9e65e4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 网易云音乐听周杰伦
+之前文章写了很多音乐软件[不必花钱，都给你整理好了](https://mp.weixin.qq.com/s/BQIoFKyA4Dk7NYXQJFOP2A) ，好多人反馈用不了了，因为新版网易云音乐加了限制，安装旧版本https://d1.music.126.net/dmusic/cloudmusicsetup2.9.5.199424.exe 或者
+https://d1.music.126.net/dmusic/cloudmusicsetup2.9.9.199909.exe ，然后勾选有新版本时提醒我。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ab54cbf59d8dab58.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+周杰伦新专辑你听了吗？
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ded301731b206f40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+那首评论200万的《晴天》还是那么好听。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5616a5751001155b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 命令行不好记
+命令行用起来的确不如图形界面方便[很多人问命令行是什么？有什么用](https://mp.weixin.qq.com/s/ZxalxqhL-BFxt6PBFoZK4Q) ，一般命令行工具都有-h参数告诉如何用，常用的命令行比如curl，awk可以用https://github.com/chubin/cheat.sh或者curl cht.sh/curl go get -u github.com/cheat/cheat/cmd/cheat ，效果：
+```js
+λ cheat curl
+# To download a file:
+curl <url>
+
+# To download and rename a file:
+curl <url> -o <outfile>
+
+# To download multiple files:
+curl -O <url> -O <url>
+
+# To download all sequentially numbered files (1-24):
+curl http://example.com/pic[1-24].jpg
+
+```
+# Windows7用不了
+我写的公众号音频/视频批量下载工具[整理下苏生不惑开发过的那些软件和脚本](https://mp.weixin.qq.com/s/jpnqgxbeUw-lF0gLUITuGQ) 和道客巴巴文库下载[2022 最新一键下载百度文库/豆丁/道客巴巴/原创力文档](https://mp.weixin.qq.com/s/tR9J-FK_2DKnppnrBGdA4A) 是在Windows10基于python3.9打包的，不支持windows7，目前没什么好办法。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e57ac1261dab0f02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
