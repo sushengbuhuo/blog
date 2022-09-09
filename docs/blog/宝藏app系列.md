@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-07-24
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-09-10
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -897,3 +897,256 @@ https://wwp.lanzoum.com/i8G3007c4g8d
 https://wws.lanzout.com/iSvp807lqjkj
 这个app类似火龙果，有电影，美剧，番剧等https://wwn.lanzouf.com/iA6Ng07my9jc，也可以在分类里筛选想看的影视剧：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-8893ba193275c553.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 一个宝箱
+这个app支持油猴脚本插件，可拦截广告，附带很多实用小工具
+https://wwp.lanzouf.com/ieQMb082kxba
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0af0ca37dd935520.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+安装油猴脚本：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-514da524283542af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 宇宙工具箱
+这个app整合了300多个功能，堪称最强工具app，有日常工具、计算工具、查询工具、文字工具、图片工具、提取工具、开发工具、系统工具、在线游戏、其它工具等。https://pan.lanzoux.com/b03cy8p0d  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c770dfd2b33ffa1d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 视频解析功能：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7378a9407ab519a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+摸鱼游戏，更多功能就不一一演示了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b5456cab684707b0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 神奇工具
+这个app聚合了300多个工具，和宇宙工具箱类似，包括日常、系统、图片、查询、提取、开发、文字、计算、趣味游戏等。
+https://dmla.lanzouh.com/b05o9hddc 论坛 https://support.qq.com/embed/phone/403635
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-596c0ec9f4f5e17c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8c90120a22f7d3ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 实用工具箱
+实用工具箱提供日常、图片、查询、设备、特色、提取、优惠券等功能，操作简单，即点即用，避免您下载超多应用的难题，且应用体积轻巧，界面简洁。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b2695556c56cebe8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+酷安评分9.4 https://www.coolapk.com/apk/com.hj119.sygjx 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-995db1a020c58321.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+# 一个木函
+这是个多功能效率工具箱https://www.woobx.cn/ ，集合了上百个小工具，有网页版https://ol.woobx.cn/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8b45b2e706d1a92e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+还有安卓，iOS版。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a42d4a796593bd5a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+以及小程序版。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1e3e57ffe05d3ddb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 移动工具箱
+
+ 这个app包含日常工具，开发工具，设备工具，设计工具，图像工具等，添加工具安装后使用。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b5fe6099a896c9c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 全能计算器
+这是个安卓端的免费多功能计算器和单位转换器，超过 75 个功能。https://appinn.lanzout.com/i3TLd07e6yob https://www.allinonecalculator.com/ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3dfa1e9e496a35b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如解线性方程
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-deb78203f760699f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+算月供还款
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e23b5cf75216cd01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# pixez
+这是个第三方客户端 https://github.com/Notsfsssf/pixez-flutter ， 支持安卓和iOS 平台，如果没有账号先注册下就可以使用了，其实就是输入个昵称。https://apps.apple.com/us/app/pixez/id1494435126
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2cb7364af81ce2c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+首页很干净，目前无广告。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0b7cc6a7fa9cf959.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜索画师id 202175 后可以关注。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-49de95b5cd2ad3c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# LibreTube
+https://github.com/libre-tube/LibreTube 
+https://wwn.lanzouf.com/ik1p805y8qmb https://libre-tube.github.io/  
+使用这个app不用注册账号，打开首页很干净，如果你需要订阅账号可以用gmail账号登陆：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2315990b15e1e801.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+支持中文搜索，搜索下李子柒，快一年没更新视频了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0bae3df115495575.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-113e145a720343b7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+最新一条视频还停留在去年7月，看视频无广告，点个赞，还可以下载保存。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ab1f749d1c6cf87a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+居然还有腾讯视频发布的最新电视剧：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-db06e0a6748133ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 阅读
+之前分享过看小说的阅读神器app [别找了，这个神器 app 小说资源最全](https://mp.weixin.qq.com/s/UOZCE8J4zOWYbVSFgt2idA)  https://github.com/gedoor/legado https://www.legado.top/ ，其实除了看小说，它还可以看漫画 https://www.coolapk.com/apk/io.legado.app.release  ，在书源管理里网络导入漫画源地址即可。 https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f2c8e9c8bf594a09.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+漫画源地址可以在这个网站生成http://yckceo.vip/ ，搜索漫画点生成书源地址http://www.yckceo.com/d/fDIsm
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-da9243e24d246e53.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+导入效果，更多源在公众号后台对话框回复 `阅读`：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-db6b8f5231fc888a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+在rss源列表还可以生成订阅源，在订阅源里导入。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e96a06c64eea4d9f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以看到各个rss源的内容，相当于一个app仓库。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-11309b1456b4247a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+也可以使用轻墨导入rss源https://github.com/Face-scroll-keyboard/lightink  https://wwn.lanzoue.com/i1P2008yarte ，更多rss源 https://rss-source.com/ https://getpodcast.xyz/  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-af6f280b116146cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 腾讯翻译君 
+腾讯出品的翻译工具https://fanyi.qq.com/ ，有输入翻译、语音翻译、拍照翻译、同声传译等功能，可以翻译英语、日语、韩语、西班牙语、俄语等14国语言，无广告免费。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-61d7e8daea8bff6f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+也可以拍照翻译：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0f9af009610f051b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+还支持同声传译（边说边翻译）:
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6abded6e4eb79a1d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+另外提供了学习功能，点击主页右上方自己的头像，即可进入语句学习界面，在这里可查阅中考、高考、四级、六级、考研、GRE、托福等常见考试的词汇和生活常用语。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7f6e76b4cb7df5ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7eeff8d9b81deb88.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 抖音视频下载 
+之前分享过很多抖音视频下载工具[一个顶十，全能软件来了](https://mp.weixin.qq.com/s/EMkevmCy8d1DZTeBmxlZgQ) ，这个工具支持Android、Windows、Macos、IOS等系统 
+https://github.com/LuckyLi706/short_video_spider_client   
+支持下载单个视频 https://v.douyin.com/eLXBnJE/  和用户视频https://v.douyin.com/eLhwxF2/  抖音图集https://v.douyin.com/YUmfN7B/ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5d6e774361edb67d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# wallhaven 壁纸
+ 
+提到壁纸站少不了https://wallhaven.cc/ ，这个中文版APP功能强大，涵盖了网页端的热门、榜单、搜索、筛选等功能，还可以自定义API密匙，喜欢的壁纸也可以设置为手机桌面壁纸。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6206c401d13d7417.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-85939c72ca0894c1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+密匙1 PMHvmSfRvkojQ50fiRWO43KiSoli1O7V http://wallhaven.top/
+密匙2  5Bnj5nh06LfyFvkCT4KdZki8r4UsRvnj
+输入密钥后重启app勾选限制级就可以看小姐姐了，就不截图了，你懂的。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6689265e846a8bba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Xodo PDF
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5099a4e1c7b69237.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-71b6c8570e48f469.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 虚拟魔方 
+魔方爱好者必备app，支持1-18阶，非常简洁，里面也有公式，还可以自定义颜色 也可以在线玩https://huazhechen.gitee.io/cuber/
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-89cd297d44140d62.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#  第三方微博see 
+又一个新浪微博第三方客户端，比官方的更简单便捷，无广告和垃圾信息。 
+无广告，多账户登录，支持扫一扫，
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b53cc2f2fc8a559d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9fd753e5f723ed98.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果想批量下载备份微博见之前文章[一键批量下微博内容/图片/视频，获取博主最受欢迎微博，图片查找微博博主](https://mp.weixin.qq.com/s/fmboKshIIoeeB21dTBazGg)
+# 椒盐音乐
+这是个原生的安卓音乐播放器，可识别手机里的音乐文件播放，纯净无广告 https://github.com/Moriafly/SaltPlayerSource
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-276d860dab32309e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e96553b0e5f5445f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果想听全网音乐用之前分享过的音乐app [不必花钱，音乐软件都给你整理好了](https://mp.weixin.qq.com/s/BQIoFKyA4Dk7NYXQJFOP2A)
+
+# AI图像大师 
+这个app通过人工智能算法处理图片，比如图片去水印、老照片上色、黑白图修复上色、清晰度无损增强，无损放大，人物动漫化等
+https://wwn.lanzouf.com/i6FQ607mvc8b
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5024246ba2db15e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果对比：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0e225a548fd5a77a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# QQ影音
+
+前段时间QQ影音官网去除了下载链接https://player.qq.com/ ，不过这个app还是很良心的，有pc和安卓版。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fb4b400aedd264e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-86be29f4a5f97c0c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 免漫
+看漫画+无广告+多漫源https://wwc.lanzouw.com/i6VSg091bvra
+之前分享过[看小说/漫画/影视剧/rss全搞定](https://mp.weixin.qq.com/s/zoOUzpaFNp5L7kzLquYFzg) ，这是个免费的高质量漫画软件，无广告，内置多个漫画源，分类齐全。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4f43488ef3af57da.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可自行搜索漫画：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1b119ec6b75376d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-72644aba52de1d4b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cda032ffecf6784b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# F-Droid
+一个类似 Google Play的安卓应用商店，收录各类自由软件 https://wws.lanzoub.com/iv2L206ubrvg https://f-droid.org/
+用不了Google play？试试这个应用商店 ， 先打开 https://mirrors.tuna.tsinghua.edu.cn/help/fdroid/ 复制第一个链接https://mirrors.tuna.tsinghua.edu.cn/fdroid/repo/?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB ，再打开app设置，选择存储库，点击右上角 + 号，复制链接进去 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a3af2230f212c683.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后在类别里可以看到各种app：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-840e3c0cf655d8e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+# JustLive 
+一个集合了虎牙、斗鱼、b站直播、网易cc、企鹅电竞
+五大平台直播的app https://github.com/guyijie1211/JustLive-Android 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-21f96b4d87964368.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 练字大师 
+一个功能强大的手机临帖练字软件，可自定义字帖、可临摹、可打印字帖同时还有每日打卡功能，帮助你记录每天练字的时间及进度。支持中文、英文、韩文、日文等多种语言的字帖生成，同时支持楷书、行书、草书、瘦金体、大篆、小篆、隶书等多种书法字帖 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0ace5ccb08abf5d6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e4430efaa4afd05d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+临摹下：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f6a333107ea2eb3a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# 磁力兔
+一个磁力链接搜索下载软件，还可以在线预览。强大的搜索引擎，储存了海量的影视作品，全网资源统统为你搞定，一键查询在线下载，提供搜索功能，提供了磁力链接下载的方式，是的用户可以快速下载自己想要的资源，支持多种媒体格式，无需转码，支持边下边看，快来下载磁力兔体验吧。支持：磁力链接、BT种子 在线预览
+https://down.cilitu.club/ https://www.lanzouf.com/i5kqM06beiqb
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b7bd26b67032f726.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 多邻国
+一个免费有趣的多国语言学习app，西班牙语，法语，德语，意大利语，俄语，罗马尼亚语，葡萄牙语，土耳其语，荷兰语，爱尔兰语，丹麦语，瑞典语，乌克兰语，世界语，波兰语，希腊文，匈牙利文，挪威文，希伯来文，威尔士文，斯瓦希里文和英文完全免费。玩游戏时练习口语，阅读，听力和写作技巧！通过回答问题和完成课程，您将提高词汇和语法技能。从基本动词，短语和句子开始，每天学习新单词。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-82ca48c48f4a30d9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# KB视频工厂
+http://www.icoolby.com/vf/  https://yeyin.lanzoui.com/izBIJ09e04ng https://www.fuzhugou.com/detail/subject/qhyz.html 这个app一键完成视频转换、视频压缩、音频提取，还有m3u8转MP4、B站视频合并、QSV转MP4、微信视频提取、音频提取、微信语音导出、视频格式转换、视频压缩、 视频旋转、视频变速、视频倒放、视频消音、视频合并、音频格式转换、音频压缩、音频变速、音频合并、批量视频压缩、批量音频压缩等功能。
+处理支持最基本是视频压缩、格式转换、音频提取外，还支持M3U8合并成MP4，支持批量合并B站视频，支持爱奇艺的QSV视频合并，支持微信缓存视频提取，支持微信语音导出。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5da0502c29b15e83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 潮音乐
+又一个支持全网音乐下载的app[不必花钱，音乐都给你整理好了](https://mp.weixin.qq.com/s/BQIoFKyA4Dk7NYXQJFOP2A) https://www.123pan.com/s/ZAzA-pu8wh 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-21e9c6201e5fa2e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c36895a8d13792bd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# 知道
+这个app聚合了学生时代用到的各种公式定理内容https://wwb.lanzouj.com/iHS2z09oj40h
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bdf76ff2e942d8b6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-86a6cc5a837e30ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4b669f24f1cc9a22.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 中国法律法规大全
+这个app汇集编制了中国最全的法律知识，包括了宪法，刑法，民法，诉讼，行政，商法，劳动法，经济法，国际法，常用法律，最新法律等各种法律法规。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ced58275983bb49a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 异次元漫画
+之前分享过看漫画软件[看小说/漫画/影视剧/rss全搞定](https://mp.weixin.qq.com/s/zoOUzpaFNp5L7kzLquYFzg)，这是又一个漫画app，包含299个图源，导入即可
+网络导入：http://shuyuan.miaogongzi.net/shuyuan/1659322968.json
+本地导入：https://www.123pan.com/s/NJC9-ltZgh https://wwb.lanzouy.com/i8Kri09t7ish http://www.yckceo.com/ 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9f7298e1045925d6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+在推荐里就可以看漫画了：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-87a2ee295c158d72.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 支付宝查婚否和工作
+准备结婚前，先查查对方有没有结过婚离过婚，有没有房子，有没有稳定工作，一分钟搞定：谈恋爱结婚前查对方是否结过婚离过婚，有没有房子和稳定工作，打开支付宝搜索国家政务平台，添加证照，里面有结婚证，社保，居住证。
+拿到对方手机->打开支付宝搜索->国家政务平台->拉到底下->我的证照->添加证照->结婚证、离婚证、不动产权证、社保卡等->一点就能看到
+
+打开支付宝搜索国家政务平台，在我的证照添加证照，里面有结婚证、离婚证、不动产权证、社保卡等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-41f75eea7479a464.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-30d0f1cd91e722d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 支付宝预约转账
+这个功能可以实现定期打款，方便还信用卡和房贷什么的。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7bd3aa846b9f0567.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以设置自动转账或者提醒。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-000869d08cacbc79.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 微博水印
+除了用去水印软件，微博图片修改地址就能查看无水印图片，比如李健这张微博图片，地址 https://wx1.sinaimg.cn/mw690/001U3j31ly1gnynq1xvcqj634022oqv502.jpg
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5278dc7a4a5055ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+把mw690换成oslarge 就行了 https://wx1.sinaimg.cn/oslarge/001U3j31ly1gnynq1xvcqj634022oqv502.jpg
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-073dfd542ceecd93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+另外微博还有好几个图片尺寸：
+
+缩略图http://ww1.sinaimg.cn/thumbnail/001U3j31ly1gnynq1xvcqj634022oqv502.jpg 
+
+小图http://ww1.sinaimg.cn/small/001U3j31ly1gnynq1xvcqj634022oqv502.jpg 
+
+大图http://ww1.sinaimg.cn/bmiddle/001U3j31ly1gnynq1xvcqj634022oqv502.jpg 
+
+超大图 http://ww1.sinaimg.cn/large/001U3j31ly1gnynq1xvcqj634022oqv502.jpg
+
+如果想通过无水印微博图片查找博主只能借助百度谷歌搜图了[一键批量下微博内容/图片/视频，获取博主最受欢迎微博，图片查找微博博主](https://mp.weixin.qq.com/s/fmboKshIIoeeB21dTBazGg)
+# 公众号头像
+公众号的头像可以通过替换地址里的微信号获取https://open.weixin.qq.com/qr/code?username=susheng_buhuo ，公众号文章的封面可以用脚本批量下载
+
+类似的网易云音乐可以替换https://music.163.com/song/media/outer/url?id=1303026566.mp3 中的歌曲id直接下载[收听和下载音乐全搞定，一键解锁网易云音乐变灰歌曲](https://mp.weixin.qq.com/s/ZX4HdnVMgNGIupS3ICNQfw)
+# 微信提取图片文字
+微信里长按图片选择提取文字就可以将图片中的文字提出来，不用ocr软件了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-001cf8a2dc04e6c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+接着可以复制、转发、收藏，搜索，网址 、快递单号、手机号、地址、邮箱提供了快捷入口，一键打通。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7202f1e0b7953587.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
