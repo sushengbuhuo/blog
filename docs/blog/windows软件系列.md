@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-07-24
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-09-10
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1151,3 +1151,279 @@ curl http://example.com/pic[1-24].jpg
 # Windows7用不了
 我写的公众号音频/视频批量下载工具[整理下苏生不惑开发过的那些软件和脚本](https://mp.weixin.qq.com/s/jpnqgxbeUw-lF0gLUITuGQ) 和道客巴巴文库下载[2022 最新一键下载百度文库/豆丁/道客巴巴/原创力文档](https://mp.weixin.qq.com/s/tR9J-FK_2DKnppnrBGdA4A) 是在Windows10基于python3.9打包的，不支持windows7，目前没什么好办法。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-e57ac1261dab0f02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# pdf合并
+```js
+import time
+import re,os
+import requests,json
+from bs4 import BeautifulSoup
+from pdf2docx import Converter
+#convert
+def to_pdf():
+    import pdfkit
+    print('导出 PDF...')
+    htmls = []
+    for root, dirs, files in os.walk('.'):
+    	for name in files:
+    		if name.endswith(".html"):
+    			print(name)
+    			try:
+    				pdfkit.from_file(name, 'pdf/'+name.replace('.html', '')+'.pdf')
+    			except Exception as e:
+    				print(e)
+        # htmls += [name for name in files if name.endswith(".html")]
+    # print(htmls)
+    # pdfkit.from_file(sorted(htmls), 'out.pdf')
+def to_word():
+    print('导出 word...')
+    htmls = []
+    for root, dirs, files in os.walk('.'):
+        for name in files:
+            if name.endswith(".pdf"):
+                print(name)
+                try:
+                    cv = Converter(name)
+                    cv.convert('word/'+name.replace('.pdf', '')+'.docx')
+                    cv.close()
+                except Exception as e:
+                    print(e)
+        # htmls += [name for name in files if name.endswith(".html")]
+    # print(htmls)
+    # pdfkit.from_file(sorted(htmls), 'out.pdf')
+to_pdf()
+# to_word()
+import logging,os,html
+from PyPDF2 import  PdfFileReader, PdfFileWriter,PdfFileMerger#pip install PyPDF2
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+file_writer = PdfFileWriter()
+merger = PdfFileMerger()
+num = 0
+for root, dirs, files in os.walk('.'):
+    # 循环读取合并pdf文件 
+    for name in files:
+        if name.endswith(".pdf"):#glob.glob('*.pdf')
+            logger.info(name);file_reader = PdfFileReader(f"{name}")
+            file_writer.addBookmark(html.unescape(name).replace('.pdf',''), num, parent=None)#书签名 指向页数  父书签  颜色   加粗   斜体   缩放类型  缩放的参数值
+            # 遍历每个pdf的每一页
+            for page in range(file_reader.getNumPages()):
+                num += 1
+                file_writer.addPage(file_reader.getPage(page))
+with open(r"公众号苏生不惑历史文章合集.pdf",'wb') as f:
+    file_writer.write(f)
+```
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-12ac8e5e1663a744.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+合并后的效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2543d4b70ffe2ac3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+点击左侧书签跳转到对应文章pdf（含留言）https://wwn.lanzouf.com/irAGD089czyj ：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2cd00b67c7929f77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-63763cd2d38748ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+当然也可以导出pdf书签到excel，包含书签名和页码。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0d188d9a4443cf98.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+代码如下：
+```js
+def bookmark_export(lines):
+    bookmark = ''
+    for line in lines:
+        if isinstance(line, dict):
+            bookmark += line['/Title'] + ','+str(line['/Page']+1)+'\n'
+        else:
+            bookmark_export(line)
+    return bookmark
+with open('公众号苏生不惑历史文章合集.pdf', 'rb') as f:
+    #一个嵌套的列表
+    lines = PdfFileReader(f).getOutlines();#[{'/Title': '2020-09-13_公众号第一篇文章', '/Page': 0, '/Type': '/Fit'}]
+    bookmark = bookmark_export(lines)
+
+with open('公众号苏生不惑历史文章合集.csv', 'a+', encoding='utf-8-sig') as f:
+    f.write(bookmark)
+```
+当然也可以使用书签制作工具 PdgCntEditor https://wwn.lanzouf.com/iuo1z08c63ni
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c8c2a7b3ccba8cfa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+就在我写完文章后发现一个合并pdf生成书签的工具PDF24 和PDFsam  https://github.com/torakiki/pdfsam
+# antdownload
+不用登录你的网盘账号，复制网盘分享链接就可以快速下载，下载速度还是很快的。 
+https://pan.lanzoux.com/b03czcx2d https://wwt.lanzouy.com/irpcr05d3iqb
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9b67441c0d115ca9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的文件默认保存在antdownload目录Download下，也可以自定义路径，下载数和线程。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5e2747e07d8a4e55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 小叶文库下载器
+使用软件前先编辑hosts文件增加`127.0.0.1 wk.dayer.work` ，然后输入文档地址
+https://wenku.baidu.com/view/41f8f12c1b5f312b3169a45177232f60dccce78f.html ，下载的word和pdf效果：
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-65e74282284bea49.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 百度文库下载器
+ https://wwn.lanzouf.com/i4g0708cdb3i ，杀毒软件可能误报，不建议使用，先登陆百度文库提取cookie，再输入百度文库地址开始下载 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f7f3ff88f7759da2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-28ee24ee31fb6533.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-92b4a948bc671068.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# SteamTools 
+https://github.com/BeyondDimension/SteamTools https://github.com/BeyondDimension/SteamTools/releases/download/2.6.9/Steam++_win_x64_v2.6.9.exe
+
+下载安装软件后点一键加速：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-84715d5480bc4c8a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+进入p站输入邮箱注册个账号  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-411f259b228fe3fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+验证邮箱后进入主页 https://www.pixiv.net/ranking.php?mode=daily
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fd7566bdc2ed63cd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+关注后会给你推荐账号，类似微博，其他功能就不演示了，自己玩玩就知道。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2095539fbad76005.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Auto Macro Recorder 
+这个自动化工具可重复鼠标键盘动作，可以轻松地创建一个非常强大的脚本。
+最易于使用的 Windows 自动化工具。 它可以记录您所有的鼠标和键盘操作，然后准确地重放它们。 它具有许多有用的功能，您可以轻松地创建一个非常强大的脚本。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e01ccde178efc199.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的还有KeyMouseGo https://cracked52.lanzout.com/is7Ew01xls5e
+# Uninstall Tool
+
+https://wwt.lanzouq.com/ihKH30367zjg 一个专业的卸载软件 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bdf7f91bb5df2de7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 图片拼接
+简单地将多个图片拼接成一个图片，支持横向和纵向拼接，设置图片间的距离 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bab0db81f2ef5842.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 有声小说下载
+输入小说地址即可下载，目前支持6ting，tingshubao，70ts，aitinghua等网站，也可以在线听
+ https://www.lanzoux.com/iBQqJ02t35af 密码 6666
+ https://www.yiyeting.com/    这个站资源比较全喜马拉雅居多  https://yl158.lanzouq.com/izvGl02ts04j http://m.tingshubao.com/book/51.html
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5cb5ab9a3fe6acca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 定时关机
+一个定时重启/关机小工具https://lee1985.lanzouv.com/iYW5M03ty93e
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b550c2c4bb25b380.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 批量更改文件名
+批量将文件名及扩展名重新命名，如果不满意还可以复原http://update.antp.be/renamer/antrenamer2.zip http://www.antp.be/software/renamer
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8696fa9f4c1ae8ce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3149047d972d4300.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的还有这个文件名批量修改工具 https://www.den4b.com/products/renamer
+
+# 百灵快传 
+一个局域网大文件传输工具（手机、电脑、虚拟机），支持Windows，安卓和苹果
+gitee下载地址：https://gitee.com/b0cloud/b0pass/releases
+ https://github.com/bitepeng/b0pass 下载对应系统的执行文件，打开后不要关闭，浏览器打开http://localhost:8899/ 就能互相传送文件了，传送的文件默认保存在files目录，移动端（安卓/苹果/平板）无需安装软件，只用扫描二维码/输入地址即可传输。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cd955f3ae9a74899.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的还有https://github.com/LANDrop 和https://snapdrop.net 
+# LockHunter
+https://lockhunter.com/  https://fzxx.lanzouu.com/iNOmb04zkjqf
+一个文件解除锁定工具，用来删除一些不知道被什么程序占用的文件。 可以很直观的看到是什么占用了程序。从而更准确的关闭不需要的东西。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f74ca0484bec28a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Inpaint 
+一个一键去除图片背景瑕疵的图片处理软件
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aebc358510d98875.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+ https://whykang.lanzouy.com/ijgC801xcf2j
+#  CSVFileView
+一个简单的CSV文件查看器/转换器,可以根据其中一个字段排序，删除不需要的字段并更改它们的顺序，比如我之前导出的深圳卫健委历史文章数据[听说公众号深圳卫健委被网友投诉尺度大，我抓取了所有文章标题和阅读数分析了下](https://mp.weixin.qq.com/s/AS4_H2dsAd2zu_vakWCHkA)
+官网地址：https://www.nirsoft.net/utils/csv_file_view.html
+官方64位：https://www.nirsoft.net/utils/csvfileview-x64.zip
+汉化文件：https://www.nirsoft.net/utils/trans/csvfileview_schinese1.zip
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-9b89c9684e106b01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# SpaceSnifferv
+一个可视化磁盘空间分析工具，能够帮助用户更直观的显示你的磁盘文件，以区块、数字和颜色来显示硬盘上文件夹、文件大小，让你清楚的了解你的内存都用到了什么地方，支持通过滤器过滤出要找的文件，还可以在命令行下使用
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2f185b59dcb49bc3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# SoftCnKiller
+一个流氓软件查找工具。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cf0c0a4a9de374bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+对广告弹窗也可以定位删除，顺便推荐下火绒安全https://www.huorong.cn/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-029932b0025069d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+也可以打开任务管理器找到进程对应的文件夹删除。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-054678033d1d066b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# PDFsam 
+绿色https://wwx.lanzoux.com/ivhj3iqzryf
+之前我写过一个合并pdf生成书签的工具[苏生不惑又写了个小工具](https://mp.weixin.qq.com/s/cS5NHLXpXnRyYYF6l7ahNg)，这个还可以分隔，提取，转换等https://www.aliyundrive.com/s/jF3kEy8fcMp  https://pdfsam.org/thanks/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-85accaa47c58b9ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4561f9065bd25a42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# terminal 
+之前一直用的cmder [很多人问命令行是什么？有什么用](https://mp.weixin.qq.com/s/ZxalxqhL-BFxt6PBFoZK4Q)，最近安装了微软的https://github.com/microsoft/terminal ，还挺好用的，它是一款新式、快速、高效、强大且高效的终端应用程序，适用于命令行工具和命令提示符，PowerShell和 WSL 等 Shell 用户，主要功能包括多个选项卡、窗格、Unicode、和 UTF-8 字符支持，GPU 加速文本渲染引擎以及自定义主题、样式和配置，比如用python下载公众号文章，命令行里的链接可以可以直接打开，不用再复制了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-27eb31fa8ca7a650.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# melody
+这个项目旨在帮助你更好地管理音乐，主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘，基于命令行下使用  打开 terminal 命令行执行 `git clone https://github.com/foamzou/melody && cd melody && npm run init && npm run app`
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3f8143adcca6c150.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+启动成功，谷歌浏览器打开http://localhost:5566/ 就可以看到搭建的网站了，填写你的 Melody Key，默认melody。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8d9729f94957e916.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+同一个网络下手机端也可以用。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-be5b22a9683e9678.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+需要先登陆网易云音乐账号，搜索周杰伦听一首《晴天》，下载也没问题，来源是咪咕音乐。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-442deb6ef00d0e2a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+命令行里有搜索结果。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-02e010a0d449e4ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+也可以输入歌曲链接搜索，支持 咪咕、网易云、QQ 音乐、酷狗、bilibili、抖音等，比如b站的这首歌https://www.bilibili.com/video/BV12S4y1J7yv 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5253351d444c4f5a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+还有一键解锁歌单,点击解锁全部（实验性功能） 后会自动匹配每首歌，并把歌曲上传到云盘，最后做个 match，以保证你还能看到歌词、评论，不过我测试下貌似没成功，可能没开发完成。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-68ff952710d46879.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+解锁失败可以手动搜索，找到符合的歌曲点击上传按钮。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-011bb8a71de3e5cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+如果你懒得折腾可以用这个软件[分享几个音乐神器 APP，免费收听和下载音乐，一键解锁网易云音乐变灰歌曲](https://mp.weixin.qq.com/s/ZX4HdnVMgNGIupS3ICNQfw)  ，打开软件后别关闭， 然后设置网易云音乐客户端代理为127.0.0.1，端口8080，想换端口打开命令行执行 `unblockneteasemusic-win.exe -p 7788`。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ca5b503962faa974.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+不过新版网易云音乐加了限制，安装旧版本https://d1.music.126.net/dmusic/cloudmusicsetup2.9.5.199424.exe 或者
+https://d1.music.126.net/dmusic/cloudmusicsetup2.9.9.199909.exe ，然后勾选有新版本时提醒我。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ab54cbf59d8dab58.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+重启后就可以在网易云音乐听周杰伦了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3edfcbd4ba89dd2f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+下载也没问题。http://other.player.ra01.sycdn.kuwo.cn/096cde2b5c28474851f3db1162271a47/613df956/resource/n3/320/50/79/1381901289.mp3
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-17c66d4bb9ff5ac9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+在网易云音乐app也能听周杰伦，打开WiFi设置代理IP和端口。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-322b62f668b2a924.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+重启网易云音乐app后周杰伦的歌曲不再是灰色了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-27d0f53c1e581737.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# eSearch  
+一个免费开源的截图识别工具https://github.com/xushengfeng/eSearch ，支持截屏+OCR+搜索+贴图+以图搜图+录制+取色器+图像编辑+二维码识别等多种功能。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cd651f921519d6c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 电脑开关机查询
+这款软件还带了局域网电脑IP地址查询。可以根据你的局域网地址来查询在同一局域网络下方便查询电脑的开机关机时间。https://wwn.lanzouy.com/iTyk00agu2ba 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9a21f7b185789455.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# PicPick 
+这个软件功能比较多：录制GIF/MP4/编辑图片/截图/屏幕当画板等
+https://picpick.app/zh/download/portable https://www.aliyundrive.com/s/AAbN39nXSk2
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-05fdf7abbf843161.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4db0eca9e91fc01f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Win10 优化
+这个小工具可隐藏文件夹，开启系统组件与功能等。
+https://www.123pan.com/s/6zVRVv-Jtkmd  https://wwn.lanzouy.com/iWFWY0agukli
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-79b961dcf1c99282.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# scrcpy
+这个工具可以让安卓手机投屏电脑并控制手机https://github.com/Genymobile/scrcpy ，类似的软件还有Anlink https://cn.anlinksoft.com/ 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-46b035df00b84b3f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 抖音视频/图集下载
+之前分享过抖音视频批量下载工具https://github.com/LuckyLi706/short_video_spider_client 和https://github.com/Johnserf-Seed/TikTokDownload
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6468c51c8be8299e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+抖音图集用这个工具下载，输入地址就行：https://wwn.lanzouf.com/iLaKO06n217a
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1765ee8e1d317191.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a1c246f5dd6c91aa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# KeyFreeze
+这个可以锁定键盘和鼠标http://keyfreeze.com ，防止熊孩子乱动鼠标和键盘
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2468a83f1bd02e25.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+# Easy Context Menu
+这个可以帮你轻松管理右键菜单，清理无用菜单，勾选后保存。
+https://www.123pan.com/s/1RhrVv-XtMnh
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-91c18ab7bc1b1af2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Watt Toolkit
+一个开源的多功能Steam工具箱，可以一键加速访问GitHub，谷歌验证码等网站https://github.com/BeyondDimension/SteamTools 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0600afa22a83bc5d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# keyviz
+这个小工具可实时可视化键盘按键，方便录制视频或直播https://github.com/mulaRahul/keyviz 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8612a9b923cfb8ca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

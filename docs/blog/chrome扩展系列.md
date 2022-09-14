@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-07-24
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-09-10
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1627,3 +1627,14 @@ https://github.com/jinliming2/Chrome-Charset
 这是个网页版微信读书笔记分享和导出插件，支持划线摘抄句子、划线生成分享书签图片、一键导出读书笔记、划线同步第三方、切换字体、切换皮肤等功能 secreter.github.io/ireader
 https://chrome.google.com/webstore/detail/i%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6/feicgfcihlfhjjepgibmbieodedbggjh?hl=zh-CN
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c3e04c24ce0fea1b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 自动识别图片验证码
+浏览器扩展https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo/related?hl=zh-CN ，最近更新时间2022年8月21日，支持reCAPTCHA和hCAPTCHA ，安装后打开网页会自动自动识别验证码，这里以https://www.google.com/recaptcha/api2/demo 这个网站为例，效果如图：
+
+![google.gif](https://upload-images.jianshu.io/upload_images/23152173-819f1302d7e507d9.gif?imageMogr2/auto-orient/strip)
+不过对微博这种验证码无效：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e165d02d536e2dd5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 百度网盘加速
+百度网盘加速播放视频可以用Global Speed扩展
+https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff 几乎支持所有视频和音频流媒体站点，包括Youtube，Netflix，哔哩哔哩，腾讯视频，百度网盘， 爱奇艺等。
+https://microsoftedge.microsoft.com/addons/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/mjhlabbcmjflkpjknnicihkfnmbdfced?hl=zh-CN
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a2f43d3e0f28466c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
