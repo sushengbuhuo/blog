@@ -1427,3 +1427,43 @@ https://www.123pan.com/s/1RhrVv-XtMnh
 # keyviz
 这个小工具可实时可视化键盘按键，方便录制视频或直播https://github.com/mulaRahul/keyviz 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-8612a9b923cfb8ca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 微博文章批量下载
+```js
+def get_article_url(self, selector):
+        """获取微博中头条文章的url"""
+        article_url = ""
+        text = selector.xpath("string(.)")
+        if True:#text.startswith("发布了头条文章"):
+            urls = selector.xpath("//a/@href")#;print(urls)
+            if urls:
+                for i in urls:
+                    if i.startswith("https://weibo.com/ttarticle/p/show"):
+                        article_url = i
+            # if url and url[0].startswith("https://weibo.com/ttarticle/p/show"):
+                # article_url = url[0]
+        return article_url
+```
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-27e96560a8224688.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后将excel里的头条文章链接下载为html，代码如下：
+```js
+df = pandas.read_csv(f'{uid}.csv',encoding='utf_8_sig')
+df = df[df['头条文章链接'].notnull()]
+urls=df.头条文章链接.tolist()
+# urls=[urls[0]]
+for url in urls:
+	try:
+		res=requests.get(url,headers=headers, verify=False)
+		title = re.search(r'<title>(.*?)</title>',res.text).group(1)
+		weibo_time = re.search(r'<span class="time".*?>(.*?)</span>',res.text).group(1)
+		if not weibo_time.startswith('20'):
+			weibo_time=time.strftime('%Y')+'-'+weibo_time.strip().split(' ')[0]
+		with open('articles/'+weibo_time+'_'+trimName(title)+'.html', 'w+', encoding='utf-8') as f:
+			f.write(res.text.replace('"//','https://'))
+			print('下载微博文章',url)
+	except Exception as e:
+		print('错误信息',e,url)
+```
+下载效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-94cea97e2fce15ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+最后转pdf并合成一个pdf文件，文章发布时间和标题作为书签。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-37ada578edeaeb59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
