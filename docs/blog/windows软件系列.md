@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-09-10
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-10-1
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1467,3 +1467,125 @@ for url in urls:
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-94cea97e2fce15ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 最后转pdf并合成一个pdf文件，文章发布时间和标题作为书签。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-37ada578edeaeb59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Paper2GUI
+这是个面向普通人的AI桌面APP工具箱https://github.com/Baiyuetribe/paper2gui ，已支持18+AI模型，包含语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等，支持Windows、Mac、Linux系统，还有小程序。
+
+先试试智能图片转漫画（图片要清晰），用来做头像不错。
+目前只适合矩形图片转换，抓换后的漫画可以采用超分辨工具进行二次优化。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e8e6362d36e387ab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+基于微软的人工智能语音合成，先设置微软key 0f70d918db4c44a5a4de61226a84c114 和密钥  uksouth ，输入文字就可以合成语音了，可以选择不同语音和风格，鼠标放在对应语言名称上先试听下效果，我测试下效果不错。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4430f20268d1be0a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+当然也可以用之前分享过的油猴脚本和这个网站基于 edge浏览器 文字转语音网页版，可播放可下载。https://toolb.cn/microsoftspeech
+还有抖音火山语音合成。
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-bc3404cd07e3ed85.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+AI 视频超分辨放大 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2b2dd71f3c9cc80c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 智能识别
+这个软件可语音合成、语音识别、图片识别、翻译、图片处理，我测试了下语音合成效果，勉强可以。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c006abdd8d5de0d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 荐片播放器
+这个软件有电脑版和app版，netflix、美剧、韩剧、动漫全网资源永久免费观看 。https://www.jianpian18.com/  www.jianpian9.com
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9cd7366e5263ef71.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-187fbd8fa32c6baa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+资源丰富，搜索周星驰，重温下《情圣》。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fc8be4c50a7905fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+视频可下载和在线播放，而且会边看边下载，下载视频在jianpianDownload目录：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2211e6a9d59b6790.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+注意里面的广告别信，忽略即可。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c49a1ae8be765be9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+除了播放视频还能下载，堪称迅雷替代品。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-485e3e2375cea966.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+另外磁力下载可以用全能下载app，它支持http、ed2k、magnet、ftp等多种协议，内置3大下载引擎，可根据链接格式自动识别下载。
+ https://xiaomianao.lanzoum.com/izVsk01ffd8d
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5fef75d688d1e47c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+荐片app端使用一样的。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aeb3b4d1ac403749.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e2afbd64f7c68ea5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+下载视频
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9b6a14bdf4679e90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 公众号话题下载
+之前分享过我写的公众号批量下载工具[整理下苏生不惑开发过的那些软件和脚本](https://mp.weixin.qq.com/s/jpnqgxbeUw-lF0gLUITuGQ) ，最近有小伙伴反馈了几个问题，于是周末我又完善了下 ，在公众号苏生不惑后台回复 `公众号` 获取工具地址， https://wwn.lanzouy.com/i60n70bu5q5i  以
+这个公众号话题为例https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5NjAxOTU4MA==&action=getalbum&album_id=1681628721901830149&scene=173&from_msgid=3009294038&from_itemidx=1&count=3&nolastread=1 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a84e2dcb5982eed4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+输入话题地址的下载效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-301a611dd94d1f16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+音频/视频和文章html都下载了，如果想转pdf可以用我之前写的工具批量转换[苏生不惑又写了个pdf合并带书签小工具](https://mp.weixin.qq.com/s/cS5NHLXpXnRyYYF6l7ahNg) 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4dbc44c9f56dae74.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+下载的文章链接在文件wechat_topic_list.txt，如果第2次下载会跳过已经下载过的文章，效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f501e34745cb8486.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+另外话题下的纯音频也支持下载，代码如下 https://wwn.lanzouy.com/iShVm0bu5pzc
+```js
+import requests,re,os,time,sys,urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36 QBCore/4.0.1301.400 QQBrowser/9.0.2524.400 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2875.116 Safari/537.36 NetType/WIFI MicroMessenger/7.0.5 WindowsWechat"
+    }
+def get_history():
+    history = []
+    with open('wechat_topic_audio_list.txt', 'a+') as f:
+        f.seek(0)
+        lines = f.readlines()
+        for line in lines:
+            history.append(line.strip())
+    return history
+
+def save_history(url):
+    with open('wechat_topic_audio_list.txt', 'a+') as f:
+        f.write(url.strip() + '\n')
+def trimName(name):
+    return name.replace(' ', '').replace('|', '，').replace('\\', '，').replace('/', '，').replace(':', '，').replace('*', '，').replace('?', '，').replace('<', '，').replace('>', '，').replace('"', '，').replace('\n', '，').replace('\r', '，').replace(',', '，').replace('\u200b', '，').replace('\u355b', '，').replace('\u0488', '，')
+topic_url = input('公众号苏生不惑提示你，请输入音频话题地址：')
+# topic_url='https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5NjAxOTU4MA==&action=getalbum&album_id=1777378132866465795&scene=173#wechat_redirect'
+if not topic_url:
+	print('地址不能为空')
+	sys.exit(1) 
+biz=re.search(r'__biz=(.*?)&',topic_url).group(1)
+album_id=re.search(r'album_id=(.*?)&',topic_url).group(1)
+response = requests.get(topic_url, headers=headers)
+voiceids = re.findall('data-voiceid="(.*)"',response.text)
+msgids = re.findall('data-msgid="(.*)"',response.text)
+links = re.findall('data-link="(.*)"',response.text)
+titles = re.findall('data-title="(.*)" data-voiceid',response.text)
+voice_urls = get_history()
+print('音频数量:',len(voiceids))
+# print('音频标题列表:',titles)
+for i,j in zip(titles,voiceids):
+	voice_url = f'https://res.wx.qq.com/voice/getvoice?mediaid={j}'
+	if voice_url in voice_urls:
+		print('已经下载过音频：'+i+'.mp3')
+		continue
+	# print(i,voice_url)
+	audio_data = requests.get(voice_url,headers=headers)
+	print('正在下载音频：'+i+'.mp3')
+	with open(trimName(i)+'.mp3','wb') as f:
+		f.write(audio_data.content)
+		save_history(voice_url)
+```
+以这个音频话题为例：https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5NjAxOTU4MA==&action=getalbum&album_id=1777378132866465795&scene=173#wechat_redirect
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f3e0991588cad2c7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+输入话题地址下载效果，990个音频很快就下载完了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e5d2e1af3475f045.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1a251dcedf9cdfa8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1b581bef92536024.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+音频地址保存在文件wechat_topic_audio_list.txt ，如果第2次下载也会跳过已经下载过的音频，效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-749a359c43afbd25.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+由于文章里的音频一般不会改动，就不更新了，批量下载文章里的音频/视频效果： 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1ab48d131d3d3840.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9d10dd8377728309.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果是下载所有文章的内容/音频/视频看之前文章[一键批量下载微信公众号文章内容/图片/封面/视频/音频，支持导出html和pdf格式，包含阅读数/点赞数/在看数/留言数](https://mp.weixin.qq.com/s?__biz=MzIyMjg2ODExMA==&mid=2247493612&idx=1&sn=5c8eb0e69a6a167d1a51105939a5a105&scene=21)  ，还有文章数据包含文章日期，文章标题，文章链接，文章简介，文章作者，文章封面图，是否原创，IP归属地，阅读数，在看数，点赞数和留言数等，比如抓取过深圳卫健委的公众号数据[听说公众号深圳卫健委被网友投诉尺度大，我抓取了所有文章标题和阅读数分析了下](https://mp.weixin.qq.com/s/AS4_H2dsAd2zu_vakWCHkA) 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8593a46c6ba6e95d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-612f939bbb63df49.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+导出文章合并成一个pdf文件（含留言），点击左侧书签跳转到对应文章：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2543d4b70ffe2ac3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2cd00b67c7929f77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-63763cd2d38748ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+

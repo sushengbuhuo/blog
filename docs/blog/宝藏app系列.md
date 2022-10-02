@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-09-10
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-10-1
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -921,7 +921,7 @@ https://dmla.lanzouh.com/b05o9hddc 论坛 https://support.qq.com/embed/phone/403
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-b2695556c56cebe8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 酷安评分9.4 https://www.coolapk.com/apk/com.hj119.sygjx 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-995db1a020c58321.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- 
+
 # 一个木函
 这是个多功能效率工具箱https://www.woobx.cn/ ，集合了上百个小工具，有网页版https://ol.woobx.cn/
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-8b45b2e706d1a92e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -997,7 +997,7 @@ https://github.com/LuckyLi706/short_video_spider_client
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-5d6e774361edb67d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # wallhaven 壁纸
- 
+
 提到壁纸站少不了https://wallhaven.cc/ ，这个中文版APP功能强大，涵盖了网页端的热门、榜单、搜索、筛选等功能，还可以自定义API密匙，喜欢的壁纸也可以设置为手机桌面壁纸。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-6206c401d13d7417.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-85939c72ca0894c1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1054,7 +1054,7 @@ https://wwn.lanzouf.com/i6FQ607mvc8b
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-a3af2230f212c683.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 然后在类别里可以看到各种app：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-840e3c0cf655d8e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- 
+
 # JustLive 
 一个集合了虎牙、斗鱼、b站直播、网易cc、企鹅电竞
 五大平台直播的app https://github.com/guyijie1211/JustLive-Android 
@@ -1149,4 +1149,75 @@ http://www.icoolby.com/vf/  https://yeyin.lanzoui.com/izBIJ09e04ng https://www.f
 
 接着可以复制、转发、收藏，搜索，网址 、快递单号、手机号、地址、邮箱提供了快捷入口，一键打通。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-7202f1e0b7953587.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 荐片播放器
+这个软件有电脑版和app版，netflix、美剧、韩剧、动漫全网资源永久免费观看 。https://www.jianpian18.com/ www.jianpian9.com
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aeb3b4d1ac403749.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e2afbd64f7c68ea5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+下载
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9b6a14bdf4679e90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# AI图像大师 
+这个app通过人工智能算法处理图片，比如图片去水印、老照片上色、黑白图修复上色、清晰度无损增强，无损放大，人物动漫化等 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5024246ba2db15e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果对比：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0e225a548fd5a77a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# AI 工具箱
+这个工具箱功能有图像类、识别类、文字类和语音类，如黑白照修复、上色、放大图像 、ocr提取文字，作诗，识植物、语音合成等 https://bgg.lanzout.com/b02djlyqb
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b23c606bb9aff6a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+图像类有黑白图像上色、图像清晰度增强、拉伸图像恢复等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ff7ed3655e0857a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+识别类有动物识别、果蔬识别、菜品识别、货币识别、汽车识别、植物识别、品牌识别、OCR 识别、通用识别等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f27ce51167051d70.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+文字类有暗语翻译器、营销文 AI 生成、AI 作诗、AI 作对联、通用文字识别、数字识别、手写文字识别、增值税发票识别 等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1de8eb4aa231655b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+语音类有短文本在线合成、音频文件转写、短语音识别，长文本在线合成、长语音识别等。
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-880b4e0e4e6b1b04.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# torrdroid 
+一个bt下载软件
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-547030c6e66438f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# WPS Office 
+一个仅32M的安卓精简版wps，比如查看编辑之前抓取的公众号文章数据
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0d5d85964462e753.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 布偶
+之前分享过电脑版刷步工具，这个app刷步运动助手支持微信运动，QQ运动，支付宝运动
+https://buou.lanzouy.com/iwpxl0bft23g
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-996ad2a2f40bb537.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 古文岛
+ 这个app有各种名句，诗文，古籍，适合学生学习。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-051d91ef9012f29c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dc7dd11c170af23c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#  布偶去水印 
+短视频去水印工具分享过好几个了，这个app还支持快手，全名k歌，皮皮虾 等平台。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c588a9cce57c5e47.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# WakeUp课程表
+这个app支持上千所高校课程的自动导入，只要选课网上有课表就可以生成，适合学生朋友。
+https://www.wakeup.fun/ 适配上千所学校教务，自动导入课表，只要选课网上有课表就可以生成.
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-75e1261b8d13ff0e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3c0bdb8d8f4b9314.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 9apps
+之前分享过类似 Google Play的安卓应用商店F-Droid ，这个阿里旗下的9Apps也可以下载国际应用，下载Google版APP方便了。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6c2ffdb07a3c0643.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+上面的软件比国内版广告也少。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bb269fd896f3dad6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 锤子小说
+之前分享过阅读神器，如果不想找书源可以试试这个锤子小说，无广告含1000+书源，全网小说免费看！支持听书/小说白嫖笔趣阁，起点，飞卢，塔读.
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6d0825acdd92db6d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dc180cd4a86c0108.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 视频/音频下载器
+之前分享过基于python的命令行视频下载工具https://github.com/yt-dlp/yt-dlp [视频下载黑科技，VIP 视频也能下载](https://mp.weixin.qq.com/s/mNbZhu-UIMWXL9l23v6mvA) ，使用pip install -U yt-dlp安装或者升级，比如批量下载b站视频：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-79994063881dd62c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有基于yt-dlp 开发的这个安卓app https://github.com/JunkFood02/Seal 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5a93ce1bc2d4210b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#  笔记INKredible
+这个书写绘画软件有逼真的纸张手写输入体验，让你像纸和笔一样在手机上书写。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-151677d75c7acc2c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c9af1979a8014044.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 雪豹速清 
+这个app可查找最新文件、文件超级搜索、文件秒搜、重复文件、存储分析、全盘垃圾扫描、相册管理、相似图片查找、小图查找、截屏图片、连拍照片查找、安装包提取、应用文件夹、卸载残留、疑似缓存、根目录整理、疑似残留文件夹、文件标记功能、应用专清、M3U8视频合并、伪装视频查找、伪装图片查找、微信语音导出、文件压缩、文件解压缩等http://www.icoolby.com/  
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c871a71b206916a1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还内置了实用工具箱，比如安装包提取，M3U8 视频合并，微信语音导出，文件来源等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a57fb611933cdb95.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

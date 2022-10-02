@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-09-10
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-10-1
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -664,14 +664,6 @@ Chrome扩展地址
 Chrome扩展地址 https://chrome.google.com/webstore/detail/new-tong-wen-tang/ldmgbgaoglmaiblpnphffibpbfchjaeg?hl=zh-TW
 https://learnku.com/articles/37700
 
- # 设备模拟器
-一键模拟手机，平板，PC的设备ID，让你的电脑变成手机，前端开发者的福音。
-可以一键切换为手机、平板电脑、PC浏览器的UserAgent，方便开发者在PC上测试网站，解决网站的兼容性问题。
-![image.png](https://upload-images.jianshu.io/upload_images/17817191-fafad36e258f7412.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-有些网站限制了手机浏览模式，可以选择切换到 安卓，iOS，国产浏览器等浏览模式，这里切换到iPhone模式，效果：
-![image.png](https://upload-images.jianshu.io/upload_images/17817191-bf30ce8702403acf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-chrome 扩展地址 https://chrome.google.com/webstore/detail/%E8%AE%BE%E5%A4%87%E6%A8%A1%E6%8B%9F%E5%99%A8/ifpngllemddebnolonloogahnoopbofg
 
 # 复制图片文字
 一个不用ocr 直接复制图片中文字的扩展，可惜不支持中文https://projectnaptha.com/
