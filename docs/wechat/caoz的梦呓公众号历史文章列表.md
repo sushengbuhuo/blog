@@ -1,3 +1,33 @@
+[2022-10-22_他们所能理解的最高智慧，就是耍嘴皮子](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649870908&idx=1&sn=1a80089e8669fb50b76b0303662b3aa0&chksm=f1074851c670c147a44d4a18f4a5559b8ea9511ae34a233778e64b48551fbfde1983acb9ff3b&scene=27#wechat_redirect)
+
+文章简介:文字游戏而已
+
+文章作者:caoz
+
+[2022-10-18_全球市场下行，出海广告该怎么投](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649870904&idx=1&sn=61f4cc7864d49572b15eb1dc597790dc&chksm=f1074855c670c1437d29d2ef8691d9bd5b1ce9c49f26c64169fa489ab63995e92b0cd20dc947&scene=27#wechat_redirect)
+
+文章简介:高效配给投放资源，需要专业数据支撑。
+
+文章作者:
+
+[2022-10-17_哪里来的优越感](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649870903&idx=1&sn=fd3ec551cc6059c731d29ca9d91ea990&chksm=f107485ac670c14cf23b4e471f12b05e07e919632e4db60d408ed793575a6697d17fca2538a5&scene=27#wechat_redirect)
+
+文章简介:半夜发几句牢骚，慎点。
+
+文章作者:caozsay
+
+[2022-10-13_为什么有的人信息越多判断越错](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649870893&idx=1&sn=18314e64e192df79353ed8b88d605ad8&chksm=f1074840c670c1565c85e08b899c4b7c764dce8d65bc56559a2d58457fde765cca68e886c51a&scene=27#wechat_redirect)
+
+文章简介:关键信息可能只有一两条，但其他信息反而会干扰你的判断，哪怕那些信息都是真实的。
+
+文章作者:caozsay
+
+[2022-10-04_流量密码](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649870889&idx=1&sn=0f677dd24198a52db79d64d6f21aaf7d&chksm=f1074844c670c15237bac97be92f36f8b4098ff71cba98301084050bfa2c31fb45fffb9f9656&scene=27#wechat_redirect)
+
+文章简介:本文只有两句和主题有关的话，其他都是广告，慎点。
+
+文章作者:caozsay
+
 [2022-09-30_新加坡最近怎么了](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649870882&idx=1&sn=126143c7d6dc3072dbba8d7cfb74b5c9&chksm=f107484fc670c159d22c4d696b6fa8894010a789cbf9c87e582b94b642bc9dc504d9a32e6ed9&scene=27#wechat_redirect)
 
 文章简介:全来这边送钱，挡不住的感觉。但我觉得不太好。
@@ -316,7 +346,6 @@
 文章简介:关键词，深度
 
 文章作者:caozsay
-
 
 [2022-01-19_谈谈 跨境劳工的噩梦深坑。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649870512&idx=1&sn=ebda1052040eba6ff6b857eeaa43b499&chksm=f1074addc670c3cb5f628e1b5e9e223fdbe0f4e371c76bc97cce3fa5c2df6747d10e91db8484&scene=27#wechat_redirect)
 
