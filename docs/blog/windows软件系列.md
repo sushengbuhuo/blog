@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-10-1
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-11-5
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1589,3 +1589,110 @@ for i,j in zip(titles,voiceids):
 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-63763cd2d38748ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+# Comfy File Recovery
+一个功能强大的电脑数据恢复软件，可以找回电脑中近期被误删的文件，只要时间不是太久，大概率可以恢复https://www.aliyundrive.com/s/zAX96n4ncQQ
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b6cba6b6693881c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# terminal 
+我之前一直用的cmder [很多人问命令行是什么？有什么用](https://mp.weixin.qq.com/s/ZxalxqhL-BFxt6PBFoZK4Q)，最近安装了微软的https://github.com/microsoft/terminal ，还挺好用的，它是一款新式、快速、高效、强大且高效的终端应用程序，适用于命令行工具和命令提示符，PowerShell和 WSL 等 Shell 用户，主要功能包括多个选项卡、窗格、Unicode、和 UTF-8 字符支持，GPU 加速文本渲染引擎以及自定义主题、样式和配置，比如用python下载公众号文章，命令行里的链接可以可以直接打开，不用再复制了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-27eb31fa8ca7a650.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Yoco
+又一个百度文库下载工具[2022 最新一键下载百度网盘/百度文库/豆丁/道客巴巴/原创力文档](https://mp.weixin.qq.com/s/eix-5EzXga8gxmXkAWu5EQ)  ，可下载word，ppt，txt文档，需要登陆自己的百度账号
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8038bd3308b29408.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 淮教鞭(画笔) 
+做教程和上网课用得上  https://wwx.lanzoui.com/b08mbl9jg 密码：g18f
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2362fcbed340d2ab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 文件对比工具
+ Beyond Compare 轻松对比文件和目录差异
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2aec3c7b08ca7101.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# MyComputerManager 
+管理电脑上的快捷方式，比如删除百度网盘这个快捷方式
+https://github.com/1357310795/MyComputerManager https://wwt.lanzouq.com/ii37j07ujemd
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1276a677b2d55e23.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# PDF Editor 
+一个PDF编辑软件，可以去除水印，删除空白页面和编辑文件，如果想转换 PDF可以试试https://tools.pdf24.org/zh/creator 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bc2bbad97c689a43.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+ https://www.aliyundrive.com/s/d1g8amv4ouL
+
+# 小爱早晚报
+听小爱同学的早晚报了解下每天发生的新鲜事，数据来自凤凰fm http://m.fm.ifeng.com/fmmobile/page/free.html?pid=367750 和https://m.renbenzhihui.com/fmmobile/page/free.html?pid=456498&pf=android&v=8.6.0&s=fmf
+https://wws.lanzoul.com/i1o0L08r956b
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c7bd3f82d50dba34.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Licecap
+又一个屏幕录制GIF工具，小巧方便，可拖拉控制录制屏幕大小 https://wwn.lanzouy.com/i92J30aguv4h
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d41a16b80d4d30fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#  i4recorder
+之前分享过电脑录屏工具https://github.com/MathewSachin/Captura  ，这个体积小，界面简洁，功能简单，无需安装，支持计划任务录屏，自由设置区域和自定义录屏尺寸 https://wwn.lanzouy.com/ixQrM0agw0pe
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-65a0bffaa1789cda.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#  FastStone Image Viewer 
+之前分享过FastStone Capture，这是个图片浏览器，轻松浏览所有图片，支持幻灯播放功能和图片的转换和编辑  https://pan.lanzouo.com/b03cm2kyj
+
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-1aad5a49b503cc41.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 超级百度网盘
+ 不用登陆输入网盘链接和提取码就行了
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c20fec57e2acb2f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+点击解析
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0240c71c2b7aca37.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+开始下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2bed8e565544aadf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a28a3899244a60ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 视频录制剪辑
+然后再说视频，视频录制来源是我之前写的微博批量下载工具[一键批量下微博内容/图片/视频，获取博主最受欢迎微博，图片查找微博博主](https://mp.weixin.qq.com/s/fmboKshIIoeeB21dTBazGg)，用的工具https://mathewsachin.github.io/Captura/，抓取李健的微博内容/图片/视频：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8c0edc76288da952.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+剪辑用的是剪映https://lv.ulikecam.com/ ，语音识别字幕很好用，用小姐姐的声音代替了我的声音。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e4580ff3defdc8ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+视频效果就是这样的 ：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a401cea0f97447e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 豆丁文档下载
+打开软件[2022 一键下载百度网盘/百度文库/豆丁文档/道客巴巴文档/原创力文档，顺便分享个百度网盘活动](https://mp.weixin.qq.com/s/AB41E3BHj-Zz8CIBtUlHYw)  ，输入豆丁文档地址https://www.docin.com/p-260938994.html 即可下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-414a11450d9c62e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 豆丁/道客巴巴/原创力文档下载
+之前文章写的很清楚了[2022 最新一键下载百度文库/豆丁/道客巴巴/原创力文档](https://mp.weixin.qq.com/s/tR9J-FK_2DKnppnrBGdA4A)  ，输入文档地址即可下载，只支持免费文档。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-414a11450d9c62e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果下载失败进入软件目录执行命令行，看输出错误提示没找到chromedriver，从
+https://registry.npmmirror.com/binary.html?path=chromedriver/ 下载就好了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-976c63883a9e65e4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 抖音视频音频下载
+打开软件输入抖音主页地址https://v.douyin.com/eLhwxF2/  即可下载[刘德华开抖音了，一键下载华仔所有无水印视频](https://mp.weixin.qq.com/s/j8Py56hLt2pOyU2DRKM8Iw)  ，[分享几个视频下载神器，一键批量下载抖音视频](https://mp.weixin.qq.com/s/JYXIdEbLMiAbbCJB9QkAZQ)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0e8ac645ef13fbe4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的无水印视频和音频在download目录，支持增量下载，就是跳过已经下载过的视频。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-56e9708df3209238.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0fb32c7427281901.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+# 今日头条下载
+国庆节的时候研究了下今日头条，可以批量下载头条号的文章和微头条，以这个号为例https://www.toutiao.com/c/user/token/MS4wLjABAAAAOzbB0eTDjpbJuwzyFBZkmraO6_7sC2mdT45IwuOp1bQ/ ，下载了所有文章html，可以用我上面写的工具批量转pdf再生成一个pdf合集：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-52bb10be90a8bcef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有文章数据excel文件，包括头条文章日期，文章标题，文章链接，文章简介，阅读数和评论数等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cb402dad024ce06d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 公众号文章内容/话题/图片/封面/视频/音频下载
+输入公众号文章地址，批量下载文章里的音频效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1ab48d131d3d3840.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+批量下载视频效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fe492f552640a74c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+顺便把文章内容html也下载了，如果有bug可以向我反馈：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9d10dd8377728309.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+公众号话题下载以这个话题为例https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5NjAxOTU4MA==&action=getalbum&album_id=1681628721901830149&scene=173&from_msgid=3009294038&from_itemidx=1&count=3&nolastread=1 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a84e2dcb5982eed4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+输入话题地址下载效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7f30a8148b1e833d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-301a611dd94d1f16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+音频/视频和文章html都下载了:
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4dbc44c9f56dae74.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+下载的文章链接在文件wechat_topic_list.txt，如果第2次下载会跳过已经下载过的文章，效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f501e34745cb8486.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+话题里的纯音频也支持下载，这次我用golang重写了[golang 开发入门教程，顺便写了个公众号批量下载工具](https://mp.weixin.qq.com/s/nA6urAhh5inCKzQVyvYGXg) ，输入话题地址的下载效果如图，990个音频很快就下载完了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1b581bef92536024.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e5d2e1af3475f045.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1a251dcedf9cdfa8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+音频地址保存在文件wechat_topic_audio_list.txt ，如果第2次下载也会跳过已经下载过的音频，效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-749a359c43afbd25.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-10-1
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-11-5
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1630,3 +1630,79 @@ https://chrome.google.com/webstore/detail/i%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6/
 https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff 几乎支持所有视频和音频流媒体站点，包括Youtube，Netflix，哔哩哔哩，腾讯视频，百度网盘， 爱奇艺等。
 https://microsoftedge.microsoft.com/addons/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/mjhlabbcmjflkpjknnicihkfnmbdfced?hl=zh-CN
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-a2f43d3e0f28466c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 划词翻译
+浏览器扩展https://github.com/hcfyapp/crx-selection-translate ，支持谷歌、deepl、百度、腾讯等 9 个国内外主流翻译源，可用于全文翻译，能对比、朗读、复制翻译结果，能在 PDF 使用，支持辅助键、快捷键、悬浮取词。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-850804411b92a880.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+作者在博客中也提供了解决方案 https://hcfy.app/blog/2022/09/28/ggg，来源https://github.com/hcfyapp/google-translate-cn-ip 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d62f205af8d68b7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2b9003934f9ee42f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Chrome同步助手
+最后分享个神器扩展Chrome同步助手https://wwn.lanzouy.com/i1s7R0azb30f  https://chrome.google.com/webstore/detail/chrome-sync-helper/gbkepcmpjglfonklehdgjnimebhnmlel/related?hl=zh-CN 
+它可以实现Chrome账号同步和扩展自动更新， 还能直接下载谷歌商店扩展，懂的都懂，这样再也不用为安装插件找第三方插件市场了  。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-47309f0ca5018c12.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# uBlacklist
+这个扩展用来过滤谷歌百度搜索结果的中文垃圾站点
+https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe/ ，方便你搜索的时候不看某些垃圾网站节省时间。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e13d98c331e4f800.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+配合这个中文搜索结果黑名单https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist 效果更佳：
+![image.png](https://upload-images.jianshu.io/upload_images/17817191-11c9f9c35d267175.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+底部可以看到 `Some results were removed by the Search Blocklist Chrome extension`
+点击show可以看到隐藏的搜索结果，不想block后点击 unblock 。
+![image.png](https://upload-images.jianshu.io/upload_images/17817191-4e4f3c9b84e41562.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+对百度搜索同样生效：
+![image.png](https://upload-images.jianshu.io/upload_images/17817191-af776ecc892dcf06.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+类似的还有油猴脚本 https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites
+# 基于书签的新标签页
+这个扩展将你收藏夹的书签展示在新标签页https://xiaoshu.app/  https://chrome.google.com/webstore/detail/%E5%B0%8F%E8%88%92%E5%90%8C%E5%AD%A6-%E5%9F%BA%E4%BA%8E%E4%B9%A6%E7%AD%BE%E7%9A%84%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/eldcinofoklpfhaanlhmkmadehfgcnon 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-43d828775c648e40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果标签太多可以用这个管理https://chrome.google.com/webstore/detail/toomanytabs-for-chrome/amigcgbheognjmfkaieeeadojiibgbdp 其他人的书签导入https://store.chainwon.com/bookmark/selected
+# 摸鱼提醒
+这个扩展帮助你减少摸鱼的时间和频率，一旦访问指定的摸鱼网站，它就会自动统计浏览时间，达到门槛就会弹出提醒你 https://github.com/OBKoro1/stop-mess-around  https://chrome.google.com/webstore/detail/stop-mess-around/gbjbkekbbjbieijpebieifkmahlagncm/related?hl=zh-CN
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0daf6020e686c18a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+适当摸鱼提醒：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fd3cc4ca3b798cdd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 右键搜图
+chrome浏览器自带右键搜图功能，不过只能使用谷歌搜索，这个扩展可以支持bing，yandex，baidu等搜索引擎https://github.com/dessant/search-by-image https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci/related
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d2ba01fa4c4ce0d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的还有这个油猴脚本 https://greasyfork.org/zh-CN/scripts/2998-search-by-image
+# 生成目录
+这个扩展自动为网页生成目录，方便浏览和跳转 https://github.com/lcomplete/smart-toc
+https://chrome.google.com/webstore/detail/simple-outliner-%E6%99%BA%E8%83%BD%E7%BD%91%E9%A1%B5%E5%A4%A7%E7%BA%B2/ppdjhggfcaenclmimmdigbcglfoklgaf ，以这篇文章为例[整理下苏生不惑开发过的那些软件和脚本](https://mp.weixin.qq.com/s/jpnqgxbeUw-lF0gLUITuGQ)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a0bd6db72762965c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的还有这个油猴脚本 https://greasyfork.org/scripts/406337
+# 自动剪切板
+这个扩展可以选中文字自动复制，破解禁止选择、禁止复制，支持各种文库和网站，还可以查看剪切板历史记录 https://github.com/wangmeijian/auto_clipboard
+剪切板数据仅保存在您的浏览器本地，不会上传到服务器。
+https://chrome.google.com/webstore/detail/%E8%87%AA%E5%8A%A8%E5%89%AA%E5%88%87%E6%9D%BF/inhnhgihdkbalmmojcbpalkkmhkmcdjm   
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0b496c029007f62d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+类似的破解禁止选择常用https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc
+
+# 获取扩展源码
+如果想自己学习写扩展插件，可以使用这个扩展看看其他扩展的源码 https://github.com/Rob--W/crxviewer ，它还有网页版https://robwu.nl/crxviewer/ ，输入扩展id就行了https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-04970e00debc7809.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Clearly Reader
+一款让你爱上阅读的扩展https://clearlyreader.com/  https://chrome.google.com/webstore/detail/clearly-reader-your-missi/odfonlkabodgbolnmmkdijkaeggofoop ，为网页生成容易阅读的大纲，免受广告、浮层的打扰，还可以下载为 pdf 和markdown ：
+```js
+* 阅读视图：简单干净容易阅读、全屏模式
+* 样式丰富：简单主题、字体大小和页面控制
+* 语音朗读：可以朗读页面内容
+* 导出功能：支持DOC文档、打印PDF、Markdown文件
+* 内容解析：提取大纲和页面链接方便快速访问
+* 文本菜单：翻译文本和段落、查找WIKI、复制文本
+* 快捷键：Alt/Option + R
+```
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d2049217426846b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+导出效果不错：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-13620e5ff2f6af79.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 网盘全网搜索
+之前分享过很多网盘资源站，有了这个扩展可以一次性全网搜索百度网盘，阿里云盘的资源，支持自定义搜索引擎https://chrome.google.com/webstore/detail/%E7%BD%91%E7%9B%98%E5%85%A8%E7%BD%91%E6%90%9C%E7%B4%A2/appdbibjgbbpmfolojmmmefbemdpnbea/related?hl=zh-CN 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-14dd3c4c002e1fc3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

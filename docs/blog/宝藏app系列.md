@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-10-1
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-11-5
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1221,3 +1221,129 @@ https://www.wakeup.fun/ 适配上千所学校教务，自动导入课表，只�
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c871a71b206916a1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 还内置了实用工具箱，比如安装包提取，M3U8 视频合并，微信语音导出，文件来源等。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-a57fb611933cdb95.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 实用大师
+https://wwn.lanzouy.com/i8lXE0d2hnyf 分为四大版块，分别是「影视」、「音乐」、「工具」、「我的」。 https://www.feijix.com/s/1pDeCRU  
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-4fc656c49788478d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b94f8750d3ccef83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有电视直播，去水印，童年游戏，音频提前，下载视频号等功能。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d648d6fa68464a6c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# autojs
+用脚本前先在手机设置 应用 权限管理里开启无障碍和悬浮窗权限。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-70e11f7c7dab5272.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+无障碍服务 设置  辅助功能 无障碍 下载服务里选择对应app开启
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a5e1f2f8d7296c8c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+然后打开autojs 这个app，新建或者导入脚本文件。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4059e2ea18378902.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后点运行就是。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4a335230bc742f52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e18c7a25f8b3ab4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+脚本启动后就可以帮你自动完成任务了，成功获得8000金币。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5c77e7e4a4cf1988.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cad5856341a710df.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+进入
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-00d44629352b12e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-510a0e3b7c7f9e27.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+ 将脚本文件保存到手机的/sdcard/脚本目录。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b1c81d7a96960f5f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+这个聚合签到脚本可以一次性执行多个APP的签到，薅羊毛不在话下，目前已实现的功能有：
+```js
+京东京豆签到
+蚂蚁积分签到
+全家-Fa米家签到
+米哈游-原神签到
+淘金币签到
+叮咚签到
+微博积分签到
+芭芭农场签到
+手机淘宝现金签到
+```
+使用脚本前先在手机设置->应用->权限管理里开启无障碍和悬浮窗权限。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-70e11f7c7dab5272.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+点击可视化设置管理需要签到的脚本。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1f5c5ed1fd781f31.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a4823d2844b552cd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以设置每天固定时间执行脚本，实现自动化。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-62f1e6e52530b93f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后点main开始执行脚本。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b139afa6a3fce20a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+以京东签到为例。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0958601a71190a7a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有个脚本支持蚂蚁森林自动收能量，刷微信运动支付宝步数。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d64ffd8400dc9f46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-99327f98910d59dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a0e5bdc42397f971.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还可以设置账号密码和修改的步数范围。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cdb3c5d46ce0c933.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-66ae7e8babd6e0b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+进入util目录可以选择脚本执行。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1a4d8e9f1b5b0762.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 疫情数据查询
+这个app方便查看每天的疫情动态，还有网页版http://edh5.tttiti.com/
+https://yangfugui.lanzout.com/b00vmtetg
+密码:72iv
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5a03105a0b7111d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 集美美图
+一个简单纯粹主打每日高清美女写真纸精选的壁纸app，每张美图均为人工精心挑选和审核，每天只更新10张，我们觉得壁纸不在多而在精，我们不用机器操作，也不用算法推荐，我们希望做一款精致、克制、纯粹的超高品质应用。
+https://jimeiapp.zhangbingdev.com/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-105b92656b57ae3a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4138c8d43ec2b7f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 万象灵动岛
+一个如ios16状态灵动岛效果的APP，支持自定义数值，透明度，消息交互，隐藏最近任务栏https://www.coolapk.com/feed/39316355
+ https://dmla.lanzouv.com/b05oqtz2h
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3ce8bc6b3bc38415.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 喵上漫画
+一个免费看全网漫画的app，资源超清超全，国漫、耽美、日漫、韩漫、美漫、福利漫 一应俱全。可以对比同类型的如36漫画，风车动漫，漫酷阅读之类的漫画app
+https://wwm.lanzouy.com/msmh-rjz https://book.msmh.app/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-83b3aac2ea1fa3a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-13851bf6fe4188de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d9adbd64ac880d16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 小萌 GIF
+一个视频转 GIF小工具 https://github.com/tasy5kg/CuteGIF ，支持快捷导入相册、文件管理器和QQ聊天视频，支持旋转、裁剪、截取视频 ，支持调节GIF播放速度、分辨率、帧率和色彩品质。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-34a8b1c2535b774c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 超级阅读管理器
+
+一个极简超级阅读管理器，能支持各种小说，漫画，txt，pdf等格式文件预览和阅读，也能高效管理自己的书籍和书源 https://xiaokusha.oss-cn-beijing.aliyuncs.com/soucehelp_2.json 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cf2450de6bba96da.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bd20abd51cb5bd6f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fc9dc0981a5c7061.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 千岛小说 
+一个安卓端看手机小说app，也是个小说种子搜索神器，汇集全网小说资源，自带塔读、笔趣阁、同人、零点，飞卢等上千书源，无广告免费看。你喜欢的小说都能在这里找到，直接开启超棒的阅读体验 
+https://wwt.lanzouy.com/kav9ah0e183w
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1c76dd7b1ae30d3d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-37da88b9f5b28e8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+开始阅读
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cf097380c166804d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 轻下载
+安卓平台下载网页中的视频，图片，音频文件，且支持公众号视频号 / 微博视频 / 小红书 / 抖音等平台无水印下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-44d7779ccabbc6ec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bfac75e2a1d52396.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+https://wafer-1253804062.cos.ap-guangzhou.myqcloud.com/mini_load/qing_share.html https://www.123pan.com/s/HQeA-TA4Sh
+# 证件照极拍
+这个app有手机版和微信小程序版本，选择对应证件照规格生成即可，包含职业形象照、会计资格证、护士资格证、驾照、简历、教师资格证、律师资格证、签证等  https://pan.lanzoui.com/b03dbweih
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-adf6fa88737259f2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9434a4bd989c9636.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 数学软件 microMathematics
+这个app可以生成自然可读的形式执行数学计算，还可以创建和管理自己的交互式公式集合 
+https://wwp.lanzouj.com/ie0Fx0ch8tpc
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3452904f394fdc57.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-22e77b5c8de72c80.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 1DM+
+pc端的idm应该都用过，这是安卓端的idm，一个超快的全能下载神器。 
+https://wwn.lanzoue.com/iviLo0efyskh
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-28797053c85e227a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b56fd4da45c3bf9f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 秒看电视
+之前分享过电脑端的，这个app也可以看电视直播，内置了上千套全国电视频道，包括央视和各个地区的地方台，从标清到高清，从免费频道到付费频道，全部一应俱全。 https://www.lanzoup.com/b0dam1l7a Android⠀TV⠀Apps https://pan.lanzoux.com/b0f1944aj 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3eff5910ebe940e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
