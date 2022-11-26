@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-11-5
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-11-26
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1696,3 +1696,131 @@ https://registry.npmmirror.com/binary.html?path=chromedriver/ 下载就好了。
 
 音频地址保存在文件wechat_topic_audio_list.txt ，如果第2次下载也会跳过已经下载过的音频，效果：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-749a359c43afbd25.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+输入文章链接就行，效果如图：https://wwk.lanzoue.com/iFzB60glvyra
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-178089a1f7bf3838.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+为了方便查找文件，这次把下载的音频保存在audio目录，视频保存在video目录，封面保存在cover目录，图片保存在images目录，文章内容保存在html目录。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-358c100819018672.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7ad427e4afdb8023.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+另外还有文章里的腾讯视频地址解析，由于直接下载腾讯视频比较麻烦，所以保存到excel文件里，可以再复制视频链接用lux下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-efd07cf243860652.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+代码如下：
+```js
+vids = re.findall(r'vid=(wxv_\d{19})',res.text)
+    videos = re.findall(r"source_link\: xml \? getXmlValue\(\'video_page_info\.source_link\.DATA\'\) : \'http://v\.qq\.com/x/page/(.*?)\.html\'\,",res.text)
+    if not os.path.exists('video'):
+        os.mkdir('video')
+    # time.sleep(2)
+    for i in videos:
+        print(f'腾讯视频地址：http://v.qq.com/x/page/{i}.html')
+        with open('视频链接合集.csv','a+') as f4:
+f4.write(date+','+trimName(title)+','+f'http://v.qq.com/x/page/{i}.html'+','+article_url+'\n')
+    for vid in vids:
+        url = f'https://mp.weixin.qq.com/mp/videoplayer?action=get_mp_video_play_url&preview=0&vid={vid}'
+        data = requests.get(url,headers=headers,timeout=1).json()
+        video_url = data['url_info'][0]['url']
+        video_data = requests.get(video_url,headers=headers)
+        with open('视频链接合集.csv','a+') as f4:
+            f4.write(date+','+trim(data['title'])+','+video_url+','+article_url+'\n')
+        print('正在下载视频：'+trim(data['title'])+'.mp4')
+        with open('video/'+date+'_'+trim(data['title'])+'.mp4','wb') as f:
+            f.write(video_data.content)
+```
+第2次下载会跳过已经下载过的文章，有什么问题可以给我反馈。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7bb2e741fadb59df.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# html转pdf
+
+先打开https://wkhtmltopdf.org/downloads.html 下载安装加入环境变量，然后在公众号苏生不惑后台回复 `公众号`获取我开发的html2pdf.exe执行就可以了，批量转换后的pdf文件在pdf目录。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4053f2d2b4c80501.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+最后运行pdf_merge.exe合成一个pdf文件，效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-554875ae31d6f973.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+文件名为书签，点击会跳转对应文章。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-eaa04079fc26734c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 公众号页面模板下载
+比如支付宝这个新服务模板页面 http://mp.weixin.qq.com/mp/homepage?search_click_id=4729954190967471756-1667700484579-6390692315&__biz=MjM5NTAwMjAyMA==&hid=1&sn=f3f9da8482c535187493745b2fb9aafe&scene=18#wechat_redirect 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bd4e8af03380295d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7b890b08d99d3b6b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b8609151c1b0ed0d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5e26a48bac86d906.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+第2次下载会跳过已经下载过的文章：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fa40051a3f271380.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+再执行html2pdf.exe会将当前目录html文件批量转pdf。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-504767631f47973f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9bcc4150449bea90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+执行pdf_merge.exe再将所有pdf文件合成一个pdf文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9b981418ca4dad4e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-338930f5902858cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+还生成了一个文章列表excel，包含文章日期，文章标题，文章链接和文章封面。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-504732d732704ecd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 文档下载docdown
+下载后将docdown.exe加入环境变量https://github.com/kerm-me/docdown https://www.123pan.com/s/czw9-Le3WA ，不会的看我之前文章[很多人问命令行是什么？有什么用](https://mp.weixin.qq.com/s/ZxalxqhL-BFxt6PBFoZK4Q)，然后输入 docdown 文档地址就行了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d03165ac88091bc0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+原创力的ppt也能下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-92b1cc6fd91a9a18.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 洛雪音乐助手
+之前分享过很多音乐软件，陆陆续续都挂了，唯有洛雪音乐助手还能用，9月份还更新了一次，有了这个软件就能听全网音乐了，而且支持Windows，mac和安卓，在公众号后台对话框回复 `音乐` 获取下载地址。https://github.com/lyswhut/lx-music-desktop
+
+使用很简单就不多说了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5a097bf17b2360bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+支持搜索和在线听歌。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-31ed482b54b7444f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-050a4ba62754571d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+电脑端免安装直接使用，比如搜索周杰伦。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-341d739041fe3247.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+也可以听排行榜的新歌。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e2c54ac2d1d1e2aa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+以及歌单。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fdfb7e3f4731eaf8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 如果要下载歌曲在设置里开启下载功能。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bc96c8428683ecf3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 搞机工具箱
+一个利用 adb 控制安卓手机的玩机工具，可以安装包提取，强制卸载系统软件，强制禁用(冻结)系统软件， 获取包名 ，清除数据，一键启动，软件配置信息，安装软件等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5438875121ba88c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 顽固文件强制删除
+有时候删除文件提示无权限，用这个搞定。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-57a56abbd8519b8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 万能文件阅读器
+这个软件默认支持打开数百种文件格式，包括word, excel, PDF, 图片，视频文件等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-168eda086f3cdfdf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 魔方图标大师
+这个工具可以实现图标提取、图标替换、图标格式转换和图标缓存修复，还支持一键替换系统图标 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ee8646ee83631a91.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 二维码识别器
+这个工具可以批量识别二维码，比如这个公众号二维码其实是个地址 http://weixin.qq.com/r/DvM1MPE2p6lrYe3925K  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-82538c921911a12a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# webp批量转换
+这个工具可以批量转换webp为jpg,png等图片格式。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f967a7b33235fd75.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 文件时间属性修改
+这个工具可以很方便的修改文件创建时间，修改时间和访问时间。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-90ee58e5681ac949.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9c94940f76a34b4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 定时计划
+一个非常实用的多功能定时计划工具，除了基本的定时关机、自动提醒，还有电脑重启、锁定、睡眠、音量、播放声音等。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5ac238f7b46072d6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 图片批量压缩
+这个工具可以在尽可能保证图片质量的情况下，将图片压缩到指定大小，例如200KB。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fc744565de7acac4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### gif动图制作
+非常精简的录制GIF小工具。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e0a37456f5975fa3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### QQ截屏独立版
+有了这个工具不登陆qq也可以使用qq的截图功能了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dc3849fc3a0e436d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

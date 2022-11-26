@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-11-5
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-11-26
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1347,3 +1347,10 @@ https://wwn.lanzoue.com/iviLo0efyskh
 之前分享过电脑端的，这个app也可以看电视直播，内置了上千套全国电视频道，包括央视和各个地区的地方台，从标清到高清，从免费频道到付费频道，全部一应俱全。 https://www.lanzoup.com/b0dam1l7a Android⠀TV⠀Apps https://pan.lanzoux.com/b0f1944aj 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-3eff5910ebe940e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+# 歌词适配
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-376d25781cf8552a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+支持搜索，在线播放和下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dfe4c47b82d6763d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ca18bec8daaf2781.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+easy163复活版https://github.com/ndroi/easy163

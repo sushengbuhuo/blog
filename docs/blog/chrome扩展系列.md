@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-11-5
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-11-26
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1701,8 +1701,96 @@ https://chrome.google.com/webstore/detail/%E8%87%AA%E5%8A%A8%E5%89%AA%E5%88%87%E
 * 快捷键：Alt/Option + R
 ```
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-d2049217426846b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-导出效果不错：
+
+以这篇公众号文章[更新版：整理下苏生不惑开发过的那些工具和脚本](https://mp.weixin.qq.com/s/u9PTjbR5B5-od9fC_lyXLA)为例，右键 open Clearly 可以展示出文章目录，文章里所有链接，文章阅读时间，字数。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8062687cb31cf744.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以自定义喜欢的主题：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fe224cb522bff11f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+朗读文章可以设置速度。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b40247149a2cc89a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载可以导出pdf，word和markdown。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-84b7a96ed95a173b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+导出word效果不错：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-13620e5ff2f6af79.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+也可以直接复制为文本，markdown，和html。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-76c59a335bb20577.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+选中文字可以翻译，复制，朗读，搜索。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-529433248503152b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # 网盘全网搜索
 之前分享过很多网盘资源站，有了这个扩展可以一次性全网搜索百度网盘，阿里云盘的资源，支持自定义搜索引擎https://chrome.google.com/webstore/detail/%E7%BD%91%E7%9B%98%E5%85%A8%E7%BD%91%E6%90%9C%E7%B4%A2/appdbibjgbbpmfolojmmmefbemdpnbea/related?hl=zh-CN 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-14dd3c4c002e1fc3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 强悍搜索
+这是个人性化、快速选择文字的多引擎搜索扩展https://github.com/w3cTim/strong-search  https://w3ctim.com/strongsearch/ ，支持划词搜索、菜单分组、快速复制；支持浏览器多设备同步配置；默认保存多种常用搜索引擎，支持自定义，快速拖拽排序；可导出、导入配置文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cdd1d6b60e335978.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+选中文字即可在不同网站搜索，也可以在选项里自定义你要搜索的网站。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5e1ee23cbbf407ec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 搜索引擎快捷跳转
+这个油猴脚本可以很方便的在不同搜索引擎之间跳转,有可视化设置菜单,能更友好的自定义设置，不用切换网站搜索了，跟上面的扩展类似，脚本地址 https://greasyfork.org/zh-CN/scripts/27752
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-52c5954a4daad601.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 获取百度搜索结果真实链接 
+不知道百度为什么不像谷歌一样直接显示搜索结果链接，可能为了更好统计点击率，这个油猴脚本可以直接显示百度搜索结果真实链接https://greasyfork.org/zh-CN/scripts/454110
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d0623d6edc3cf1ed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+在油猴管理面板增加脚本，复制以下代码就行了：
+
+再搭配这个chrome扩展https://chrome.google.com/webstore/detail/washbaidu/bhiodmiooehmkihcpibmohdpmblnmhdb ，百度搜索彻底干净了，它可以优化百度搜索界面，移除过度广告，消除注意力干扰，支持样式主题，提升百度体验 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ba17269dbe9897cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 搜索过滤
+这个扩展用来过滤谷歌百度搜索结果的中文垃圾站点
+https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe/ ，方便你搜索的时候不看某些垃圾网站节省时间。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e13d98c331e4f800.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+配合这个中文搜索结果黑名单https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist 效果更佳：
+![image.png](https://upload-images.jianshu.io/upload_images/17817191-11c9f9c35d267175.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+底部可以看到 `Some results were removed by the Search Blocklist Chrome extension`
+点击show可以看到隐藏的搜索结果，不想block后点击 unblock 。
+![image.png](https://upload-images.jianshu.io/upload_images/17817191-4e4f3c9b84e41562.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+对百度搜索同样生效：
+![image.png](https://upload-images.jianshu.io/upload_images/17817191-af776ecc892dcf06.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+类似的还有油猴脚本 https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites
+搭配这个终结内容农场效果更好，这个扩展可以标示内容农场链接，防止误入内容农场网站，并封锁内容农场的广告与恶意程序，扩展地址https://chrome.google.com/webstore/detail/content-farm-terminator/lcghoajegeldpfkfaejegfobkapnemjl/ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-081b0911075e788a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ad5ebcdb982bb869.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+针对百度搜索的过滤可以用这个脚本https://greasyfork.org/scripts/427392 ，另外可以再配合这个去广告脚本https://greasyfork.org/zh-CN/scripts/406336 ，使用效果对比如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ad4579b3415d9876.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4d9872ed9b8b53e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+如果想屏蔽某个网站可以自己编辑代码添加上去。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bc80b10a6753150f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+# 搜索去广告
+这个油猴脚本可以快速去除百度结果页的顽固广告和右边栏，适当放大了界面，采用居中布局，美化了字体等样式，页面显示更加美观，支持随时开启/关闭黑色主题 ，脚本地址 https://greasyfork.org/zh-CN/scripts/406336
+https://greasyfork.org/zh-CN/scripts/420276 这个油猴脚本可以屏蔽谷歌广告、百度广告、知乎广告、隐藏谷歌和百度搜索增强百度搜索结果的各种广告。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-eeab4087e79f55bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c49f2e27eb1adb73.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+去除网页广告可以使用广告终结者扩展https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl?hl=zh-CN   ，它可以清除网页上的浮动广告，购物广告，恶意弹窗，跟踪代码，让你浏览网页更快更清爽， 支持绝大多数浏览器。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7bfc3ccbed2dbd16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 图片搜索
+之前分享过[玩转谷歌/百度搜索](https://mp.weixin.qq.com/s/_QvGRwtR4J5o2luMrwATEA) ，https://greasyfork.org/zh-CN/scripts/2998-search-by-image 这个油猴脚本集合了谷歌，百度，bing，搜狗，360等搜索引擎， 按住快捷键（默认设置为 Ctrl 键），同时在图片上点击鼠标右键，在菜单中选择搜索引擎搜图。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6d6150411aea392d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+新的搜索引擎也可以在设置里添加。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-27d52ad87d455a97.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+对应的chrome 扩展有 search-by-image ，它集成Google， Bing， Yandex，Baidu，TinEye等5个以图搜图搜索引擎， 扩展地址https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci/related ，安装Chrome扩展方法见之前文章[上不了谷歌如何安装 Chrome 扩展？](https://mp.weixin.qq.com/s/xC9K_z7zpmAIEzUK6s1x3w) 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8830855529854902.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+安装扩展后右键图片可以选择对应搜索引擎，或者全部搜索引擎查找。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-877274016c381822.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# ArchiveWeb.page
+
+这个chrome扩展https://github.com/webrecorder/archiveweb.page
+https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd ，它可以将网页完整的录下来，保存下来是高保真度的网页存档，包括页面交互特效，使用起来和联网一样 ，最近更新时间2022年11月25日 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fc0811e43f1f4e92.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1ee14b7a6fc0715a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+保存后查看效果如图，即使文章被删也能看。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d31a0dd4ab207517.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
