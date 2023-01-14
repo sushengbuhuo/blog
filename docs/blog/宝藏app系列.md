@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2022-11-26
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-1-15
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -625,7 +625,10 @@ idm神器应该都用过，之前分享过idm下载百度网盘文件[2022 年�
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-795d97de187e55c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 打开网页视频点右上角进入即可抓取视频并下载，更多功能就不一一演示了。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-d39f527443c02d9c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+打开网页点右上角进入即可抓取图片和视频并下载 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b56fd4da45c3bf9f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+资源嗅探功能很好用。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d39f527443c02d9c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # 火龙果影视
 每天同步更新全网热门影视资源，播放速度快，高清视频无广告，支持弹幕，倍速播放和TV投屏，在公众号后台对话框回复关键词 `影视剧` 获取下载地址。
 
@@ -1354,3 +1357,135 @@ https://wwn.lanzoue.com/iviLo0efyskh
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-dfe4c47b82d6763d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-ca18bec8daaf2781.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 easy163复活版https://github.com/ndroi/easy163
+
+# 搜题神器
+一个免费的搜题软件，有1亿+题库，题库还在持续更新，可以拍照搜题或者直接搜索。https://wwuq.lanzoum.com/iNaGp0krdjyj
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0152c8c1410bcacd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ed6fefd05022806d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 小米白噪音
+一个提升专注和助眠的app，有多种来自大自然的声音，帮助睡眠，减轻压力。 https://wwuq.lanzoum.com/iHPFw0kv3o0j
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4578467468a242f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+也可以自定义。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f753288a4ee28ef4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 混合盘
+这个app聚合搜索多个网盘资源，可从数十个网盘搜索网站中检索出你需要的资源，app非常简洁，可选中不同搜索来源。https://wwuq.lanzouf.com/ij2ke0iz36tc
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f3e4a2b9c38707d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+直接显示网盘地址，还会检测资源有效性。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-77b64dfbfdca1777.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还可以从搜索引擎搜结果。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8d607b7c07768f2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 手机应用统计
+统计手机app的使用时间，启动次数，每天使用情况时间轴，还支持设定时间通知提醒，来看看你的时间都去哪儿了。https://wwuq.lanzoue.com/inO9i0jjnrji
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b25cb7b3f46cb03d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+每天的使用时间：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0dc84bf49b7e3c2e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+每个时间点启动的app：
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-742adf27ae703b98.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+每个app的启动次数：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5812794b5a888c32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bad181062eb11daa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以设置app的使用时间，超过时间通知你。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4ea57640a03e66d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+使用数据统计：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e913edd68d4c1891.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 大师兄影视
+之前分享过的很多追剧app都挂了，这个无广告版的大师兄影视你用得上，有影视剧，综艺和动漫等。https://wwuq.lanzoum.com/inPiM0kv3wjg
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-938cdfee8c92dc99.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8287d2b5d099323d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 汉字魔法
+之前抖音上很火的一个烧脑游戏app 。 https://wwuq.lanzoum.com/iluQn0kv36wd
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5831acea41db919c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1be336b3df7b29ca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 看刊宝
+可以看读者等杂志报刊的app 。 https://wwuq.lanzoum.com/iTwiJ0kv3b3e
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8dedc58c9c1dacc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 微信键盘
+最近微信又发新版[微信团队邀请开发者参与内部体验（安卓微信 8.0.31）](https://mp.weixin.qq.com/s/9hejf2XcK26hF-f2SGiD_w)   https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/android_exp__index&wx_header=0 ，更新了几个实用功能，值得升级下：
+```js
+可以提取和翻译图片中的文字内容。
+邀请朋友进群时可以分享群里的聊天记录。
+群主或群管理员可以将群里的消息置顶。
+```
+最近微信上线了微信键盘输入法http://type.weixin.qq.com/ ，可语音转文字，智能推荐影视音乐，拼写检查，智能拼写等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0f8015dc19cfad33.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+不过AI语音输入更推荐讯飞输入法https://srf.xunfei.cn/ ，语音输入1分钟400字，支持粤语、四川话等25种方言。 
+# 洛雪音乐助手
+听全网音乐用这个就够了。 https://www.lanzoui.com/b0bf2cfa 密码 glqw
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5a097bf17b2360bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+支持搜索和在线听歌。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-31ed482b54b7444f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-050a4ba62754571d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+电脑端免安装直接使用。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-341d739041fe3247.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 布丁扫描
+它是个集文档扫描、文字提取、证件扫描、表格识别、文档管理等功能的扫描软件。扫描后可智能切边、矫正，生成高清文件，还能去除屏幕摩尔纹、去阴影、色彩增强等，支持图片、PDF等多格式无水印导出。精准提取图片文字，一键复制导出，助你快人一步，一键扫描证件生成电子版，A4纸等比例打印，轻松办理各种业务，精准提取图片表格，一键导出Excel，编辑分享更轻松，文档精准识别、矫正、调色，极致效果一气呵成，识别准，处理快，无广告，无水印https://www.budingscan.com   https://wwuq.lanzoue.com/ihAOj0iz4x7i   ios版本https://apps.apple.com/cn/app/id1626815079
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4ec5b76be08454e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-777a365df6745701.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+识别图片里的文字效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9ace1b4ec258d694.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+扫描后可二次编辑：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0ae0756c988bc182.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有ai工具箱：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-84cfdd8de0bdef07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+顺便分享个更精简的全能扫描王（大小不足10M）https://wwuq.lanzoue.com/ieUVR0iz4xja，可以扫二维码，拍照识字，拍照翻译，身份证识别等功能。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6d79d4531bbc7ba6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 活动助手
+打开活动助手app后先开启无障碍，勾选京东炸年兽或者芭芭农场开始运行。https://wwuq.lanzoue.com/i0vx40jjqb5g
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8e7daaa148da0402.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果提示无法今日做任务界面，点击右下角做任务进入。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-182f5ec02eedd6c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+开始自动完成任务了，成功获得7000爆竹。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-19b1f0cbef18a5e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-eddb688ef0fe0ab6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+成功升级lv0会员。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-60c362a7684aab12.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 混合盘
+这个app聚合搜索多个网盘资源，可从数十个网盘搜索网站中检索出你需要的资源，app非常简洁，可选不同搜索来源。https://hunhepan.com 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f3e4a2b9c38707d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+直接显示网盘地址，还会检测资源有效性。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-77b64dfbfdca1777.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还可以从搜索引擎搜结果。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8d607b7c07768f2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 资源帮 
+
+这个App 是款轻量级的资源搜索工具，内置海量阿里云盘资源。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-062ce03690e52916.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+支持一键唤醒打开阿里云盘APP播放和保存网盘资源。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4a5d57bf30b579d9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 奇妙搜索
+这个app聚合了 30多个资源站点的资源，包括磁力、网盘、软件、影视、音乐等。https://magicalstory.lanzout.com/s/magicalsearch http://www.magicalsearch.cn/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8cd8c38ea471e72d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2b258fa1b4e87260.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+网页嗅探功能里直接输入网页地址，它会自动将图片、视频、音频和文件嗅探出来，并提供下载链接：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0d642167f0c950f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 阿里云盘小程序
+我经常清理微信缓存，但是清理完后聊天记录里的文件、图片都过期了，可以用阿里云盘小程序先保存文件后清理，打开小程序登陆账号点击导入微信文件，选择要导入的群聊或者聊天，可以一次性导入100张图片。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d3a8c6ef1f04c508.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3c6d08f5ca6072e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+保存到阿里云盘的图片可以查看原图，下载和转发给好友。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1ec25fdc6df3f786.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+接下来再说说pc端微信的更新 ，很奇怪升级总是失败，最后还是去https://pc.weixin.qq.com/ 下载安装包手动更新的。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e351ab6c156e3689.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7b09ce940952a829.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 短视频下载器
+之前分享过很多抖音视频下载工具[一个顶十，全能软件来了](https://mp.weixin.qq.com/s/EMkevmCy8d1DZTeBmxlZgQ) ，这个工具可下载单个视频 https://v.douyin.com/eLXBnJE/  和用户视频 https://v.douyin.com/eLhwxF2/ ，支持Android、Windows、Macos、IOS等系统 https://github.com/LuckyLi706/short_video_spider_client
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5d6e774361edb67d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+这是电脑端下载效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-706910ee7679ea3e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的还有python开发的抖音去水印批量下载用户主页作品、喜欢、图文、音频 https://github.com/Johnserf-Seed/TikTokDownload
+

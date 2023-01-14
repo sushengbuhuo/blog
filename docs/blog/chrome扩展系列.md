@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2022-11-26
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-1-15
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -385,6 +385,7 @@ Chrome扩展地址 https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%
 ![image.png](https://upload-images.jianshu.io/upload_images/17817191-4f4c94288819118a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 下载地址[https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko)
+类似的还有 Fatkun图片批量下载https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf ，它可以找出当前页面的所有图片，提供按分辨率、链接等筛选图片下载。
 # 谷歌访问助手
 这个上谷歌搜索必备 
 ![image.png](https://upload-images.jianshu.io/upload_images/17817191-e0c8dc4074b512e4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1793,4 +1794,79 @@ https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldob
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-1ee14b7a6fc0715a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 保存后查看效果如图，即使文章被删也能看。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-d31a0dd4ab207517.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 文字转语音
+微软有个在线的文字转语音页面 https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/，可以选择语言和语音类型，我比较喜欢晓晓这个女声，如果想下载转换后的音频可以安装这个扩展 https://chrome.google.com/webstore/detail/microsoft-text-to-speech/dplnecggiofdkdcagdkjebneaonfhbbb ，先点播放后点下载 ：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4960208e3c9bf916.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Clearly Reader
+用了这么多保存网页的工具，还是Clearly Reader这个扩展好用https://clearlyreader.com [一个chrome扩展脚本还你清爽体验](https://mp.weixin.qq.com/s/QFnPWFQwDxNGg8hU8CYOrw)，它可以提供更好的方式阅读/朗读文章，增强网页功能：复制、翻译、隐私搜索，导出PDF、DOC和Markdown等各种格式。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-84b7a96ed95a173b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+导出word效果不错：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-13620e5ff2f6af79.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+也可以直接复制为文本，markdown，和html。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-76c59a335bb20577.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+>  顺便再说下chrome扩展的安装，在crxdl.com下载手动安装吧。
+
+功能如下：
+```js
+阅读视图：简单干净容易阅读、支持全屏模式下阅读
+样式丰富：简单干净的主题、支持字体大小、间距、行高和诸多页面的样式
+语音朗读：使用内置的TTS引擎可以朗读页面内容
+导出功能：支持导出Office格式doc文档、打印PDF格式、Markdown文件格式
+复制功能：支持复制富文本、Markdown格式和HTML格式的文本、支持复制代码
+内容解析：解析字数、阅读时间和文章语言
+弹出菜单：支持通过选择文本和段落来进行翻译、查找WIKI、进行Duckduckgo隐私搜索、复制文本、朗读等功能
+自动开启：你可以设置白名单来自动开启阅读模式
+```
+以这篇公众号文章[更新版：整理下苏生不惑开发过的那些工具和脚本](https://mp.weixin.qq.com/s/u9PTjbR5B5-od9fC_lyXLA)为例，右键 open Clearly 可以展示出文章目录，文章里所有链接，文章阅读时间，字数。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8062687cb31cf744.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以自定义喜欢的主题：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fe224cb522bff11f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+朗读文章可以设置速度。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b40247149a2cc89a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载可以导出pdf，word和markdown。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-84b7a96ed95a173b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+导出word效果不错：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-13620e5ff2f6af79.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+也可以直接复制为文本，markdown，和html。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-76c59a335bb20577.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+选中文字可以翻译，复制，朗读，搜索。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-529433248503152b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+如果想保存网页特效推荐ArchiveWeb.page这个chrome扩展https://github.com/webrecorder/archiveweb.page
+https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd ，它可以将网页完整的录下来，保存下来是高保真度的网页存档 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fc0811e43f1f4e92.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1ee14b7a6fc0715a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+保存后查看效果如图，即使文章被删也能看。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d31a0dd4ab207517.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 腾讯翻译
+之前分享过[复活谷歌翻译](https://mp.weixin.qq.com/s/ugZwzrZmu0qGdl5jCx7S3Q) ，后来体验了下腾讯翻译https://transmart.qq.com/zh-CN/index 还挺好用的，有网页版、浏览器插件和客户端，打开网页右键开启翻译就行：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f36a75b92128b561.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bc53dc4b5089891e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+选中文字也可以翻译:
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-23c184eb94cc36b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+也可以打开扩展图标输入文字翻译：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-49d0da6dbca3ec3e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 下载高清无水印海报和logo
+这个扩展插件可以帮你快速下载https://www.logosc.cn/edit 和https://www.logomaker.com.cn/ 两个网站的高清无水印海报和logo https://github.com/quarkape/free-canvas ，保存下载的svg用edge浏览器的ie模式 edge://settings/defaultBrowser 打开保存为png图片。
+ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c6ca35cf5f8eb24f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 抖珍藏
+支持edge https://microsoftedge.microsoft.com/addons/detail/%E6%8A%96%E7%8F%8D%E8%97%8F-%E4%B8%8B%E8%BD%BD%E5%A4%87%E4%BB%BD%E4%BD%A0%E7%82%B9%E8%BF%87%E8%B5%9E%E7%9A%84%E6%89%80%E6%9C%89%E6%8A%96%E9%9F%B3/kaepaapgaokpobjhamjjekinijbcoihe和谷歌浏览器https://chrome.google.com/webstore/detail/ldllbcnpihgljdgpjgdopgeejenhnabf，可以一键下载你在抖音点赞和关注过小姐姐的全部视频。
+
+安装扩展后打开douyin.com登陆自己账号，左侧会显示下载我点赞过的作品和我关注人的作品。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7e560fcaa24a4744.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+选择一个新目录用于保存视频：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-33dc3257c2f90d08.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+再下载我关注的刘德华视频 https://v.douyin.com/rWa6bh8/ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2a773c76eaa3784f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+要查看下载结果, 打开本地库.html，这里有说明。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f8e1cdf18e071948.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 

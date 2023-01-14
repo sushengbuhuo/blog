@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2022-11-26
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-1-15
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1800,7 +1800,7 @@ f4.write(date+','+trimName(title)+','+f'http://v.qq.com/x/page/{i}.html'+','+art
 # 魔方图标大师
 这个工具可以实现图标提取、图标替换、图标格式转换和图标缓存修复，还支持一键替换系统图标 。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-ee8646ee83631a91.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-### 二维码识别器
+# 二维码识别器
 这个工具可以批量识别二维码，比如这个公众号二维码其实是个地址 http://weixin.qq.com/r/DvM1MPE2p6lrYe3925K  
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-82538c921911a12a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1815,12 +1815,65 @@ f4.write(date+','+trimName(title)+','+f'http://v.qq.com/x/page/{i}.html'+','+art
 # 定时计划
 一个非常实用的多功能定时计划工具，除了基本的定时关机、自动提醒，还有电脑重启、锁定、睡眠、音量、播放声音等。 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-5ac238f7b46072d6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-### 图片批量压缩
+# 图片批量压缩
 这个工具可以在尽可能保证图片质量的情况下，将图片压缩到指定大小，例如200KB。 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-fc744565de7acac4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-### gif动图制作
+# gif动图制作
 非常精简的录制GIF小工具。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-e0a37456f5975fa3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-### QQ截屏独立版
+# QQ截屏独立版
 有了这个工具不登陆qq也可以使用qq的截图功能了。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-dc3849fc3a0e436d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 微信清理
+这个工具用来清理微信 PC 版磁盘占用，可以针对不同微信账号清理，分为安全、警告、危险3个类别清理。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-70134ccef2842b8b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 删除 PC 端微信缓存数据
+微信太占空间了，这个软件可以一键删除微信 PC 端的缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，离职前一定要清理你的微信数据https://github.com/blackboxo/CleanMyWechat
+```js
+自动识别微信账号，支持用户选择自定义路径；
+同时管理多个账号，保留配置参数，打开即用；
+自由设置想要删除的文件类型，包括图片类缓存、文件、图片、视频；
+自由设置需要删除的文件的距离时间，默认 365 天；
+删除后的文件放置在回收站中，检查后自行清空，防止删错需要的文件；
+支持删除进度的显示；
+```
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9df437666547f626.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 使用时间跟踪神器
+电脑端使用时间跟踪神器ManicTime  https://wwuq.lanzoue.com/i5KXS0jqzwfi或者https://github.com/Planshit/Tai ，它能静静地在后台记住你的电脑操作记录，生成直观的数据图表，可以帮助你总结和分析你的时间花费在哪些操作和哪个软件上。 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-62f548fef4f6ae83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+统计信息：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0b900685659007d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+每个时间点都有截图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7db63c4fa46c6cbe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-180d5e7ec2821f21.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# PowerToys  
+这是微软官方开发的 Windows 辅助小工具https://github.com/microsoft/PowerToys，提供一系列的实用小工具，集成了包括置顶窗口、保持唤醒、颜色选取器、图像大小调整，文件占用解除，OCR 功能等功能。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bfabcc4ae437cf64.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+有了这个修改host文件就方便了.
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6f09e896909959d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# edge浏览器
+Windows电脑自带的edge浏览器可以和谷歌的chrome浏览器媲美了，之前也介绍过[微软全新浏览器 Microsoft Edge 比 谷歌 Chrome 好用吗？](https://mp.weixin.qq.com/s/OhRMSWYcxojsuhgOgGyiRg) ，[上不了谷歌如何安装 Chrome 扩展？](https://mp.weixin.qq.com/s/xC9K_z7zpmAIEzUK6s1x3w)  ，[微软 edge 浏览器如何安装扩展](https://mp.weixin.qq.com/s/AQNYVEAxb3ByGR15FOOVJg) ，某些网站只支持ie访问，可以在设置里将“允许在 Internet Explorer 模式下重新加载”修改为“允许”，然后右键选择在 Internet Explorer 模式下重新加载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0f267d39234bcead.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+大声朗读功能不错。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-69cc473e76a8fa48.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4dd477457b1f1814.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Windows系统下载
+
+微软官方有Win10和Win11下载https://www.microsoft.com/zh-cn/software-download/windows10  ，https://www.microsoft.com/zh-cn/software-download/windows11，如果要下载其他版本可以看网站https://www.hellowindows.cn/ 和https://www.xitongku.com/ ， Windows 11、Windows 10、Windows 8、Windows 7、Windows XP系统都有，还提供Office/WPS下载，并附带安装教程。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ab7d23c30de507be.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 视频/音频下载器yt-dlp
+之前分享过命令行工具lux https://github.com/iawia002/lux ，使用go install github.com/iawia002/lux@latest安装或者作者提供的exe，轻松下载b站，腾讯，爱奇艺等视频  [很多人问命令行是什么？有什么用](https://mp.weixin.qq.com/s/ZxalxqhL-BFxt6PBFoZK4Q)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a91861751e050c44.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的还有 https://github.com/soimort/you-get ，更多视频下载工具见文章[视频下载黑科技，VIP 视频也能下载](https://mp.weixin.qq.com/s/mNbZhu-UIMWXL9l23v6mvA)
+之前分享过基于python的命令行视频下载工具https://github.com/yt-dlp/yt-dlp [视频下载黑科技，VIP 视频也能下载](https://mp.weixin.qq.com/s/mNbZhu-UIMWXL9l23v6mvA) ，使用pip install -U yt-dlp安装或者升级，比如批量下载b站视频：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-79994063881dd62c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有基于yt-dlp 开发的这个安卓app https://github.com/JunkFood02/Seal 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5a93ce1bc2d4210b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
