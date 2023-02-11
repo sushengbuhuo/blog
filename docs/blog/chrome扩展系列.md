@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-1-15
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-2-11
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1868,5 +1868,81 @@ https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldob
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-2a773c76eaa3784f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 要查看下载结果, 打开本地库.html，这里有说明。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-f8e1cdf18e071948.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# b站字幕下载
+哔哩哔哩字幕列表https://chrome.google.com/webstore/detail/bciglihaegkdhoogebcdblfhppoilclp   ，有了这个扩展可以直接展示b站视频字幕，高效获取视频文本信息  ，最近更新时间2023年1月8日，打开视频右侧就有字幕，速度很快，我测试效果还行。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4f27ac60afbf3d32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+字幕文本还可以直接下载，支持txt和json格式。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d05d7ed01bb17caf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+当然有些视频上传了外挂字幕 https://www.bilibili.com/read/cv1374773/ ，
+ b站的外挂字幕其实就是个 srt 文件，这是一种非常流行的文本字幕，内容为一行时间，一行字幕，制作规范非常简单，有字幕的视频可以在底部看见字幕字样，比如这个 https://www.bilibili.com/video/BV1Jt411P77c?p=2 有中英文字幕，用https://greasyfork.org/zh-CN/scripts/378513 这个油猴脚本就可以下载了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9a62b7d6289b157a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+点击下载可以看到字幕内容，下载文件格式支持ass,srt等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9020f51999e53eca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+也有对应的命令行工具 https://github.com/nathanli97/BiliBiliCCSubtitle，
+在命令行执行 `ccdown  -d -c  https://www.bilibili.com/video/BV1Jt411P77c?p=2` 即可下载json格式和srt格式字幕文件。
+```js
+λ ccdown  -d -c https://www.bilibili.com/video/BV1Jt411P77c?p=2
+Bilibili JSON format CC subtitle downloader Ver 1.1.0 by Nathanli97
+Found: zh-Hans 中文（简体）  ==> AV60977932(BV1Jt411P77c)-P2-zh-Hans.json
+AV60977932(BV1Jt411P77c)-P2-zh-Hans.json ==> AV60977932(BV1Jt411P77c)-P2-zh-Hans.srt
+Found: en-US 英语（美国）  ==> AV60977932(BV1Jt411P77c)-P2-en-US.json
+AV60977932(BV1Jt411P77c)-P2-en-US.json ==> AV60977932(BV1Jt411P77c)-P2-en-US.srt
+```
+# 文字转语音
+微软有个在线的文字转语音页面 https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/，可以选择语言和语音类型，如果想下载转换后的音频可以安装这个扩展 https://chrome.google.com/webstore/detail/microsoft-text-to-speech/dplnecggiofdkdcagdkjebneaonfhbbb ，最近更新时间2022年12月14日，先点播放后点下载 ：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4960208e3c9bf916.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 书签管理器
+一个简单易用的书签管理器https://chrome.google.com/webstore/detail/ease-bookmarks/poefceffmekhjoadknillcbdifahongk ，替代浏览器原有书签栏的扩展 chrome://bookmarks/ ，最近更新时间2022年12月15日。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0363ecf3d4889a07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 网页更新提醒
+这个扩展监控并记录网页内容变化，一旦有更新立即通知你https://chrome.google.com/webstore/detail/%E4%BF%A1%E4%BD%BF/fipadnnmmoiomfllhbbnhjnghopkgfpb  ，最近更新时间2022年12月30日。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-881a72de821bf2e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-462116a0d4d09242.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# GitHub仓库推荐
+为热门GitHub仓库生成相似仓库推荐https://chrome.google.com/webstore/detail/gitrec/eihokbaeiebdenibjophfipedicippfl ，如果仓库的star数超过100会在右下角展示相似仓库 https://github.com/gorse-io/gitrec，最近更新时间2022年12月16日 。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e58dd63dcf7bf368.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# 在线工具搜索
+一个在线工具快捷搜索扩展，可以搜索各种在线工具网站 https://chrome.google.com/webstore/detail/sssbar/lbdhkmfihdbjopkhgopfolpompdcpglk，最近更新时间2022年12月19日。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-de207407430e5b5c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# 必隐搜
+这个扩展可以在搜索引擎结果页面右侧侧栏即时预览结果https://chrome.google.com/webstore/detail/auto-side-preview/omfhhgglkckbkpdkppdlhghgokanmide?hl=zh-CN  ，将鼠标移到链接就行，支持谷歌，百度，bing，最近更新时间2022年12月14日。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-536eeb092865f9c7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-09b7ae93e83433b1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# 腾讯翻译
+之前分享过[复活谷歌翻译](https://mp.weixin.qq.com/s/ugZwzrZmu0qGdl5jCx7S3Q) ，后来体验了下腾讯翻译https://transmart.qq.com/zh-CN/index 还挺好用的，有网页版、浏览器插件和客户端，打开网页右键开启翻译就行：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f36a75b92128b561.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bc53dc4b5089891e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+选中文字也可以翻译:
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-23c184eb94cc36b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+也可以打开扩展图标输入文字翻译：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-49d0da6dbca3ec3e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# archiveweb
+如果想备份保存网页内容推荐ArchiveWeb.page这个chrome扩展
+https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd ，最近更新时间2023年1月20日，它可以将网页完整的录下来，还提供Windows 和 Mac 客户端https://github.com/webrecorder/archiveweb.page ，保存下来是高保真度的网页存档。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fc0811e43f1f4e92.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1ee14b7a6fc0715a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+保存后查看效果如图，这样即使网页被删也能在本地看。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d31a0dd4ab207517.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# ChatGPT for Google 
+前段时间ChatGPT 很火，这个扩展可以同时浏览Google搜索和chatgpt结果https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf ，最近更新时间 2023年1月13日。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0f990347b94eca96.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d11fd2ad531dc6ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-1-15
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-2-11
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1876,4 +1876,84 @@ Windows电脑自带的edge浏览器可以和谷歌的chrome浏览器媲美了，
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-79994063881dd62c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 还有基于yt-dlp 开发的这个安卓app https://github.com/JunkFood02/Seal 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-5a93ce1bc2d4210b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### Z-library客户端
+这个Windows软件使用就很简单了，搜索直接下载，下载地址在公众号苏生不惑后台对话框回复 `电子书` https://shiyi11.lanzouo.com/zlib352 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-708514206a4da77c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 知乎专栏文章批量下载
+
+打开我打包的exe文件，输入知乎专栏id，就是https://www.zhihu.com/column/c_1020247688083775488 这个专栏的c_1020247688083775488 ，  可以看到下载提示。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3df9bc6bd4b5f10e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+文章和回答保存到html目录，文件名是时间+标题。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-92c65c8cd22fcaae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+视频保存到video目录。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-658e9666fa189205.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+默认下载的高清，代码如下：
+```js
+try:
+        resp = requests.get(url, headers=headers,timeout=5).text
+        data = re.search(r'<script id="js-initialData" type="text/json">(.*?)</script>',resp).group(1)
+        play = json.loads(data)
+        playdata = requests.get(play['initialState']['entities']['zvideos'][vid]['video']['playlist']['hd']['playUrl'], headers=headers)
+        print('下载视频:',title)
+        with open('video/'+title+'.mp4','wb') as f:
+            f.write(playdata.content)
+    except Exception as e:
+        print(vid,e)
+```
+顺便把专栏的文章，回答，视频数据导出excel，包含类型，标题，链接，时间，简介，评论数和点赞数：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4b5b629f3b121fa1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+最后就是生成一份文章和回答的pdf合集。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b41a09ecb9db069b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+不过要合成pdf需要先下载安装这个 https://wkhtmltopdf.org/downloads.html ，如果只想把html转换pdf可以用我开发的html2pdf.exe，批量转换后的pdf文件在pdf目录。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4053f2d2b4c80501.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后用我开发的pdf_merge.exe合成一个pdf文件（带书签），效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-554875ae31d6f973.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+文件名为书签，点击会跳转到对应文章。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-eaa04079fc26734c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 软件使用时长统计
+这个软件可以统计你每一个软件的使用时长https://github.com/Planshit/Tai ，帮助你了解自己把时间花在了什么地方了，app可以用之前分享过的[来看看你的时间都去哪儿了](https://mp.weixin.qq.com/s/WxNOmjyBuoceBc81MaB1Aw) 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ed9f09a63aa4b6a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 文件批量重命名
+一个简单易用的文件批量重命名软件。 https://wwlx.lanzoul.com/iSvWl0jpuyze
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-87d4a80a38d74daa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# HTTP Debugger 
+之前分享过抓包工具charles，这个更强大，可以对微信小程序抓包。 https://wwn.lanzouy.com/itI8W0bv4bjc
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4024472bac6ffa03.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# DevToys
+一个开发者的瑞士军刀，高颜值实用工具集 https://github.com/veler/DevToys ，微软商店评分几乎满分https://www.microsoft.com/store/productId/9PGCV4V3BK4W ，可以格式化JSON，比较文本，测试正则，解码JWT，编码或者解码，  压缩图片，无损转换图片格式，采集颜色色码，预览Markdown，将图片或者文本转换为base64，还有校验MD5、SHA1、SHA256、SHA512码以及进制转换。
+ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3b974e4c4b442949.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+# Optimizer
+一个体积小且功能强大的系统优化工具。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ff689dd5b6b039e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 迅雷精简版
+一个免安装，干净的迅雷11精简版，迅雷就不用多介绍了。 https://wwb.lanzouv.com/iSkl80gsuf5a
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-93a77ee92fe10f41.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 央视频下载
+又一个下载cctv视频的工具https://wwu.lanzouj.com/iKvlJ02qix9e [视频下载黑科技，VIP 视频也能下载](https://mp.weixin.qq.com/s/mNbZhu-UIMWXL9l23v6mvA) ， 比如下载这个视频 https://v.cctv.com/2023/01/23/VIDEcj8UN1BwnnJaXWNNYm9b230123.shtml，效果：
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-b64881b231cb2047.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+# UninstallView
+
+一个小巧的卸载工具，它收集了系统上安装的所有软件信息，并显示已安装软件的详细信息。您可以使用它来获取本地系统、网络上的远程计算机以及插入计算机的外部硬盘驱动器的已安装程序信息。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-78c03d398b5c5224.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 批量文本转语音
+一个基于微软语音转换接口的软件https://github.com/LokerL/tts-vue ，输入文本点击播放按钮可以先试听声音再下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aaacf9c41793df6d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还可以导入文本文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-46cfe8d6d177472a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Koodo 
+一个开源免费的电子书阅读器https://github.com/troyeguo/koodo-reader，支持多达15种主流电子书格式， 内置笔记、高亮、翻译功能，助力高效书籍阅读和学习，最近更新了稳定版，还提供网页版。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c9c20d4b3fabb6e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# QQ影音
+QQ 影音这个经典播放器我用了很久http://dldir1.qq.com/qqyy/pc/QQPlayer_Setup_39_936.exe ，前段时间官网下线了https://player.qq.com/ ，这里分享下pc版和安卓版。 https://pan.lanzoux.com/b00pu7oqd 密码:9ojx
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e91c5b61efb6842b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fb4b400aedd264e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-86be29f4a5f97c0c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
