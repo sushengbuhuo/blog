@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-2-11
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-4-1
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1945,4 +1945,122 @@ https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldob
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-0f990347b94eca96.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-d11fd2ad531dc6ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#header-editor
+安装这个chrome扩展就可以继续用了https://chrome.google.com/webstore/detail/header-editor/eningockdidmgiojffjmkdblpjocbhgh/ ，它可以管理浏览器请求，包括修改请求头和响应头、重定向请求、取消请求，修改请求头、响应头、重定向请求、取消请求，安装后点击扩展进入管理界面，右下角点添加。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9d59b4fbb5612d79.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+规则类型选择修改请求头，匹配类型选正则表达式 ，规则为`.*\.sinaimg.cn`，头名称为referer，头内容为`https://weibo.com`
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-07e1f9668c00dd5a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+然后在浏览器输入图片网址就可以访问了https://wx1.sinaimg.cn/oslarge/001U3j31ly1gnynq1xvcqj634022oqv502.jpg，除了编辑还可以导入规则，详情见https://he.firefoxcn.net/zh-CN/guide.html  ，https://github.com/FirefoxBar/HeaderEditor 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-55a6fd7f74841ab6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+除了使用扩展也可以借助第三方网站转发，比如https://cdn.cdnjson.com/wx1.sinaimg.cn/oslarge/001U3j31ly1gnynq1xvcqj634022oqv502.jpg https://i0.wp.com/wx1.sinaimg.cn/oslarge/001U3j31ly1gnynq1xvcqj634022oqv502.jpg，不过是个临时方案。
+https://images.weserv.nl/?url=https://wx1.sinaimg.cn/oslarge/001U3j31ly1gnynq1xvcqj634022oqv502.jpg  
+https://image.baidu.com/search/down?url=https://wx1.sinaimg.cn/oslarge/001U3j31ly1gnynq1xvcqj634022oqv502.jpg
+edge浏览器打开扩展搜索 header editor,安装这个扩展https://microsoftedge.microsoft.com/addons/detail/header-editor/djbcdihpmcbpkljpjibeiedjenilallo 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dec8d360c6ad487c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+点击扩展新建规则修改bing的请求头，头名称x-forwarded-for，内容4.2.2.2 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-774faabbac104d25.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有个规则是cn.bing.com跳转到www.bing.com
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4434a2406c84d7f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+设置语言为英语，登录你的微软账号 。looks good 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-682a0da97858bd40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+打开 https://www.bing.com/new 点击 Join the waitlist，申请成功。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8dce3e806ce906b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ddb93b4c0470c9f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+等收到 `You're in! Welcome to the new Bing! `的邮件就可以使用了,我大概等了半个月，如果一直在排队可以多申请几个微软账号申请，来看看新的bing是什么？提出您的问题 - 简短，长期或介于两者之间的任何内容。你问得越准确，答案就越好。 新的必应为您提供可靠、最新的结果，并为您的问题提供完整的答案。当然，它也引用了来源。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4eb84ab8090d23ec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-864526ea20ee9731.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+由于我常用chrome浏览器，所以接下来用谷歌浏览器修改请求头访问bing，同样设置规则 ^http(s?)://(.*).bing\.com/(.*) ，头名称 x-forwarded-for ，头内容8.8.8.8
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-838f739115d31af8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+还有 user-agent，内容 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e271d4c4303add0f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+这个ua来自bing搜索。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6258ce31ec11da28.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+修改请求头前 提示要在 Microsoft Edge 上解锁完整体验。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-06bb2c11dbf737f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+修改请求头后可以直接在chrome浏览器用了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a71fc234538cbf51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+欢迎使用新必应，New Bing基于GPT4模型，可以基于搜索生成内容、数据是实时的。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cf87ba0366f59adb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 问个周杰伦的问题。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ee1d353712dd49e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-67d9e2de15b3864f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还支持写代码：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c26dfdb2a4b98314.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+而且聊天集成到bing搜索了https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx  ，使用更方便。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cc7251431baeacdf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+百度的类ChatGPT产品文心一言将于3月16日（本周四）推出，期待下。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-555413a3e8999353.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# QQ空间导出助手
+这个chrome扩展脚本可以导出备份QQ空间的说说、日志、日记、相册、视频、留言、好友、收藏、分享、访客为文件，便于迁移与保存https://chrome.google.com/webstore/detail/qq%E7%A9%BA%E9%97%B4%E5%AF%BC%E5%87%BA%E5%8A%A9%E6%89%8B/aofadimegphfgllgjblddapiaojbglhf/related?hl=zh-CN ，最近更新时间2023年2月24日 https://www.lvshuncai.com/archives/qzone-export.html
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6b0a027a8eb00dfe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如选择下载说说。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9958c0b8071a6270.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载完成。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3331d881c4926827.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+最后打包下载了所有文件，打开index.html查看效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-46699123dfe9cc5d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-89571ace78e2af7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# openai-translator
+谷歌翻译没了可以用ChatGPT帮你翻译网页内容 https://github.com/yetone/openai-translator，有Windows，mac客户端以及浏览器插件https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc ，支持三种翻译模式：翻译、润色、总结，不过需要自己有api key https://platform.openai.com/account/api-keys
+
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-6f784f9492cd94af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# chathub
+微软new bing现在提示多次跳转无法使用了，提示 cn.bing.com 将您重定向的次数过多。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b5454765001758be.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+可以用这个chrome扩展代替https://github.com/chathub-dev/chathub
+它可以让你同时使用ChatGPT和NewBing，后续会集成Google Bard、百度文言一心等。https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c2b042dcd2923868.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+没想到它还知道我。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3e43dc5b0b7b4dfc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+https://github.com/chathub-dev/chathub/releases/tag/v1.5.2 
+# ChatGPT Assistant
+一个基于CHATGPT的chrome浏览器插件，需要登录你的谷歌账号才能使用，每天限制免费使用51次 https://chrome.google.com/webstore/detail/merlin-chatgpt-plus-app-o/camppjleccjaphfdbohjdohecfnoikec/ ，使用快捷键ctrl+m开始玩。
+https://merlin.foyer.work/onboarding/
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5c8b9305941762b3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8f0d9c326bf943b6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+同时集成到谷歌搜索，方便使用。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9f984f8c07d69ade.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### Bing Unchained
+改hosts后在chrome浏览器打开https://new.bing.com/ 提示在edge中才能用https://www.microsoft.com/edge/launch/newBinginEdgeChat
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-225e7765d3b76c3b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+安装这个浏览器插件就可以在Chrome中使用new Bing了 https://chrome.google.com/webstore/detail/bing-unchained-use-new-bi/laldfnbbeocphnilnofhedhcjcnchbld/ ，不用edge浏览器也行https://www.bing.com/search?q=Bing+AI&showconv=1  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-27ee5b3a7742ff1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ae84d39b1b55b0f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+bing搜索里也可以直接聊天。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0d79b58c91d31fd7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+来个脑筋急转弯： 小明的爸爸有3个儿子，大儿子叫大王，二儿子叫二王，三儿子叫什么？ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8ba2f7e687e17af6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+对比下百度文心一言的回答。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f13a942bd1615d7a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还没体验文心一言https://yiyan.baidu.com/welcome ，我的账号还在排队。。。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f80f79ca3c8bec10.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+话说微软的AI绘图也上线了 https://www.bing.com/create ，目前文本提示只支持英文。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a9f9ca766e699acb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# ChatGPT for Google
+在搜索引擎结果中同时显示ChatGPT的回答,支持谷歌，百度，bing等， 最近更新时间2023年3月24日 https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf?hl=zh-CN
+# ChatGPT Box
+将ChatGPT深度集成到浏览器中,除了对主流网站进行适配，还内置了诸如翻译、总结、润色、情感分析、段落划分、代码解释、问询等功能。https://github.com/josStorer/chatGPTBox
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-67475942102f6d09.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 沉浸式翻译扩展
+https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh-CN，最近更新时间2023年3月16日，免费使用，支持 Deepl/Google/有道/腾讯翻译等多个翻译服务，还支持 Firefox/Chrome/油猴脚本，智能识别主要内容区域后按段落同时显示原文和译文， 对比下谷歌翻译效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a1524beefd96f1c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

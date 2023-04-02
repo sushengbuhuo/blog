@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-2-11
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-4-1
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1727,7 +1727,10 @@ f4.write(date+','+trimName(title)+','+f'http://v.qq.com/x/page/{i}.html'+','+art
 ```
 第2次下载会跳过已经下载过的文章，有什么问题可以给我反馈。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-7bb2e741fadb59df.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如莫言老师的公众号文章：
+![莫言3.png](https://upload-images.jianshu.io/upload_images/23152173-9ddcaa9dc748d169.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+![莫言4.png](https://upload-images.jianshu.io/upload_images/23152173-64c8b8b4c34ce599.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # html转pdf
 
 先打开https://wkhtmltopdf.org/downloads.html 下载安装加入环境变量，然后在公众号苏生不惑后台回复 `公众号`获取我开发的html2pdf.exe执行就可以了，批量转换后的pdf文件在pdf目录。
@@ -1762,7 +1765,7 @@ f4.write(date+','+trimName(title)+','+f'http://v.qq.com/x/page/{i}.html'+','+art
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-504732d732704ecd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 文档下载docdown
-下载后将docdown.exe加入环境变量https://github.com/kerm-me/docdown https://www.123pan.com/s/czw9-Le3WA ，不会的看我之前文章[很多人问命令行是什么？有什么用](https://mp.weixin.qq.com/s/ZxalxqhL-BFxt6PBFoZK4Q)，然后输入 docdown 文档地址就行了。
+下载后将docdown.exe加入环境变量https://github.com/kerm-me/docdown https://docdown.net/ https://www.123pan.com/s/czw9-Le3WA ，不会的看我之前文章[很多人问命令行是什么？有什么用](https://mp.weixin.qq.com/s/ZxalxqhL-BFxt6PBFoZK4Q)，然后输入 docdown 文档地址就行了。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-d03165ac88091bc0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 原创力的ppt也能下载。
@@ -1911,6 +1914,14 @@ try:
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-554875ae31d6f973.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 文件名为书签，点击会跳转到对应文章。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-eaa04079fc26734c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+知乎专栏批量下载工具[这个元宵节，苏生不惑又更新了下知乎专栏文章下载脚本](https://mp.weixin.qq.com/s/ydNjjZE-Lq8GuJhlT6y-gA)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3df9bc6bd4b5f10e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+文章和回答保存到html目录，文件名是时间+标题。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-92c65c8cd22fcaae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b41a09ecb9db069b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+视频保存到video目录。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-658e9666fa189205.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 # 软件使用时长统计
 这个软件可以统计你每一个软件的使用时长https://github.com/Planshit/Tai ，帮助你了解自己把时间花在了什么地方了，app可以用之前分享过的[来看看你的时间都去哪儿了](https://mp.weixin.qq.com/s/WxNOmjyBuoceBc81MaB1Aw) 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-ed9f09a63aa4b6a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1956,4 +1967,205 @@ QQ 影音这个经典播放器我用了很久http://dldir1.qq.com/qqyy/pc/QQPlay
 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-fb4b400aedd264e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-86be29f4a5f97c0c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#微博下载
+这次我还更新了下之前python写的微博图片，视频下载导出工具[一键批量下微博内容/图片/视频，获取博主最受欢迎微博，图片查找微博博主](https://mp.weixin.qq.com/s/fmboKshIIoeeB21dTBazGg)  ，使用很简单，输入微博uid，是否下载图片和视频，1为是，0为否，如果想全部下载时间就输入2010-01-01，重点说下cookie ， 需要登陆网页版微博 https://m.weibo.cn/ 在控制台获取。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6b6175dbc44477ed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+我之前录制了个视频[国庆节假期学了2个新东西，分享下我的学习成果](https://mp.weixin.qq.com/s/-9zzkEHsBvJU1UrIdahsCA) ：
+
+工具下载地址分享到我的知识星球了[加入我的知识星球](https://mp.weixin.qq.com/s/KcC8ekHJXfw8lD6HJ7i9Og)  https://t.zsxq.com/0bFR8vNud   https://www.123pan.com/s/ZgGKVv-h3nod 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d4054704ce566d37.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+下载效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2d58b006ecd493a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的图片和视频如图，图片为高清大图，视频也是高清。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-deb5f0cc06a1114f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有导出的微博数据excel，包括微博地址，微博内容，头条文章地址，图片地址，视频地址，发布时间，点赞数，评论数，转发数，阅读数，发布地区，是否原创，其中阅读数只有下载自己的号才有。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-57bb4781c46b23dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#gallery-dl
+如果只想下载单条微博，可以用gallery-dl这个python开源命令行工具https://github.com/mikf/gallery-dl ，支持1400+网站的图片批量下载，使用pip install gallery-dl ，然后在命令行执行`gallery-dl https://weibo.com/1744395855/Mm8wpaCxV -o headers.Referer=https://weibo.com/`就可以下载了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-61a1fe7f4e7e9459.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 抖音采集工具
+这个可以批量下载抖音作品，不用安装，输入抖音链接就行，比如刘德华的抖音主页链接https://v.douyin.com/eLhwxF2/ ，单个视频链接https://www.douyin.com/user/MS4wLjABAAAAQwzb0HRjHTYz05Ty0Z9jl6pm_jJkZiLhKkIvbE-rNCg 
+
+蓝奏：https://wwa.lanzoui.com/b084buzyd ，访问密码：个人使用
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1d453deec7d510ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+很快全部采集完毕并下载成功。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-54bd1561c56c9e42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dc0dbe5c47b4ecbf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+默认保存到当前目录下的作品保存。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ada157d014c768a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-41c602a1fbadb600.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# TikTokDownload 
+这个是用python开发的抖音视频下载工具
+https://github.com/Johnserf-Seed/TikTokDownload ， 批量下载用TikTokTool，单个视频下载用TikTokDownload，比如TikTokTool.exe -u https://www.douyin.com/user/MS4wLjABAAAAU7ibxriLF-GSBF5QKa1Op9hxcMAPVmzmXwXqqvMfrhs ，下载效果：
+version改为13051  python TikTokTool.py -u https://www.douyin.com/user/MS4wLjABAAAAU7ibxriLF-GSBF5QKa1Op9hxcMAPVmzmXwXqqvMfrhs
+
+单视频请用TikTokDownload或TikTokWeb  TikTokDownload.exe -u https://www.douyin.com/video/6920538027345415431
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7daa2c01a22199ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+音频和视频都下载好了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fea52472cb689d16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果这个脚本也不行的话只能自己抓包m3u8地址，然后用https://github.com/nilaoda/N_m3u8DL-CLI 手动下载。
+https://nilaoda.github.io/N_m3u8DL-CLI/Introductory.html
+https://github.com/hecoter/H_m3u8DL  pip install H_m3u8DL和 
+![img](https://upload-images.jianshu.io/upload_images/23152173-3ee149120ff62684.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 聚合短视频解析
+支持无水印解析下载抖音、抖音极速版、快手、快手极速版、剪映、火山、皮皮虾、皮皮搞笑、最右、微视、QQ看点、
+西瓜视频、小红书、淘宝、天猫、绿洲、美拍、今日头条、微博、YouTube、Instagram、Facebook、Twitter、...等等众多短视频平台。，比如这个抖音视频https://v.douyin.com/eLXBnJE https://weibo.com/5575842802/LAz2AbbPV 
+https://yirj.lanzoub.com/iDZ8I0mirokh
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2009bbb235f72302.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8f545972ce9c6492.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 文件互传
+开源的支持全平台局域网文件互传工具LocalSend https://github.com/localsend/localsend，它可以将文件共享到附近的设备（使用同一wifi的安卓，电脑，ios） 。 https://wwuq.lanzoum.com/iRMyX0o2hs6d
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-527daf9bc7c3e3f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+同时打开安卓和电脑端就可以传输文件了，就是这么简单。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-94505e1eb20b2a7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+开启快速保存可以自动接受文件传输。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9a63c943d39ee589.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 飞鸽传输
+http://www.feige360.com/ ，大小不到1MB，不用安装。https://wwuq.lanzoum.com/iRFMT0p2jujg
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-548f472132ee3af4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# qq聊天记录转excel
+这个工具可以把导出的qq聊天记录转excel，先在qq里导出消息管理器的消息记录。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fcd75243ed6539aa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+选择txt文件格式导出。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bae80a327f962965.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后打开exe https://github.com/aoguai/QQtoExcel，输入刚才导出的聊天记录文件名
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ac76c24d32f5d900.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+生成的excel文件：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-efbb2c7c6a622022.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+更多功能见帮助：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-10e73a149535fe6a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+前段时间qq 24周年有个活动可以查询自己qq号的全球排名https://m.weibo.cn/detail/4867534120028605  。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-90a15da747d7addc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+我登陆下很久不用的qq，没想到账号密码没错居然还登陆不了，因为之前注册的时候也没绑定手机和密保什么的，打客服电话一直是机器人回复，这可怎么办？现在只能用新注册的qq号，痛心！
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b08c991718792aeb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+话说现在的手机qq真的是花里胡哨，跟微信没法比。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b79a68414c53f849.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0b23440978351a40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# QQ截屏独立版
+
+下载地址：https://wwb.lanzoue.com/i6U8j0f6296j 有了这个小工具不登陆qq也可以使用qq的截图功能了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dc3849fc3a0e436d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# QQ拼音剪贴板
+虽然Windows自带了查看剪贴板功能，不过有限制，这个QQ拼音剪贴板无限制，https://wwk.lanzoue.com/i9QDI0fupo5a 
+
+记事本功能，有的内容每次都要用到，又不想每次都重复复制一次，就可以用记事本保存 https://github.com/walterlv/ClipboardViewer
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c100481508667d1e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 微信/qq语音转mp3
+这个工具可以将微信和qq里的语音转换为mp3文件，支持多平台，包括 Windows、macOS、Linux，但图形界面只有 Windows 版本。
+https://github.com/kn007/silk-v3-decoder/    打开保存qq语音的amr文件，目录为D:\qqMsg\xxxx\Audio，效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-471938a693472ff6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# QQ群相册批量下载 
+这个油猴脚本可以实现所有qq群相册的批量下载，支持迅雷https://greasyfork.org/zh-CN/scripts/440970 ，打开https://h5.qzone.qq.com/groupphoto/index?inqq=1&groupId=QQ群号 就可以批量下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-08847f703d664f20.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# qq空间图片/视频批量下载
+这个工具可以批量qq空间图片/视频， https://wwuq.lanzoum.com/idX710pcwyti
+先打开设置，登陆要下载的qq账号，然后设置下载目录。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aec5c6d056388fbf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+右键全部下载就行了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e0c29fbd1ca8d890.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# QQ影音
+QQ 影音这个经典播放器我用了很久http://dldir1.qq.com/qqyy/pc/QQPlayer_Setup_39_936.exe ，前段时间官网下线了https://player.qq.com/ ，这里分享下pc版和安卓版。 https://pan.lanzoux.com/b00pu7oqd 密码:9ojx
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e91c5b61efb6842b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fb4b400aedd264e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-86be29f4a5f97c0c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 谷歌翻译
+https://github.com/Ponderfly/GoogleTranslateIpCheck ，它可以扫描国内可用的谷歌翻译IP 。
+  ![image.png](https://upload-images.jianshu.io/upload_images/23152173-4f954339da57d20f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+扫描完成将以下2行加入hosts文件 `C:\Windows\System32\drivers\etc\hosts`
+```js
+142.250.13.90 translate.googleapis.com
+142.250.13.90 translate.google.com
+```
+以https://github.com/trending这个网页为例，右键翻译效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2dd87f1912ff2ea2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+
+第2个类似的工具，找到响应最快的ip加入hosts文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b5b137c664d30177.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 爱奇艺万能联播
+爱奇艺万能联播有电脑版和手机版，从官网下载安装就行 http://static-s.iqiyi.com/wnbf/get.html ，如果下载不了在公众号苏生不惑后台回复`网盘` ,自定义安装的时候去掉文件关联。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1539c289421c068f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+安装后打开百度网盘。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-635be1410b2c3d45.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+登录自己网盘账号。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-acfbcca367dfbe82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+点下载文件 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6a08e18b6d1a73f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d6b41a34cb0b77d5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+看下载速度5MB/s，比网盘客户端的100k/s快多了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-82bf54f5ead1206c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 文库下载器
+这个工具主要支持百度文库，原创力、文库吧、人人文库的下载，下载地址在公众号苏生不惑后台回复`文库` https://www.123pan.com/s/aKfrVv-kGMN3 
+比如输入这个百度文库地址 https://wenku.baidu.com/view/41f8f12c1b5f312b3169a45177232f60dccce78f.html ，下载成功。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3eeb402e26ee1497.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aa512d33743f7b45.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有原创力文档 https://max.book118.com/html/2021/1020/5221332302004033.shtm
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ab86d53029e13bf5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 雪球批量下载
+打开软件提示输入雪球主页地址和浏览器cookie，比如爱在冰川这个号
+https://xueqiu.com/u/4104161666，cookie 在浏览器控制台获取：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a734f6a0bd187389.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-acf448ee2240b427.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+雪球账号未登录获取的cookie下载有限制：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5bc0ab09a6ec1e62.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+登录自己账号后的cookie可以下载全部，不过我加了个限制，最多下载200条数据，如果觉得不够可以微信sushengbuhuo联系我。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-421949cf1faac7ed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的文章html：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a5a459d46eb6c348.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c159c2e531c7f048.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+以及文章数据excel，包含文章日期，文章标题，文章链接，文章简介，点赞数，转发数，评论数：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-14caded22ac789ed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+接着用我开发的这个工具将html评论转pdf https://wwuq.lanzoum.com/iIeq60q8q9yj ，由于工具依赖wkhtmltopdf，需要先下载安装这个 https://wkhtmltopdf.org/downloads.html 加入环境变量。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3bd0dd8e525366b7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+转换的pdf：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8f1725f6d18819c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+最后用我开发的这个工具将所有pdf 合并为一个带书签的pdf文件， 
+pdf合并生成书签工具 https://wwuq.lanzoum.com/ifXrC0ke02li    https://wwn.lanzouf.com/irAGD089czyj
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1dc8be115dd158e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-174bbadf7ebd336f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 微信补丁
+微信最新版把保存的文件都变成了只读模式，不可编辑。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-754506f88c95a6f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如这个我之前抓取的公众号文章数据文件[2023批量下载公众号文章内容/话题/图片/封面/视频/音频，导出html和pdf格式，含阅读数/点赞数/在看数/留言数/赞赏数](https://mp.weixin.qq.com/s/nIt-dP0Xm6bYBBWvQ3mzUA)
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-d20daa2a59f704cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+分享个小工具即可解决这个问题https://wwuq.lanzoum.com/iAVDp0pple4f ，工具下载地址在公众号苏生不惑后台回复 `2023310`，使用很简单，复制补丁文件到微信的安装根目录，比如`e:\wechat`
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8fc20b296f4f0598.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+当然也可以自己手动把微信接收文件的目录把只读取消就行了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aee21b6e61b4c0a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+另外这个工具还有个功能可以查看微信撤回的消息。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-01d268a87090ed44.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+撤回的图片，语音都可以查看，如果不起作用退出重新登录微信。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-916fef85e4c2edab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+这款工具也可以录制对话视频，只需要在添加对话之前启动录制，一边录制，一边添加对话，就能生成一个完整、逼真的微信对话视频。https://gitee.com/lifeixue/weixin-chat 
+  一键生成抖音上百万播放量的微信对话视频 https://github.com/cuifengcn/wechat-video-generate
+# 微信对话生成
+https://wwuq.lanzoum.com/ikKGf0pplwgf ， 先设置下外观，比如手机信号，时间，电量，标题。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9c860e755eb5a9a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+支持文字对话，图片对话，语音对话，红包对话，转账对话，生成图片下载拿去装逼吧。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-057ad4f4cac94eac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

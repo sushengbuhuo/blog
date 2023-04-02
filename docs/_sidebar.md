@@ -178,6 +178,8 @@
    - [2022公众号DT财经历史文章](wechat/2022公众号DT财经历史文章.md)
    - [公众号Vista看天下历史文章](wechat/公众号Vista看天下历史文章.md)
    - [公众号财新网历史文章](wechat/公众号财新网历史文章.md)
+   - [公众号不相及研究所历史文章](wechat/公众号不相及研究所历史文章.md)
+   - [公众号stormzhang历史文章](wechat/公众号stormzhang历史文章.md)
 
 - 博客内容
   - [有趣网站系列](blog/有趣网站系列.md)

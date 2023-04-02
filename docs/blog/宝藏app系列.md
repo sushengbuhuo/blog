@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-1-15
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-4-1
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1488,4 +1488,129 @@ easy163复活版https://github.com/ndroi/easy163
 这是电脑端下载效果：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-706910ee7679ea3e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 类似的还有python开发的抖音去水印批量下载用户主页作品、喜欢、图文、音频 https://github.com/Johnserf-Seed/TikTokDownload
+
+# 蜗牛云盘TV
+https://wwuq.lanzoum.com/iTMH20o2drxa 这个第三方app可以在大屏电视上体验网盘中的资源 ，一键搜索感兴趣内容，文件可排序。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0c7cad27d9e56404.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+看这个眼神，猜猜是哪部剧？
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-395df7d134dcc57a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 小白云盘TV
+https://wwuq.lanzoum.com/i0WNW0ocbn9a 这是另外一个第三方阿里云盘TV版，支持APK安装和PDF外部调用，需要扫码登录自己的账号。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-70fd1f577687ce90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+播放界面：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-eaf3b2674d95cb78.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+设置界面：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-043a070424ddae44.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 文件闪传
+http://skyhacker2.github.io/blog/index.html?about.md https://wwuq.lanzoum.com/iRFMT0p2jujg，手机端安装app，电脑浏览器打开地址就可以看到手机上的文件，直接下载就行。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-76a7555573ff7dae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+文件分类有照片，视频，音乐，文档，安装包等，还支持文件搜索功能，搜索速度很快。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4849f24b9ae9628a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 李跳跳
+自动跳过开屏广告用这个就好了，app非常简洁，开启无障碍权限就可以用了。 https://wwuq.lanzoum.com/ipb3e0orm47a
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fcfef2fe0e047140.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d572e6aeb0b9bb4a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-77ddea175215cf49.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0a18a871e6f2c01c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ec927b32dd36d645.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# BBLL 
+哔哩哔哩bilibili最新第三方TV app https://github.com/xiaye13579/BBLL ，支持8K、弹幕、直播，大会员通用，首页只有推荐、热门、番剧、影视模块，比官方app简洁多了
+
+ 免漫安卓漫画神器 https://yo.lgaxz.com/apk/com.mianman.apk 安卓上免费无广可换源的看漫画 app。 https://www.123pan.com/s/ZAzA-1u8wh
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c7787cbaeb60f67e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 水电工手册
+
+有理论和实践，家里水电出问题的时候用得上。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1ce32ed21359f61c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3aec8e7e190c054d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a5da5f35e7d0152c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# AutoJs6
+一个安卓 JavaScript 自动化工具，基于Auto.js 二次开发https://github.com/SuperMonster003/AutoJs6 ，之前分享过的京东淘宝脚本都是用这个app执行的。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-42a8f6ea11a9be7b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 小书包 
+
+ https://sonice.lanzoub.com/isBDK0km7wxa
+基于开源软件阅读二次开发的阅读软件，会自动推送书源，不用自己找了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-998186622c9a9ff5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如王小波的《沉默的大多数》
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c7ceccb9d4a11140.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 方言通
+如果你想学习方言，跟这个app学就对了，包含粤语，客家话等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4919406998070a0c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 谷歌翻译
+目前可用的一个谷歌翻译app
+
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-6a5ac695400f03a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# LocalSend 
+将文件共享到附近的设备，支持安卓，ios，Windows等平台传输文件https://github.com/localsend/localsend 。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-527daf9bc7c3e3f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-94505e1eb20b2a7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 搜图大师
+内置21个搜索接口，支持以图搜图，还有各种壁纸图片，功能工具分类也很多，十几种工具，例如图片编辑、图片加滤镜、图片加水印和GIF图片分解等 
+ https://wwt.lanzouw.com/i1qy50nk6msf
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0f5317834d7a7677.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-874cb876570c8298.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 设备信息
+查看安卓系统设备的详细信息，包括系统、硬件、软件等信息 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-078ce46badbf1051.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d3721ac62867aefd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 快找资源
+聚合类的APP，其包括Cili、软件、影视、音乐、网盘等功能，基本小伙伴们想要搜索的资源，这款软件都有！https://support.qq.com/embed/phone/498317  https://dmla.lanzouo.com/b05pa9a2h
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-233db8f9a5251e52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜音乐
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-35359dd0e23d12fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜网盘
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-97e2ae99531ac7a5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜影视
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8b0da123432cfb90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜磁力
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e55642eeea4d4f13.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜应用
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-64ce98582fa27d86.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# BBLL 
+哔哩哔哩2023最新第三方TV和pad端开源软件https://github.com/xiaye13579/BBLL  ，支持8K、弹幕、直播，大会员通用，首页只有推荐、热门、番剧、影视等模块，比官方app简洁多了。
+
+https://wwwo.lanzoum.com/b018e4jsf 密码 BBLL 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dcd27f27a97e9fdf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以对弹幕透明度，字体，速度等设置。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-112a816bc6e5229b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-124994c077d1f890.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+设置里可调整默认清晰度为8K。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7fd20e8bf2bd6afe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果想下载b站视频字幕可以用之前分享过的chrome扩展[你不知道的黑科技系列：玩转 b 站](https://mp.weixin.qq.com/s/MP-ncMUISj7Uqb43vRNtfQ)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4f27ac60afbf3d32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+字幕文本还可以直接下载，支持txt和json格式。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d05d7ed01bb17caf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# wiliwili 
+有了app还需要电脑端，这是个第三方哔哩哔哩桌面客户端https://github.com/xfangfang/wiliwili ，虽然b站有自己的客户端，这个客户端还支持触屏、鼠标、键盘 与 手柄操作，无论是电脑还是游戏掌机都能获得全新的使用体验。  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1d06d5ee9489eeb5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+默认480P清晰度。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a575c73b646effa9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-750b107e76853ef5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+除了鼠标还可以用键盘控制软件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6bb7c74738dd9b93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 谷歌版哔哩哔哩
+谷歌版简洁清爽，无升级弹窗，无广告。  哔哩哔哩谷歌版和国内版可以共存，有需要的可以都安装上。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5f3f1bf0260d3e64.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-53886b536c39764c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# BiliGPT 
+最近chatgpt很火，这个网站可以让你节省看视频的时间，一键总结 哔哩哔哩 视频内容https://github.com/JimmyLv/chat-bilibili-video ，每天免费使用7次。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e8dc0e4859abb479.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果还行。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a69ae377846f7ffb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
