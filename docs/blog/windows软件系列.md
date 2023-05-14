@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-4-1
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-5-15
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -2169,3 +2169,144 @@ https://wwuq.lanzoum.com/ikKGf0pplwgf ， 先设置下外观，比如手机信�
 支持文字对话，图片对话，语音对话，红包对话，转账对话，生成图片下载拿去装逼吧。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-057ad4f4cac94eac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+# html转pdf
+我之前开发了个html2pdf.exe可以将html批量转换为pdf，不过最近公众号文章改动态加载，用这个转换生成的pdf是空白的`wkhtmltopdf.exe https://mp.weixin.qq.com/s/c-jpCXxUtZpzxTCSx0Fu_w 视频更新版：批量下载公众号文章内容/话题/图片/封面/音频/视频，导出html，pdf，excel包含阅读数/点赞数/留言数.pdf`转换生成的pdf是空白的，所以之前我用python写的html2pdf.exe也失效了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d2bb4ca9818881b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+研究了下python还可以用pyppeteer 转换，不过它依赖chromium：
+```js
+import pyppeteer.chromium_downloader
+print('默认版本：{}'.format(pyppeteer.__chromium_revision__))
+print('可执行文件默认路径：{}'.format(pyppeteer.chromium_downloader.chromiumExecutable.get('win64')))
+print('win64平台下载链接为：{}'.format(pyppeteer.chromium_downloader.downloadURLs.get('win64')))
+```
+在可执行文件默认路径新建目录588429，手动下载输出的chrome-win32.zip解压后放进去。
+```js
+可执行文件默认路径：C:\Users\xiang\AppData\Local\pyppeteer\pyppeteer\local-chromium\588429\chrome-win32\chrome.exe
+win64平台下载链接为：https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/588429/chrome-win32.zip
+```
+转换效果如图，速度比较慢，暂时没什么好办法：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dea4a61b491545ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-94424aad1a0cd8c1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+转换后的pdf就可以用我开发的pdf_merge.exe合成一个pdf文件[苏生不惑又写了个pdf合并带书签小工具](https://mp.weixin.qq.com/s/cS5NHLXpXnRyYYF6l7ahNg)  ，这次合并pdf加了个gui，效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-852cc79975576f26.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-554875ae31d6f973.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+文件名为书签，点击会跳转对应文章。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-eaa04079fc26734c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-2994c57a75425cc9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# chatbox 
+一个基于 OpenAI API 开源跨平台的 ChatGPT 客户端 https://www.appinn.com/chatbox-for-chatgpt/ ，支持Windows和mac系统。
+https://github.com/Bin-Huang/chatbox/blob/main/README-CN.md
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2d024680f08b815b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+使用起来比官网方便多了，不用每次打开网页。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bfdea659cc0116fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的桌面客户端还有https://github.com/lencx/nofwl ，不过需要OpenAI的API Key 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2996120f07987b17.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1fd4601995705373.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# New Bing 桌面客户端
+有了这个客户端可以不用装 Edge 浏览器了https://github.com/dice2o/BingGPT  ，和 Edge 浏览器上的体验一样，支持 Linux/macOS/Windows系统，还可以导出聊天记录为 PNG、Markdown、PDF文件。
+ 
+
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-e4aaf252320267ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-861df407b3e51fe6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+导出的pdf是图片形式，还是markdown好看。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2b0be30e861cfb4b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a868919b842fa3ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 小红书去水印
+输入小红书比较链接即可下载无水印图片https://www.xiaohongshu.com/explore/642aa685000000001300e8a7 。
+
+https://yujianziyuan.lanzout.com/iiijP0q38raf
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-924f57155aca4ea1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+最近小红书上线了网页版https://www.xiaohongshu.com/explore
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0875fadb35877c38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜索体验不错，终于可以不用app了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-599479862d6245c7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+首先在网页版右键复制笔记链接，或者在app端复制链接，地址为http://xhslink.com/ArBunp，或者https://www.xiaohongshu.com/explore/643e7d4f0000000027003a97 ，下载效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-99a2f18653442371.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+无水印视频也支持https://www.xiaohongshu.com/explore/63a05835000000001c03712f。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e9e8edd093e409d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+如果要批量下载某个账号的所有笔记用这个工具，比如这个号
+https://www.xiaohongshu.com/user/profile/617a8d49000000001f03b1bf ，打开软件扫码登陆小红书，输入链接下载效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4803367be27cf650.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+每个笔记保存在一个目录。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fb7cb0cf7a9d6211.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+我顺便写了个python脚本批量导出笔记数据： 以高叶这个号为例https://www.xiaohongshu.com/user/profile/5badf469dcf6180001b2588d ，共发表140个笔记，excel数据包含发布时间,链接,标题,简介,图片地址,视频地址,标签,@用户,收藏数,评论数,点赞数,分享数,更新时间。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-315d5b5d29db3d1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+第一条笔记发布于2019/7/13  的《长安十二时辰》我的李香香https://www.xiaohongshu.com/explore/5d29ad6c000000002701cf15 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-53cd7080e284d9dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+收藏数最高的笔记是🍃化妆教程丨和陈书婷一起狂飙！（上期）https://www.xiaohongshu.com/explore/63d8f519000000001d0111a1 ，有4万多，你应该看过她的电视剧《狂飙》吧。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4b5a6e9eff41a5a6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 音乐下载
+一个非常简单实用的音乐下载工具 ，搜索周杰伦，直接下载音乐mp3到当前music目录。
+
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1d0670faf1dc8431.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 硬盘搜索精灵
+一个不到1MB的小巧搜索软件，支持搜索文件和目录，和everything功能一样强大
+ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-288f42efad40ba66.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 谷歌翻译
+https://github.com/Ponderfly/GoogleTranslateIpCheck 这个工具可以扫描国内可用的谷歌翻译IP 。
+  ![image.png](https://upload-images.jianshu.io/upload_images/23152173-4f954339da57d20f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+扫描完成将以下2行加入hosts文件 `C:\Windows\System32\drivers\etc\hosts`
+```js
+142.250.13.90 translate.googleapis.com
+142.250.13.90 translate.google.com
+```
+以https://github.com/trending这个网页为例，右键翻译效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2dd87f1912ff2ea2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+找到响应最快的ip加入hosts文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b5b137c664d30177.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 键盘屏蔽器
+这个键盘锁专治熊孩子，可以把键盘鼠标全锁住
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-80372059080486e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# PowerOff
+一个定时关机，远程局域网关机小工具
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4d231786709cf0d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# screenshotx
+一个自带分享功能的截图工具，能轻松地在Windows中截取屏幕截图官网：https://screenshotx.com/ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e7b8ddee03b088c7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 笔顺查询
+这个工具是小学生的噩梦，可以显示汉字的笔画顺序以及写法 ,app可以用之前分享过的这个[2023 年 4 月神器 app 来了](https://mp.weixin.qq.com/s/AgxrkioQJ_tKocai68skCw)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-46d3db9f550f6576.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0081713a04ff32a5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1ac137468cc1884b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Windows 系统调校
+这个小工具可以很方便的对电脑进行设置和修复
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3b3d0a46d600e952.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 象棋大师
+一个不到1MB的中国象棋小工具。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-52d47ba77de053db.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Licecap 
+一个小巧的屏幕录制GIF工具 https://github.com/justinfrankel/licecap
+   
+![i](https://upload-images.jianshu.io/upload_images/23152173-d41a16b80d4d30fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的还有开源动画录制软件ScreenToGif http://www.screentogif.com/
+
+ 
+# qq空间下载
+
+一个qq空间图片/视频批量下载器，先打开设置，登陆要下载的qq账号，然后设置下载目录。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aec5c6d056388fbf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+右键全部下载就行了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e0c29fbd1ca8d890.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# SubtitleEdit
+一个好用的视频字幕编辑软件https://github.com/SubtitleEdit/subtitleedit 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f2bf654cb36a0c06.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cd662fa41fa3f0a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# zlibrary 电子书下载工具
+打开工具搜索下载就行了，下载地址在公众号苏生不惑后台回复 `电子书`。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-19c8a78f7739095b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

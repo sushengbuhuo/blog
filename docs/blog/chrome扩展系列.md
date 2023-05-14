@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-4-1
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-5-15
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -2025,7 +2025,10 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c2b042dcd2923868.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 没想到它还知道我。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-3e43dc5b0b7b4dfc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-https://github.com/chathub-dev/chathub/releases/tag/v1.5.2 
+  
+还提供了各种prompt。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7f166b2be0db0947.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 # ChatGPT Assistant
 一个基于CHATGPT的chrome浏览器插件，需要登录你的谷歌账号才能使用，每天限制免费使用51次 https://chrome.google.com/webstore/detail/merlin-chatgpt-plus-app-o/camppjleccjaphfdbohjdohecfnoikec/ ，使用快捷键ctrl+m开始玩。
 https://merlin.foyer.work/onboarding/
@@ -2035,7 +2038,7 @@ https://merlin.foyer.work/onboarding/
 同时集成到谷歌搜索，方便使用。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-9f984f8c07d69ade.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### Bing Unchained
+# Bing Unchained
 改hosts后在chrome浏览器打开https://new.bing.com/ 提示在edge中才能用https://www.microsoft.com/edge/launch/newBinginEdgeChat
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-225e7765d3b76c3b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 安装这个浏览器插件就可以在Chrome中使用new Bing了 https://chrome.google.com/webstore/detail/bing-unchained-use-new-bi/laldfnbbeocphnilnofhedhcjcnchbld/ ，不用edge浏览器也行https://www.bing.com/search?q=Bing+AI&showconv=1  
@@ -2054,13 +2057,160 @@ bing搜索里也可以直接聊天。
 
 话说微软的AI绘图也上线了 https://www.bing.com/create ，目前文本提示只支持英文。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-a9f9ca766e699acb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-# ChatGPT for Google
-在搜索引擎结果中同时显示ChatGPT的回答,支持谷歌，百度，bing等， 最近更新时间2023年3月24日 https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf?hl=zh-CN
+
 # ChatGPT Box
 将ChatGPT深度集成到浏览器中,除了对主流网站进行适配，还内置了诸如翻译、总结、润色、情感分析、段落划分、代码解释、问询等功能。https://github.com/josStorer/chatGPTBox
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-67475942102f6d09.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-# 沉浸式翻译扩展
-https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh-CN，最近更新时间2023年3月16日，免费使用，支持 Deepl/Google/有道/腾讯翻译等多个翻译服务，还支持 Firefox/Chrome/油猴脚本，智能识别主要内容区域后按段落同时显示原文和译文， 对比下谷歌翻译效果：
+ 
+# Checkget 
+一个基于GPT-3.5 & GPT-4的浏览器扩展https://checkget.com/  https://chrome.google.com/webstore/detail/checkget-smart-assistant/flekfdobikapenebblekbdjbgbhlhbni ，可以帮助你翻译、回复电子邮件、撰写推文、生成代码等，无需注册即可使用，快捷键Alt+K开启。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e81f0ceb46756bd8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还可以直接语音输入，支持中文，我测试了下，识别很精准。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a0e4732455ba9184.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+有点类似之前分享过的chrome扩展ChatGPT Assistant https://chrome.google.com/webstore/detail/merlin-chatgpt-plus-app-o/camppjleccjaphfdbohjdohecfnoikec/ ，使用快捷键ctrl+m开始玩 ，不过这个不用登陆账号就能用，而且没有次数限制。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5c8b9305941762b3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8f0d9c326bf943b6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-24586f6ef5cccdb9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c77867d8b7724f1c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# sidebar
+一个可以在任何网站使用的人工智能助手 chatgpt-sidebar.com  https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb，最近更新时间2023年4月1日。
+```js
+     ✅ ChatGPT 翻译器
+     ✅ ChatGPT 词典
+     ✅ 语法检查
+     ✅ 自定义任何提示
+2️⃣ 快速查找窗口：
+     ✅ 查找所选文本的最快方式
+     ✅ TTS 支持
+     ✅ 易于打开/关闭
+3️⃣ 增强搜索页面
+     ✅ 自定义搜索页面提示（市场上唯一的）
+     ✅ 支持所有流行的搜索引擎，包括 Google、Bing 和 duckduckgo 等
+     ✅ 支持打开/关闭搜索页面面板
+4️⃣ 容易访问 ChatGPT
+     ✅ 支持 ChatGPT-3.5 API 密钥
+     ✅ Plus 用户支持 GPT-4（新功能！）
+5️⃣ 主题
+     ✅ 支持暗/亮模式
+6️⃣ ChatGPT 响应页面：
+     ✅ Markdown 渲染
+     ✅ 代码高亮
+     ✅ 停止生成响应
+     ✅ 将响应复制到剪贴板
+```
+集成百度谷歌搜索结果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ed40cd294bf060a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-533a1bc06ea4bd0b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+右边侧边栏提示模板：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d0d06ef616c54a07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+选中文字效果如图，可以翻译，改写，解释，总结，解释代码。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8629fbe508834329.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0a83ee46921f2db4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以自定义设置api。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-02c3d1d7176a83bd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 沉浸式翻译 
+一个沉浸式网页双语翻译扩展https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh-CN，最近更新时间2023年4月10日，这个扩展支持 Deepl/Google/有道/腾讯翻译等多个翻译服务，还支持 Firefox/Chrome/油猴脚本，智能识别主要内容区域后按段落同时显示原文和译文， 对比下谷歌翻译效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2dd87f1912ff2ea2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-a1524beefd96f1c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Speechless 
+这个扩展可以将新浪微博的所有内容导出PDF https://chrome.google.com/webstore/detail/speechless-%E5%BE%AE%E5%8D%9A%E5%A4%87%E4%BB%BD/igilfpckopigflpafgoajlljpdhmoall/related?hl=zh-CN，比如李健的微博，打开https://weibo.com/musiclijian ，点击右上角开始拉取该用户可见的微博内容，自动拼接生成一个页面，然后用 Chrome 的导出 PDF功能合成pdf。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fc82407a099ebdf8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5773fbf564f33b91.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+拉取完后保存为pdf。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-16ad9dcd59912b30.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+打印pdf。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8e4f99f1ec7d3e97.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+最后生成的pdf文件如图，如果还想导出微博数据（点赞数评论数转发数）和下载图片/视频用我开发的工具[一键批量下微博内容/图片/视频，获取博主最受欢迎微博，图片查找微博博主](https://mp.weixin.qq.com/s/fmboKshIIoeeB21dTBazGg) [微博图床又搞事情不能用了，盘它，我顺便写了个微博图片/视频/内容/文章批量下载工具](https://mp.weixin.qq.com/s/dgQNkeky2HuEzfgigbLp7Q) https://www.aliyundrive.com/s/upcDe8eNJ28
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f8df9880558f1919.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# 无限制下载器
+之前分享过[视频下载黑科技，VIP 视频也能下载](https://mp.weixin.qq.com/s/mNbZhu-UIMWXL9l23v6mvA) ，这个油猴脚本无限制下载器https://greasyfork.org/zh-CN/scripts/445751 能直接获取视频和音频二进制流，打破所有下载限制，需要播放完成全部下载，可配合Global Speed 扩展使用https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff 。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-87b598085d6dd0f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-143a86d7847f668c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+播放完后会自动下载音频和视频，接着用ffmpeg 合并音频和视频文件，在命令行执行`ffmpeg -i video.mp4 -i audio.mp4 -c:v copy -c:a aac -strict experimental output.mp4 ` 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f840331f6d028010.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+这个油猴脚本有点类似之前分享的https://github.com/Momo707577045/media-source-extract ，不过需要自己断点执行代码。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c840244f63f5522f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Bing-Chat-Saver
+
+new bing没有历史记录保存功能，每次刷新就没了，如果想导出记录可以用这个浏览器插件https://github.com/gantrol/Bing-Chat-Saver ，点击扩展图标可以选择导出格式（png，jpg，markdown和json）。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-24cc34c0e4e8649e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后右下角导出就行了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-41edb913f3dd36dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+刷新页面后还能查看聊天记录。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f4afdba82105d1c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 总结视频
+这个浏览器扩展将ChatGPT深度集成到浏览器中https://github.com/josStorer/chatGPTBox,内置了诸如翻译、总结、润色、情感分析、段落划分、代码解释、问询等功能 ，在扩展设置里输入api key后可以直接总结文章，比如这篇公众号文章。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8b9ef2c0a5343242.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还可以总结b站视频https://www.bilibili.com/video/BV1wk4y1i7Nd/ ，让你节省时间了解一个视频。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-98b7141186f07a2c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# WebChatGPT 
+这个浏览器扩展可以让你的ChatGPT 联网查询结果，从链接提取网页，添加和使用提示模板https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c530d59f44a56460.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fd58f2db0959705b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f883e66b6925391c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# ChatGPT 总结助手
+一键总结整个网页的内容，大大缩短你阅读的时间https://chrome.google.com/webstore/detail/nnjcoododbeemlmmhbfmmkbneniepaog
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c4997ea7c0fd5906.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+比如总结这篇文章
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fb4f1fae4ea7df55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# ChatGPT 智能提示
+
+这个扩展可以发现、分享、导入并使用最佳的ChatGPT提示，保存聊天记录到本地https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo/
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f2e56aa59b5c1d4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# chatGPTBox
+这个浏览器扩展将ChatGPT深度集成到浏览器https://github.com/josStorer/chatGPTBox/blob/master/README_ZH.md ，功能很多很强大：
+```js
+🌈 在任何页面随时呼出聊天对话框 (Ctrl+B)
+📱 支持手机等移动设备
+📓 通过右键菜单总结任意页面 (Alt+B)
+📖 独立对话页面 (Ctrl+Shift+H)
+🔗 多种API支持 (免费用户和Plus用户可用Web API, 此外还有GPT-3.5, GPT-4, NewBing, 自托管支持等)
+📦 对各种常用网站的集成适配 (reddit, quora, youtube, github, gitlab, stackoverflow, zhihu, bilibili) (受到wimdenherder启发)
+🔍 对所有主流搜索引擎的适配, 并支持自定义查询以支持额外的站点
+🧰 框选工具与右键菜单, 执行各种你的需求, 如翻译, 总结, 润色, 情感分析, 段落划分, 代码解释, 问询
+🗂️ 静态卡片支持浮出聊天框, 进行多分支对话
+🖨️ 随意保存你的完整对话记录, 或进行局部复制
+🎨 强大的渲染支持, 不论是代码高亮, 还是复杂数学公式
+🌍 多语言偏好支持
+📝 自定义API地址支持
+⚙️ 所有站点适配与工具均可自由开关, 随时停用你不需要的模块
+```
+安装扩展https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo/ 后在扩展设置里输入api key也可以直接用chatgpt 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-91252a35f9bc656e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+集成谷歌百度搜索效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6eb1ddde57a5684a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-285782f5f0724580.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+也可以呼出聊天对话框使用。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a6b44e6e02d53286.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+直接总结文章，比如这篇公众号文章[搞定小红书无水印批量下载](https://mp.weixin.qq.com/s/SazKC6mP8jzli6NUdthqzA)。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8b9ef2c0a5343242.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-311a5fb313b0199e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+总结b站视频https://www.bilibili.com/video/BV1wk4y1i7Nd/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-98b7141186f07a2c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+知乎问题可以直接回答。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2609916707df7154.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+选择文字可用翻译，总结，润色，情感分析，代码解释。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9bb0a2eeb4e98564.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

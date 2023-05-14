@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-4-1
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-5-15
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1608,9 +1608,95 @@ https://wwwo.lanzoum.com/b018e4jsf 密码 BBLL
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-5f3f1bf0260d3e64.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-53886b536c39764c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-# BiliGPT 
-最近chatgpt很火，这个网站可以让你节省看视频的时间，一键总结 哔哩哔哩 视频内容https://github.com/JimmyLv/chat-bilibili-video ，每天免费使用7次。
-![image.png](https://upload-images.jianshu.io/upload_images/23152173-e8dc0e4859abb479.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-效果还行。
-![image.png](https://upload-images.jianshu.io/upload_images/23152173-a69ae377846f7ffb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# See
+一个新浪微博第三方客户端https://wwuq.lanzoum.com/iFbTI0rxc7oj，比官方版本简单便捷，无广告和垃圾信息。可以悬浮视频播放，图片转场动画，一键保存微博图片，自定义主题, 快捷滑动返回
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9db6ed93c072d263.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+视频下载
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fbb41b1b02daa9f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# MusicFree 
+这是个免费开源，支持插件化、定制化、无广告的免费音乐播放器https://github.com/maotoumao/MusicFree ，使用插件后就可以免费搜索和下载各大平台的音乐。https://wwuq.lanzoum.com/iK6qN0r62hve
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b88cf586a6333afb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+安装插件路径：左上角插件设置，右下角+ ，从网络安装插件， 粘贴链接https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json，确认。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a1d683051fdcc687.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 起名大师
+输入姓氏、生日和类型即可生成各种名字。https://wwuq.lanzoum.com/i7NEJ0rxc51e
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e106c4e8ff18329d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7140ac23e53027ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# My PDF
+一个多功能PDF工具，可以图片转pdf，文章转pdf，excel转pdf，pdf加密解密，加水印，合并，拆分pdf，压缩pdf，提取图片，提取文本。 https://wwuq.lanzoum.com/iVRNA0rxc7ch  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7786bdb1324de5c2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 快找资源
+一个聚合类APP，可以查找磁力、软件、影视、音乐、网盘等资源 https://support.qq.com/embed/phone/498317  https://dmla.lanzouo.com/b05pa9a2h
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-233db8f9a5251e52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜音乐
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-35359dd0e23d12fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜网盘
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-97e2ae99531ac7a5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜影视
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8b0da123432cfb90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜磁力
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e55642eeea4d4f13.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜应用
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-64ce98582fa27d86.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 简单学英语
+可以选择四六级，雅思，考研英语学习。https://wwuq.lanzoum.com/igZD50rxc4na
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2c0c4641412b640c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有口语提示训练学习视频教程。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c3b4ac3c99fabaf3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+ 
+# 太极工具箱
+一个安卓工具箱app，包含各种实用小工具。https://www.pgyer.com/sensors
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1b58db8a11d183b6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f0574aeacb8a6577.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 万能收音机
+上班路上可以听会收音机，有国内外电台。 随心听国家台、地方台、网络台应有尽有；新闻资讯、音乐、交通、体育、故事广播分门别类一应俱全。https://wwuq.lanzoum.com/ir2Hw0rxc6uj  https://www.superradio.cc
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-55bb10d5d179988b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cfb9aa00f3ce96aa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# MIUI计算器
+一个集普通计算、科学计算、汇率计算、房贷计算、个税计算、亲戚称呼计算及单位换算等一体的app,帮你解决生活中的各种计算难题。https://wwuq.lanzoum.com/iDkQS0rxcaeh 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-560c47d98e8ff123.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0946b9dd9d865cb1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 笔顺笔画
+适合给小孩子练字的app https://wwqh.lanzouw.com/ik5aR0qrodqh
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0081713a04ff32a5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1ac137468cc1884b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 国际版edge
+它和桌面版edge完美互通，自带的翻译、查词、大声朗读等功能很好用，使用new bing需要设置地区为美国。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c0734f2a35fc9e52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-199d6f8b090ca364.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9aaced2945ac2cf4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 快乐下载
+打开视频在转发里选择投诉，复制链接。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a1d81c80413ec575.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+打开app解析下载，如果不能用了就是微信又更新了！
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9ba7d9aac2b5e819.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+除了解析视频号，这个app还支持56种下载方式，堪称万能，包含磁力下载、直链下载、种子下载，音乐下载，壁纸下载等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e64b760201120a54.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+比如下载b站视频https://www.bilibili.com/video/BV11S4y1T7ca
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7a476d94407289fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载单个抖音视频 https://v.douyin.com/eLXBnJE/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-65b98586b36ba050.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有抖音主页所有视频https://v.douyin.com/eLhwxF2/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-88748e412a02da76.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+小红书视频也支持，如果想批量下载用这个工具[搞定小红书无水印批量下载](https://mp.weixin.qq.com/s/SazKC6mP8jzli6NUdthqzA)。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c1cd4fcc62e6d045.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c77d9ca1605fd9f0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+以及资源嗅探网页视频，音乐，图片等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-64668ac713a46fd7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# BiliYou 
+一个非常简洁的开源第三方B站手机客户端https://github.com/lucinhu/bili_you，功能还在不断完善，最近更新时间2023.5.2。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-11d09a994ff13bce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
