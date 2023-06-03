@@ -1,3 +1,4279 @@
+[2023-05-25_太卷了！PPT目录页放4个表情包后，美出圈了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247602634&idx=1&sn=be2f8fe2052f917bd51b0c879b7dc76a&chksm=d2912960d51a90911c95f6fbc415b285fae0060ddd43135970603622fe1e95bb07803f544d95&scene=27#wechat_redirect)
+
+文章简介:嗓子疼了，无摘要
+
+文章作者:HAI000
+
+[2023-05-24_救命！领导给的PPT模板真的太low了！咋整啊？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247602501&idx=1&sn=43331fe68ace9bd22b4d599f6a442424&chksm=571470b65d92901eef6531753f1f894bb9293a8379a476887b95263368f2a32fd200b90f6e21&scene=27#wechat_redirect)
+
+文章简介:嗓子疼，无摘要
+
+文章作者:邵云蛟
+
+[2023-05-23_同事花300找人做了页PPT，被坑惨了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247602420&idx=2&sn=de69b67998cf4784fc10505d1cd2cbe0&chksm=d695205679b693ad9a891a9832c416c27a6440ff142f7359c448f1593683e54927c74cdbf4ae&scene=27#wechat_redirect)
+
+文章简介:装修，无摘要
+
+文章作者:
+
+[2023-05-23_请做好3年内随时失业的准备](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247602420&idx=1&sn=b993f550be21cb5fe6f2ba32c2f10741&chksm=7635691ff53a93ada52548cc426841028abe17239dcd7c0eafa750931c067f5c07ff9c19c961&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2023-05-22_京东这页PPT，用一个货车，就把高级感拿捏住了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247602339&idx=1&sn=17666d8fef59cd7b45a7e73c315afeda&chksm=76353110d11e93faeee001da9a93b11b2db8e1b5e5c0485c25006bf9bec2e8dc9b1033e74aeb&scene=27#wechat_redirect)
+
+文章简介:正在给办公室装门，无摘要
+
+文章作者:邵云蛟
+
+[2023-05-20_我们搬家了](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247602140&idx=1&sn=c1a3687384111f53d98465f2701a078e&chksm=da993677f13e8e8747a747a6366e3a436ab62728eb0609147338037910d65d3a81626d964871&scene=27#wechat_redirect)
+
+文章简介:前两天没有直播，是我们公司在搬家。
+
+我2017年毕业，正式开始创业，一直到今年，前年后后，换了3个办公室，团队人数也翻了好几倍，有人走，也有人留，好在公司，始终在曲折中前行。
+
+其实，我们这样的公司，未来几年，一眼就能望到头，给大家提供更好的PPT学习内容，以及做好服务，如果你想在更短的时间里，系统提升PPT能力，可以开通我们的付费会员，如果时间很宽裕，也可以阅读我们的文章或视频教程，慢慢来学。
+
+不管未来，公司发展如何，记住初心，做好PPT教学，足够了。而这，也是一件我们做的很开心，且愿意持续努力的事情。
+
+文章作者:
+
+[2023-05-19_火爆外网！只用一张图，做一套超酷的PPT！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247602132&idx=1&sn=49251e14f6ba0b28efcf97618e42a48b&chksm=da99662fd11e8c8d4bbc73cf842f2d3c61b7eeafe55c1121a34ef2831463ba753aebaa3a4476&scene=27#wechat_redirect)
+
+文章简介:搬家太累了，无摘要
+
+文章作者:邵云蛟
+
+[2023-05-17_这张PPT目录页太丑了！用更丑的SmartArt改造后，巨高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247601422&idx=1&sn=8945a24bf274fdd01aec70df1bd28e73&chksm=f7b425b475ba845db832815dde39229071979f7dfdc974cd8164f87ce1952193e8da4b02089a&scene=27#wechat_redirect)
+
+文章简介:明天搬家，无摘要
+
+文章作者:邵云蛟
+
+[2023-05-16_PPT多图排版还在并列摆放？这5个思路一定要收藏！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247601256&idx=1&sn=168c158990a7b752d0251dc06a50bfcd&chksm=f7b47482dd12853bb41f0d32a8b4f4ad691fb369d18d832ae6cd606e8b7ab6845de29fb67f1d&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2023-05-15_华为这张PPT太酷了！图片朦朦胧胧的感觉，太绝了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247601206&idx=1&sn=14158b05892579236bbd6f5346e5e0c1&chksm=d390359d559a8767d5042262baf54538c414e6e660f89495b0cbea57b07cb66b54e6050a9970&scene=27#wechat_redirect)
+
+文章简介:很热，无摘要
+
+文章作者:邵云蛟
+
+[2023-05-14_一年一度！这波PPT福利太大了！资源直接撑爆硬盘！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247600267&idx=1&sn=685054b9f33bdfaefc8b829bcb4c77a2&chksm=f6b52031f13e8bd2f9a4edbd7dc3f3e87fd818281d5a2a9ca5838796f258e181b189ff510438&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-05-13_明星欧阳娜娜答辩PPT公布，网友直接炸锅了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247600262&idx=2&sn=a785d070c6515d2c81a1c25bc9a394d7&chksm=c094716d5d9281d5ec3c17cef0d757b18458d313f7ce25f7bb62a63c7aa29ebf01c262bd615f&scene=27#wechat_redirect)
+
+文章简介:周末了，无摘要
+
+文章作者:
+
+[2023-05-13_“大神，这份24页的PPT，领导没给图要怎么做才好看？”](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247600262&idx=1&sn=813232be72351f1a28ecac2e64352cf3&chksm=cd99213d7db281d5adf3e399e937a75e1f2ce18e7aa515a07c29b633f6aaeb19d5260424dc07&scene=27#wechat_redirect)
+
+文章简介:想吃串串香了，无摘要
+
+文章作者:邵云蛟
+
+[2023-05-12_领导说PPT太空咋办？这3句话，是我听过最好的答案..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247600258&idx=1&sn=5752c847a4525a9f9db6ae1f70a4eab4&chksm=6d392038599689d911783fc9265b5cffd9650b3d63eaaa9d790ed17b4f96e138084bf3c0753f&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-05-11_李佳琦的这张PPT封面真好看！图片的处理，太鸡贼了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599963&idx=1&sn=bd78f8a8a76b633cd6160d0c572886e5&chksm=ecb866a8dd128402020edc1f02733979b3a65cca2cebe1f75fca2be0f25058d9f3409437030c&scene=27#wechat_redirect)
+
+文章简介:好热啊，无摘要
+
+文章作者:邵云蛟
+
+[2023-05-10_看了这9张PPT案例后，我才知道，微软自带的圆柱体有多强！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599888&idx=1&sn=67397836c7a21af21690fc904980bbdf&chksm=61357ffa71be8449a3d1e1ada784c8a5b5500d40633c7b4f65fb9c610bd810558b9131e9d9be&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-05-09_千万不要乱加素材了！字少的PPT这么做真高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599874&idx=2&sn=151d759497ac3770d1d9b1ce329fbaf7&chksm=e0b47fe8f53a8c538d9454ef52f92958eb1200e5f4e7c154056222e63932720365971dcf3bcd&scene=27#wechat_redirect)
+
+文章简介:喝茶，无摘要
+
+文章作者:
+
+[2023-05-09_（待会删）yyds，全行业必备的Excel实操大全，请低调使用！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599874&idx=1&sn=11a7465bd3d1129a559687d5fe224c00&chksm=491d67f071be8659b0934ac0e3aefa97ff874706aaea8a3fa07507d046f8d6546dc9a3bedae4&scene=27#wechat_redirect)
+
+文章简介:干货！建议收藏
+
+文章作者:
+
+[2023-05-08_给淄博做了套PPT，用上百度地图后，直接开挂了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599785&idx=1&sn=c8ba3976c0744f758694fe95eab6550b&chksm=6d392e13f53a87f22dda8e125e9b1a09c2bca2fa817bf6096d8c7e4a20b63c8bd58ecbf4191d&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2023-05-07_下班在家偷偷赚钱，靠PPT做副业到底咋样？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599747&idx=1&sn=fd34fceddd46025811d224fcbf3a1971&chksm=cd993621d9168fd02f59468b97d3650551cefdfa424357a1400e26d920d3832105a54010d4ae&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-05-06_这张PPT封面太高级了！光标题的细节，都能甩开同事..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599740&idx=1&sn=f866fc79c8b2a3f752757ac58ecf0754&chksm=653126cef13e8d2d83283c852ae86b40bc425348770ebfa1e5644b98129e6a78cd8c3a946a22&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2023-05-05_灌篮高手这页团队介绍PPT，看到最后，真的泰裤辣！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599693&idx=2&sn=f94bc69bad1fc094768dc2f9802fdd12&chksm=40143fe679b68d1cb75276a171d9c8ce8b177b2350418022bf611dc42af4244a9b04ecfb2cdd&scene=27#wechat_redirect)
+
+文章简介:做课件，无摘要
+
+文章作者:
+
+[2023-05-05_极度缺人：500-800元/天，不用坐班，时间自由可日结！！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599693&idx=1&sn=cc144826c37a53d85a51595ef5bda45d&chksm=6d397ea7dd128514c67e4959bf5359bfb1dabba2a6378b095fa6284cc44728af3c7059227b06&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2023-05-04_没想到！仅仅是把文字对齐后，PPT身价直接翻倍！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599657&idx=1&sn=e886575581ecb08d68be6e218e1606db&chksm=481c2f92d51a8772db3452ef6d2d725a8565ea0be11f35821f2316bb8447a1b9090e990500c3&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2023-05-01_高德这页只有8个字的PPT！用了一个神技巧，不加图也高级...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599640&idx=1&sn=2d1d6190993dab27a992ca1106ed0f47&chksm=48112fa3d9168d49002a6ae08c992e15032b5753e44dc559d06a98baaa6b64709dec57d18e3f&scene=27#wechat_redirect)
+
+文章简介:假期快乐，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-29_PPT自带的图表丑爆了？按这3种方法搞，立马高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599631&idx=1&sn=9d06861074201fcab82a1754200cb1b9&chksm=c59c26bdd11e87544bdaa74057c7094bf9bfbdb4232794c510c6415c86f116122ce7614fe4b7&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:柚子
+
+[2023-04-28_公司PPT模板丑到脑壳疼！别慌，3招秒变高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599630&idx=1&sn=df53e6a67bd7021b5bf482cc8ee97ffa&chksm=441d7ee4fd328755d4cc6887075eaff839ee898e43014332988492ebdf040c768b2536189f89&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-27_河南白象方便面的PPT长啥样？国潮风秀炸了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599629&idx=1&sn=9d866c2ce0b2248d3eea8745f437112b&chksm=653c77ee559a8554b53d823c0fd1abd9e5f56569f92bae5f7b14296a5a55b4122503bf648110&scene=27#wechat_redirect)
+
+文章简介:节前最后一场直播，无摘要
+
+文章作者:Hai000
+
+[2023-04-26_PPT中遇到图片不会排版？两个字：放大！！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599621&idx=1&sn=065b6ffa29431837c8fe6e88fff989af&chksm=e9b026b7f936855cc21a3390961d920f326642a9532d87e1c5661e4c2c01714ff4072b012a1d&scene=27#wechat_redirect)
+
+文章简介:喝了杯咖啡，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-25_小红书的这套策划PPT，把矩形换成圆角后，太Q了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599615&idx=1&sn=b27160d48be8138b5b93b1f50b3ff841&chksm=4c15345c79b68eae60f7df0daf32e2cb06b6051938c29ede24ff3b6a86bf2562d55ec585f0bf&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-04-24_瑞幸这张PPT上13个logo，还非让对称放？！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599607&idx=1&sn=ff8098c6d5fe0a3a4aec2bffa953262d&chksm=48116d0d71be8ca483e943f1eb2f66491b810faee6eb25753216465aa3dafc7478e3baea0696&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-04-23_一年一度！这波PPT福利太大了！资源直接撑爆硬盘！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599602&idx=1&sn=eb09e3beb13e405877ae60131ecb125f&chksm=c49d7d18d51a84a9ac628a53100d126a991bdba38a664b58e4d49c9a7f8bd4e6176cfcf138f3&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-22_解释一下，为啥前几天没直播？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599596&idx=1&sn=a192888f8dafb0eb2285ed485462a904&chksm=ecb57c075d928cbf2cbcc33c5aa64349afb7a6f5423b5baf4ce0daa8c09a131f9cf6f4da2b0e&scene=27#wechat_redirect)
+
+文章简介:🛩️因为跟同事们，去泰国团建了，这也是我第二次去泰国，虽然物价有所上涨，不过，玩的还是挺开心的~
+
+而且，正好赶上泼水节，走在大街上，迎接你的，是来自世界不同国家的朋友们，向你泼来的，一盆又一盆的水，开心，哈哈~
+
+另外，说下，明天就正式恢复直播咯，晚上8点半，准时见~
+
+文章作者:
+
+[2023-04-21_从来没见过文字这么多的PPT，还是政府的！头秃！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599585&idx=1&sn=0c865c39e45c1eda46534e9b87383734&chksm=6d347503599686b8257a38a8deeac3693e869a8adb9debad995bbcc016c92d84c9921f836260&scene=27#wechat_redirect)
+
+文章简介:团建中，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-20_PPT上图片大于5张，闭眼用苹果的这个版式！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599584&idx=1&sn=e63b8e248885f87ec5fb4ef0f5608fa8&chksm=bb992453d91684bb3d594430236d74cfc606d1f6bb6ce58a5d6a4c041f91e29f4cde4a833b31&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-17_哇！PPT上的丑证书直接变3D感了！领导爱惨了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599427&idx=1&sn=e573c75368afa2984bf9e55857e2e913&chksm=1f3d34e05d928c107902d6b8e8176125ecef0e7f4088d40a23e12cb5fd5237b427fbfd1fb038&scene=27#wechat_redirect)
+
+文章简介:去团建了，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-16_做了5年PPT，看到这13000页模板库，还是心动了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599426&idx=1&sn=a260b49103724b95bc93ee076667d0a1&chksm=9ebc6cb9dd12861bf8dc10e4fddf9694eadd3d6bf89dfac99ec2b5ac76967f0f88ecc6f90deb&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-15_这套ChatGPT的智能PPT，配色高级到爆！！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247599400&idx=1&sn=cacb196ed7aeafae49423aaf893fb373&chksm=3b19348b7db28671edd5b20a321e45287b1b2c65c6ceb3a296539cbf21e0026a30488235cb18&scene=27#wechat_redirect)
+
+文章简介:团建中，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-14_好评如潮！魅族这页PPT，文字云效果杀疯了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598352&idx=1&sn=ac68674d857d600d31620445a1ffc31b&chksm=1f3d79fadd12804bd32271245b545d4e58e06aa6d8863675a9e8b526d5016e7e25b749924976&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-13_297个字加2个丑表格，这套食品PPT真丑到家了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598270&idx=1&sn=88ac990e2fe7c77572b001482674c515&chksm=3a18715d75ba89ed2ca575319646ee8e09f3ad5dbb131f0f19ac8be550804604c26a43efdce7&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-04-12_没想到！PPT自带折线图，竟是时间轴神器！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598262&idx=2&sn=b1cfb306691997b6242ec9d1746c95b8&chksm=3a18705479b68be7304c1a19652ce58da0508325c8e724e464cbf9f4f1337a4f1c353693011f&scene=27#wechat_redirect)
+
+文章简介:牙疼，无摘要
+
+文章作者:
+
+[2023-04-11_一页PPT收费207元，高吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598223&idx=2&sn=efe419223a535f864154b052df857531&chksm=b391617cfd3281d4c7baab366e02afbd3eeaf87a1fcbeff646a2ef3f26392861850532c26d77&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-11_阿里这张PPT绝了！把2个梯形推倒的设计，太妙了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598223&idx=1&sn=3aa3535b8f564d0724c564480f7998ab&chksm=b694786559968bde6052f3a8c5e86d10f8e29faf2c0eb678d23951b98955f30bf38b3ab8f27c&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-10_无语！领导给的这张图丑到家了，非让放PPT里...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598209&idx=1&sn=a76e5cf69e157a2db23e9052155d7c99&chksm=93b1706379b683d8f9fae84f05c7fb2cb4e71396c47cab51c692a239770b724177e1b8689f8b&scene=27#wechat_redirect)
+
+文章简介:上火了，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-09_一页PPT收费207元，高吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598194&idx=1&sn=bb2d5f74758d0f74b329c1a7cc8e8c75&chksm=1a386181fd328b23ca2de1e996a8aa315a23531d32e85bbb733b9457489646e5d85d18c0a792&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-08_用一个圆搞定中国风人物介绍页！《长月烬明》这套PPT动起来杀疯了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598172&idx=1&sn=bc1b1d4ef09ec848aa20da9c5794ad4d&chksm=a29570be7db28b0d6befdd02a038eea83143babf8018e226154946be7eab87d5b84b371bfbe1&scene=27#wechat_redirect)
+
+文章简介:带牙套了，无摘要
+
+文章作者:雅晨&amp;宋雪贤
+
+[2023-04-07_求你了！重点数字千万别标红加粗，真的脏…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598167&idx=1&sn=2039522f174cd9432fdae2ec44554e3a&chksm=063138fd75ba89047a7dff984b561cff5608d90696f8c89fc5d97ed9436ec70ee5c928cb783c&scene=27#wechat_redirect)
+
+文章简介:戴牙套了，无摘要
+
+文章作者:宋雪贤
+
+[2023-04-06_小米发布会的这张PPT动画，太酷了吧！！！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598108&idx=2&sn=8b2554d2fbe025d9c039fe8f7b386b3f&chksm=8eb971ffd916894f39b282de43a537c3cbe5cb9f93d90b79ee995058419d258fba69e490c4ff&scene=27#wechat_redirect)
+
+文章简介:拍视频，无摘要
+
+文章作者:
+
+[2023-04-05_专治渣图！大神都在用的7个图片神技巧，牛到炸！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598080&idx=1&sn=f0f9cc5d108a72f6c4b836043c81c95f&chksm=033461f3f13e83597af23fe2a05465eaafbe225a2399eeeb4160b2af43ef3bc74b6374b9ea74&scene=27#wechat_redirect)
+
+文章简介:做PPT中，无摘要
+
+文章作者:HAI000
+
+[2023-04-04_别百度找图了！3个技巧，把PPT做出妈生图的高级感！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598070&idx=1&sn=7b8f687257aa8220250ae1fb53f6721c&chksm=8bbc1f4479b6bead90fd34bf31c69e308cdc149e0d38c2c705b4b2f935fa7690a4234e16cbf7&scene=27#wechat_redirect)
+
+文章简介:口腔溃疡，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-03_B站这套PPT太脏了！改完超年轻！尤其是李佳琦这张！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598065&idx=1&sn=393c8f49e17da539c791f8b371ac0ae4&chksm=0334075b7db2b6a21d610cb0f80f7ca4fa29d12dca90cb356f0572e0cbc8245e52cd339eb32b&scene=27#wechat_redirect)
+
+文章简介:下雨了，无摘要
+
+文章作者:邵云蛟
+
+[2023-04-02_我只用一个圆圈，帮腾讯做了份PPT！同事：这排版值得学习](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598034&idx=1&sn=620bbcf4f99e997e3ec5f9ca4d8c00fd&chksm=0b3c1f60d916b681afc9a19bc6bbe602d2934f836712fc13b5b081746e812f351f94720238b0&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-31_最后6小时！这1050页免费PPT模板福利，就没了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598024&idx=2&sn=c27805a87e0080ac143401d1723eed77&chksm=2f1816737db2be9312dcdac01232477bf5d94f1a2667a6745b7050224b5b935e95089536780f&scene=27#wechat_redirect)
+
+文章简介:最后6小时，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-31_一张PPT上挤377个字，按这个万能套路改后，绝了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247598024&idx=1&sn=70e87ef7402f65782b11ff3f5793d773&chksm=8fb8177275babc912162e5c497f4e8bbb2ca30e4c4cc94e133800e28398d7b4507aeefee0797&scene=27#wechat_redirect)
+
+文章简介:手慢无，无摘要！
+
+文章作者:宋雪贤
+
+[2023-03-30_全网24小时后！我攒了6年的这波PPT福利，就真没了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247597998&idx=1&sn=a9a4c5bf8f6c743ad57af0ecbd8b7813&chksm=0a3d4e4dd916bef57cdd1b6e79dff25cb49748f90f30f5ef38e3794de5006760696b2b8fe45f&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-29_邵大，我不会PS，咋做高级的PPT地图？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247597992&idx=2&sn=51c13b00c677605b92a944d2d9b42e0f&chksm=03340f0af13eb6fb6c7b25ec652116df7d762252377623ffcc6be9c977633394e44c16557e9e&scene=27#wechat_redirect)
+
+文章简介:拍视频，无摘要
+
+文章作者:
+
+[2023-03-28_山东蓝翔的这套PPT秀炸了！唐国强看了都说强！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247597955&idx=1&sn=8d67b8d40bef56cd49c0e5c60afa43f9&chksm=a49d1f31d11eb4d20f150cddeadc90ed0d6a42a8a6f9978ed70cdcf55e098219709d0db196f1&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-27_腾讯这张PPT放了14个LOGO！排版丑到没眼看..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596603&idx=1&sn=f0f538ac7f21b88ebf42b9b748f8a6a0&chksm=0c350a99d51ab16a66e8109cf8cdcddd0fe4b45d0b1a52bec47d46b5a9fb22bf1d97b112175d&scene=27#wechat_redirect)
+
+文章简介:上火了，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-26_我偷偷屯了2137天的PPT资源全部放出，这真是最最最后一次了....](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596566&idx=1&sn=60ee50210f757520bc1bb4939c7db2a7&chksm=80b952ec5996b345b4c8f88f52c38352f01734d87b2c68f776ed2a8212ee1123c6863a52dbef&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-25_PPT自带的8个隐藏功能！第4个真的能让你效率翻倍！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596510&idx=1&sn=99b2d2035169146eff3d69cf95e94751&chksm=2811087d75bab885da87cb4b479e15869bef5ad43e8391cbbfc44a5eb233c747d851bf465a2a&scene=27#wechat_redirect)
+
+文章简介:上火了，无摘要
+
+文章作者:宋雪贤
+
+[2023-03-24_这张新拟态PPT太美了！把2个矩形叠一起就能做！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596499&idx=1&sn=d81e75db28302337c4558aa36242a5dd&chksm=0c35007879b6b888ad10365c10e7a6e6af8d53f0049f59bc233f09c194ffb1434c5caf2dfb28&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2023-03-23_百度这张PPT丑到家了！尤其是图片上强调重点的红框...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596486&idx=1&sn=bacb45f426ace9b192c07365f53c8776&chksm=013858355d92b2976bae08598ce52626cea6d2a367b975d70fdfc4efe1177fcfd692e8b3ab56&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-22_看了67场发布会，我终于明白了大厂PPT为啥高级...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596395&idx=2&sn=f5ba6b9c9ba35b71c548ac796f3316b2&chksm=281111d1f936b8300d1435bb8be62dc5674bca872789767bc6d0a106b799fd8d615863c17604&scene=27#wechat_redirect)
+
+文章简介:拍视频，无摘要
+
+文章作者:
+
+[2023-03-21_雷军发布会同款！PPT上文字少于15个，闭眼抄！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596375&idx=1&sn=cdd7389197c1beecb4a7ff282731908b&chksm=0c3508f4fd32b80c53427d1f78190ec40efa6a11fd784e149a02233b10b33e475c7d63275ab7&scene=27#wechat_redirect)
+
+文章简介:口腔溃疡了，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-20_这张PPT上贴了5张丑证书，我1句话整高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596326&idx=1&sn=dcc8dfb78c677b5fd26ef11c5374abe6&chksm=89b040cdd916b87dbf72c2c70db042e56070d47a90d315759325f6ae4dfeb246e1f60aaca6f4&scene=27#wechat_redirect)
+
+文章简介:口腔溃疡了，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-19_点一下就做出500元的PPT动画效果！这个定制级素材库太猛了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596284&idx=1&sn=225d870f18274746a5624d78afd1434b&chksm=84bd11477db2b1afceb4d259df3a17c828cb204ff393309e1f1f0af94d03b22da11c5d99b977&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-18_公司这套4:3的PPT模板丑到家了！领导非让用，咋整？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596235&idx=1&sn=222e4862a1bf26ca669f46f0ac8b2ed9&chksm=1a18016079b6bb92ccbf7eda7cca2cd9d7fc8316c03fec6b829a4f81ae39c671fd78a72a90cb&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-17_红配黄烂大街？这套党政PPT，雷军看了都喜欢！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596224&idx=1&sn=04791eefafd83f2d30eea42def942a90&chksm=3735402a5996b3915a1ab2e389208f3ac5bfc7ddfdef25fc6d6b201f6f19acb5dbd6547c494f&scene=27#wechat_redirect)
+
+文章简介:下雪了，无摘要
+
+文章作者:宋雪贤
+
+[2023-03-16_太卷了！她用2天挣了6000元，只因做对了一件事..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596218&idx=2&sn=92a24a4450516259bf96477686058ff7&chksm=1b195141f53ab1e918d0da271e4e9a14a6a0eee61ac0f77405c47accea03f163802e7e67d2eb&scene=27#wechat_redirect)
+
+文章简介:6周年了，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-16_一张图搞定整套PPT，00年同事的PPT太惊艳了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596218&idx=1&sn=ecc9a22d911b6f4489e0030556ba6c5a&chksm=93915040519eb3ebafa3c406c29c085a8e4daff8a7fc017df1b19561245a0958d538645da5f0&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-03-15_华为这张PPT的图表丑炸了！加上4根曲线后，秒杀同行！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596198&idx=1&sn=9988a980749c0cd06049d0e031d1b324&chksm=9391010d75bab1f52ba5e30db847bc4bed5a1efabbf0c81918ecb092b464d18cd2d9cc7c1222&scene=27#wechat_redirect)
+
+文章简介:吃了面包，无摘要
+
+文章作者:宋雪贤
+
+[2023-03-14_求你了！做PPT别只会标红了，领导都要气晕了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596187&idx=2&sn=45b115e2729a90ee41d655761be98beb&chksm=9f9d5160f13eb1c8afdd2bfcd6dbf5f1b6c898785fe55052b96e4754f1774cc696ace803bacb&scene=27#wechat_redirect)
+
+文章简介:做课件，无摘要
+
+文章作者:
+
+[2023-03-13_避雷！党政风PPT的人物介绍，千万别这样做…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247596154&idx=1&sn=b3ec400e503fb5723dd1a482b74da8a3&chksm=b3b119c9f13eb921c679b053f2ac18016b68d2e0410cc4dd47af91bbde8560a85767788b64de&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-03-12_没错！光做这21页PPT，她直接赚了6000多块钱！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247595466&idx=1&sn=28aa8741d1bed42e01cec12de176fd76&chksm=3b390469f53ab69383669f0a12c0c2d498c90205ebb973ff7994202b577a33c22be1cb893caa&scene=27#wechat_redirect)
+
+文章简介:6周年了，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-11_PPT内容大于3段时，强烈建议用这3个版式，太特别了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247595464&idx=1&sn=d49e505d627939ccc8c1dd67037d12f5&chksm=1614543b5d92b49305b24bc3e7bafc0665f6fc7de2ca6f6b8ae0e2fa373cc2a7ac520a9bdbc5&scene=27#wechat_redirect)
+
+文章简介:周末了，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-10_这张PPT上的8个大箭头，直接给我整蒙圈了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247595413&idx=1&sn=4ecb6a599e238daf342438295f3a6ff1&chksm=9a980d3f75babec42f55bb5c20bfd9139e36b9bf3ceacdfb414935d7915a2738940cf6fac719&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-03-09_PPT别再只会整齐排了！这3个小心机，个个顶呱呱！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247595403&idx=1&sn=729b614884de25bce46b879a05417d46&chksm=3b390c2079b6b6d25580f4b9812097af871badd8f1dbfb79579feb6a545fd8f26e57a4918e11&scene=27#wechat_redirect)
+
+文章简介:穿短袖了，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-08_听了70后领导的话，把PPT中的图和字放大后，美翻了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247595359&idx=1&sn=4865f4d7ec4433739d8571df99e70638&chksm=0e1955ad5996b4048ab4ea4817d3ebea53f51748a3e743acb7293ca2fcb504fa9e5e101a12eb&scene=27#wechat_redirect)
+
+文章简介:妇女节快乐，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-07_00后实习生做的PPT，看完给我整破防了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247595261&idx=2&sn=a460318eb7ffd33674a575b9cae1899f&chksm=2a3d0c57fd32bfac6a0bf1d0a8bbf860b00905e724718503012b8a7306231508140a04d53056&scene=27#wechat_redirect)
+
+文章简介:牙疼，无摘要
+
+文章作者:
+
+[2023-03-06_北京汽车的这套PPT，版式太高级了！尤其是天津小伙这张..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247595203&idx=1&sn=8e2620c04c761ef538704398965f9b25&chksm=2e395530f13eb5982fe310b8e2aab7c6a4d99163eada1e88bfce6acbf231ca67bda374438cb1&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-03-05_花费600个小时，这100个行业的PPT，我终于搞到了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247595198&idx=1&sn=24160d11d8ff20dfcee2dc5eb7a76ffd&chksm=aeb94d55dd12bfef652e9f80c4c54d55507154726b44b2fbbc55ba6ab93f55846b7fcd931aee&scene=27#wechat_redirect)
+
+文章简介:见了个老朋友，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-04_B站这套PPT绝了，4张上硬塞了13个大图表!](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247595192&idx=1&sn=8c998719e3cda85578847bee2a6a23c5&chksm=03141d0371bebdebcc9cbbcd8c0e53bc60a41dbf222affd4c9972baf9ad19a26d3e9025abe52&scene=27#wechat_redirect)
+
+文章简介:见了个老朋友，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-03_雷军这张教科书级PPT结尾页！只有一句话但超高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247595137&idx=2&sn=4efb493d10a5053ccc679720b66e3f93&chksm=06114d6af53abfd033eae2b00cce8e918f133fa85c1b671573fcea530df125945242e141afab&scene=27#wechat_redirect)
+
+文章简介:牙疼，无摘要
+
+文章作者:
+
+[2023-03-02_别再百度找地图了！这个国家出品的网站，用在PPT上秀炸！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247594753&idx=1&sn=628db9c95ea02f87bc8378c5b43ec54b&chksm=0b1c02a2519eb05899415e6e2f7849e80fb2cb682ac9c3c2ba193465fde67ed2035689d3f030&scene=27#wechat_redirect)
+
+文章简介:口腔溃疡了，无摘要
+
+文章作者:邵云蛟
+
+[2023-03-01_没错！光做这21页PPT，她直接赚了6000多块钱！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247594706&idx=1&sn=0366df48b480dae012c7dfac5577a65a&chksm=03144331d51ab389f66ba01d9eeb2ff6d37de5f8b83bf20647c90fc83d253b115bf34771735f&scene=27#wechat_redirect)
+
+文章简介:6周年了，无摘要
+
+文章作者:邵云蛟
+
+[2023-02-28_邵大，我一做PPT就想套模板，咋整？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247594615&idx=1&sn=3da9b93e8f573ee0c1d62ec5bf46b633&chksm=fc918ba1cbe602b7974ca32336e5bcfc28b618f05631fa441dd443ff31c6bf28f892215e156b&scene=27#wechat_redirect)
+
+文章简介:牙继续疼，无摘要
+
+文章作者:邵云蛟
+
+[2023-02-27_太掉价了！比亚迪这页PPT全是字，甲方根本不想看！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247594578&idx=1&sn=8f1e6e3158b59e74680477426e91ecab&chksm=fc918b84cbe6029213277aba0730c1ac80c7f052f23179c7736c67d05093c060ade07d3502ef&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-02-26_抱歉，你可能看不到我的文章了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247594568&idx=1&sn=b3b19771bdb96d5d135b0a3faedfd956&chksm=fc918b9ecbe60288d6f8e9e9c518ae681c16fb3f86c3eb423a950159c8b82a59a2580462e8bf&scene=27#wechat_redirect)
+
+文章简介:牙疼，无摘要
+
+文章作者:邵云蛟
+
+[2023-02-25_京东的这张PPT时间轴，丑到家了！尤其是大箭头...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247594556&idx=1&sn=6dcdfb954a0d23da1260a18be5df8b4a&chksm=fc918beacbe602fc0dc861726520a886a135bd2edfebfbd9bbd9c6bed401a786c0047c51d797&scene=27#wechat_redirect)
+
+文章简介:拔了4颗牙，无摘要
+
+文章作者:宋雪贤
+
+[2023-02-24_太卷了！利郎男装的PPT也太好看了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247594548&idx=2&sn=e82184fc1fa8bce71e749e43a2afe25a&chksm=fc918be2cbe602f471cdb515457c61da957c867e21f8b5056cf898f3e2c5d4ee682dd5e2f435&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:
+
+[2023-02-24_别再用PPT自带的图表了！百事可乐的这张改完超洋气！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247594548&idx=1&sn=6667bac3985d50295c1e54366275c3c6&chksm=fc918be2cbe602f46532ba145e790389da23458ff8dab9d6e751015ecb6f2e56987d84435e52&scene=27#wechat_redirect)
+
+文章简介:牙疼，无摘要
+
+文章作者:邵云蛟
+
+[2023-02-23_瑞幸的这套PPT太卷了！用一个圆搞定了整套9页！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247594478&idx=1&sn=7234f67e23ccf438c3df021fe07c163d&chksm=fc918838cbe6012eb379cf7bcab2f6db241c1d9cfa255f7e1bb7c3d8a7e14dc8fda73b4c94b9&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-02-22_这3个被遗忘的PPT图表类型，竟然是一键排版的神器！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247594382&idx=1&sn=7b4b69598735ba9de70c675d13d64f5b&chksm=fc918858cbe6014ee896535e42ca09afd791340d2ce0b1525a82f14475ca773b9b08eb65e71f&scene=27#wechat_redirect)
+
+文章简介:喝了杯咖啡，无摘要
+
+文章作者:邵云蛟
+
+[2023-02-20_别再加图了！这套博物馆PPT，白底黑字照样很高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247594330&idx=1&sn=8434f357b229a03615a87c37cde81786&chksm=fc91888ccbe6019a376c92c6c12185f7062675767c7ff61dc4387b99bea08269b416751f33b5&scene=27#wechat_redirect)
+
+文章简介:新的一周，无摘要
+
+文章作者:邵云蛟
+
+[2023-02-18_明星欧阳娜娜答辩PPT公布，网友直接炸锅了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247594276&idx=1&sn=b8ffb711b919d43d4e3022e181328e69&chksm=fc9188f2cbe601e4baaeeea694f8693def6baa01c4e8981005640d852b6c69443f4461a78e1d&scene=27#wechat_redirect)
+
+文章简介:周末了，无摘要
+
+文章作者:
+
+[2023-02-17_王小波的这张结婚照，在PPT中翻转后，太高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247594045&idx=1&sn=fb98331c502d9a745ede1e822b8bd621&chksm=fc9189ebcbe600fd2869ace9a840887373adaec8d9570b08293789c27af66b815f91e0135a83&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:宋雪贤
+
+[2023-02-16_文字多的PPT别再做成word了！直接抄苹果这个排版公式！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247593465&idx=1&sn=20299b946a16033bdc9f4a13023da5af&chksm=fc91942fcbe61d39a5d883b325a1e6aa3de78b56011a3b9ba9e3b3ba6115367280b49871d920&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-02-15_用一个字母给《狂飙》大嫂做了页PPT，高启强眼都看直了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247593375&idx=2&sn=5d72a7f344416a3ab73176999351b104&chksm=fc919449cbe61d5f0d79da6d905ac7f4ba67829190b8a2761c48309ce4893a7f95a7f8823e62&scene=27#wechat_redirect)
+
+文章简介:写文章，无摘要
+
+文章作者:
+
+[2023-02-14_PPT上真的不要再乱贴表格了！尤其是自带的蓝色表格..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247593289&idx=1&sn=f1aec38ef246e5683345830d5b6fb77b&chksm=fc91949fcbe61d893f1d2c410a867c9fb7b8f59113a2d56ead5be912214c5cfe74d8596e3805&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-02-13_我做了个PPT快闪表白！感动了公司女生..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247593281&idx=1&sn=b1699154f4f97aaf00394b869d205e38&chksm=fc919497cbe61d81bda2265e0ba413fdf0f6c0c0aa94ca49fe35fedfc08f8ccb5eb226a6c3ba&scene=27#wechat_redirect)
+
+文章简介:快到情人节了，无摘要
+
+文章作者:邵云蛟
+
+[2023-02-12_这套浅色背景PPT太好看了，只用2个颜色做出高级感！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247593250&idx=1&sn=32a2977e37fa5e35903d3ea7c0f51505&chksm=fc9194f4cbe61de225f7ff143dc014ac4474eadb11bcc0c76d044b855cbd9f3fd5440b42d0b9&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-02-11_帮学员点评3万份PPT作业后，我出了门小课！限时1元！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247593246&idx=1&sn=6794c0299e1bf9f2b89692b0a61e175f&chksm=fc9194c8cbe61ddecf62301907a1a3dea6abd38e1a8bbaf612fea9bad4ad7b7ba8eefe47bc1e&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2023-02-10_PPT时间轴别只会画箭头了！这样处理高级炸了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247593184&idx=1&sn=8a759f5c6263c35abdd053c13b98015c&chksm=fc919536cbe61c200ba8355396b5aff6938ec8284e1bd9aad8bcba6e01455b02ae82ffa53455&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-02-09_这套红配绿的新能源PPT，丑爆了！改完后贼惊艳！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592932&idx=1&sn=5c84ffd2479367a3b920e87e00a5cc74&chksm=fc919232cbe61b240c64f2759b3a4bf68d54051fb356692d2e7d8baffd0a88e9d5b053a5937f&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-02-08_用一张图做出高级PPT封面？《深海》这页美炸了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592924&idx=2&sn=a7dca99cc64078cb38c7ac109542e92e&chksm=fc91920acbe61b1c281de9ec563eae50fc610540c60b4718cdf5f7d3f85d92477e44a08352b8&scene=27#wechat_redirect)
+
+文章简介:拍视频，无摘要
+
+文章作者:
+
+[2023-02-07_2022年免费字体合集！阿里这次太卷了，直接出了4款！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592902&idx=1&sn=9a2bdb59e0dfcd03fcb034ddccfe6971&chksm=fc919210cbe61b06d9e86764bc58515372d5c960bcc559b5c16d66b99c76f38463d0c92f2679&scene=27#wechat_redirect)
+
+文章简介:节日快乐，无摘要
+
+文章作者:邵云蛟
+
+[2023-02-06_我给这页PPT时间轴，加了个尺子！立马高级了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592854&idx=1&sn=5f8db6b2b48ae1cab02d798bd14c4c6a&chksm=fc919240cbe61b56ab5e976a6bf057f7232f14fff2f0c2b3c973311e9cc90c1f11e922cf4aae&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-02-04_这份国风的活动策划PPT，扇子的动画太绝了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592851&idx=1&sn=edd1f58cfe1483118949c081b6bfd399&chksm=fc919245cbe61b537bab603013bb01d3c06ad85bb0ba1ff01f4173c5e0bb44766fed6df45372&scene=27#wechat_redirect)
+
+文章简介:节日快乐，无摘要
+
+文章作者:宋雪贤
+
+[2023-02-03_我最爱《狂飙》中这张海报！藏着的PPT技巧太好用了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592845&idx=1&sn=a09a7c05657ba584ebfd6c6808cd9d84&chksm=fc91925bcbe61b4dacaafcbbfef2122aff3e511003047e692158fa6f633d476b2a78caafdf89&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-02-02_教你三个PPT封面标题公式，月薪3w的经理都在用！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592589&idx=2&sn=3b4d2f373da9972e6c4115451f021fde&chksm=fc91935bcbe61a4da6346930764211a093632edbd9ab39dd177e4d1708d64020899a836a3320&scene=27#wechat_redirect)
+
+文章简介:看狂飙，无摘要
+
+文章作者:
+
+[2023-02-02_三流领导自己干，二流领导瞎使唤，一流领导...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592589&idx=1&sn=b3016451dc0da56f05940b2d49d9a933&chksm=fc91935bcbe61a4daf92a170d61c6bafcccd5f5e819662d8491250cc67d62c3a0fcab0894bec&scene=27#wechat_redirect)
+
+文章简介:人生短短几个秋，复利思维不能丢
+
+文章作者:
+
+[2023-02-01_胡歌这张人物PPT帅炸了，一键梦回《仙剑三》！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592562&idx=1&sn=201e02d5978a215337eec696dc0bc5c9&chksm=fc9193a4cbe61ab24cf990d532fae291ebca07338d71eb3f3831137684c01ebd91605ead2918&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-01-31_只用一张故宫图搞定9页PPT！这就是北京的硬气！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592549&idx=1&sn=658c94e0e91cf2824a3ec066df3d6759&chksm=fc9193b3cbe61aa5fa953dfc51b3b3dfb55fb413e3991328440d216f1d97b52fb19789e0aa2c&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-30_一张PPT上7张电影海报，加个动画后，40张也能整！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592509&idx=1&sn=4db7cac21b21f54eebcae7447aa35753&chksm=fc9193ebcbe61afd74eab886c7e35e6632cf5de8a87816eef402fd2c86445c8edefa91898e65&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-01-29_PPT上光秃秃只有一个表格，加几个椭圆后，太高级了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592502&idx=1&sn=938666fef9e61c2b79e766474a9d18ab&chksm=fc9193e0cbe61af621cf86cbe8d97ba48405bcbf68fd5bec85b592847784b5a5221e44ed3bfa&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-28_各位，新年快乐，明天就要正式恢复更新了。
+
+新的一年，我继续肝，估计会有230篇文章+200场直播+200条视频教程，争取不辜负各位期待，在这里，算是立下第一个Flag吧。
+
+2022年度文章合集，还没看的，记得要收藏；
+2022年度助攻礼盒，还没领的，记得去领取；](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592460&idx=1&sn=54f5953cdcc8ac9254a9edc5316fe957&chksm=fc9193dacbe61acc90aa07e92d6e1ae995eb2fd414f35a5a729899100fafb7ec075cef22d09d&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2023-01-21_好久没有见过，像今年这么有烟火气的春节了，屋外鞭炮齐鸣，屋内家常暖语。
+
+愿各位新的一年，开心健康，稳步成长，心存希望，事如所愿。](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592458&idx=1&sn=b3013b0378dda0513db61ce03ed31f12&chksm=fc9193dccbe61aca449b7ab85ea5cc70e76d22adce44229338e5c34b2ca127231a8339a6b42f&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2023-01-19_今日头条的这份活动PPT，年味十足！动画太卷了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592456&idx=1&sn=f0538366e64a681e9a99f26ef385849c&chksm=fc9193decbe61ac89380f2431b590004689081774f204b314a0840dead07d30d5278776cca59&scene=27#wechat_redirect)
+
+文章简介:回家过年，无摘要
+
+文章作者:宋雪贤
+
+[2023-01-18_爆肝一年，写了241篇文章，精华全都在这里了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592455&idx=1&sn=d9d40ff8c24a54e923af9e75967026ce&chksm=fc9193d1cbe61ac7a153e50de57e34a1986b3db9fc2efc98be1dec18d0f4bbd5ae27cc736f26&scene=27#wechat_redirect)
+
+文章简介:新年快乐，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-17_我只用4张图4个方块，把这张PPT从50变成500元！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592404&idx=1&sn=b326f5471d5a0a05f5960248c8cd2d63&chksm=fc919002cbe61914cb4f54a28c3a21c4c45914af0b9c6a5bca77b6cc3a6d0fc657590d6aabef&scene=27#wechat_redirect)
+
+文章简介:明天放假，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-15_100本《PPT设计思维》图书，年货节活动免费送！即将结束..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592330&idx=1&sn=100a8fb681c98f4143a075516d21843a&chksm=fc91905ccbe6194ae5bdcf91a02f48339a45074f8999b67d30e9c2d9b6be918886af969a1104&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-14_给85后四大女明星做了张PPT！刘亦菲杀疯了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592325&idx=1&sn=eee2de21eaf3a940641fd6ff2f9dc5b2&chksm=fc919053cbe619450ca1ec59578b7496d1d8638a6cb0cf6a6b1ef04ca8f92eefbad444a466c0&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-01-13_2022年，我做了632页PPT，整理了35.7G资源，免费打包送！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592318&idx=1&sn=4dce8ed026efbc50afc5a7f2bb7814ed&chksm=fc9190a8cbe619be15e2801160f57187a199b9f1b4a3a2660a7f642a098e0e2470726c5e3ec1&scene=27#wechat_redirect)
+
+文章简介:嗓子疼，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-12_我从波音公司的PPT中，总结了一个多文字排版10字秘诀！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592256&idx=1&sn=129e8d641da006cb87fe97d90912f053&chksm=fc919096cbe61980cfb5dafb488746a90e8f92b38ce74b1e11c3e892824e0079c1f634792870&scene=27#wechat_redirect)
+
+文章简介:嗓子干，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-11_这份甘肃公司的PPT太美了！尤其把电脑壁纸当背景那张...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592221&idx=1&sn=1fb823b1d0b528f5386508795de18ec9&chksm=fc9190cbcbe619ddb783a24d975397b13879780ff20c45cb4dfd3d7130cb5526d3a64de8df79&scene=27#wechat_redirect)
+
+文章简介:嗓子疼，无摘要
+
+文章作者:宋雪贤
+
+[2023-01-10_这张PPT上贴的截图也太丑了！放大之后真高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592211&idx=1&sn=350e9220b249645013a6a7f1b51614fd&chksm=fc9190c5cbe619d3487b67cb8064e20587505e69e404096aaec5a75a78355eca018dfea878b1&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-09_中国电信的这张品牌PPT太丑了！改成金字塔后，美炸了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592202&idx=1&sn=1f2a8fb991bcf3cccbf8331ed65fb869&chksm=fc9190dccbe619ca79b3863a1e7b5274f7ae077d21a0ad57d9fd0cb3c22634d3652c2bf3eacd&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-08_100本《PPT设计思维》图书，年货节活动直接送！手慢无..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592166&idx=1&sn=333313219bb96722489c5b0f2df1ac8a&chksm=fc919130cbe61826e8b34f9bf302f77e3414c65cc91e5e5c8a6ef839633cc8b09db95f6b91d1&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-07_千万别套模板！这份多文字PPT上的粉红色块，太刺眼了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592043&idx=1&sn=2cab0d2bd5f7db7dd145da1c7b6b084f&chksm=fc9191bdcbe618ab7bcc7c0409dd41872e7a421c54b4a6491df3e83ad15f7752b1a402976c3d&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:宋雪贤
+
+[2023-01-06_李佳琦的年终汇报PPT曝光，这种风格女生绝对心动！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247592034&idx=1&sn=1ba117c7e5f764dc047f6926a8298498&chksm=fc9191b4cbe618a2edbce3d664fe93dad26d1548eb283d4204a887ffe5e81c29f0ec60372ba5&scene=27#wechat_redirect)
+
+文章简介:嗓子疼，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-05_同事做了个“超牛”的汇报PPT，直接给我整破防了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591945&idx=2&sn=7509ba68533be892e0746e6aad3db909&chksm=fc9191dfcbe618c9b8641dca4c87fa4c1ba846d18516e1f066e9193adbcf6a2e7aa17f6362b1&scene=27#wechat_redirect)
+
+文章简介:录视频，无摘要
+
+文章作者:
+
+[2023-01-04_100本PPT图书，年货节活动直接送！手慢无..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591865&idx=2&sn=e21a8f6bd25c862e8d9c7a6ee61fa366&chksm=fc919e6fcbe617795048d220a03527fe8b4f13a0a2151237a325d3793a67c7330a787f6f2635&scene=27#wechat_redirect)
+
+文章简介:活动来了，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-04_上海这家公司的PPT架构图太花了！用这8个字爆改后，高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591865&idx=1&sn=719263918e020457f721856daaefb680&chksm=fc919e6fcbe617790bac58abd129240522ad8157974d6697ee700dac55b4b93a5064f3e56577&scene=27#wechat_redirect)
+
+文章简介:签名签到手软，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-03_我用谷歌的这个免费网站，搞定了保利的汇报PPT！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591816&idx=1&sn=f60d426154faad3ae3d3e1d420130f43&chksm=fc919e5ecbe617485c172bae05e2fe9124b95a4ff8f1dd54bdd5f072e2ebee55cd31cca4da15&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2023-01-02_做了5年领导，看到年终汇报PPT这么写，也忍不住给他加薪！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591605&idx=1&sn=43d23fb8b06a428ed1634b028b0fa99a&chksm=fc919f63cbe616758984805ca8ec66285b0d8837251b4a9171fd3ebafafc954b9626d874106b&scene=27#wechat_redirect)
+
+文章简介:冬至了，无摘要
+
+文章作者:邵云蛟
+
+[2023-01-01_2022年已经结束，新的一年已经开始计时，祝各位新年快乐。
+
+以往每年年底，大家或是怀念过往点滴，或是感慨岁月匆忙，但唯独今年，大家都希望赶快翻篇，并在新的一年，有些新的变化。
+
+庸常之中，微芒不朽。虽然我们素未谋面，但在2023年，真心祝愿所有读者所愿皆如愿，所行皆坦途。新的一年，我们一起继续成长。
+
+加油，各位！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591501&idx=1&sn=2458109b25b2bce2d2aa6c7ad1b5f8a1&chksm=fc919f9bcbe6168d86bf32570c09f4710472341766b2b729ef6916d005ada4604c4e09744f8b&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2022-12-31_年终总结PPT图表，不要再犯这么低级的错误了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591499&idx=1&sn=725de7cabefc2e91bfb5b2e855c6e0de&chksm=fc919f9dcbe6168b616011592d4b758b2c23b6b50da1bf0ea2fead16233a053bd60f7ea25102&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-12-30_这张PPT上55个格子，真像Excel！换成色块后太绝了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591373&idx=1&sn=90d4a1e04950c5d174e0df1b448984a7&chksm=fc919c1bcbe6150da1d24dbf6a2ba62a51eeec51da1f0dc32a63d623448813ea1f263a4eb8f2&scene=27#wechat_redirect)
+
+文章简介:放假了，无摘要
+
+文章作者:邵云蛟
+
+[2022-12-29_最后5小时，手慢无！这波PPT福利就下了....](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591337&idx=2&sn=e80b22e3352d3745aeefa48df4d6e2c4&chksm=fc919c7fcbe6156960e93885f4e9154085f9738b5a79c70507317ac909840380d502761eeba7&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-12-29_太卷了！同事用文本框做的PPT封面，被领导夸爆了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591337&idx=1&sn=7c749fcb80ab3bf286e33176557ca97e&chksm=fc919c7fcbe6156912ba79d5339980c5776ef207209bcb753e9d13770ef35e5c4652f49d8418&scene=27#wechat_redirect)
+
+文章简介:上火了，无摘要
+
+文章作者:宋雪贤
+
+[2022-12-28_年终汇报冲！13000页PPT模板，我只能帮你到这了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591329&idx=1&sn=866a472b0c9d1335355030c3722d351e&chksm=fc919c77cbe61561af691dd3894f43debdc249c5b919fe21113a6178c07d6656592df7973c7c&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-12-27_京东的这套PPT上这么多文字！刘强东绝对不想看！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591283&idx=1&sn=d78bf366cfe7910efc25c23b75134fba&chksm=fc919ca5cbe615b3959a5ef619aba06723c5cf803ae27e51642d36f6af42a54895c8f56f477d&scene=27#wechat_redirect)
+
+文章简介:累吐了，无摘要
+
+文章作者:邵云蛟
+
+[2022-12-26_从没见过！这5页红色的医疗PPT，竟然比蓝色看着还高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591271&idx=1&sn=85b58a312cab9936afe610215ca5ff69&chksm=fc919cb1cbe615a7feeb4924f8999027be04d9988f15f96534648e6a6bfdf8f0151ba87f8c52&scene=27#wechat_redirect)
+
+文章简介:开播了，无摘要
+
+文章作者:邵云蛟
+
+[2022-12-25_这7套PPT模板，真的太让人惊艳了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591231&idx=1&sn=ee91b19b3355a048ef8729c4c8bd9ec5&chksm=fc919ce9cbe615ff998611a04e9a2409a20467cb2006c1a840df9390b601a9acae6f6fa4910a&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-12-24_PPT里这种贼丝滑的图表页，竟然可以一键生成！太酷了吧…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591200&idx=1&sn=3f4522b6e9cfd406958b3ed7d2a17b55&chksm=fc919cf6cbe615e058994a71e85212f70be15fad014e09ace1a9a535dbbe9a499c281992fdae&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-12-23_腾讯的这个PPT时间轴，动起来后，太高级了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591193&idx=1&sn=4e3701191acd5698c7bf8415a8894c51&chksm=fc919ccfcbe615d9838e9948fda880f224c40876f59be7010e1e18110972e2a730992685bb5a&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-12-22_看了无印良品这份内部PPT后！我悟了，为啥这么多人爱极简风...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591187&idx=1&sn=7f5674f0afcef119a2555cd7dc1ee8dd&chksm=fc919cc5cbe615d3cae0819220419f7386ac299bee38e7b34753557be39bda367f218bdfde3f&scene=27#wechat_redirect)
+
+文章简介:一年快结束了，无摘要
+
+文章作者:HAI000
+
+[2022-12-21_网易都在用！这个PPT排版再丑的图都能整高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591182&idx=1&sn=2c581b8b697061cbfcccb396abf1aed3&chksm=fc919cd8cbe615ce90abd6a7f6b679d517c63e4df1b8fa5f7df9f0dda21e40409ac541a25377&scene=27#wechat_redirect)
+
+文章简介:快好了，无摘要
+
+文章作者:宋雪贤
+
+[2022-12-20_字不敢删、图也不能改，这页PPT可咋整？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591125&idx=2&sn=d2a1977579d6b0e299830a4b1610cf8f&chksm=fc919d03cbe61415e28778b102a6c9f73bf22cde9adafd614fa91fae87800ab7b9d40f8fa4b5&scene=27#wechat_redirect)
+
+文章简介:恢复中，无摘要
+
+文章作者:
+
+[2022-12-19_PPT上不要再用这么丑的灰色表格了，太像水泥了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591032&idx=1&sn=7aab866212f9808bc4c8094b3349a517&chksm=fc919daecbe614b89f6ddfb69c594a3cc3b73a64e5290060277525d999826d1bda2feb23d850&scene=27#wechat_redirect)
+
+文章简介:头疼，无摘要
+
+文章作者:宋雪贤
+
+[2022-12-18_2022年，这些PPT太让我惊艳了！堪比大片！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591020&idx=1&sn=6af8cb15b707b4226b7980217b9b96e0&chksm=fc919dbacbe614ac57e3b1d41bdfe3424d107232a3c235eacb8af7302cf189b1d743fa1ade3a&scene=27#wechat_redirect)
+
+文章简介:周末愉快~
+
+文章作者:宋雪贤
+
+[2022-12-16_抱歉，我食言了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247591014&idx=1&sn=d53b8dfed28b2aae4d76b2de40451d35&chksm=fc919db0cbe614a600c12f6dc25c97ebad99954246f758d4f0704635023fec3acac4bfa8f6f9&scene=27#wechat_redirect)
+
+文章简介:好难受，无摘要。
+
+文章作者:邵云蛟
+
+[2022-12-15_这张PPT太花了！用7个圆泡，改出500元/页的高级感！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590835&idx=1&sn=1b9839d3fa4f53e7cbf727dd256d4b25&chksm=fc919a65cbe61373ed856102a90107eed256ad7c9f5655bc47a7b609c5af70642c77e5ef531c&scene=27#wechat_redirect)
+
+文章简介:低烧，无摘要
+
+文章作者:邵云蛟
+
+[2022-12-14_这页PPT一个字都敢没删，领导怎么还骂页面空？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590827&idx=1&sn=ae24a7a90450c3899e9a7ba081815c0b&chksm=fc919a7dcbe6136bf0dbbb7afc3883ed38060faa21878c00deb7c061dcde1f2741ea0f17eb27&scene=27#wechat_redirect)
+
+文章简介:点击图片，了解活动详情点击  预约/观看  ，进入今晚专题直播课  直播主题：职场PPT设计改稿思路  直播
+
+文章作者:邵云蛟
+
+[2022-12-13_雷军是有多爱这个PPT动画？小米13最新发布会又用了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590764&idx=1&sn=b356deb57a3353881456e670fa0f4873&chksm=fc919abacbe613acc9610d703941f4ca5c3139e2b56ba147dd44d8e60eb752030667a8bfc257&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-12-12_这张PPT太像是东拼西凑的，加3个色块后，秒高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590589&idx=1&sn=9f7409661977df58446c0c3cc48ccab0&chksm=fc919b6bcbe6127d63f4a9ae5acff1e2c0664c6365919baacd133dd86381811b023c1d8460c7&scene=27#wechat_redirect)
+
+文章简介:新一周，无摘要
+
+文章作者:邵云蛟
+
+[2022-12-11_拼手速！这波PPT资源太顶了！不看绝对后悔...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590502&idx=1&sn=7251c3304770a85c37703f583eca28aa&chksm=fc919bb0cbe612a6bf681f35769bada9e323264fd665109c180eb0480a80c17b849a460eded7&scene=27#wechat_redirect)
+
+文章简介:买买买，无摘要
+
+文章作者:邵云蛟
+
+[2022-12-10_PPT中的重点信息，不要再标红了…领导根本不喜欢！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590494&idx=1&sn=235900f7ebb41c03dd501846347387a6&chksm=fc919b88cbe6129eafadcc2952242f78f37d7717ce7f3705f8e304d50475cd34cf070c35e237&scene=27#wechat_redirect)
+
+文章简介:周末快乐，无摘要
+
+文章作者:宋雪贤
+
+[2022-12-09_你这张PPT的背景太丑了，竟然还敢列8个点…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590446&idx=1&sn=e6e709cf2953fbacf832c25a2a1a3de6&chksm=fc919bf8cbe612eed09705a25d9b34082bb388799cd667c4109e7b52adec8632ca70be2d6dd0&scene=27#wechat_redirect)
+
+文章简介:周末了，无摘要
+
+文章作者:邵云蛟
+
+[2022-12-08_22年最后一次！这份9987种版式的PPT，直接给你！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590439&idx=1&sn=ff0339015df2a9efec1f02a444d44b3a&chksm=fc919bf1cbe612e78a34e66b3cecbfb1c7502d9f3ae9ad8579164710c96acec11cdc200528e2&scene=27#wechat_redirect)
+
+文章简介:活动来了，无摘要
+
+文章作者:邵云蛟
+
+[2022-12-07_许嵩的这张PPT太卷了！黑金的配色，90后的DNA动了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590205&idx=1&sn=4b0e92416e69490f7cf36d69dbaf8b5d&chksm=fc9198ebcbe611fd478ed4aac34ba6f3be2a2660cb9ec3517e4761bc5d5afaf37ab73ec323fc&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:雅晨&amp;宋雪贤
+
+[2022-12-06_这页教授的人物介绍PPT，换个背景太惊艳了!](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590194&idx=2&sn=7d5c17c12e95d83c9313b8d7d7be6bfd&chksm=fc9198e4cbe611f2bdf541f3284a64196efb9e6bc3df5271db48939f947cf71812a3e380de5b&scene=27#wechat_redirect)
+
+文章简介:默哀，无摘要
+
+文章作者:
+
+[2022-12-05_这套PPT上贴的全是黄色色块！让我尴尬症都犯了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590156&idx=1&sn=fd1b2b012525dff0c14b6e05f223077f&chksm=fc9198dacbe611cc42620d8579256578eef0d94ef53261811f8dbafd01f22da9555bd68d99d4&scene=27#wechat_redirect)
+
+文章简介:新一周，无摘要
+
+文章作者:邵云蛟
+
+[2022-12-04_点一下就做出500元的PPT动画效果！这个定制级素材库太猛了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590121&idx=1&sn=8641b84cb54bd8a77dbadb9831acedba&chksm=fc91993fcbe6102940758e6fc1be62f2bc5ba5012630bd675033293634ab35efecbf3d70676c&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-12-03_PPT中的图片，不要再随便加黑框了！难看到要死..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590051&idx=1&sn=8804271854bc7c8bb18104c1b0c060ff&chksm=fc919975cbe6106309b19836373faf2a7b0e9115f9d5ce2aab7bb4050ffabc01b68fc21d451b&scene=27#wechat_redirect)
+
+文章简介:上班了，无摘要
+
+文章作者:宋雪贤
+
+[2022-12-02_这页4张图4段话的空军战机PPT，动起来后太酷了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247590046&idx=2&sn=5ed7e6100ad289265c828e771cdd0326&chksm=fc919948cbe6105e32e57f21dc8d1f2e82b00b9a3ca8a20fb9c4dddf12d85edd6dedbb08a963&scene=27#wechat_redirect)
+
+文章简介:解封了，无摘要
+
+文章作者:
+
+[2022-12-01_万科的这套项目汇报PPT，犯了好多领导的禁忌...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589895&idx=1&sn=9b1886f1f2a79f531839477f2e508754&chksm=fc9199d1cbe610c7cd931b7d880f5ceaf3a4e13f5c8a5267b849c5e63462176ca8fe180140ef&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-11-30_最后5小时！错过这波PPT资源，再也没了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589888&idx=2&sn=90244d9453ad99bd6411f6f89bd0511c&chksm=fc9199d6cbe610c03f7445a5090f0c3c7b0845437f58ebc7ab67fe4db1fce17b53cd2117e614&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-30_清华大学这张PPT真高级！直接抄！排版堪称万能..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589888&idx=1&sn=d933645417e82f094daa0aa22fc150f5&chksm=fc9199d6cbe610c0994bbe9a7662673fb90a5cbf7b9b2b95f06b8274fbc0d7410c258d123a6d&scene=27#wechat_redirect)
+
+文章简介:优惠即将结束，无摘要
+
+文章作者:宋雪贤
+
+[2022-11-29_最后24小时！错过这波PPT资源，再也没了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589667&idx=1&sn=a57a35c237cd06b24392cabd49777f29&chksm=fc9166f5cbe6efe3cc0d8bc71b7175dadde1ca39f3bb3f1b2b09ffcaf1a5d191670d102f51b2&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-28_改完这套微博官方的世界杯PPT！男同事兴奋了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589658&idx=1&sn=7b5769acfd0270e1d50a9aa38feee580&chksm=fc9166cccbe6efda85715080b11928306dfddcd060d6d7ea47af0481421956e11d6453254b9e&scene=27#wechat_redirect)
+
+文章简介:新一周，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-27_3秒找到心仪的PPT版式！这款堪称颠覆级的福利，真牛！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589615&idx=1&sn=3fde74901906b5132802dd9886133a09&chksm=fc916739cbe6ee2fd8aedfd14717fdd2abc01abdc526b417438db5de16972385a91cc88a9c2b&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-26_PPT自带的表格模板，谁用谁丑！8个字直接变高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589607&idx=1&sn=4bda91ab97d6939bba47c18e1cb1bb7b&chksm=fc916731cbe6ee274ffa914819440f1bfac0ee379cde04c1c80474d3e2838d2a6f7c82e99153&scene=27#wechat_redirect)
+
+文章简介:封控中，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-25_PPT上要点大于5个时，别再乱用项目符号了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589572&idx=1&sn=6ca21f003ff9aee53feb4e255061e149&chksm=fc916712cbe6ee04c5e436c2275b55afddeec7b833cd866d98598c42caee5d93119350652487&scene=27#wechat_redirect)
+
+文章简介:封控中，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-24_强烈建议，一页PPT上超过500个字，就不要再乱加背景图了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589540&idx=2&sn=3b5a54911e0e97a1b92bfdc12cbe8d8d&chksm=fc916772cbe6ee646cd77b2c40b5e9925be9998967a34eb340e700a5a53db8176489ab8d2c94&scene=27#wechat_redirect)
+
+文章简介:降温了，无摘要
+
+文章作者:
+
+[2022-11-23_PPT时间轴上放8个LOGO！改完后超高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589531&idx=1&sn=814dd681478807212c31f06abc192268&chksm=fc91674dcbe6ee5b0aa0564456e109002279df6da857c738ac0847d5773485efa62a1cf02e7a&scene=27#wechat_redirect)
+
+文章简介:又回家了，无摘要
+
+文章作者:宋雪贤
+
+[2022-11-22_当把这张丑图，翻转180度后，直接做出高级PPT！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589502&idx=1&sn=056a9cf0e6b17effee4b06a2d825a059&chksm=fc9167a8cbe6eebe5b28a985acf886c65a31866d91c200c3b3de480815072ea2749bcaa4e964&scene=27#wechat_redirect)
+
+文章简介:上班了，无摘要
+
+文章作者:宋雪贤
+
+[2022-11-21_PPT上不要再贴这么丑的灰色色块了！太像膏药了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589492&idx=1&sn=189aa8d419f439dc4cebf27a52600392&chksm=fc9167a2cbe6eeb4b479ee5d426d84bf5dd3ab85a74bda6071ee919e3c51b011b43de5c4e88b&scene=27#wechat_redirect)
+
+文章简介:下雨了，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-20_我攒了5.3年的PPT资源全部放出，这真真最后一次了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589452&idx=1&sn=d890326478a8d767d7213c41940e4ad5&chksm=fc91679acbe6ee8c6cbed698397900cbe2595502731ce62be2285e889039662f73bb77394403&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-19_这张PPT上贴了2个丑表格，加入两个对比色块后，舒服！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589447&idx=1&sn=4523e670dd062f2666e4ad116a097045&chksm=fc916791cbe6ee87ef932078ba88e486fdb0ccffd160adfc889b07af769881bc6967db2893b2&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-18_PPT上字多没逻辑，真不怪老板吐槽！你第一步就错了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589408&idx=1&sn=57d5130f9a53018d3c67a7fbdb442624&chksm=fc9167f6cbe6eee0c061f9cef23a6dd1a28557076e7e6c54e36bb9ecb8a4f64eff4f07814dda&scene=27#wechat_redirect)
+
+文章简介:下雨了，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-17_这张PPT封面，我足足做了6稿才通过，你爱哪个？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589371&idx=1&sn=be1977be454bb49fd95750a5f2be03cc&chksm=fc91642dcbe6ed3ba9eb44ce0993e73dc697f540dfe0fc1786b64396079043e3f5c32acb63dd&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-11-16_救命！这份PPT上的丑截图和字，快要打起来了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589359&idx=1&sn=401bc51fd257cdb2c09be5cd82c0cf02&chksm=fc916439cbe6ed2f6ee0060298e689cbf292496c58685fe2955a203b5388ee6863ac541e65a2&scene=27#wechat_redirect)
+
+文章简介:又有确诊，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-15_PPT上一堆丑截图还不让删，怎么做出创意感？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589318&idx=2&sn=3727c44ea608da33ae84a1ab86de7b43&chksm=fc916410cbe6ed067a86d4bcb77457a714b84865426f5a3a5c2f67c0d4f5a4679e0d1448f661&scene=27#wechat_redirect)
+
+文章简介:要解封了，无摘要
+
+文章作者:
+
+[2022-11-14_江西这页PPT封面真大气！网友：这次真有手就会！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589251&idx=1&sn=b7f8cd01cf90e48c5d6e80618551f95d&chksm=fc916455cbe6ed43f966e4773234a2c7420ba063b3bbeb8479b520bdacc5ed922f7a9d759f40&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-11-13_这份150页的中国风PPT，同事看完直呼：太卷了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589097&idx=1&sn=70f91e15616de16b049d30057a6a3d74&chksm=fc91653fcbe6ec2966bce5da911c9f26fe5aa193246709ff7eed6a661c294db3dfec5926187f&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-12_这张PPT的重点数字要大，再放大！高级感来了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247589026&idx=1&sn=b6de16eef1279f267c4a951793e173df&chksm=fc916574cbe6ec620b1aad5f6e1fe306b84be8461482f030702c0da8efd9c665184554fb59e0&scene=27#wechat_redirect)
+
+文章简介:天冷了，无摘要
+
+文章作者:宋雪贤
+
+[2022-11-11_这4张读者的PPT过分真实了！多文字千万别这么整！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247588819&idx=1&sn=8cd36b83d18d821a860734e57d64cdba&chksm=fc916205cbe6eb132ad6214e1be418acfceaa0a1ccb7d8e3ab97e0047988d1ed0094feb17baa&scene=27#wechat_redirect)
+
+文章简介:雾霾，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-10_拼手速！这波PPT资源太顶了！不看绝对后悔...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247588759&idx=1&sn=760d8d75947ee1279790cbc4492d4569&chksm=fc916241cbe6eb577792d9b024c8e116223fc37a7e8b8999acc5bc49a03e326958b7a5256c30&scene=27#wechat_redirect)
+
+文章简介:买买买，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-09_PPT中的对比页，不要再写VS了！5个字秒高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247588710&idx=1&sn=a7648ef4c8afbbaa5e862382a4e2d8d4&chksm=fc9162b0cbe6eba60d739c6ca93c1b77303fd0aa784537b4599d67d92f6aa9be91682344ca68&scene=27#wechat_redirect)
+
+文章简介:又严重了，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-07_救命！这份工程PPT的内容页，拥挤得快要窒息了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247588672&idx=1&sn=88b4a950ade951daab798b37dfcf5d3b&chksm=fc916296cbe6eb801917e1f617a28791555a693a6f4ec4a556a20189f514510bcac7079b0177&scene=27#wechat_redirect)
+
+文章简介:偏头痛，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-06_做了5年PPT，看到这13000页模板库，还是心动了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247588629&idx=1&sn=50d943632c77670175a144983d6366eb&chksm=fc9162c3cbe6ebd5e01ffa51e18efb154d9aa1fb4716c9cbd44e83b24d3e76f605cf079ba0dd&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-05_这套医疗的PPT，白底黑字根本不想看！换个颜色贼清爽](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247588621&idx=1&sn=c24c8f9b64d6a03d227b1f6024216d15&chksm=fc9162dbcbe6ebcdb849fdfa57930f23791b44f74e0f223a7ddff54fa329f5a2522addd3e46b&scene=27#wechat_redirect)
+
+文章简介:解封了，无摘要
+
+文章作者:宋雪贤
+
+[2022-11-04_强烈建议！PPT上超过300字，不要再随便套模板了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247588538&idx=1&sn=1cd237fd0661dec0b63be713b2cd95ef&chksm=fc91636ccbe6ea7a827c6aed19f8dce179639d66c6ada8745fac4273b5a25e8b7b4e5695a3c3&scene=27#wechat_redirect)
+
+文章简介:下楼做核酸了，无摘要
+
+文章作者:邵云蛟
+
+[2022-11-03_一页PPT上6个重点，这样排80后领导爱炸了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247588340&idx=2&sn=fc6e2eb928a81ceb6a5259a38808e9df&chksm=fc916022cbe6e934873765f200caef5b2865e78a48ee728ed5fa959af84b10da2ab5cdc76b0a&scene=27#wechat_redirect)
+
+文章简介:双十一活动中，无摘要
+
+文章作者:
+
+[2022-11-02_惊艳！沈阳这家公司的PPT，改完后太舒服了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247588215&idx=1&sn=c6e59208b79836a1ce510449952bb822&chksm=fc9160a1cbe6e9b7f08eed0bdd286f553c92c7a4c39d96cacbdc0a00243fefabfd4a14e9de14&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-11-01_我攒了5.3年的PPT资源全部放出，这真真最后一次了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247588206&idx=1&sn=3be87ea1c3eb9db0afbd5f8c1fe79ab6&chksm=fc9160b8cbe6e9aeff3b678e5e6da814af62bf088ac780f57d36aa266636ef856c0a4a14bd43&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2022-10-31_点一下就做出500元的PPT动画效果！这个定制级素材库太猛了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247588137&idx=1&sn=b9efb18e3127c6cb3abb3a4b919198b7&chksm=fc9160ffcbe6e9e9f6d68bd6b625d5c8e7c4dcf18c7eeed89ae2bb3be932bb63a878640cc8c7&scene=27#wechat_redirect)
+
+文章简介:新的一周加油，无摘要
+
+文章作者:邵云蛟
+
+[2022-10-30_作为一个郑州市民，这一周还是在封控中度过，一如既往地写教程，做直播，很安全，各位放心。
+
+有两件事儿跟各位说下。
+
+一是，每天晚上视频号的直播时间，将从七点半改为八点半。
+
+因为我们的直播，主要针对于身在职场的朋友，七点半，可能正在回家的路上，或者还没吃饭，故，把时间推后一个小时。
+
+二是，还有最后24小时，旁友圈PPT学习会员，双十一【预售】活动，就要结束了。
+
+预售活动更划算，只需19.9元定金，不仅可以得到一张50元优惠券，付完尾款后，还可以得到一本售价79元的《PPT设计思维》图书。
+
+相当于只花19.9元，就得到可以一本书，超划算，感兴趣的读者，点击这里参与。](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247587632&idx=1&sn=d0b6f2cc6d875dca5eae8fc553d0257a&chksm=fc916ee6cbe6e7f0f636dd2bac1792deb5b9262f8a6ac6c55d83343737a6253e8d231bd2fbe6&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2022-10-29_胡歌的这张PPT太酷了！身后的那一抹笔刷，超绝！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247587630&idx=1&sn=c0bed334a83c104797b4a5f79bbb5a75&chksm=fc916ef8cbe6e7ee113bde535889314d77ee953d7585ffe1a8a45cadd234acf0af43cc11d2c0&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-10-28_PPT上不要直接贴公司产品图了！加个台子，直接高端了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247587586&idx=1&sn=29a897358fd3e3cca97544bb370e6b2f&chksm=fc916ed4cbe6e7c2690f789f916397f6abd99e1a952bb6cf4b4aab365a937c211d86053f2d56&scene=27#wechat_redirect)
+
+文章简介:封在家，无摘要
+
+文章作者:邵云蛟
+
+[2022-10-27_我用苹果手机自带的小功能，拿下了万科这张团队PPT！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247587553&idx=1&sn=c81c7d25d148c2daa8ef9728ad4f4aa0&chksm=fc916f37cbe6e6214cff900de5c588701828bbbe056d9ff7f9d049a77a4749808d04a56fc88a&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-10-26_PPT饼图竟然是个排版神器？这个新版式太有创意了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247587545&idx=1&sn=101bd5003baa742d6bc517ea6d59363f&chksm=fc916f0fcbe6e619d6c152b93ce6ef75a5ad2a366448ad02bd5b7dd6c7dc630a7d663ae4bece&scene=27#wechat_redirect)
+
+文章简介:天阴了，无摘要
+
+文章作者:邵云蛟
+
+[2022-10-25_我用PPT把这个腾讯logo做出来了，现在压力给到了小米！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247587514&idx=2&sn=adc3a5a538f43f4bfb9d65fd1f24af2a&chksm=fc916f6ccbe6e67a66237f8fb9a81344c73205a5a51e9c50c01123ec404d8a5e5ab09a3792ec&scene=27#wechat_redirect)
+
+文章简介:录视频中，无摘要
+
+文章作者:
+
+[2022-10-24_6张图片6段话，这页PPT排版也太乱了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247587358&idx=1&sn=6f147784e829023794ca00992fdeb324&chksm=fc916fc8cbe6e6de26d2fc989ced7fb42e230a7f39f9724021f9f5f07e30cb765986e3634f5e&scene=27#wechat_redirect)
+
+文章简介:预售来了，无摘要
+
+文章作者:邵云蛟
+
+[2022-10-23_昨天直播结束后，接到小区通知，因为楼里有确诊，还要再封10天，所以，下周还是继续在家里直播，欢迎各位前来学习。
+
+另外，有读者问，旁友圈PPT会员，双11期间是否有优惠，跟各位说下，有的。 
+
+明天，将正式开启双11预售，参与预售，还有额外福利，明天见。](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247587316&idx=1&sn=8b2ed5af3d0636c4434e1423175771b8&chksm=fc916c22cbe6e5342d11ed230280ed3f67b6069f3e88075e1ae416703ec1c95af362efbe2206&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2022-10-22_这2个超小众的职场PPT页面排版方式！我忍不住安利给你！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247587314&idx=1&sn=18718549cb14c03713173a4ac5e6cb11&chksm=fc916c24cbe6e532b615a58ffe5e1bf494b2b203650a9611a12478b9e9237aece4bea580146c&scene=27#wechat_redirect)
+
+文章简介:今晚有直播，无摘要
+
+文章作者:邵云蛟
+
+[2022-10-21_TCL这个PPT表格也太土了！换个排版思路，立马高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247587255&idx=1&sn=c21f4a910b02631042efb2ae3f51f554&chksm=fc916c61cbe6e5770c7aa7c9a683792993285f553ca00defb67243c70a1cf11025961213278e&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-10-20_河南博物院的PPT太拉胯了! 加入红色后，超高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247587102&idx=1&sn=311834b75db46a8e1bff98be67dfafec&chksm=fc916cc8cbe6e5de84e049352e4fe44e47b4663967e1849b08243facfb2e1e713b3e0e240fd1&scene=27#wechat_redirect)
+
+文章简介:居家隔离中，无摘要
+
+文章作者:邵云蛟
+
+[2022-10-19_给佟掌柜做了页PPT，老白：这张排版美滴很！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247587058&idx=2&sn=b795d278e06dcb41431418add1c24073&chksm=fc916d24cbe6e43236f55413e37e675d866a70f8dc08b68bd10fca8f1635df55a2ee2b3a84bf&scene=27#wechat_redirect)
+
+文章简介:隔离一周了，无摘要
+
+文章作者:
+
+[2022-10-18_从没见过！红色的党政风PPT，也能这么高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247587011&idx=1&sn=c64121c5f30b6a02cca1037341ddee84&chksm=fc916d15cbe6e403b1aa9ca34b95a811a8c0cde840de6c2d0c7e63f8b67456d4fa32aef6c092&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-10-17_陕西这家医院的PPT太草率了！加几个色块后，直接拔高了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247586692&idx=1&sn=877069c4b1dc235cd903f826546eb9e3&chksm=fc916a52cbe6e3446c10e86ec0355e42d32e682d57a8969fe9edff881c3a8559c0277b71c0e0&scene=27#wechat_redirect)
+
+文章简介:开播了，无摘要
+
+文章作者:邵云蛟
+
+[2022-10-16_看了3万份PPT作业后，我出了门小课！限时1元！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247586659&idx=1&sn=b9ceaba5d4712cd65dc2310587835861&chksm=fc916ab5cbe6e3a37f6b4d6cfbc4dedfd5b645d200d88c40594df64109d1615909073c489d77&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2022-10-15_我用PPT做了份会动的企业宣传册，老板看了拍手叫绝！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247586651&idx=1&sn=76befc698af67f9acbc5078f8a29f2fa&chksm=fc916a8dcbe6e39b1d95139142d3e2e9ee8be3333e6c7c7570db58fe006a45994ee984f84a68&scene=27#wechat_redirect)
+
+文章简介:居家办公，无摘要
+
+文章作者:宋雪贤
+
+[2022-10-14_这张用PPT表格做的人物介绍页，太秀了吧！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247586645&idx=1&sn=37b62eaa88230353f45c436c58a20799&chksm=fc916a83cbe6e39528a3f20d1e516dd47210e10a927eecfd99c92df65e870de67357bbf62919&scene=27#wechat_redirect)
+
+文章简介:今天直播聊天，无摘要
+
+文章作者:宋雪贤
+
+[2022-10-13_10分钟做出9页PPT！软件自带的这2个神器，一定要用！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247586461&idx=1&sn=8fc328a15a06b3fa7552a06acb9f25e3&chksm=fc916b4bcbe6e25d7067fdd0298fa58c6bdc8ca40e73f59d5ee15d9b7a6495112454c9c6dcd8&scene=27#wechat_redirect)
+
+文章简介:居家办公，无摘要
+
+文章作者:宋雪贤
+
+[2022-10-12_我帮上市储能公司改了一套PPT，同事：封面配图太卷了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247586194&idx=1&sn=cc374689d8321ff19f22148a8f6243f0&chksm=fc916844cbe6e152f94549aed2392ae93d0bab40c0d07b7a57cc15bcb69f9b33615bd62c6ee9&scene=27#wechat_redirect)
+
+文章简介:开工了，无摘要
+
+文章作者:邵云蛟
+
+[2022-10-10_我用明星黄子韬的秃头照，做了一页中国风PPT！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247586186&idx=1&sn=48b7b4fcdb297597535d8c2007115b2c&chksm=fc91685ccbe6e14a2a06cdcfe48149cb86670d844f00622f8c15009a0a1cf1c5e560aaddcc6c&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2022-10-09_今天跟同事开了一天的会，关于Q3季度汇报，感觉自己做的还不够好，希望下季度，能给各位提供更好的内容和服务。
+
+明天，将正式恢复视频直播和文章更新了，还是晚上7点半，咱们直播间准时见哈~](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247586127&idx=1&sn=d4a7cacf6b5eeb76dfb2e7f4e014451c&chksm=fc916899cbe6e18fe10e541cd59487675727a6fbe3c9bb6f5548101819a726d6a1269157ca20&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2022-10-08_把这张化肥的PPT做高级，只用一个色块就够了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247586119&idx=1&sn=610e40ca3d9a9214205f092fc5987c30&chksm=fc916891cbe6e1874e9fd6b427db4b7fc280ae38ed8a3411f9e512ca7e79530d629290d31b5b&scene=27#wechat_redirect)
+
+文章简介:第一天上班，无摘要
+
+文章作者:雅晨
+
+[2022-09-30_我做了一套医疗PPT，同事：马化腾这页很不错呀！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247586077&idx=1&sn=139d411bbaa8b1b5b862409cc5d6f69d&chksm=fc9168cbcbe6e1dd7d2713332a97e533b27a6cd4412315b21604d81161e7879089bae13c3162&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-09-29_不用一张图！我靠着微信表情包做了一整套PPT！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247586000&idx=1&sn=ffc10406a44e20d05cb6d72231f446d2&chksm=fc916906cbe6e010959e6a890903e64f1676fc1995ff078c96fe590d6b1e3fd4f8c6318e1913&scene=27#wechat_redirect)
+
+文章简介:快到国庆了，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-28_一键生成动态3D效果，这个电脑自带的软件，才是真的PPT神器！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585992&idx=2&sn=ba31955744595484b009a82d462884a1&chksm=fc91691ecbe6e008e9535c311acca2aea876acc54701af6375c08a83b10e99a992a12bf839b7&scene=27#wechat_redirect)
+
+文章简介:新课上了，无摘要
+
+文章作者:
+
+[2022-09-28_8h删！全是付费买的资源，低调使用，请勿外传！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585992&idx=1&sn=8dce3069d9867ecc1c4b871ef7173b81&chksm=fc91691ecbe6e008a7a5ea3c6eec793d6982f329a43d014ac66ec87e2d0cc66259f96586f394&scene=27#wechat_redirect)
+
+文章简介:-
+
+文章作者:
+
+[2022-09-27_给《亮剑》做了页PPT，李云龙的这人物站位有点秀！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585970&idx=1&sn=557779d9068d4620f74e3adb6a04032b&chksm=fc916964cbe6e072e6762ec85c47ef8761910e07c2b13146952233d25fc7288041312cdb8e88&scene=27#wechat_redirect)
+
+文章简介:天气不错，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-26_这份工程PPT的流程图页真小气！换成8个圆泡后，贼高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585904&idx=1&sn=6bb4d0d5de6f74c6e8416035fd06df14&chksm=fc9169a6cbe6e0b0fb852c17e61b2f8a363829ca91e94f7e7f987afb6f091abcdb7a223de464&scene=27#wechat_redirect)
+
+文章简介:买了个新杯子，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-25_Hi，各位，上周开启了第4季视频号直播课，共计100期。
+
+这一季，会立足职场风格，每天完成一份 PPT 案例修改，当然，这样做，对我来讲，难度会更高，因为意味着我每天，都需要修改一份PPT。
+
+不过，我们不就是要不断挑战做更难的事儿吗？哈哈哈哈哈~
+
+​欢迎工作日的每晚7点半，来视频号直播间学习，等着各位[皱眉]](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585811&idx=1&sn=e11310efc66a27fbbbb7e5f8700caa80&chksm=fc9169c5cbe6e0d3b0fbe0354b492cf6a7b898d32015d1ec9c6cf85df4d9b9cf1fa4b5818caa&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2022-09-24_看了3万份PPT作业后，我出了门小课！限时1元！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585809&idx=2&sn=9bea01169e4ad70325448ae5b0d43f33&chksm=fc9169c7cbe6e0d18663474a7ab925d5e1b0b6d754d7214188dce51a0cc9d335960b9d712a78&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-24_PPT高手只用1个圆环，直接把英国王室介绍整高级了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585809&idx=1&sn=6fed7894b8723a3e2d4b907a131011d8&chksm=fc9169c7cbe6e0d1a50fc2d509fe3f45e4b12f28fd2a3b3a2ad073cd0e194c828641d709d63f&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2022-09-23_这份制造业的PPT太死板了！改完后，简单又高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585797&idx=1&sn=0760924e0b03bf23756ecc2daab03f08&chksm=fc9169d3cbe6e0c5eba99b15f8c0cb3435a4eaec154c0ef081303d737e39fe4654d2d0a42852&scene=27#wechat_redirect)
+
+文章简介:突然变冷，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-22_在B站白嫖了400多个PPT视频，为啥你还是做不好？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585738&idx=1&sn=bd155803aa586ccc9ac2244976206844&chksm=fc91761ccbe6ff0a3cefe3132c573b80ee04bbd0fafab7708d5e4a52fcb1efae4883b54671b0&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-21_一页PPT上展现97个人物关系！《红楼梦》这张架构图绝了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585644&idx=1&sn=d711fd99e6868d5717f96d995608bf03&chksm=fc9176bacbe6ffac9d991251d8d7a2afb70cd0944cd73929d474b566e5c70595c4bd975c7ef3&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤&amp;雅晨
+
+[2022-09-20_这张用高德地图做的PPT结尾页，必须五星好评！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585641&idx=2&sn=1b572fd86545cfc93433473a7a6292d9&chksm=fc9176bfcbe6ffa96837f6fe0931091c970e709f75ca2fa663d715dd5280816831b55d5fcb85&scene=27#wechat_redirect)
+
+文章简介:买了新咖啡机，无摘要
+
+文章作者:
+
+[2022-09-19_这份央企的PPT，在图表页加入个色块后，直接整高级了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585559&idx=1&sn=f4415e5e3fdc8377cefded1d3fa408f4&chksm=fc9176c1cbe6ffd77a2476f59983a1055b6822a79eb1fe22aa9734ad5db10d7a8380f2176b4d&scene=27#wechat_redirect)
+
+文章简介:天气凉快了，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-17_明星欧阳娜娜答辩PPT公布，网友直接炸锅了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585462&idx=2&sn=038636a17da2906d8bd349a4ed8bf7c1&chksm=fc917760cbe6fe7614c170d5116e577842e08756fef87570463d4bf4a419a2fc504d1ce3dd55&scene=27#wechat_redirect)
+
+文章简介:周末了，无摘要
+
+文章作者:
+
+[2022-09-17_我用PPT帮何炅做了份竖版简历，最后一套贼高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585462&idx=1&sn=302f7298ad01c049e9183178afe6efc3&chksm=fc917760cbe6fe76f1cfd81e6d034c6b95bdc40bd46c76845e617f0d00259b25361a30530365&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2022-09-16_60多页的PPT，一键快速定位！这个导航栏领导夸爆！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585432&idx=1&sn=5da90138149804518ca499b00e2ee010&chksm=fc91774ecbe6fe58641f21be757b0466aac26326b7a26a64252ca56046985d3491eee6e81487&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-15_看完这套PPT的架构图后，我觉得它是1990年做的...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585397&idx=1&sn=7c39861c8035e36a7ea22f50480f26a8&chksm=fc9177a3cbe6feb508f6807400cd8a3c45a2f4b2721dbd4ae3ca5cce1a7580dba312cadd70f2&scene=27#wechat_redirect)
+
+文章简介:好困，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-14_华为发布会PPT上的这几个色块，用的真高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585393&idx=1&sn=ff7e88679108d27eecd624aa0c81540a&chksm=fc9177a7cbe6feb107955d5f12fc65065bca6b7f70f902cc823a469fe200d29d9625184df887&scene=27#wechat_redirect)
+
+文章简介:天气正好，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-12_这4种PPT过渡页，简单又高级！必须学！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585313&idx=1&sn=6617338366126693df44e0dedf8e9f5f&chksm=fc9177f7cbe6fee167f8755c37c3c1f821144a1240cb58eb3163907e4d63d1deeb01cfd81642&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤×HAI000
+
+[2022-09-10_这张PPT上4段文字，插入一个月饼后，排版真抢眼！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585312&idx=1&sn=1af4ea0c23022a52b6e6c9c507331f83&chksm=fc9177f6cbe6fee088ec062db5677b92f005f9961325d7128c1c77887a7ce7a74c0a9572a2d3&scene=27#wechat_redirect)
+
+文章简介:假期愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-09_苹果14最新发布会PPT中，这动画太酷了！连官网都在用！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585260&idx=1&sn=78f829a418206c268d089c5545680119&chksm=fc91743acbe6fd2cdeb8effc0af1e7437b616c4b20be46bc634d4cc65764e8430ae3e27fa39a&scene=27#wechat_redirect)
+
+文章简介:过中秋去了！无摘要
+
+文章作者:宋雪贤
+
+[2022-09-08_头一次见到，PPT曲线还能这么用！太有创意了](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585152&idx=1&sn=b4d7f560407d8442af57db5c58e3f520&chksm=fc917456cbe6fd40afaaa4f2c65c541f6a78b828ebb868b98f59aa9169a9a00256de93dd2742&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-07_太卷了！同样是PPT文本款，这5种处理太高级了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585148&idx=1&sn=89c99384fbd950876997f044232b11bc&chksm=fc9174aacbe6fdbc8de39bfdb329a067847cdd20ad32de887c6da8e057337706ac1ba3642a06&scene=27#wechat_redirect)
+
+文章简介:快到中秋，无摘要
+
+文章作者:宋雪贤
+
+[2022-09-06_一用就丑的Smartart，排版PPT图文竟然这么好看？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585139&idx=2&sn=fb9d8fb263f6ec35ad729c239b574153&chksm=fc9174a5cbe6fdb334020be0dbebaa75fe15682dc306402cc948c49a63577ef0f18904784d8e&scene=27#wechat_redirect)
+
+文章简介:开始追权游，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-05_这份浅色的PPT，真的太有呼吸感了！好看！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585055&idx=1&sn=c5a549a9e535eb225cc8f868a9703734&chksm=fc9174c9cbe6fddf7f1ef216722910750107a264dbc942295caf319dae23e568406194b2108c&scene=27#wechat_redirect)
+
+文章简介:新的一周，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-03_邵大，听完这3节PPT课程，我悟了....](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585000&idx=2&sn=5afcea3421f65824dd6168254dbb3748&chksm=fc91753ecbe6fc28c034de00fde7c3e95b7ff1a23e794849e0a5a0adc6c7203287e32ee33b02&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-03_薛之谦的这张人物PPT太好看了！模板直接抄！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247585000&idx=1&sn=d28756ff657539878924285e586b16a5&chksm=fc91753ecbe6fc282a057232159e4cdb53b82e3ab6cf12282c7515686a7a16bca548c207c83c&scene=27#wechat_redirect)
+
+文章简介:吃了火锅，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-02_PPT配色丑到爆！软件自带的这个功能，一键GET神仙色！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584927&idx=1&sn=6aefe1e6f06acc03edb02bc34293425e&chksm=fc917549cbe6fc5fd7ab1a2b7d7fff451becbede3c3e2d8388fc2268d615198d67804c2726e7&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2022-09-01_这样的表格也太死板了！换上emoji，PPT立马就活了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584890&idx=1&sn=74ee3486111bdb30fd63d5a0c6312c4f&chksm=fc9175accbe6fcba2ac5c78b96e04d3e110982a365f6895da4c5072a74d26e97e83891e53ead&scene=27#wechat_redirect)
+
+文章简介:喝了杯咖啡，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-31_PPT自带的大括号还能这么用？让超土的架构图立马高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584878&idx=1&sn=24ec8e419a47a52616f9e6b41dcc1023&chksm=fc9175b8cbe6fcaedca7616f08723f866cde167672ce3b305027c7d60b850c30482d11515392&scene=27#wechat_redirect)
+
+文章简介:变冷了，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-30_给甄嬛做了页PPT，最后一张杀疯了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584874&idx=2&sn=75dae06466a9a3fd090115cc4296c6cd&chksm=fc9175bccbe6fcaad06971be37f4fa2e1c1d7355e82a3b0eeecd96df63c33f2d2db2717ab166&scene=27#wechat_redirect)
+
+文章简介:吃了个超甜的枣，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-30_（待会删）yyds，付费搞来的，请低调使用！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584874&idx=1&sn=6f6d2fc41441ce798d9d7c92c89d0471&chksm=fc9175bccbe6fcaab03d71f0b1b81a8246b634a22a3ddba5a4e15714e852637897a768595c8b&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2022-08-29_别再套模板了！这套海运PPT，白底黑字也能做出高级感！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584825&idx=1&sn=80756c4c9982e86aeceed2c2f4937172&chksm=fc9175efcbe6fcf961420d507d774f4a41ecd22fc4a49412250aee592c38c94741eba19a5c9f&scene=27#wechat_redirect)
+
+文章简介:下雨了，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-27_健身党超爱的配色！这套浅色PPT，惊艳到我了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584786&idx=1&sn=8f09342c8eee8caab23f937ff9b9098e&chksm=fc9175c4cbe6fcd2794f994c4d40e8e4fda232e642074b2c6e8a0551955b16026300f645536f&scene=27#wechat_redirect)
+
+文章简介:口腔溃疡了，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-26_一键给图片换色，PPT中的这个冷门功能，效果堪比PS！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584782&idx=1&sn=f375862d835a3075e341df54abc5a433&chksm=fc9175d8cbe6fcce78ef4526b71bd98760a59dc2ce393210ac4264715a4dc9ac2c06c4e610ed&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-08-25_这根曲线，让这张PPT时间轴身价涨300元！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584772&idx=1&sn=81ef843922c0da8ff051941d64a7f619&chksm=fc9175d2cbe6fcc454787fcdccb675b148670eb350d4e78612d39d421b44f3fe8fc1db343efd&scene=27#wechat_redirect)
+
+文章简介:上火了，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-24_太卷了！杭州灵隐寺的汇报PPT，数据大屏秀炸了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584767&idx=1&sn=52ba44655142814a2a1c9ffa3b9f1a2b&chksm=fc917229cbe6fb3f1e3da1cb40a29b3a97f89a906d77eec8493a8c2e0c3f0be1ba17e82fdccf&scene=27#wechat_redirect)
+
+文章简介:降温了，无摘要
+
+文章作者:邵云蛟&amp;雅晨
+
+[2022-08-23_这张裸眼3D的高铁PPT，太逼真了吧！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584762&idx=2&sn=00b78a118f8a5af275ef6e109382b0b8&chksm=fc91722ccbe6fb3aeff582a6022e9c4c3d25cc05e9349e9e8e4bf6da6b346f29b2ce1cec2a7d&scene=27#wechat_redirect)
+
+文章简介:发了新视频，无摘要
+
+文章作者:
+
+[2022-08-22_这套大学生的PPT太与众不同了！同事：配色真大胆！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584718&idx=1&sn=57c129fa6faf6d5dd264d34c8dc00061&chksm=fc917218cbe6fb0e3c8e7a15ca5ea6cb1a92b7950c408acc82d6152ca11864bd5678708e3789&scene=27#wechat_redirect)
+
+文章简介:降温了，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-21_这个PPT动画，连腾讯都反复爱上，不得不说真香....](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584646&idx=1&sn=e5210f246a748a62d024755c2d32a6f9&chksm=fc917250cbe6fb46f19dc8da37c5c778f06145908ea2ff36495d93a7b97f66e4e1f266871a23&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-08-19_这张有48层的PPT架构图，还用了7种颜色，丑到家了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584640&idx=1&sn=446766a8f82b924f31d3535a67b2b751&chksm=fc917256cbe6fb40de72337168c3a23b73c3b1f77a68b87d20472742912324b345a75f28f44b&scene=27#wechat_redirect)
+
+文章简介:困了，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-18_绝望！领导随手拍的丑图，非让放在PPT中....](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584631&idx=1&sn=1943907e6f1a4f281c6668117d346155&chksm=fc9172a1cbe6fbb72e62c232c1d25b0939b2c515726768930c61037d012a70d35eed480b9e06&scene=27#wechat_redirect)
+
+文章简介:搬家了，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-17_我改了一份浅色的PPT！最后一页的4个字母，太好看了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584627&idx=1&sn=1609c5df0b2f29f27d41df5683f60dad&chksm=fc9172a5cbe6fbb3014657a924602675f6d19fbb615ef49b68d912e73bd3b414b4ef2282e6d1&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-08-15_民生银行这套PPT太俗了！改成黑金风后，这该死的奢华感...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584556&idx=1&sn=c8d2f9c94425b9c0a60a070225bb0283&chksm=fc9172facbe6fbeca4176ad83274e27bed0b7d4cd72f4a44237cd9dccbcf9794b4ae6ce613c8&scene=27#wechat_redirect)
+
+文章简介:有直播，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-13_这个素材太绝了！腾讯小米抢着用，放在PPT里科技感爆棚...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584461&idx=1&sn=bd494c1600d6aecff54f6342f137fb37&chksm=fc91731bcbe6fa0d46276682d6b33e8ad9a1fad3842568852a9b3aa600608bb27ccbd0ab8955&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-08-12_这套红色的科技风PPT，完全超出我的想象！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584451&idx=1&sn=287e8d0ab9291da3d644634f54a68fca&chksm=fc917315cbe6fa03190935320ce7367004230591169406d5df5c70e3a0032928d24c5f4a1e06&scene=27#wechat_redirect)
+
+文章简介:团建中，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-11_黄鹤楼的这页中国风PPT，太美了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584447&idx=2&sn=e88feea8b80249cf77d383a3d7073e12&chksm=fc917369cbe6fa7f169591c552651512814bcf9fd6e09b64a138b1a10ae23b95abd783a0d43b&scene=27#wechat_redirect)
+
+文章简介:吃了同事的拌粉，无摘要
+
+文章作者:
+
+[2022-08-10_万科的这份PPT太乱了！20分钟做个模板直接套，秒高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584429&idx=1&sn=aec69a2b2ee2bc1e2d203d199f0205fd&chksm=fc91737bcbe6fa6d0e2cfa17ce5c6083d822a352ac0b291f3dc433efe929d926b1c564faa88b&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-09_PPT中的裁剪功能还能这么玩？第二种用法不可思议！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584419&idx=1&sn=6db51b9e72897bb85d3fe76217cc4331&chksm=fc917375cbe6fa63dd9603b47cd76f84de7bcc95f033c615cd133bbe7048427a6c405575d746&scene=27#wechat_redirect)
+
+文章简介:好凉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-08_职场PPT还只会套模板真的太丑了，我简单改后，同事都要夸爆了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247584409&idx=1&sn=d0d1ceb73fdca7d4c40b9c8fc96e659b&chksm=fc91734fcbe6fa5947e9c3668b5091427ece1141afc9b536da875d3fcd3b398942f63532810d&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-07_强烈建议你试试这个动画，用在PPT中太特别了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582599&idx=1&sn=a062a9a3c7159823d1d40af06ddf1a6f&chksm=fc917a51cbe6f34718cc76a458c281dd6c9a02373282d4a08db8c3e6f155bdd9217e89547a80&scene=27#wechat_redirect)
+
+文章简介:太热了，无摘要
+
+文章作者:宋雪贤
+
+[2022-08-06_别不信，想清楚这2点，再复杂的流程图PPT排版都能高大上！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582595&idx=1&sn=9ea2e14c86dd3f262737418a68f81e5a&chksm=fc917a55cbe6f34321ab0fcc4703df53255bcd77f99b85192ebc0aa2dbc5272da2c3cd862a8e&scene=27#wechat_redirect)
+
+文章简介:太渴了，无摘要
+
+文章作者:邵云蛟
+
+[2022-08-05_这张PPT封面的细节处理太秀了！数字堪称点睛之笔！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582580&idx=1&sn=c8794f3ea94118f1aced9cbd7c9862af&chksm=fc917aa2cbe6f3b48ed8bc3f94fae0789009905660def3be042cb365cd90cc14762094aa95e8&scene=27#wechat_redirect)
+
+文章简介:录视频中，无摘要
+
+文章作者:宋雪贤
+
+[2022-08-04_PPT封面设计的6个段位，同事：最后一张在大气层了](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582565&idx=2&sn=3d0b8d58dffc5202b1a96a6a57f74931&chksm=fc917ab3cbe6f3a5e3e0c7f21700e8d05212a027e2819a70f63b2794d50a17736e54f67f44c4&scene=27#wechat_redirect)
+
+文章简介:好饿，无摘要
+
+文章作者:
+
+[2022-08-03_阿里偷偷出品的这个地图网站，用在PPT中，超绝！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582553&idx=1&sn=f2f1e2d2af4f4930335c67f2c6bcb228&chksm=fc917a8fcbe6f3990654f53c9d4494c306bfc0c5b72a0efda8f919732f0346d52b46382fad54&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-08-02_河南的这张PPT太卷了！一页放6个图表，还能这么高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582543&idx=1&sn=4bbab06d01ad4e3c9e862209724fa45a&chksm=fc917a99cbe6f38f21def44361a9c40021eee908690ae505a4401fc6ead0390eef539796874c&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-08-01_读者这页PPT全是字，我一口气改了2个版本！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582533&idx=1&sn=60f20d21c91da710558293e6b3c3b576&chksm=fc917a93cbe6f3855fe0e21986a50bbe6e17fdbb891af2436a30759d84c7e24172db1561d9a8&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-07-30_PPT中图片排版只会整齐摆放？这3种万能形式，你一定要知道！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582522&idx=1&sn=2c21ec358bc630a658b4ce7ead613e4b&chksm=fc917aeccbe6f3fa9059ffcd365d09384481238cf898faf0b335ffe262df5c119074ae0c7be2&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-29_浅色背景太单调？中国联通的这份PPT，高级感拉满！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582512&idx=1&sn=f4e69abbb951280c5eaeef3065b004b2&chksm=fc917ae6cbe6f3f00f376e05703e3fc96573e8331b5bb1dfc2ba940fd18d00818d05a54ceb2e&scene=27#wechat_redirect)
+
+文章简介:一周又结束了，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-28_PPT页面文字太多不能删？我强烈建议记住这12个字](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582508&idx=1&sn=aad7f34e1cec2b49c190f0843b4d4727&chksm=fc917afacbe6f3ec01bbe6fa74894249ab17aa86edee9380b188573de6d647b2887532b0e0f9&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-27_这份来自2017年的土嗨色PPT，我用2个颜色拉高档次！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582497&idx=1&sn=f1c497cfffaba354710cd50ea553f9b1&chksm=fc917af7cbe6f3e1d6dad995b091088cd82dcec95830cd26fbf7c4e4cadf2aedd36c1d37b7fb&scene=27#wechat_redirect)
+
+文章简介:降温了，无摘要
+
+文章作者:宋雪贤
+
+[2022-07-26_12小时删！全是付费买的资源，请勿外传！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582394&idx=1&sn=528b69d27843163f3ff42ba35301eab8&chksm=fc917b6ccbe6f27ac8df7872013d80919f33818fdb7e02b9c6b4060ae47961363d67f6e35724&scene=27#wechat_redirect)
+
+文章简介:-
+
+文章作者:
+
+[2022-07-25_当一张PPT上的文字超300时，我强烈建议别乱加图！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582389&idx=1&sn=1c1d2649a46fbe0e8210362d20aeb4f3&chksm=fc917b63cbe6f2750d08ffedf2591ec33b67d2ffaf8283bd0e6b2a2f8cff4dd77007f033539e&scene=27#wechat_redirect)
+
+文章简介:天晴了，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-24_PPT多图排版还在并列摆放？这个思路一定要收藏！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582324&idx=1&sn=39db671f95c13a8ba249e5dc37829a3a&chksm=fc917ba2cbe6f2b4f70e1bf1cc51731c3c72278e8af5e5e94cc0ded7e5b8955087705675a454&scene=27#wechat_redirect)
+
+文章简介:周末快乐，无摘要
+
+文章作者:宋雪贤
+
+[2022-07-23_当数字动起来后，这页PPT也太酷了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582315&idx=1&sn=dc8a5ff18d369780534a162a2727679a&chksm=fc917bbdcbe6f2abd3261b1588b4cae680692b890e8fc3db67f1e7a7e70538381bab53c4c997&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:宋雪贤
+
+[2022-07-22_诺基亚这页超丑PPT，我把文本框拆开后，效果贼棒！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582306&idx=1&sn=7a14ba9e56e73efbd9b8e45b2ebeaaa9&chksm=fc917bb4cbe6f2a213574a4d74476b1a12a3b84e174075048c2682f17b889f79d97a934a31d9&scene=27#wechat_redirect)
+
+文章简介:下大雨，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-21_我也不想心动，可这张PPT封面页会发光耶！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582292&idx=1&sn=ac8f4add82391317a19a7a64aaf296ff&chksm=fc917b82cbe6f294fa4cc6957229c9013d0a9860ece3e922f68618d302d5f6e952b1ea1a774f&scene=27#wechat_redirect)
+
+文章简介:双厨狂喜，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-20_PPT自带的表格模板，丑爆了，这3种版式直接抄！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582279&idx=1&sn=38aa8d53c4e839fdf68fbe2ce490af71&chksm=fc917b91cbe6f28758eea5fa8bad59091729ea77023e9cc82cfe1c4eba90f53f64492a33686f&scene=27#wechat_redirect)
+
+文章简介:下雨了，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-19_3分钟把5000字Word做成PPT，只需4个步骤轻松搞定！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582187&idx=2&sn=b745b3bf3fe50ce99cff3cd9092a97e3&chksm=fc91783dcbe6f12b7a1ec0bf7bfdb9e2b58bef4f082c4954d61732858bd351e6b7d081ff4b60&scene=27#wechat_redirect)
+
+文章简介:恢复直播，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-18_这个电影式的PPT结尾页，太颠覆了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582150&idx=1&sn=111644a38e812aadefd2c6e499d4542f&chksm=fc917810cbe6f1062834228ff3fbc17a623dcf494d5f09efcc1df73029cfea520b513d507e0b&scene=27#wechat_redirect)
+
+文章简介:居家办公，无摘要
+
+文章作者:宋雪贤
+
+[2022-07-17_做PPT还在疯狂找图？只用一个圆形就能搞定！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582118&idx=1&sn=aa4aba4eb51900a15711144aa09b49ae&chksm=fc917870cbe6f166ecfa16b693cb9404abac7d4ebef69ee3511ceaef4be38b40d52cb8330abe&scene=27#wechat_redirect)
+
+文章简介:居家隔离，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-16_单页30元与500元的PPT，在排版时有哪些差别？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247582088&idx=1&sn=1a07713d6654db85637330a81eeaff3f&chksm=fc91785ecbe6f148cfedac1984bd23859cf8fe917e21e76eb1bc8d0e26673390792cec89e271&scene=27#wechat_redirect)
+
+文章简介:今天被封了，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-15_分享一个超好用的多图PPT排版版式！贼好用！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581922&idx=1&sn=9ae42f603e56cb2ea1d3094d5678ac28&chksm=fc917934cbe6f022970a67d7e7d41bda3dd87f5d4be436685fddee9903908ac406242f33d1c5&scene=27#wechat_redirect)
+
+文章简介:下雨了，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-14_这张7个颜色的PPT架构图，太花哨了！必须改！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581911&idx=1&sn=db4f3e59fb1f349a5feaef47a30e4a4f&chksm=fc917901cbe6f017f89644e76877de36b362f62f32a2bf9e6e679952fd0603edfe2d2386613d&scene=27#wechat_redirect)
+
+文章简介:录视频中，无摘要！
+
+文章作者:宋雪贤
+
+[2022-07-13_我只用4个梯形，拿下了腾讯的PPT单子！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581893&idx=1&sn=f48ebf6cd127403da95c4e68c8d7bda1&chksm=fc917913cbe6f005e13a98c213dc331e12e3ed2007b38465605c9e2de4fb4b3ca89907cdd45a&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-07-11_这份医院的PPT太乱了！尤其是这个超土的小人！必须改！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581859&idx=1&sn=1ccfea7f17a0e2a28aa5b0902f255186&chksm=fc917975cbe6f0632aed39c082b40d0df82e70e3e01bc8c7c9d0938e47c82aba344d8470e8f0&scene=27#wechat_redirect)
+
+文章简介:下雨了，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-09_求问，像这样超丑的PPT架构图，还有救吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581824&idx=1&sn=39a39c6d9cf3ccd8a1e333fc2bd9a5e4&chksm=fc917956cbe6f0403b2f031dcb30a851d89b55dec13c1aeccd9c2324cbb41d5fe51418f269ff&scene=27#wechat_redirect)
+
+文章简介:依旧升温，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-08_这张PPT截图页丑得没法看！调整图片位置后，绝了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581812&idx=1&sn=6ed8df3909b78323c08a3b27ab7b3784&chksm=fc9179a2cbe6f0b4cc32c0f61287831e8fbc06d7d92e44b2ac981284a1d639fec4707c841951&scene=27#wechat_redirect)
+
+文章简介:迟到了，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-07_我用PPT把5毛一根的雪糕，做出了19元钟薛高的贵气感！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581808&idx=1&sn=f718865ab4a2f3207f1a71dd66641551&chksm=fc9179a6cbe6f0b009d9f4f966bb7f56e9b889028eccec2c31e5a489762595dd8a3e14af4435&scene=27#wechat_redirect)
+
+文章简介:升温了，无摘要
+
+文章作者:宋雪贤
+
+[2022-07-06_同一张图，做出12版PPT结尾页！会动的那版太卷了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581785&idx=1&sn=491262c59f55f4b538fe6dc5e83d35de&chksm=fc91798fcbe6f0994efedae6ea10fce18a00836b9d1c11f79619a496649cea1e385d2733eb9d&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤×HAI000
+
+[2022-07-05_自动更新的数据大屏，1分钟就能用PPT搞定？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581732&idx=2&sn=abf1ad05c6cfe461fe48118763bf88e3&chksm=fc9179f2cbe6f0e457134d90b865cfd724ec4cf93a881e07125ee9cd38c73d2f2a2adf87d621&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-04_联通的这张PPT结尾页，直接改到了领导的心尖上！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581622&idx=1&sn=f4f4a49f87adf882ff43fcfc22019c37&chksm=fc914660cbe6cf760dddf69d64c3bff111c64e3d81459e6a1df8b3d234523ee77a1303198046&scene=27#wechat_redirect)
+
+文章简介:又晴了，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-02_这条被1300人点赞的视频教程，你看过了吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581578&idx=1&sn=8cef889174e06dfcb4420805773d84f3&chksm=fc91465ccbe6cf4a931567ed77b77f6b6ab1ae0577fcc2eddcbd706686a87b10a4273ab065e9&scene=27#wechat_redirect)
+
+文章简介:闷热，无摘要
+
+文章作者:邵云蛟
+
+[2022-07-01_我之前给客户做的PPT动画，撞款苹果发布会了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581568&idx=1&sn=05d5e0c1657bf38f4f0d0dd83d8be8af&chksm=fc914656cbe6cf4069ef8966f59b4bcf847a0ada520a386bfc3d2ed8e4e638421fc95dcb9f9b&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-06-30_这页只有22个字的PPT，我加上8个立方体后，甲方闭嘴了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581558&idx=1&sn=1c603621a9a4d1b98fe74047c4d05c86&chksm=fc9146a0cbe6cfb6322bf618c3fee632f12c975d68f23fcc402d8b965a3a542e74b2b42804a1&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-06-29_6小时后！这900页PPT模板免费送活动，全网下线！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581548&idx=1&sn=8a0f76b5be1ec672b18b9bb70cf12770&chksm=fc9146bacbe6cface01b6f4022e766781b963c2563d3388be6b45882bece54c31eb390ef013a&scene=27#wechat_redirect)
+
+文章简介:要结束了，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-28_这张PPT地图页！我出价400元！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581524&idx=1&sn=2ff85534dd967c83a79cc675307492e1&chksm=fc914682cbe6cf94c3b8f80f19eb8c7bc83d29e7381a17dbcfd3db02d9aeafa56f5272709ebe&scene=27#wechat_redirect)
+
+文章简介:太热了，无摘要
+
+文章作者:宋雪贤
+
+[2022-06-27_15秒！我做完了这张PPT过渡页，同事：太高级了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581511&idx=1&sn=4a45023b23b77c449f08070ec9a65e34&chksm=fc914691cbe6cf87b4def35ccfe20b5d507a199b6012407a78c6e4961df0eda6e79ada6db01f&scene=27#wechat_redirect)
+
+文章简介:下雨了，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-26_下周结束！我攒了5年的PPT学习资源全部放出，手慢无！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581424&idx=1&sn=daa112e7dac8a11b377cf1b24924a823&chksm=fc914726cbe6ce308f5ffc642346ce0325ea78e5ae0d4a55086800d450fcf527aaaa83c2e0e2&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-25_我只用一张图，做了9页PPT，结尾页美翻了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581420&idx=1&sn=fd481198784d9f76c3db10ec1e02e967&chksm=fc91473acbe6ce2c7d4c540f2586f1dcf5bc87b3722e33c5c44323a40c91cdca8f45ecb64779&scene=27#wechat_redirect)
+
+文章简介:录视频中，无摘要
+
+文章作者:宋雪贤
+
+[2022-06-24_我建议内容超10行的PPT，一定要这样排版！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581083&idx=1&sn=221d8a6c43c36081efe90288baa2890f&chksm=fc91444dcbe6cd5b89a5eb156608dcfa85339e111f831795571074c7cbd3aff41abd922a1c72&scene=27#wechat_redirect)
+
+文章简介:太热了，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-23_海绵宝宝的这页PPT，也太可爱了！动起来后更绝！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581043&idx=1&sn=766ecf6718958519ef0fd19d2048d6c2&chksm=fc9144a5cbe6cdb37fe77ca772d21532c681a8b3e8faaa2e30e127872c88265109aef694654e&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2022-06-22_这份智能汽车的PPT太土了！加上这2团弥散光后，超高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247581030&idx=1&sn=48666cbe61bc45028b5d3fa67811d87c&chksm=fc9144b0cbe6cda6910e56a4c4ddadbacb600a348c98fb281e5b735553e025602057df9561c7&scene=27#wechat_redirect)
+
+文章简介:太热了，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-21_移动这份PPT，内容多到炸！被我改出了500一页的大气感！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580947&idx=1&sn=7edab038785a9f4fd598932b091fdcf7&chksm=fc9144c5cbe6cdd3dcfbdea521ccda4ebb1352cf88fb589709bf8fc6c7fa6a8bf9e1d23cec34&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-06-20_库里夺冠！我给男神做了6页PPT，第三页超燃...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580940&idx=1&sn=0ba51e57513cb6110b8ccb1146dc9b34&chksm=fc9144dacbe6cdcc2c763e65b712b7ce14a77c79ab86346a5545f7600bc91b446a4392a4a76d&scene=27#wechat_redirect)
+
+文章简介:太热了，无摘要
+
+文章作者:海林
+
+[2022-06-19_点一下就做出500元的PPT动画效果！这个定制级素材库太猛了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580893&idx=1&sn=be49f12fe72cd204b0684bd626b3454e&chksm=fc91450bcbe6cc1d1f360d8165ed14dbdd4e2a79b9bc3035b8a6b6a47b3f502357e41f835d4c&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-18_这30个读者提问的PPT问题，每一个都太经典了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580851&idx=1&sn=a24adcd0ea0c338c144b5d8f609dd471&chksm=fc914565cbe6cc7308f14b75a6c24ccc3228f95aec42828f0497674aea1dd6df9d56fc7b06b3&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-17_我只花20分钟！爆改了4页课件PPT，同事：这次真的有手就会!](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580812&idx=1&sn=514efefed071c4a5ec34714aac1be8c5&chksm=fc91455acbe6cc4c0affb27c419f0677f6be18ff7f4af7fb62ca0cdb90f0a389d0f9552db8b2&scene=27#wechat_redirect)
+
+文章简介:好热，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-16_遇到字超多的PPT，这4步8字一定要做，一字不删也能高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580775&idx=1&sn=209051a53122f75b7f5e5a006218b5d9&chksm=fc9145b1cbe6cca7e67759faac0ef6499d2bc8512e31c4367553e8ef517297fb28ae7c256bed&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-06-15_我只用一个六边形！就搞定了一整套PPT，同事：太秀了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580758&idx=1&sn=6bac2516f1b04866d53d71055845b8b3&chksm=fc914580cbe6cc96ab52aab3c5c1ea4d41e97f3eecc8f19240b15005a8977f7dd4bda845801d&scene=27#wechat_redirect)
+
+文章简介:升温了，无摘要
+
+文章作者:宋雪贤
+
+[2022-06-14_PPT结尾页别只会写“谢谢”了，这3种展现方式，封神！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580743&idx=1&sn=28d4ae20005f25c385cb91fdfde84fc9&chksm=fc914591cbe6cc87e5528e58b8920e55cb07afe3e3af6f098845c5e81069735b105108be4e4f&scene=27#wechat_redirect)
+
+文章简介:拴Q，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-13_电信这份PPT，一页竟然塞了10张图！排版简直太土了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580702&idx=1&sn=75f44041766c413b8e7064f77dcb9e29&chksm=fc9145c8cbe6ccdedb85ee75e31ed7d5beee484334f5b37ac0a61adedcde87375f87001c7644&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-06-12_太卷了！一口气听完这243节PPT课程，是种什么感觉？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580695&idx=1&sn=1dc17043fb7f2a299cbc5daa65802e4a&chksm=fc9145c1cbe6ccd75e360fe3d63c80de90b5a171f629705003ae72d97eb2b879d56dbecbdc4f&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-11_PPT创业老板的7年，我有些掏心窝子的话，和你聊聊...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580691&idx=1&sn=b707d2b626c815a23bb19006e00da722&chksm=fc9145c5cbe6ccd3996a1f681a3ed06c29e735d4710a41bc1ca2db2b0c9ae41610bf923e426f&scene=27#wechat_redirect)
+
+文章简介:7年了，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-10_刘亦菲《梦华录》太上头了！看完忍不住给全员做了页PPT！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580658&idx=1&sn=0604a443f53a1a518d8835619d071987&chksm=fc914224cbe6cb320ae114b55a4e48bd276bf484ee1e82f986cf14eb6f048c33173a42705f9f&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-06-09_帮一家电力公司改了份PPT，地图页的3D效果！真绝了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580634&idx=1&sn=41349e78a6101e0ecdde23d1c077b2af&chksm=fc91420ccbe6cb1aea5aeca53d29f811eb1306c22400f505605169358788c36cbc7bff50ec76&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-06-08_这页仅18个字的PPT封面，太简陋了！加个红色圆环后，洋气！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580618&idx=1&sn=04ecb3f23eafee97eff6c12fa320db7c&chksm=fc91421ccbe6cb0a31782fcc42be16b309c2f559a0d66081d65bd71930adae1ba8d5ef0422cb&scene=27#wechat_redirect)
+
+文章简介:好热啊，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-07_苹果内部员工的最新工作PPT曝光！细节控太可怕了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580469&idx=1&sn=83427aa49b2ffbc74c9e4d888cc1e8e3&chksm=fc9142e3cbe6cbf5afe725e27e9034a05eb8186c20fee47ff399b89c1f8eb3de738210f04b09&scene=27#wechat_redirect)
+
+文章简介:肩膀疼，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-06_邵大，你在小红书上突然火了！全网都在求这份PPT资源！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580293&idx=1&sn=8264cb662d12a927d8b9652bb198d44e&chksm=fc914353cbe6ca45edb26265b64c5233a57417c5f6f0944a48dde1dd056e67f9b7a0983a88a1&scene=27#wechat_redirect)
+
+文章简介:开心，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-05_看完这30个PPT基础视频后，读者：邵大，你是我的偶像!!!](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580243&idx=1&sn=d527c7046db131b536abc18e334b2204&chksm=fc914385cbe6ca9395dfa3567f3f2162b1d3023a6bdae3af865c08c6fb6e5635a7abecc87f53&scene=27#wechat_redirect)
+
+文章简介:假期愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-04_假期愉快，分享亿点点免费PPT学习福利~](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580156&idx=1&sn=ed37b89da734a4d00cd043f1bf5d3bc5&chksm=fc91402acbe6c93ca6e47856f5b8bad7407341d71355372164c4aff866b607ccf197ea84c0b6&scene=27#wechat_redirect)
+
+文章简介:假期愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-06-02_看到王心凌的这张PPT海报！90后直呼：杀马特的DNA动了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580141&idx=1&sn=3f9a9e62bf67de643ed860e2bad8a779&chksm=fc91403bcbe6c92d7194b69639d038e6b2e05fadfa889db85a4700e564d20514ce285abde9ab&scene=27#wechat_redirect)
+
+文章简介:要放假了，无摘要
+
+文章作者:海林
+
+[2022-06-01_我帮读者改了一份汽车PPT！同事：封面的渐变色太绝了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580131&idx=1&sn=14141b53bbeeba10af0be3473e8f48b4&chksm=fc914035cbe6c9232058cf1901db078225f151f8402e46fb4efbc8c76b56c1e27523bd9893e1&scene=27#wechat_redirect)
+
+文章简介:要放假了，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-31_这家公司的PPT流程图，超复杂！看了5分钟，我都没懂...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580100&idx=1&sn=887f180a00a4add6fd5e8d3493f2dca6&chksm=fc914012cbe6c90470080015e6b64129576529b18083ae277e8ec5690a15b5b18815c02a7684&scene=27#wechat_redirect)
+
+文章简介:太热了，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-30_PPT聚光灯动画，一页介绍35个人物！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580050&idx=2&sn=c71dd5abc15733fd8437b36b1f42a2aa&chksm=fc914044cbe6c952db82487d6fc0fc0c8946a2ef81a8354cce57e9119d418c2c6f136c5a7ce4&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-28_周末愉快，说一件事儿](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580032&idx=1&sn=68b93fc7f093473b25998a7d287d5845&chksm=fc914056cbe6c9403049ee83346ea4745f57ff4e8d57c7560852662251dba6218692aebc1408&scene=27#wechat_redirect)
+
+文章简介:周末了，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-27_我连夜给王心凌做了份超甜PPT！公司的男孩儿们都心动了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247580019&idx=1&sn=d98db9e4b668bc6ad349179504112257&chksm=fc9140a5cbe6c9b3d0ecb5842f211084f752ba00977c8711da62583350c754781c4004c34652&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-05-26_这张塞了28行重点的对比页PPT，真的丑到我了..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579977&idx=1&sn=4cd37631fa52e6082c6345b3702b3729&chksm=fc91409fcbe6c98926f25ea55778c944a5ad4ede4e5c9fcf43bb4b4d1d2bad2d07f673adabf7&scene=27#wechat_redirect)
+
+文章简介:风停了，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-25_我给中国移动的PPT，加上小动画后，同事：太丝滑了吧...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579861&idx=1&sn=1773288425468606386c9932a89b6ff6&chksm=fc914103cbe6c8154ae1cbcbcca6fa90801536f99206272d7223f4a9d47750c15e82fef3788e&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-05-24_94%的职场人，都把PPT模板用错了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579849&idx=2&sn=97cffc11695d6a777533b9d0d0350150&chksm=fc91411fcbe6c809efe4bc504008b1ab8170b7fd8600b4b4d5db4db5d57dbee2c3e3cc79848e&scene=27#wechat_redirect)
+
+文章简介:录了几个视频，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-23_一页超多内容的PPT！被我用5个字母梳理后，养眼多了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579833&idx=1&sn=7be87f9b99cc74e5da8187c0f95b424b&chksm=fc91416fcbe6c879a8ee9ae328261085a4b8d9fcfadffc100d59d99f3afdc58c27e0a73276f0&scene=27#wechat_redirect)
+
+文章简介:穿短裤了，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-22_说一件事儿](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579802&idx=1&sn=07c94c91d260a8622a4021fbeeb794ce&chksm=fc91414ccbe6c85ad6744e366850e2f75b7937c3cdd471d97e9a4071bc69089a0354569ae48b&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-20_百度这份上不了台面的PPT！试着改了3个配色后，高级多了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579788&idx=1&sn=9fd0a5320efec78b7da7b99f2aa07b81&chksm=fc91415acbe6c84c6d0b4c5bee0ff4f8feb11d8e4d128467713586db6aade5af557640fce4f2&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-05-19_我用PPT做了一份520表白神器，感动了公司所有女生...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579780&idx=1&sn=0dbbc728ae18e28c7f00e848c58e5104&chksm=fc914152cbe6c84435671626c3157de310130f8e0a733b0c5669c74abb0f0bcaa0a296baf810&scene=27#wechat_redirect)
+
+文章简介:快到520了，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-18_一页PPT上放贼多的人物图！这样的滑块动画展示太酷了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579741&idx=1&sn=fb5504dc8c11fddbded55fbdcddc34ab&chksm=fc91418bcbe6c89da343235b344c7609765a8a5c04166948ce759a6a40a2e39e9ac2c449c71c&scene=27#wechat_redirect)
+
+文章简介:天气好热，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-16_这家集团4:3的科技PPT！被我用骚粉色爆后，又猛又可爱...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579677&idx=1&sn=8428362319f478e05fa4463858a32869&chksm=fc9141cbcbe6c8ddcbbf1d253cf28b348bbfc97efc39490d805cf7e27197477f610708ccc8ca&scene=27#wechat_redirect)
+
+文章简介:新的一周，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-13_这家公司14层的PPT架构图，真太乱了！用这个小功能一键爆改！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579580&idx=1&sn=c3db275a7b1b333e34356049bbd3b7da&chksm=fc914e6acbe6c77cb1902ede5bf07625f58eaa7a1e260933d4f10b1bc2835ee7dc36d467a1ff&scene=27#wechat_redirect)
+
+文章简介:升温了，无摘要
+
+文章作者:宋雪贤
+
+[2022-05-12_联通这张超丑的数据页PPT，被我用SmartArt一键整容了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579542&idx=1&sn=175e884b0f8789d3eef881b6fd957609&chksm=fc914e40cbe6c756a159f8012d0930726456b43fa1e4b6011f741b87e7023f48365936879298&scene=27#wechat_redirect)
+
+文章简介:降温了，无摘要
+
+文章作者:宋雪贤
+
+[2022-05-11_PPT图表竟然是排版神器？这3个不正经的骚操作，绝对封神！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579536&idx=1&sn=bdcbfb1911d65236f703c3c3ead1f0ff&chksm=fc914e46cbe6c7506f7f5489a16c39eb45166f4ac4207ea3b22cf260669b8d4451cc8dad4303&scene=27#wechat_redirect)
+
+文章简介:解封了，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-10_PPT甘特图，这样处理丑爆了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579435&idx=2&sn=39fee9978d97b4f7f588f899ccad31ef&chksm=fc914efdcbe6c7ebf94d143744585ac547682a504e06f1ae33b6e3c46eeaef2bf95f443e6ad0&scene=27#wechat_redirect)
+
+文章简介:宅家中，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-09_邵大！领导让我把一页仅12个字的PPT整高级，头秃...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579417&idx=1&sn=0f8cb8c3c660befe21f201afac1590b5&chksm=fc914ecfcbe6c7d96415cf48fd90f2d382c604cf241d7196873498ee8958992275aa4d53a713&scene=27#wechat_redirect)
+
+文章简介:降温了，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-08_各位周末愉快~
+
+本周疫情宅家，做了两场话题聊天的直播，聊了PPT副业，挣钱，我的创业过程，时间管理......
+
+注：可在视频号旁门左道PPT，查看直播回放
+
+因下周可能还要居家办公，故继续聊天直播，我也挑了一些，大家感兴趣的话题。比如像：
+
+1、我们是如何为大厂定制设计PPT的？
+2、从小白到高手，该如何学习？
+
+当然，大家还有哪些感兴趣的话题，可以评论区说下。
+
+另，我也打算找一些读者连麦，感兴趣也可以约下我~](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579366&idx=1&sn=e013ac543bd8c417e280c7efa03d17fb&chksm=fc914f30cbe6c626bc1cf1c63a153c7b1af515e524f533375305a9d44ca761bc59d4651deb24&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2022-05-06_故宫这页PPT文字太多了！这样3步调整后，立马高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579354&idx=1&sn=dcabaeeca8cddb3f2e53e96f511b0127&chksm=fc914f0ccbe6c61af8fee5a6f7d2f0c011bea719a117476f3398aae6f74182d9f2a081888073&scene=27#wechat_redirect)
+
+文章简介:居家第二天，无摘要
+
+文章作者:邵云蛟
+
+[2022-05-05_清华大学的这页答辩PPT太丑了！跟着人民日报这样改后，真的清爽...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579284&idx=1&sn=5d1dd081a4624eb894175b4e58b35c04&chksm=fc914f42cbe6c654093d5844da50efa4d028801332c40958d1cdd1e41b9cc12dc47706a58dc2&scene=27#wechat_redirect)
+
+文章简介:居家办公，无摘要
+
+文章作者:宋雪贤
+
+[2022-05-04_各位，明天就要开工了，有件事要想你说一下。
+
+因为郑州出现疫情，没办法去公司了，所以，原定的明天直播，或取消，或改变成聊天的形式（只能用手机播了），我个人比较倾向于后者。
+
+我想了一下直播的主题，比如有：
+
+- 聊聊关于PPT副业/挣钱/职业；
+- 聊聊关于PPT的学习经历（以我为例）；
+- 聊聊______(等你填空)；
+
+有感兴趣的话题，可以私信我，或者评论区说下哈~](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579277&idx=1&sn=e7ab745ea01793056b128b88836c4ce6&chksm=fc914f5bcbe6c64df4d02fafc1459bb3e5fb72703b7cae6f26d28ff1c34719e519183f09648d&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2022-04-29_Hi，各位，明天就要到51假期了，今天就不更新了。
+
+如果你想趁假期学习PPT，可以看看我帮你整理的【第二季100期直播回放】，另外，今天，我也把近期公众号文章做了整理。
+
+点击自定义菜单【PPT学习】，即可看到。
+
+最后，@所有旁友圈会员们，今晚还有一场直播课，别忘了去看看哈~](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579275&idx=1&sn=e989c8478134f5a9da967d6adb1165f1&chksm=fc914f5dcbe6c64be79cc222863ee2cb1cc6ba0aefe10c353bcead3785ab49cd24ea63fcf587&scene=27#wechat_redirect)
+
+文章简介:Hi，各位，明天就要到51假期了，今天就不更新了。
+
+如果你想趁假期学习PPT，可以看看我帮你整理的【第二季100期直播回放】，另外，今天，我也把近期公众号文章做了整理。
+
+点击自定义菜单【PPT学习】，即可看到。
+
+最后，@所有旁友圈会员们，今晚还有一场直播课，别忘了去看看哈~
+
+文章作者:
+
+[2022-04-28_我给深圳的一家企业改了份PPT！这条时间轴能这么美，实在没想到...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579265&idx=1&sn=1dc10d45cfeb88dbb743b6630b3bebc0&chksm=fc914f57cbe6c641e70691f331bb5c6ff3ddffb2aa2460ebf3b1ea661ac3a6e5f0415579ab8a&scene=27#wechat_redirect)
+
+文章简介:开空调了，无摘要
+
+文章作者:宋雪贤
+
+[2022-04-27_弄了173天，这1000个PPT技巧视频终于肝完了，免费领！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579259&idx=1&sn=3f22ccba6c99e3ccf0de5bc34eafcad5&chksm=fc914fadcbe6c6bba3f57dbcd59b8abb88dac42807eda61fb316ef1879c3e56d7aca6fa62889&scene=27#wechat_redirect)
+
+文章简介:舒服了，无摘要
+
+文章作者:邵云蛟
+
+[2022-04-26_苹果发布会PPT上的这个发光动画，用在文字上超酷！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579218&idx=2&sn=2eecb74ecec9f848b7a3f4a02914b9a4&chksm=fc914f84cbe6c6923d05d09a7ca9a3bd97781fc4870989208055183319a5ab159aafcbea32d3&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-04-25_看完江苏卫视这档热播综艺，我手痒的做了页另类PPT封面！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579151&idx=1&sn=517149401e738d72adaaad199b5bc982&chksm=fc914fd9cbe6c6cf29f4afdc8b84634e7a31b172a88ecc41c33b794b2e6a8d65eeaffca4d963&scene=27#wechat_redirect)
+
+文章简介:好热，无摘要
+
+文章作者:邵云蛟
+
+[2022-04-23_各位，说一件事儿](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579117&idx=1&sn=8c71913cb49a5b642fe4a497ab938c1c&chksm=fc914c3bcbe6c52d74a2894d6ffbd5e61fa367b0ae44f2c1e1cb3594e6f4dff2faecb6efcda6&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-04-22_京东这张PPT毫无重点！我只加入一个大红色矩形，立马洋气...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579106&idx=1&sn=6be49f3f54f98f09f8fa23b24d9edfed&chksm=fc914c34cbe6c522f6cafc801461f81d82c3e9b87b074a452499f00a2a7eee68a17e7857e7a9&scene=27#wechat_redirect)
+
+文章简介:又录了一天课，无摘要
+
+文章作者:宋雪贤
+
+[2022-04-21_我用春天绿！给农大学姐改了份PPT，同事：看的想去春游...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579099&idx=1&sn=a092bf4a8ae74e6f4e1ee98be8e87aec&chksm=fc914c0dcbe6c51b1087fe6acf596ff73f09f197e5aed9fdd45bae79f05ef06f350d674fcbdb&scene=27#wechat_redirect)
+
+文章简介:好热，无摘要
+
+文章作者:宋雪贤
+
+[2022-04-20_PPT自带的排版神器，一键完成多张图片排版！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579091&idx=2&sn=a7b49f5b1975fbe8d5517522ae12aab7&chksm=fc914c05cbe6c5139ac81f2ee0c07f3a1d845e05f5336856bfdb79a447102e5dbd5deabcc1c7&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2022-04-19_我在这张PPT地图上，加了18个模糊的圆后，立马高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579085&idx=1&sn=17518ca3e3c7b1956bd33dcdea7d3fad&chksm=fc914c1bcbe6c50d7c265eacdd346ca2c11b9c409db3ac889e849f97904999228c236accd16f&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-04-18_微软&amp;旁门左道PPT联手搞事情了！超大福利，仅限500个...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579071&idx=1&sn=2f32743c005d25fe5afe6ed6d9c2ef82&chksm=fc914c69cbe6c57fb4612ca98124936786e8956d5b5080bd4b63ae62d17cf9946edf8062c371&scene=27#wechat_redirect)
+
+文章简介:又是新的一周，无摘要
+
+文章作者:邵云蛟
+
+[2022-04-15_椰树风最近火了！姜文这张PPT被我改成同款后，真的意外惊喜...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247579040&idx=1&sn=6b5cdcc373d200672e6cab5e9f2c7576&chksm=fc914c76cbe6c56034532d027313703faf6bcb3d467afd88bbadb8ce5ca0072d6e34e3118488&scene=27#wechat_redirect)
+
+文章简介:又到周末了，无摘要
+
+文章作者:海林
+
+[2022-04-14_这页PPT流程图，动起来后超高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578987&idx=2&sn=22668b6b6c9546c26add5993e6bccc1e&chksm=fc914cbdcbe6c5ab2cd3976c196ee1110f6bba845e044311608ce60684b4408d9d04aebf92f9&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2022-04-13_瑞幸的「新品PPT」设计绝了！但我更爱喜茶的这页！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578979&idx=1&sn=2707a999875361ae8a3462a5d9e381a4&chksm=fc914cb5cbe6c5a3e4b5da9d8eb5ef8b395c3c1603acbbffa4f0c57855f66830d3bff122a4f4&scene=27#wechat_redirect)
+
+文章简介:买了本书，无摘要
+
+文章作者:邵云蛟
+
+[2022-04-12_当我把中国移动这页PPT，用5个圆整容后，瞬间变贵了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578933&idx=1&sn=a6a8472178e42d841900b3d304dcdd49&chksm=fc914ce3cbe6c5f5249d5b26962d88523c78d3902029ce9f5258d2b8537de175105b7549e478&scene=27#wechat_redirect)
+
+文章简介:降温了，无摘要
+
+文章作者:宋雪贤
+
+[2022-04-11_我帮华为改了一份发布会PPT，同事：真配的上它的大气...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578927&idx=1&sn=c52e766d13e0cf59512b0c1f6bd516b4&chksm=fc914cf9cbe6c5ef709f86b7e93581f1066879cb1d460184fa9e5370b755e1846883dbb0be0e&scene=27#wechat_redirect)
+
+文章简介:太热了，无摘要
+
+文章作者:宋雪贤
+
+[2022-04-08_没想到！这套字贼少超空洞的PPT，被我用灰色毛玻璃拔高了颜值...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578875&idx=1&sn=bb0c50308b1c22cace6c331437e53b52&chksm=fc914d2dcbe6c43b2737ccc17cd99c1f2f8b32772c8dfa423652237f9bc3775189a6a1c37232&scene=27#wechat_redirect)
+
+文章简介:天气好热，无摘要
+
+文章作者:宋雪贤
+
+[2022-04-07_这张像word一样的PPT！被我用一条鱼骨头串起来了....](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578797&idx=2&sn=f57bafd749cb229adb5e33383df4993e&chksm=fc914d7bcbe6c46d0e2d5c991eb65e9a78195293a9ef33b99a39e6224719bf753dc4c087681e&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2022-04-06_朋友圈自拍图别再这样发了！2步用PPT处理后，点赞刷爆！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578780&idx=1&sn=beb91af3755aac725e10b12872899ac3&chksm=fc914d4acbe6c45cfb64e50e7da34c71837eaf1f0e407205db313336e64ddee3e4e331ab18a1&scene=27#wechat_redirect)
+
+文章简介:好热啊，无摘要
+
+文章作者:海林
+
+[2022-04-02_Hi，各位读者好，明天就要到清明假期，今天就不更新文章和直播了。
+
+过去的3月份，我做了27场视频直播，更新了24篇文章，可以给自己搬个劳模奖状了，哈哈~
+
+不少读者说，你写文章的速度，比如看教程的速度，还要快，所以，如果你想趁着假期补习，可以翻翻历史文章哈~
+
+另外，如果你是旁友圈会员，可以趁机看些课程，助教老师会暂时放假，遇到学习问题，你可以先记到小本本上哈~
+
+最后，想说点别的。
+
+本来打算清明回家一趟，但疫情肆虐，部分地区还挺严重的，而且，我妈也在抗疫一线，从跟她的电话中，能感受到，医务人员还是挺辛苦的。
+
+所以，还是希望疫情早日过去，也希望所有读者注意自身防护，平平安安。](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578738&idx=1&sn=057da3fc16d0a44f6582a1e37fd1c083&chksm=fc914da4cbe6c4b2c58e7e2ec696dd9d5198c1edc820b88a6a1a8c910463f18fbef4da4d8457&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2022-04-01_江西这页红色的PPT，密密麻麻近400个字！改完超清爽...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578736&idx=1&sn=03c51c2960cf11010664deb2f8922610&chksm=fc914da6cbe6c4b010dcda52ce277d769a81b30976a031b70ec5776eae00b1a68c53aca05019&scene=27#wechat_redirect)
+
+文章简介:升温了，无摘要
+
+文章作者:宋雪贤
+
+[2022-03-31_甄嬛传的PPT太酷了！用这种方式突出页面重点，太绝了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578728&idx=1&sn=7f4875cfa4cee1bd4f3d0fffa5544b9d&chksm=fc914dbecbe6c4a8507789ea5c8ce9494fc6d8d36d3814ed1476bc7c0bf84a9410590514f4ba&scene=27#wechat_redirect)
+
+文章简介:最后6小时了，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-30_24小时后！这波儿被6万多人夸爆的PPT福利，再也看不到了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578587&idx=1&sn=16319bb195a3a21865fcaeff89a01d8f&chksm=fc914a0dcbe6c31bbb70b70d2e1f25ef5ad98a74e21f4542a4c6fb058e8968876dccb9d2bf4d&scene=27#wechat_redirect)
+
+文章简介:3月要结束了，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-29_上线30天，这门全新的PPT课程，也太香了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578583&idx=2&sn=231d686baf507a5f7a7f12698e83fbe2&chksm=fc914a01cbe6c317ab019f1f8f6dcd6e6ba5947846616b9800b8aa92f230f3d1b701f7b17a2a&scene=27#wechat_redirect)
+
+文章简介:复盘，无摘要
+
+文章作者:旁友圈
+
+[2022-03-29_看完这3个PPT配色法，我终于明白，女孩的口红色为啥这么多！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578583&idx=1&sn=417b398d2d12ff671cedc756c854d807&chksm=fc914a01cbe6c3178ed07dfbf8d32765f2c1071bd01d028e157f8e1ac2a4fe44199158a566a2&scene=27#wechat_redirect)
+
+文章简介:做了个小手术，无摘要
+
+文章作者:海林
+
+[2022-03-28_当我用PPT给一根山药，做出了8个封面！同事: 真想一口一个...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578496&idx=1&sn=023df0afcea43aca0c2ceb2f31d8ab1f&chksm=fc914a56cbe6c340774cea6a1cd86e71bd4b63f50b3e47c2eda4e0d042ea4899108cdf81329a&scene=27#wechat_redirect)
+
+文章简介:新的一周，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-27_工作5年，看到这份9907页的PPT时，被狠狠吸引了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578464&idx=1&sn=d218490e2163b1783b759f7898edfe88&chksm=fc914ab6cbe6c3a0109393b6b32392fc0ed86e766c686651994f6c93ed250208bfff0a9cbe51&scene=27#wechat_redirect)
+
+文章简介:无摘要
+
+文章作者:邵云蛟
+
+[2022-03-26_从没见过！这4页蓝色的党政PPT，竟然比红色看着还高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578457&idx=1&sn=54ecb4127fb012fec5472b74586e4749&chksm=fc914a8fcbe6c3999eeaaa318d832c31efcf5b52f8e870f21d4905780bce7bbf023fbc9f197f&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:旁友圈学员
+
+[2022-03-25_清华大学这张学术PPT，被我挤出半个教学楼后！要被学妹夸爆了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578265&idx=1&sn=ae33fcbccf06d8ba62159be23f02e373&chksm=fc914b4fcbe6c25931633539ad2fbe9d0af78a7930e73ba1f08117c7fa72066b00b1b8300180&scene=27#wechat_redirect)
+
+文章简介:下雨了，无摘要
+
+文章作者:宋雪贤
+
+[2022-03-24_这3页刘能和赵四的PPT，让乡村爱情东北F4秒变国际范！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578255&idx=1&sn=097c3af3992ca94b39ed1b2fa04a749f&chksm=fc914b59cbe6c24fed60ffd6c9d68c68cf282d7c370ce65d847b459da363aad0b3b3e9432141&scene=27#wechat_redirect)
+
+文章简介:疫情早日过去，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-23_我帮一位语文老师，改了份PPT课件！鲁迅这页太大气了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578211&idx=1&sn=bef57bf463a1535ed8b47884a0433cc8&chksm=fc914bb5cbe6c2a31c75418928ee1ae7667f8315dbffbb443ffb98d8e75a8b42d7cea5dd58f2&scene=27#wechat_redirect)
+
+文章简介:天晴了，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-22_我用PPT为石原里美，做了11页人物介绍，男同事：好心动！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578174&idx=1&sn=5378419051f2d03cab08cb3652151576&chksm=fc914be8cbe6c2fe2d258c9358e1b3f580d7819846a3ac0fed40ff1fa38980b491c04862c876&scene=27#wechat_redirect)
+
+文章简介:降温了，无摘要
+
+文章作者:Hai000
+
+[2022-03-21_没想到！华为这页超丑的PPT，却被我用SmartArt 一键整容了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578101&idx=1&sn=ba31d7b104a61ae07ea3576773db316b&chksm=fc914823cbe6c1353e1c631e7d57e6acc69f3344d5c85b6477e095ea9ce4a17955acbbbc2595&scene=27#wechat_redirect)
+
+文章简介:又降温了，无摘要
+
+文章作者:宋雪贤
+
+[2022-03-20_这份150页的党政风PPT，同事看完直呼：太卷了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578089&idx=1&sn=f63056e0b859ce4fe0ef6f4c75bab92d&chksm=fc91483fcbe6c12947e629ffcc39386bb2416b6cbc181ac3e0baefd48f1724d0e85452674918&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-19_别再这样做党政风PPT了！这5种素材全堆在一页，是真的土气..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247578048&idx=1&sn=2ae8fe7b27046ae6ff6aea0433a1ae4c&chksm=fc914816cbe6c1009ee9bef0cb84a2b7847c1b07bbcc2674b5d45d36e23c171fca20fc7dca2e&scene=27#wechat_redirect)
+
+文章简介:录了一下午课，无摘要
+
+文章作者:Hai000
+
+[2022-03-18_这页PPT架构图好乱！我只用10个字，就让它瞬间清爽了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577989&idx=1&sn=7b0069b5678ce133bf4a5e1e7600bd47&chksm=fc914853cbe6c1457110b754829ed475d6b41a69b39c772d0fc2b06fbf9ae60cc1a7f92ce02b&scene=27#wechat_redirect)
+
+文章简介:今晚不直播，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-17_我给安徽大学的何同学，改了份答辩PPT！对比页被导师夸了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577960&idx=1&sn=80924c91f999a41660271df60b36dd07&chksm=fc9148becbe6c1a8320815e55af90d596ff815e657954ad40b55ec0540b4fbd296a1ef66095a&scene=27#wechat_redirect)
+
+文章简介:下雨了，无摘要
+
+文章作者:宋雪贤
+
+[2022-03-16_PPT封面只有一句话，别直直放一排了，这6个版式闭眼抄..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577949&idx=1&sn=5a8324351e0ac1134866a2089f01a0ed&chksm=fc91488bcbe6c19d539cd6dc9dc93a3f98a4a159155681914e0a3f72b4544bcc55ce5b51ea4f&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-03-15_这5位读者的PPT太真实了，密密麻麻都是字！改…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577939&idx=1&sn=05093535d4af003158f0723a9cbe5af4&chksm=fc914885cbe6c1936c214881dd7391f7b8fd01e2118a18a7577e11106b3a9e0c86f9074e44b9&scene=27#wechat_redirect)
+
+文章简介:喝了咖啡，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-14_我只用一张图，颠覆了桂林的这套国风PPT，笔刷超美！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577898&idx=1&sn=33eee4119dad179ebca2aa69cbb93cc9&chksm=fc9148fccbe6c1ea2c44b0894798d6269d76b59f18579f180514e188d4b2e31a2efd4348a6ee&scene=27#wechat_redirect)
+
+文章简介:新的一周，无摘要
+
+文章作者:Hai000
+
+[2022-03-13_采访了20位PPT大神后，我发现一个现状：男生更爱PPT？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577862&idx=1&sn=96c51c036a6b86663240f402192386e3&chksm=fc9148d0cbe6c1c6f2623b84ef61631469079b4fb0efe46661c0c2aa3bde2cbc3d050cf7c155&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-12_我给这家被央视点赞的河南企业，改了份PPT，国潮风稳了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577834&idx=1&sn=fccb4d82fe768862b5ebd5f24fdf2de7&chksm=fc91493ccbe6c02a5f3f25d78f898ba58ff634510cb2cb38f66a069d693b0d293f864add902b&scene=27#wechat_redirect)
+
+文章简介:给猫做绝育了，无摘要
+
+文章作者:Hai000
+
+[2022-03-11_我帮深圳这家公司改了套校招PPT，光封面就做了5个版本…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577697&idx=1&sn=d334d7af48b0426d21ba3a6d95ea0c6a&chksm=fc9149b7cbe6c0a196c7c93f6803f8d305da13c6b656de3b99f99e61b5448251bb9a3485a5c5&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:宋雪贤
+
+[2022-03-10_表格还能做封面？这家服务公司的丑PPT，被我整的意外洋气...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577647&idx=1&sn=8e99256a1b76874e50f227573e633acd&chksm=fc9149f9cbe6c0efe1e7ec1d5ebd29ce07d22776f0a348007214752384832cbcc5a4bb7a6545&scene=27#wechat_redirect)
+
+文章简介:嗓子疼，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-09_没想到！苹果最新发布会的海报，被我用PPT内阴影肝出来了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577604&idx=1&sn=76ce4d35fb1a6a9e4f781d3f384eb8f9&chksm=fc9149d2cbe6c0c4f13778a26ec75361d2c1c240219aadedc53e551b41b09ea236f52dc8adb3&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-08_今天，我为热爱PPT的她，准备了特别的礼物！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577570&idx=2&sn=7f86611df0a7642c54bf8070d30290f2&chksm=fc915634cbe6df2210caf9885f3aa9408cca7abb5e8f5acc51dccc8807c5efb05299b85daa83&scene=27#wechat_redirect)
+
+文章简介:快来领奖，无摘要
+
+文章作者:旁友圈学习社群
+
+[2022-03-08_联通这张PPT全是丑截图！加入一个边框后，瞬间变精致！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577570&idx=1&sn=851a4ab1c26584e25e36d26e46cd73dc&chksm=fc915634cbe6df22ede3c722f0192204aea50d951cd7b3425ee197c477764942112da2d50b2c&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-03-07_年度神器！2022年，我用过最好用一款免费PPT插件！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577381&idx=1&sn=7fc95a0bc52902f8d2e6116ff2f88079&chksm=fc9156f3cbe6dfe51dc5cba6117125029e6143eb0ebe41fb95443d05e0c2014527bd1bec2ade&scene=27#wechat_redirect)
+
+文章简介:王炸来了，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-06_太顶了！为了下完这5年的PPT资源，我硬盘都满了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577327&idx=1&sn=8fba7919203f9f0717de8a659437f7b6&chksm=fc915739cbe6de2fd248f6b5dba210db6463dd639fcef571408478b8c683c2fa36e4a2265117&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-05_这家工厂的PPT循环图好掉价，我用8个圆让它直接贵3倍！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577306&idx=1&sn=403185a3b9fc04e159d945254e5d59bc&chksm=fc91570ccbe6de1a70a612d42a55bc104bfef66d1f407873f2e8039fe45046452aa12177afba&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-04_浙大这位学长的开题PPT，光封面就挤了48个字！改的我头秃…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577256&idx=1&sn=7ffb827798a01c7ca2c3b304d4e148e2&chksm=fc91577ecbe6de685b773f19d85974d929acfe6cb9cdbca22f91d036f265643775993808616a&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:Hai000
+
+[2022-03-03_正做PPT网断了咋整？这样拆字后重组，不用图也高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577250&idx=1&sn=18098ae2b686688b70829cd2a6aa83cd&chksm=fc915774cbe6de62c083e69b70018530f0bf4ab8861d7eb2e3c13173158e0b319a216a3aa076&scene=27#wechat_redirect)
+
+文章简介:好累，无摘要
+
+文章作者:邵云蛟
+
+[2022-03-02_我只用一个文本框！改了这张PPT数据页后，也太洋气了…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577122&idx=1&sn=4764066ecee200a8494068452e35373c&chksm=fc9157f4cbe6dee2456a45acaa68bbfd17235ec6e4e187b185bfb1a89752b96885e4f360877e&scene=27#wechat_redirect)
+
+文章简介:升温了，无摘要
+
+文章作者:Hai000
+
+[2022-03-01_我偷偷屯了1826天的PPT资源全部放出，这真是最最最后一次了....](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247577044&idx=1&sn=20442321f06dc9bba2673c60f11ef74a&chksm=fc915402cbe6dd14e5d0a1bec549676ef5d6040e24a420b141fb3e14e5f544fafde4b769ce27&scene=27#wechat_redirect)
+
+文章简介:5周年生日快乐，无摘要
+
+文章作者:邵云蛟
+
+[2022-02-28_没想到！这页3张丑截图加大段文字的PPT！改后却意外的精致...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576907&idx=1&sn=486ffa6baaf58279c0b5314867cbcf2c&chksm=fc91549dcbe6dd8b32509d0b7e514ecb309a9364128de880a79d946e00143497267e8c285053&scene=27#wechat_redirect)
+
+文章简介:倒计时24小时，无摘要
+
+文章作者:邵云蛟
+
+[2022-02-27_悄咪咪说一件小事儿](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576843&idx=1&sn=732070d5c6b27ad23d87de36cf74b8e6&chksm=fc9154ddcbe6ddcb7488794d6a9de2dadc00f3ed9c7531d3257388c5d8b78bb3d1b2798c3784&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2022-02-25_当我把一颗橙子跟PPT饼图结合后，老洋气了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576788&idx=1&sn=bf99d6b46befb3ee431472cc4806ae88&chksm=fc915502cbe6dc142820676edf0ecd7e4b2780cb03e384ef65b555cabe7b3f28e59bc3c3eaff&scene=27#wechat_redirect)
+
+文章简介:又到周末了，无摘要
+
+文章作者:Hai000
+
+[2022-02-24_我用3个小图标，搞定了万科的中国风PPT，太高级了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576783&idx=1&sn=2b89c87f170f0acc073452920081891e&chksm=fc915519cbe6dc0fd3295b8587598e438ea0743d86753506c2e8cc943d744707d60aa747d5ab&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2022-02-23_这页浅色PPT好廉价！我用这3点改完后，整出了10分的高级感..](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576697&idx=1&sn=367c5b7006929f2eb9d9dd4055860a51&chksm=fc9155afcbe6dcb9d37080d6c333f70da8c96aeb374d1b70876318902436b487f74dd3488bf1&scene=27#wechat_redirect)
+
+文章简介:在带新人，无摘要
+
+文章作者:邵云蛟
+
+[2022-02-22_PPT中的阴影，千万不要这么加！丑爆](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576614&idx=2&sn=232f3ab6990710d03769d477a66b84ef&chksm=fc9155f0cbe6dce6f3b1b5112b0a90cedb43189a2551651e2940ec977cdf364577e28e49266a&scene=27#wechat_redirect)
+
+文章简介:继续直播，无摘要
+
+文章作者:
+
+[2022-02-21_我给一家工厂改了份PPT！没想到它的架构图能这么乱...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576573&idx=1&sn=be36f43de6e51f50f052f9804e118651&chksm=fc91522bcbe6db3d37cd4dab4ee62b04f8dc2d5f2d6a91290c1a4a7746f7cd1d33f539b04ca9&scene=27#wechat_redirect)
+
+文章简介:直播啦，无摘要
+
+文章作者:邵云蛟
+
+[2022-02-19_张艺谋才是配色王者！13个连名字都美的中国色，太浪漫了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576491&idx=1&sn=c471f66253812839f05fcffa1ad7f566&chksm=fc91527dcbe6db6bdfacac58ea06833e23d976a71c8e52523def0149626bc475010a89459ce0&scene=27#wechat_redirect)
+
+文章简介:查了很多文献，无摘要
+
+文章作者:雅晨
+
+[2022-02-18_我为冬奥会官方做了24页PPT， 15个冰墩墩真的太可爱了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576435&idx=1&sn=a22d86a3c5acf5c4d22a5e0965a9f436&chksm=fc9152a5cbe6dbb3025d14f96d11762828950318cf45cad335312564c652df9aaec3c1c3d97e&scene=27#wechat_redirect)
+
+文章简介:下雪了，无摘要
+
+文章作者:Hai000
+
+[2022-02-17_一键生成！苹果发布会这张PPT过渡页​，太高级了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576373&idx=2&sn=86a3ab309163d0f9d2677fd040e196be&chksm=fc9152e3cbe6dbf5c8f1066eb1f87d8888c01ab40d76d8b77152c69472e1636f988c159b5001&scene=27#wechat_redirect)
+
+文章简介:开工了，无摘要
+
+文章作者:
+
+[2022-02-16_碧桂园这张廉价的PPT，我只用一个口诀，做出豪宅感！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576363&idx=1&sn=0e40b5bce4e54e6ba0598efb02c9271e&chksm=fc9152fdcbe6dbeb01151df5dfabdbd22c902ee225a0d1edec9f8aa94593ec18c00538893436&scene=27#wechat_redirect)
+
+文章简介:更新啦，无摘要
+
+文章作者:邵云蛟
+
+[2022-01-25_各位，说3件事儿](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576298&idx=1&sn=2df6bf9ea95bf5a73c65a7bb023e2d47&chksm=fc91533ccbe6da2acd45054e1c666c207da40eb7ed0560b1ee3fe31ebbb8eafd7bb62b9dd8e0&scene=27#wechat_redirect)
+
+文章简介:放假了，无摘要
+
+文章作者:邵云蛟
+
+[2022-01-24_百度这页PPT上堆了12个要点！按这个方法排版后，直接清爽...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576285&idx=1&sn=9cdf76e6d6bd93de66f281bc1a8ba027&chksm=fc91530bcbe6da1d5a430c0294ec9356db289fbf67e3a25dafd701cd8c4a581346b0453900ce&scene=27#wechat_redirect)
+
+文章简介:快过年了，无摘要
+
+文章作者:邵云蛟
+
+[2022-01-21_别再嫌PPT封面难了！套用这个万能公式，3步造出高级感！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576254&idx=1&sn=6fc5415036050d501031fd9b698ed088&chksm=fc915368cbe6da7e617541d6f6078002e14b3563fe02caa8e5279ed9177dccb7b2d5261cf40a&scene=27#wechat_redirect)
+
+文章简介:快过年了，无摘要
+
+文章作者:宋雪贤
+
+[2022-01-20_这张PPT架构图丑的像狗啃！用这8个字改造后，堪称整容！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576247&idx=1&sn=5b9d9f3988c1072a915f04aa5505f34c&chksm=fc915361cbe6da77e5099e2567b2d23c6cf05a873ad7e792c7f57e51d32af327f878592bce36&scene=27#wechat_redirect)
+
+文章简介:又下雪了，无摘要
+
+文章作者:邵云蛟
+
+[2022-01-19_一页PPT只有5个字，4个技巧拯救空洞！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576218&idx=2&sn=2b63fb4decc40485fdb8b722cf9e5b66&chksm=fc91534ccbe6da5a1071eaca5be59f269192521e02bc4880132bb9d28c58d7c39218b9fa0f64&scene=27#wechat_redirect)
+
+文章简介:快过年了，无摘要
+
+文章作者:邵云蛟
+
+[2022-01-18_公司这张PPT流程图太丑了！我把一根线换成竹子后，超洋气...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576209&idx=1&sn=1ded44cb46f92dc260c608dc026b5a50&chksm=fc915347cbe6da51d282caad19f6570a47a57c48afca7a1b7b47fe3a91ba967aa8d8e7ea3699&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2022-01-17_做了6年领导！看到年终汇报PPT只会堆字的人，最不喜欢！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576134&idx=1&sn=84773998f25ae9c4b6afd83caa9c6d0f&chksm=fc915390cbe6da86b0ce666e9832ed3844bcb969206e2c906635b9064b121b0d13bfcc3fcadd&scene=27#wechat_redirect)
+
+文章简介:快过年了，无摘要
+
+文章作者:邵云蛟
+
+[2022-01-15_新的一年，继续面向所有读者发起PPT征稿哈，详细见下图。
+
+另外，如果有品牌方，想要赞助我们的改稿活动，也可以在后台私信我们哦~](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576093&idx=1&sn=bf3b0152549758d2e4ab8626641b9af0&chksm=fc9153cbcbe6dadd42dc5e08d44fd79fea2f284d8b086867c84c08fd76ee4e78c040f51e5fb6&scene=27#wechat_redirect)
+
+文章简介:新的一年，继续面向所有读者发起PPT征稿哈，详细见下图。
+
+另外，如果有品牌方，想要赞助我们的改稿活动，也可以在后台私信我们哦~
+
+文章作者:
+
+[2022-01-14_丑图也能做出高级感PPT！我写了一首诗，背会就能搞！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576085&idx=1&sn=a2108fa3b429ebdf363a8baca518db64&chksm=fc9153c3cbe6dad5ed24c11a2a9a5ebfd7caccb2a49f55bbf003fc14e813e8c64fc2ae733adc&scene=27#wechat_redirect)
+
+文章简介:做了7次核酸，无摘要
+
+文章作者:邵云蛟
+
+[2022-01-13_当PPT背景图动起来后，简直酷炸了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576046&idx=2&sn=efffbdbba4aaa007dad34a13e450ded7&chksm=fc915038cbe6d92ef909409541721d2ca52fec38667e19fbf096c4620da1407308848fbc658f&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2022-01-12_看完29张PPT结尾页！我总结了5个写Thanks最洋气的技巧！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247576033&idx=1&sn=beaa5138eaa3b96cea6175e5f829b3d5&chksm=fc915037cbe6d9214de1e420a941866e77a41fbc0d5fa94ccd0a9c3cc99a8dcdebd07ab8b9fd&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:YouAndFine
+
+[2022-01-11_这页堆了28行字的PPT表格，居然还能做的清爽又高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575957&idx=1&sn=c3f2b2348e0a417bc66f690d0b1a3110&chksm=fc915043cbe6d955b4e5d04309be883354a44433c032331247abd3aa81855c80b175760556a9&scene=27#wechat_redirect)
+
+文章简介:上火了，无摘要
+
+文章作者:Hai000
+
+[2022-01-10_山东的这页PPT封面太俗了！我用一个字母，让它瞬间高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575916&idx=1&sn=cd6b71b0a9b9af7504f308c293e09112&chksm=fc9150bacbe6d9acb0b5a9375339fd5b4a3e9fe329b560ebee602fd602d0dc212e481bf8b1d9&scene=27#wechat_redirect)
+
+文章简介:注意防护，无摘要
+
+文章作者:宋雪贤
+
+[2022-01-08_13张截图放一页PPT上，腾讯的这张封面，洋气！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575906&idx=1&sn=f3e2c0477bce7fdcbf7c8cd682e89653&chksm=fc9150b4cbe6d9a20b9820d499cc6b8c2975ad8ee7659e9e10f8c259ae0f2e4a1ad4d693aa1b&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:柚子
+
+[2022-01-07_3秒自动生成高级PPT样机，这个免费软件堪称封神！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575775&idx=2&sn=06996a80e95d5aab794f8222c3ce4a7b&chksm=fc915109cbe6d81f29187afaa9cbb89f1bf79796cdff742018cd14f3a9d9a13120281230d0ba&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2022-01-06_90后PPT博主的2021年终总结，看完后真的破防了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575730&idx=1&sn=fc9089a07cab83352755025d457089a6&chksm=fc915164cbe6d87263bfb192b42dd6f9397d5c4228d0ffb0dda1bc732c2dbd5d66ac900b33c1&scene=27#wechat_redirect)
+
+文章简介:回顾一整年，无摘要
+
+文章作者:邵云蛟
+
+[2022-01-05_别再用微信截图了！我超爱的这个小众软件，堪称PPT神助攻！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575695&idx=1&sn=4f036310284420c5565721ce8311ae8c&chksm=fc915159cbe6d84f947c4af5f24f6912bdbeed73c7085d656833a9c47b020d5b2d0ec8112408&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2022-01-04_肝了365天！这篇PPT内容，真的是今年最应该收藏的！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575687&idx=1&sn=f0f174ae8760e9e56ddfad0d8783a7ed&chksm=fc915151cbe6d847eab3eeeff495ef13aa6a5bbd32fa39785cfb457117eb2bc5b247a0869ffb&scene=27#wechat_redirect)
+
+文章简介:新年第一篇，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-31_给各位看看我们这一年的精彩瞬间](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575674&idx=1&sn=b9141317c477f538abfd03e32460d0b9&chksm=fc9151accbe6d8ba08e813242c845f57e9b6e03d5602fe2d6c4c1183ade3fee36418a302d529&scene=27#wechat_redirect)
+
+文章简介:新年快乐，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-30_PPT别再这样插色块了！不会这3个细节玩法，真心丑到哭...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575665&idx=1&sn=d4e1bd76278d16839c00256d73226dd5&chksm=fc9151a7cbe6d8b1fd1927b6900d3b25e10d497d3181a168515473932a9530fa447176bee6d1&scene=27#wechat_redirect)
+
+文章简介:哎，又是一年，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-29_PPT荣誉页别再这样排版了！是真的不好看](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575568&idx=2&sn=37e1ceb87d1716fe145d03a83f9da96d&chksm=fc9151c6cbe6d8d0f8795e95bad4f6d4d9c03f464a0d5de95becac6396937d6c43cc7ac4489b&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-28_看了无印良品这份内部PPT后！我悟了，为啥这么多人爱极简风...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575553&idx=1&sn=a39a14376cc6e734b5f7f6c3df433832&chksm=fc9151d7cbe6d8c1d1cee4b01bdea60d431ad84a4c1b34a8367adc0d785d0e408dbd5fa9e2b0&scene=27#wechat_redirect)
+
+文章简介:一年快结束了，无摘要
+
+文章作者:HAI000
+
+[2021-12-27_361天，我改了140页PPT，整理了30.8G资源，直接免费送！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575517&idx=1&sn=530ff5b8420f7e7e882a589cdfdd3638&chksm=fc915e0bcbe6d71dbf9d86cb17ad711b62fd27eaab0ae45d0f05caba892c17ee6827b96c95a8&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-26_各位，说两件事儿哈~](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575314&idx=1&sn=d1ab397139c779ef40a249669bf7afb2&chksm=fc915ec4cbe6d7d2e8caf21bf1897492ab22581c19d2886c860573e1cc774daaa4b61b523218&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-24_红配绿就是俗？这23页圣诞PPT简直美爆了！免费送！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575299&idx=1&sn=f282df078d505d4bd5a546804b3c27cb&chksm=fc915ed5cbe6d7c33c541682926c2b31bb2e427fae933e5d938179c078f601e8d1ecae090298&scene=27#wechat_redirect)
+
+文章简介:来晚了，无摘要
+
+文章作者:HAI000
+
+[2021-12-23_谁用谁丑！PPT目录页千万别这样做](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575211&idx=2&sn=a7523af3dec014a6c9ec2e703aadf6a0&chksm=fc915f7dcbe6d66b69080baead52f6db23048c0f2840fe2a6eb071ea2c9cd8777d4363d3aaf5&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-22_分享图片](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575203&idx=1&sn=dd60e8bd3070556fac1cefe90f5b5dff&chksm=fc915f75cbe6d6634f5665ab304295707086760571a48a1d59d9eaf30b35281064c11ef35d93&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2021-12-21_同事吐槽这张PPT结尾页呆板，我去高德地图上偷个素材后，美翻了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575198&idx=1&sn=16e32c938804d8128025ebdef4e3e142&chksm=fc915f48cbe6d65ebaae5e626872f208169c4bf3ffe2fd963b367804638c2ac2034a27ad3e18&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:柚子
+
+[2021-12-20_保利这份文字超多的工作汇报PPT！我一口气给它改了8页...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247575161&idx=1&sn=3dba51272b804ff808439f7f3f77569f&chksm=fc915fafcbe6d6b99110ea0605e3dccc6220993dea1c3b7ad130fb955b670f00770b9c29ad1b&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-12-19_9957种版式，傻瓜式帮你搞定PPT设计！也太秀了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574897&idx=1&sn=ab18a17e22f285489d7edbd9c921ee2e&chksm=fc915ca7cbe6d5b17449f2360e61a3e6b60d6542cf6050f9489bc9435e44ae34dad1afe87104&scene=27#wechat_redirect)
+
+文章简介:买买买，无摘要
+
+文章作者:
+
+[2021-12-18_我们公司这份4:3的红色PPT，真太丑了！领导还非不让改模板...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574892&idx=1&sn=f7131f4620954af8fc5d6a99a590ee0e&chksm=fc915cbacbe6d5aca68519dc8fb4854863d326bbeb50677b0f2eb516a5b3bf79d06426ad8de4&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-17_我给江南造船厂，做了份企业介绍PPT！这12条船太难排了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574847&idx=1&sn=40c85c5a9f7b052301aec01b2d988e18&chksm=fc915ce9cbe6d5ff3cd5dd61f2bbbe94b26ba7d8c830c319059268fdd3a85345e7c99d00d6d5&scene=27#wechat_redirect)
+
+文章简介:开暖气了，无摘要
+
+文章作者:柚子
+
+[2021-12-16_苏宁这页PPT太廉价了！我加上几棵树后，瞬间变洋气！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574831&idx=1&sn=c7e8e36db9b9d0793781637dc014206c&chksm=fc915cf9cbe6d5efe3d6e1d0d5244123929659466c7722eab531f1ed2412c11cc93dc7c2efa2&scene=27#wechat_redirect)
+
+文章简介:贴了面膜，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-15_我只用一个颜色，搞定了这份工作汇报PPT，封面页超高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574781&idx=1&sn=5d60a57ca6286c44a1ff19417fdbe9c6&chksm=fc915d2bcbe6d43decb1c33bd9475516c15495d359d71b0350f83901eb5f7267dc6bf284bb36&scene=27#wechat_redirect)
+
+文章简介:脸好干，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-14_一键生成高级PPT渐变色！Adobe家的这个小工具，简直太好用了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574744&idx=1&sn=0a11708e79f168d6a445b06004b58a6f&chksm=fc915d0ecbe6d4182b69d47079ff597ac9f0027a8d4b4fc7beca92c4e91f5722e49e389b5497&scene=27#wechat_redirect)
+
+文章简介:今天很冷，无摘要
+
+文章作者:HAI000
+
+[2021-12-13_看了这9张PPT案例后，我才知道，微软自带的圆柱体有多强！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574734&idx=1&sn=1ec8676dd9b1e23fe23c29920c226f3c&chksm=fc915d18cbe6d40efdd34479166d63793208976686ba0e2cb2b9b763a6e67818927e34de9f2a&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-12-12_当我打开这份14377页的PPT文件时，被狠狠的惊艳了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574723&idx=1&sn=490c6b210593788e6ef91aeb19c4ee30&chksm=fc915d15cbe6d40363fb4e457d5658c2c410826a3d15ea5751a975ddcce9a379cbf47eb574f2&scene=27#wechat_redirect)
+
+文章简介:买买买，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-11_我把35个logo，摆在今年超流行的PPT棋盘格上，效果堪称王炸！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574703&idx=1&sn=e611ccde61e3d251783a1949df917ed9&chksm=fc915d79cbe6d46f00477077a51d4ee49c6f60a019ec86028e3d36b61622df17ef57e9eafbfe&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-12-10_别再给PPT中的图片，加自带的黑色阴影了！真的丑爆了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574622&idx=1&sn=7507d3aab63c9729cbe77aef543cd030&chksm=fc915d88cbe6d49e82f528f9e226fefdca5c67c1eedc2d40f8c822e00e58703b457d4ef58ae1&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-12-09_腾讯这张PPT架构图，竟然是靠这个不起眼的梯形完成的…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574475&idx=1&sn=fee661bc8f23d7b4bbfbf4c07bae4c7c&chksm=fc915a1dcbe6d30b2bb80a1f16c357504b4c54039026d4f60b2df83911452433801b112a4c04&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-08_我用14个圆，改了这张超乱的PPT逻辑图！同事：秀到家了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574433&idx=1&sn=ebd447b46fd371671b0d7fe7ef0187b0&chksm=fc915a77cbe6d361ca2224bf24f0ccc5fbf8e066bcde31b9bdf8b81aed129d986afc284bf450&scene=27#wechat_redirect)
+
+文章简介:依旧没洗脸，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-07_山东一家公司纯黑的PPT！直接被我改成了国风，鲁班太有意境...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574378&idx=1&sn=093c45ab99c27bd32adc37e5a829bee7&chksm=fc915abccbe6d3aa384a739e6a5b0775ddb76ddc182e6a78c7a22f3016807453f2955238ac24&scene=27#wechat_redirect)
+
+文章简介:没洗脸，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-06_我攒了5年的PPT资源，总计9937页，直接全部放出！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574334&idx=1&sn=b4f76898e60f56144bc72b82eef01499&chksm=fc915ae8cbe6d3fec67153be9295b2c6dc10e5481cc34459c80dc178280b880f2f784c80f244&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-05_我从8347页PPT中，挑选了超经典的150页，免费无套路送！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247574008&idx=1&sn=1b41f65b03681eda8bb8a207d74361ba&chksm=fc91582ecbe6d1389abe3ae933c5670a23082bca0df284d1515ce0c5224dd2f7c7ef249b7f85&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-04_Hi，各位读者朋友们，今天不发文了，跟同事们忙活了一天，在整理2021年度的『1980页PPT灵感手册』，足足8131页，筛选出了1980页，太累了。
+
+明天给大家一个抢鲜版，人人有份，一定要来哦~
+
+不过，今晚直播还会继续，7点半，视频号直播间，准时见吧~](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573989&idx=1&sn=040ee0fa5358b124b15ff90d799b2263&chksm=fc915833cbe6d12557e8673531918be83d583a53de3b27ab5a0164c477587cbefd619343d872&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2021-12-03_太可惜了，这款小众免费的PPT插件，效率封神但少有人知！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573962&idx=1&sn=0094795e9c1fc6e34c09e37136946df6&chksm=fc91581ccbe6d10a0db09e44d9a8b7b3f71c84b97719ffeda082b02f101bdf2d6d18123ee082&scene=27#wechat_redirect)
+
+文章简介:天黑了，无摘要
+
+文章作者:宋雪贤
+
+[2021-12-02_4种文字的创意玩法，让你的PPT秒变高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573901&idx=2&sn=50258bf0ab1d292ae04857042d37f86b&chksm=fc91585bcbe6d14d4ee774301fff517340b14bdbd0d5b8e9706455d5ac9ad0f313969e83e991&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-02_邵大！这页PPT图表上的动画，真的是我见过最丝滑的！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573901&idx=1&sn=6d9d629472ced76ebfd65971eaad3639&chksm=fc91585bcbe6d14d52637f9abe05b0ee4d640bb0023d41031bdfe643c6157004a7bfcb26e46e&scene=27#wechat_redirect)
+
+文章简介:风好大，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-01_年终总结汇报PPT封面，千万不要这样做！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573865&idx=2&sn=292b4b78d828f204ab021c51bbf11a5e&chksm=fc9158bfcbe6d1a961fc98648c6014459a7c2d47c31b78ab97ca99c88b6b2cd28ae703e7c040&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-12-01_我只用一个三角形，把这张超乱的PPT架构图，硬改出了高级感！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573865&idx=1&sn=d4562d384124f581ba3e102e3c8232fb&chksm=fc9158bfcbe6d1a9cf1c13d77fadb5b68f90c1b439593606c5c88769da8003234c58a36fe7f7&scene=27#wechat_redirect)
+
+文章简介:头晕，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-30_3个PPT人物页排版公式，小白也能轻松掌握！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573822&idx=2&sn=760d8f142ee6c63907ed046b6b70f420&chksm=fc9158e8cbe6d1fe485ae178d01af08c4b07a7ff91925ca08547e3537284ba4fd40604fb2057&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-29_这页数据超多的PPT表格，被我用6个字，美化到大厂水平！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573803&idx=1&sn=a2a431d02ea79153cf4123222f9354dc&chksm=fc9158fdcbe6d1eb31de301383914030bab9ec9e876c7b28c29298699780ec351c60f32d52f9&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-11-26_18段文字放一页PPT上！北京这家科技公司的单子，做的我头秃...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573756&idx=1&sn=6bdff232179a46b30409db7051b3ebc1&chksm=fc91592acbe6d03c560aa1d616cfd91702686489f596e9e5b37f121f5c57612de8aee2a0196b&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-25_1年打磨，我的新书终于来了！堪称PPT圈的新华字典！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573714&idx=1&sn=d1ec3533467558fabf17c312a2e0b8f6&chksm=fc915904cbe6d0123bb44721c1259cb2b0204a788b00dc2f5f43d16f45e9f4bde130bc6dae77&scene=27#wechat_redirect)
+
+文章简介:新书来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-24_274页PPT一键加Logo，这个免费插件绝了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573663&idx=2&sn=04728f49519f35e3fa70e5447f30ffca&chksm=fc915949cbe6d05ffd7b45e4f6b06aa451b99945894ed8bf0c274064236217c31ac5c75859c8&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-23_没错！EDG全网刷屏的夺冠海报，只用PPT就能快速搞定！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573648&idx=1&sn=a19f1453765031dcb7c0da646866168f&chksm=fc915946cbe6d050534f6805c247de40e16f1e33de3ca228839fa717b2d95e77549c68718a66&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:HAI000
+
+[2021-11-22_PPT效率翻倍，这3个插件必装！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573156&idx=2&sn=bd78a563f37b18211ce9dfed6bee48d3&chksm=fc912772cbe6ae642e69f72f60b749332ee6461644dd00c964eea7b0f823ec43fffb2cd2e70d&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-22_苹果官网中这个一闪而过的动画，真高端！用PPT肝它...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573156&idx=1&sn=4baeb1542d90a2a56cd888d11b46ada3&chksm=fc912772cbe6ae646c178a13baf308f503adbc6eb4c71f92fc6aeca8a81d1973d98a8abebe04&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:宋雪贤
+
+[2021-11-21_这个被4000多人点赞的PPT福利，终于又回来了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573048&idx=1&sn=c307756781312ebe239463d917da94cd&chksm=fc9127eecbe6aef858fc8063fa776f447e9659d46f1274f366468e9927bc6a674bf804d43949&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-19_30秒搞定一张高级感PPT封面，完整设计思路来了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573044&idx=2&sn=35f0a8337c0916102346c47d43587e65&chksm=fc9127e2cbe6aef4b35a9f81963101a9dde186993bf5a18be64fa81b00d977e9735fc75d2304&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-19_一键提取100多张图片！PPT里这8个隐藏的小功能，真帮我大忙了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247573044&idx=1&sn=ba997b06ef8a3042fdc8674c892dec77&chksm=fc9127e2cbe6aef44c2dd1217d15fc1a022f4c6cb84dadc6be11d86e89eab89d5717a3d7034f&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-11-18_一页PPT有50多条数据，如何排版才能突出重点？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572992&idx=2&sn=5756be5681a700d1cfdc366b2cbc7f4e&chksm=fc9127d6cbe6aec0d3bc20ac697a9da543caea69953b253b10fd391b676cb3d305694eab028e&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-17_没想到！这张PPT上的心动曲线，是这个自带功能做的...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572979&idx=1&sn=b1524c9b16523fe5ad6bfaff1365fa36&chksm=fc912425cbe6ad33f489d5a2e829901cf0540c1c64404b1d05cb3fc45648ed80544f90abbd9a&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-11-16_邵大，听完这3节9.9元的PPT课程，我悟了....](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572969&idx=2&sn=a38bc82a25ecd2765ceebed86edb9785&chksm=fc91243fcbe6ad29038ca8a157c0d20cb1be8d2e71a5fb0767b60359c76c298fb977931514ef&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-16_看完苹果的官网动画！我才知道这3个技巧，用在PPT里太高级...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572969&idx=1&sn=1a7afef4ef74de7338aad63c93e8e674&chksm=fc91243fcbe6ad29d96b36cd1ca02a8c101ca58bbee747ac8c11f4feac59a72db961a10f7719&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2021-11-15_【倒计时6小时】我头一次看到13000页PPT直接送，真太多了吧！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572954&idx=2&sn=73fcc1dfda34e40ac67b540909a3397e&chksm=fc91240ccbe6ad1a6342f7f9154c8c82e889d7f5669c171d5bea54b323e31b474d2bd7cbd2e3&scene=27#wechat_redirect)
+
+文章简介:买买买，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-15_这页花里胡哨的架构图PPT，被我用一个蓝色，直接定住了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572954&idx=1&sn=383ccb3a64a9d028acd1fec567afaf83&chksm=fc91240ccbe6ad1a5c532d141ab49174cd66163fb62504a49bb0dea258e58243cff619d2217d&scene=27#wechat_redirect)
+
+文章简介:新的一周，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-14_真的！光做这30页PPT，他就赚了一万多块！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572906&idx=1&sn=8aa9aca6ff108dbd2dfddf90915433ff&chksm=fc91247ccbe6ad6a9c419c02fabd370d64fe06382a0cdbbad6033ef2bb141bf35ac04320ef58&scene=27#wechat_redirect)
+
+文章简介:买买买，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-13_没想到百度还能这么用，简直是做PPT的宝藏！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572898&idx=1&sn=4dc16e9ff3ca08609948b96dcace6fe1&chksm=fc912474cbe6ad623441b3e2ae21b8eeb16ea6e4ee2187c25cf638c9f66bd3a663eb7963213e&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-12_我帮郑州的农行做了一份PPT，封面的银行卡细节，直接赞爆！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572850&idx=1&sn=7d399d8734f027d5663740a3ee97be3e&chksm=fc9124a4cbe6adb23a4ec1376a81ad9a55fca6b7f7698e30f75cd64c997a2182157df27c494d&scene=27#wechat_redirect)
+
+文章简介:又到周末了，无摘要
+
+文章作者:HAI000
+
+[2021-11-11_刷屏全网的第6天后！我为EDG做了份夺冠PPT，燃到炸...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572801&idx=1&sn=c435482490f38a765c9aa00ac0794998&chksm=fc912497cbe6ad81bbe559307c4905bd8651a408eb9c6c0e275a37e0a151693f59364eef4d6f&scene=27#wechat_redirect)
+
+文章简介:上火了，无摘要
+
+文章作者:宋雪贤
+
+[2021-11-10_不服不行！我头一次看到13000页PPT直接送，真太多了吧！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572776&idx=1&sn=6534faf8a16d91bc77481e9b9a100760&chksm=fc9124fecbe6ade8b48ad41cc91ab4af07310f572ee7311c509a590c8509c6c8b433e7387778&scene=27#wechat_redirect)
+
+文章简介:买买买，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-09_这张只有5个字的PPT过渡页，领导不给图，咋做才高级？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572756&idx=1&sn=6b9eece1d34d05621d0331bce8c518db&chksm=fc9124c2cbe6add4c2175a0462011f95f86c1f9af0ac95b4e593948ad25ea4d83c46d566f03d&scene=27#wechat_redirect)
+
+文章简介:又来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-08_一页PPT放10个重点！还能这么酷炫炸天，蓝色气泡真好看...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572719&idx=1&sn=1f07afed13bccc2df960b04994c60a16&chksm=fc912539cbe6ac2f51de9e7d14698cbc3878d37c892ef321066d1cd8b763b257a6cedd7a9580&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-11-07_Hi，周末愉快~本周旁友圈社群大会员开启了双11优惠活动，【年度最低，立减70元】👉点击了解
+
+超54000位读者加入学习，【一次加入，永久有效】。 加入后，你可免费解锁：
+
+🔥全新爆款150页定制级PPT动画库；
+📚4门售价超566元系统PPT学习课程；
+🗂️9份超599元定制级PPT灵感手册；
+💡售价199元的旁友圈PPT训练营；
+📔45节售价199元案例实战课；
+💎高达110期PPT每周模仿训练；
+
+此外，后续更新内容，也将免费解锁。
+
+越早加入越划算，旁友圈社群大会员，年底即将涨价至499元。
+
+一件衬衫的价格，Get职场PPT硬技能，感兴趣的话，点击进一步了解。](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572657&idx=1&sn=d8ad7f0be3fcc6fa283c70fdd1a9c740&chksm=fc912567cbe6ac718d14c3556c7f845eacaed7ad48b50ee5d37258770c86d1fb99316e2e102f&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2021-11-06_PPT中忽视了这3个细节，页面真最多到59分！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572655&idx=1&sn=93629d9c0d5bf49b6880328cc77f613b&chksm=fc912579cbe6ac6f0fd400fb635ccec46076b75a3babd79fa4c106f0562c8a92b218cede7df6&scene=27#wechat_redirect)
+
+文章简介:降温了，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-05_我用PPT肝出了5块火遍外网的玻璃！同事：太逼真了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572606&idx=1&sn=58e5fb4143ff4767bdcb27b7d8c1689d&chksm=fc9125a8cbe6acbeb3f5d9850f8c84ca7fa6fce36abee7e361176a7ca055f635c8b28cdb1b96&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2021-11-04_YSL这页PPT上，最后这一抹笔刷简直绝笔！超好看...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572498&idx=1&sn=ab68922b4d0cd5496e6d020ed44467e4&chksm=fc9125c4cbe6acd25d235a123f1c4cbec75d72682badd3ecba9926b5f55f3bbb697e89431c39&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-11-02_我给100年前江苏状元做了一份PPT，时间轴页的墨迹太美了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572366&idx=1&sn=607488b4abdb025a5f5ff5eb8b07b7f1&chksm=fc912258cbe6ab4ecca0f4151017def6a59bb72641ce05b1c91cbd07a51b07517a1a4900f9da&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2021-11-01_追完热播综艺《披荆斩棘的哥哥》，我只记住了这2个男明星的PPT...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247572356&idx=1&sn=956dae51834d1f3271df4fdb4aae5f4f&chksm=fc912252cbe6ab44f4965cefc3690d151c65a6f2899f80604b971cbeee9e9aece314406006d7&scene=27#wechat_redirect)
+
+文章简介:久等了，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-31_点一下就做出500元的PPT动画效果！这个定制级素材库太猛了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247571623&idx=1&sn=47b1accdde9f2ba89ee46500b07299a6&chksm=fc912171cbe6a8674155a8fab42625a16b8a3a8a7a8274a6f1349333cc63ad90068dcf0307d0&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-30_这6组万能的字体搭配组合，闭眼用也不会出错！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247571575&idx=2&sn=027e95eb410884db275147b7d020ae3b&chksm=fc9121a1cbe6a8b79db50b7deaae7a541b4474f4b06d73499953c01202861e2507dd37ee2524&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-30_邵大，PPT页面太空，领导还不让加图片，咋弄？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247571575&idx=1&sn=9d8f41f3503f05b8ff82920bcbbfce0f&chksm=fc9121a1cbe6a8b74ec335c4ed293581a7240c351bc6685d2c12b98c37af464471effa2f6baf&scene=27#wechat_redirect)
+
+文章简介:倒计时48小时，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-29_PPT过渡页只有7个字，如何处理才能避免页面空洞？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247571524&idx=2&sn=ef38b06af0466fb3bd17a8bec1fab53d&chksm=fc912192cbe6a8847fcd218d470ae3d53000242551fc518e5b4383244b85ab446ef67787b1e3&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-29_平平无奇的PPT表格，用上这3招之后，立马比肩大厂水平！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247571524&idx=1&sn=746d3b88dfd6199f8a0b7d81ecc4b4bd&chksm=fc912192cbe6a884a8e4b8e41f0878717a2593b97791ac9bff18230cf21a69d1ab3534726a1f&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:柚子
+
+[2021-10-28_邵大，为啥我做PPT的速度上不来呀...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247571514&idx=2&sn=74e2fbac89ff3d5502dcc9df48bdcadb&chksm=fc9121eccbe6a8fa2b948e836d02b8bdf9c77fff7db1dcf7bc0ba874912ea85422582cb15393&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-28_桂林的这4页PPT，书法字处理的真的太高级了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247571514&idx=1&sn=8f39e07941daa92a975102b2a0ba4d73&chksm=fc9121eccbe6a8fab05d6dfc836441646d3ad4be606f64fbdd24ea12ca0c13673d84c6987507&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-10-27_从60分到90分，如何才能做出高级感的PPT封面？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247571493&idx=2&sn=e58014805ee6b2eeeb01f189eb2de209&chksm=fc9121f3cbe6a8e5a6d71f4a0394a0d03c3e492e91723358c447164c637f6602cd77881d4185&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-27_难搞！我给万达这页PPT用了深色背景后，被骂了…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247571493&idx=1&sn=6a86ee5fbe9883f54868db8ae0ce0f8f&chksm=fc9121f3cbe6a8e5d1f439c80dfcbe43c6f4fe9afcca5d00f0776b658633174e151f4340d917&scene=27#wechat_redirect)
+
+文章简介:好撑，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-26_一页PPT上有496个字，4个步骤轻松搞定！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247571462&idx=2&sn=3f3ff8809057a83bd55300b07fe6c9d0&chksm=fc9121d0cbe6a8c6fecbf44dda3fed76dba4108949bcb60d1ffee92518e6366672bfb9fb6c5a&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-25_PPT页面信息太少，如何设计才能避免空洞？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247571452&idx=2&sn=71bf66aed6dd271e4a53014411457b34&chksm=fc912e2acbe6a73c4e715ab48feda3eac1629b4f7068af86cbd44e9b14cee5d7a824e2a39b16&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-25_堪比PS！我用这款免费PPT插件，一键把封面图变成了这样…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247571452&idx=1&sn=20154f784a17f9d254420044295e081a&chksm=fc912e2acbe6a73c171c081d0ad2439da607e2af5bcd9198fd93a5e2c3883ee81cf924079fd2&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:宋雪贤
+
+[2021-10-23_明星欧阳娜娜答辩PPT公布，网友直接炸锅了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247571047&idx=1&sn=da1552983c020f754297be2cf181d8f2&chksm=fc912fb1cbe6a6a75aa6dea49f9dc3af86bcd05ac40de9c57668aff1947dcf0b59eaf526c87c&scene=27#wechat_redirect)
+
+文章简介:我去B站直播了，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-22_没想到，我竟被1247个PPT爱好者，同时夸赞了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570959&idx=2&sn=ecbf9ffe15335f1053235c9dd03952f4&chksm=fc912fd9cbe6a6cf6733607b205050b5753a66c2d8f54b9cba036c696e05e2959fb8de0e96fc&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-22_我帮云南一位律师改了份PPT，真真真.页面全是字！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570959&idx=1&sn=04f27b22acd0143086366f21623b814a&chksm=fc912fd9cbe6a6cf1d5f417c8e19ce274787f1f9977971064995d2ef19036796cf9f0b5d2b42&scene=27#wechat_redirect)
+
+文章简介:双11买买买，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-21_这款堪称逆天的PPT插件，一键自动排版174张图！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570885&idx=1&sn=4731cfa5aa6572c9619283fa8ffd8c02&chksm=fc912c13cbe6a505a10240e0f90da2cefc97fec7d1c9271fcb9acaf6c3b1c591dcd66deac7e7&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-10-20_我给唯品会改了套镭射风PPT，封面的小姐姐心动了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570639&idx=1&sn=3188a34364c692730859fe860bf3e5f3&chksm=fc912d19cbe6a40f5c2ad9e2157f18dba787924d5ca1f90d1bf7b39d47d4ec33c96cb6ebda3a&scene=27#wechat_redirect)
+
+文章简介:感觉，无摘要
+
+文章作者:HAI000
+
+[2021-10-19_直接用PPT肝了一个投票器！这也太厉害了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570498&idx=2&sn=7d705545857d1cf26674974975e2a525&chksm=fc912d94cbe6a48290681067d76a9fe2a8c135ce01cf745cd81737db1d70974e893745237c77&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:
+
+[2021-10-18_邵大，我做PPT总是一看就会，一做就废，咋弄？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570494&idx=2&sn=3a8bd7c729c27bfaa5699a9c4490ce76&chksm=fc912de8cbe6a4feb0ff9fbad3c3bc9643e76af2f775d6d3f35127fa1a90b024ac30eb847b58&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-18_这页B站的PPT太空了！用上这2个小技巧后，差别实在有点大...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570494&idx=1&sn=75c6ad37bd29e1269c7022b9e7919c47&chksm=fc912de8cbe6a4feab67db5c5a7b37c72d777a451d79fa3a07cc59d05f68d955f1e70b000f81&scene=27#wechat_redirect)
+
+文章简介:直播重启，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-15_没错！我做了100集PPT教学视频！直接免费领！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570390&idx=2&sn=1de46e53281275830818ee15b6991d74&chksm=fc912a00cbe6a3166e06e302883979ef25cced55c677f286592d1d01c897948e0bc144d5cd0b&scene=27#wechat_redirect)
+
+文章简介:福利来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-14_没错！我做了100集PPT教学视频！直接免费领！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570384&idx=1&sn=13b6ce1849af45e748ee40c6227b88e5&chksm=fc912a06cbe6a310337f8eb02a707ec046e92abddac23e94087b922911605383241338de74a1&scene=27#wechat_redirect)
+
+文章简介:福利来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-13_华为同款！会发光的PPT效果也太酷了吧](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570351&idx=2&sn=5ba67a478c4a86cd8a13111e39aabc2b&chksm=fc912a79cbe6a36f6332e290d27bf93e319a4af86f8d86b62c6fda5915b437c12d64da67b2df&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:
+
+[2021-10-13_张同学为桂林做的这份PPT，封面的处理，拿捏的真到位！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570351&idx=1&sn=65f0252d20cc5f148fac8025fcb30239&chksm=fc912a79cbe6a36fbacb353b003cf00612d02ac0a4898c1e396172fa35b21205fb04c7b0bd7b&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:柚子
+
+[2021-10-12_当PPT结尾页动起来后，韩寒看了都想学！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570339&idx=2&sn=3758a813c8ebccdf8932662ba5479214&chksm=fc912a75cbe6a363397f2eb3f98f9295e4ff855e897c1549fdf152837a11c2a72a9a79a900e0&scene=27#wechat_redirect)
+
+文章简介:录课中，无摘要
+
+文章作者:邵云蛟
+
+[2021-10-11_一页PPT堆了40多张图片？我用这个工具，让它自动排整齐了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570312&idx=2&sn=40b08dd4b08586181d69c6231bd9b9b4&chksm=fc912a5ecbe6a3487c0908c0ded2a018a136fa8cebe6e7aba36c469489a8c2e2d89fb2133a25&scene=27#wechat_redirect)
+
+文章简介:好累啊，无摘要
+
+文章作者:
+
+[2021-10-11_我给这家汽车公司做了份PPT，用了2个截然不同的配色，风格差太多…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570312&idx=1&sn=a461eb89e261ad89bded44f7b13b9077&chksm=fc912a5ecbe6a348a0591687656ef8e7cd46c3a07a0b0901abc47f5cb4548a0598b88f8e0221&scene=27#wechat_redirect)
+
+文章简介:降温了，无摘要
+
+文章作者:宋雪贤
+
+[2021-10-09_腾讯的这页PPT架构图，看着真贵...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570293&idx=2&sn=4b1af3b9cd6f7fd393c473f2de33d113&chksm=fc912aa3cbe6a3b52a08c0552fc1bc396555e898db9a85346f4c2bbe8a1db974b72407f1fb54&scene=27#wechat_redirect)
+
+文章简介:好累啊，无摘要
+
+文章作者:
+
+[2021-10-09_这18个真实PPT目录页案例，真太洋气了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570293&idx=1&sn=6027ce11df617cf1bad3123f2592f40a&chksm=fc912aa3cbe6a3b55612388767f9538214da7ad09acb5b516ae80c54dda7c9549cfd51e8bcda&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:HAI000
+
+[2021-10-08_阿里这页文字超花的PPT，被我用几个圆定住了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570137&idx=1&sn=7cd658bd1e0b2f6c61c41f83fe5e53bd&chksm=fc912b0fcbe6a219bb5578aa0b705f9ad54b37ce8b00528f2fb48653af298e9ea7df464e7507&scene=27#wechat_redirect)
+
+文章简介:感冒了，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-30_Hi，各位，明天就要进入假期了，今天就不发文了，提前祝各位国庆快乐。
+
+如果你有出游计划，一定要注意安全，人群聚集的地方，记得戴口罩（我怎么变啰嗦了[捂脸]）。
+
+如果假期宅在家，也可以看我的PPT直播回放，在B站搜索【邵云蛟】，就可以看到。
+
+不多说了，我也要去赶高铁了。](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570082&idx=1&sn=da5534214c1e5e944dc7c3519fb5bccb&chksm=fc912b74cbe6a26264436eab58d416444238298152d09037ea4fee50ffaa29cf8394043ae14d&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2021-09-29_最后6小时！9月最后一次PPT福利，即将结束...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570078&idx=2&sn=adc69099516ca97ab3aab6f2d7b661f8&chksm=fc912b48cbe6a25ecc82a4cedbf1f74e11bb9d5bf5b9f30c80261cda2457512fc3c57c6e1420&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-29_我给上海大学改了4页PPT，联系方式页的设计，有特点！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570078&idx=1&sn=637e9c63d038e259cfe04471a687a345&chksm=fc912b48cbe6a25e3b58ba5b27834fb402ef915fa58140d1b74e327438a23b1d63b6b9506b80&scene=27#wechat_redirect)
+
+文章简介:即将放假，无摘要
+
+文章作者:柚子
+
+[2021-09-28_腾讯这页PPT时间轴也太奇怪了！1分钟改高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570017&idx=2&sn=be07096793f2bfb5865c6fad24cda83b&chksm=fc912bb7cbe6a2a16a3070615c256d2e4f2100ed0ef4278b978d041e374c56f4136d3e9448a7&scene=27#wechat_redirect)
+
+文章简介:好累啊，无摘要
+
+文章作者:
+
+[2021-09-27_PPT内容关系太乱该咋办？用这个思路1分钟解决，页面照样高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570007&idx=2&sn=1abfdf4ef9d962d40aa3439fa80d1f6c&chksm=fc912b81cbe6a297184ee37201e5c4a1ea91132a38a8c18b68191e3e4746a1fc9891403fd4f6&scene=27#wechat_redirect)
+
+文章简介:好累啊，无摘要
+
+文章作者:
+
+[2021-09-27_别郁闷！一页PPT堆再多图，我这5个私藏技巧都能拯救！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247570007&idx=1&sn=b09a322142b80137ecb5932323c17baf&chksm=fc912b81cbe6a2977e15383a72144608e18fe89709f689004b9d84b1ba82e0698659ef69789a&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2021-09-26_官方补贴！9月最后一次PPT福利，也太顶了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569991&idx=1&sn=ed8790efb594814a674156f01d839c16&chksm=fc912b91cbe6a2871b5563659f8d99a40c1c3402995c86f4b2db05446702051b061fa4bc28b9&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-25_用一个圆爆改这页PPT！差别实在有点大!](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569986&idx=2&sn=21119e4f679344a6d67383eaef59fd5e&chksm=fc912b94cbe6a28291fe453b355ae9f0e988b84d3d5c277d2fc42cb0153d0f62bfc2dc56ccaa&scene=27#wechat_redirect)
+
+文章简介:好累啊，无摘要
+
+文章作者:
+
+[2021-09-25_微软官方的这个隐藏PPT素材库！好用到想大叫！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569986&idx=1&sn=659534c878a42fdde77a4fd4f80a9153&chksm=fc912b94cbe6a282d409c952751cae58d157bf429d469b6eb2fafc6577b43d4b0e8fb6909869&scene=27#wechat_redirect)
+
+文章简介:下雨了，无摘要
+
+文章作者:HAI000
+
+[2021-09-24_PPT过渡页上只有4个字！这样改后，过分洋气！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569969&idx=2&sn=7ddfd63d3eeef885a06c9d98dc659550&chksm=fc912be7cbe6a2f131c264a3a7a82f0be324ac458e9734e936cc1711eeeae73c0b3339880a16&scene=27#wechat_redirect)
+
+文章简介:好累啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-23_我只用这个基础思路，把这页内容复杂的PPT改出了高级感！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569858&idx=2&sn=915d9620c949b5847e699fa3aad3e710&chksm=fc912814cbe6a1025c7c563413e3a14e9e18ac44fa72f045f065d9efdae02b522d352277b2fd&scene=27#wechat_redirect)
+
+文章简介:好累啊，无摘要
+
+文章作者:
+
+[2021-09-23_一页PPT上有749个字！直接按这4步改，再多内容也不怕...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569858&idx=1&sn=47ab99814b6fd2920d07d2af4598fa4b&chksm=fc912814cbe6a10212fc5a0e6523c8f83583b433befe6040a19cd6df098c4932a58984d6a384&scene=27#wechat_redirect)
+
+文章简介:买了个茶杯，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-22_PPT平滑动画的这2个基本原则，你不会刚知道吧？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569800&idx=2&sn=ae768a556901bd6e27b58f6acfdba6cf&chksm=fc91285ecbe6a148da871890815d76152e3e128367fc10a7202af5f39c5a1c7d1fa33c9975cd&scene=27#wechat_redirect)
+
+文章简介:好累啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-22_当我把这页PPT封面的标题，错位了半个字符后，瞬间高级了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569800&idx=1&sn=581ea04bc96a5dd9ea9594958653d5bb&chksm=fc91285ecbe6a1484c124ae59c2dcee5fe37f1e04677ce8e4881a222857ddcd05984c9e682a2&scene=27#wechat_redirect)
+
+文章简介:上班了，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-20_这两页读者的PPT，我改了8次后加上动画超丝滑...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569698&idx=1&sn=87254bd92175fc5f4c8179978a103f2b&chksm=fc9128f4cbe6a1e22ee3c44c8e04f841bbeafecbe3d098eac8e3a2ef1f30ff5614c8419bd785&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-09-19_Hi，本周旁友圈开启了9月开学季优惠活动，【官方补贴，立减￥70】👉点击了解~
+
+超54000位读者加入学习，【一次加入，永久有效】。 加入后，你可免费获得：
+
+🎁超13000页PPT精选版设计灵感手册；
+🎁售价超￥297的定制级PPT灵感手册；
+🎁0元免费预约旁友圈PPT训练营一次；
+🎁4门售价超￥460的PPT学习课程；
+🎁45节售价达￥199案例实操课；
+🎁更新15季的PPT每周模仿训练；
+🎁优秀学员可获得高价商业PPT订单；
+
+【结束后，社群将涨价至429元】
+【结束后，社群将涨价至429元】
+
+一件衬衫的价格，Get职场PPT硬技能，感兴趣的话，点击进一步了解。](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569694&idx=1&sn=d03be2e311f943283a135a6cd1d86117&chksm=fc9128c8cbe6a1de685d830c126c2aa7f74d5990d02ed246a79aa436b6f9696da1ab3d51ebc1&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2021-09-18_邵大，新拟态PPT火了这么久！为啥我还是最爱它!](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569693&idx=2&sn=f7be8a0f552511da4a91fde800014081&chksm=fc9128cbcbe6a1ddcbdae785797efd66eb184c890ff533fb35cab173ed9af69cd0bec3b997f6&scene=27#wechat_redirect)
+
+文章简介:好累啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-18_我肝了70分钟！做了一份骚紫色的工作PPT，图表支棱起来可高级了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569693&idx=1&sn=ea9c55e31c6803dbfe33099244806b42&chksm=fc9128cbcbe6a1ddfb8a7770604e0ff70831614ebc3eb768d9c62a3e1e3b3032422ca331ac31&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2021-09-17_这张文字超多的时间轴PPT，还要加图！能救吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569569&idx=2&sn=577195cbfb6c7b359badac81e7680c16&chksm=fc912977cbe6a061e0647e8461441baa0b69bfa9e10941df381523df2e962aef970eaac2233f&scene=27#wechat_redirect)
+
+文章简介:出差也要直播
+
+文章作者:邵云蛟
+
+[2021-09-17_苹果凌晨1点的发布会PPT中，库克用这个效果重新定义过渡页！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569569&idx=1&sn=9868e8717fa4a60ec5c83108409ea0b2&chksm=fc912977cbe6a061736a3e34c0b9f87610f11fc69fb95d2d69479014624350b140a9a41a4a5a&scene=27#wechat_redirect)
+
+文章简介:出差了，无摘要
+
+文章作者:HAI000
+
+[2021-09-16_看完苹果13发布会后，我却被这效果吸引了！用PPT盘...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569266&idx=2&sn=b6c5dad935932a0f53071b51a64013d6&chksm=fc9136a4cbe6bfb2f275857cd72c635dd02ffc31073b418083bf0fd040bb9f0bc515e8dbaff9&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-15_当我把河南两个字拆开后，做成的PPT太美了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569257&idx=2&sn=e620de82101a2551ba019a1c16915310&chksm=fc9136bfcbe6bfa9aa53175595d04c5b8dc028af7d6b09c2866e474d628711a8506f8f303ca7&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-15_页面单调的PPT咋做才高大上？大神回答了这3个字…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569257&idx=1&sn=c757f80852676fe79836dc32f5f6a7ad&chksm=fc9136bfcbe6bfa9d7b73696338a18c6ec7efdf4ecbd2a6034e65b4a1847c09ecb9d9ee678cc&scene=27#wechat_redirect)
+
+文章简介:过两天去杭州，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-14_火爆某音的PPT发散动画！这页看的我直流口水...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569190&idx=2&sn=da393e6d6561897b7245890148afba07&chksm=fc9136f0cbe6bfe6c854df483963aeff688388d920f49339b5a744f073b1850b1dde12656e7d&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-14_PPT太空了，只有12个字咋做才高级？携程的这6页真绝绝子...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569190&idx=1&sn=60c15213df180d9a8f3f15e9950d51a8&chksm=fc9136f0cbe6bfe6bd6faf9e146ee714f5eff51b6bb2eb9984e98ac46889622545e5464960da&scene=27#wechat_redirect)
+
+文章简介:好累，无摘要
+
+文章作者:柚子
+
+[2021-09-13_PPT遇到EXCEL图表！9000条数据一键同步！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569160&idx=2&sn=5e2343a907bc672c3ea51df3549ee032&chksm=fc9136decbe6bfc83efbe33efa782ac560a5035fe20e85d61f622bf6c0b8f0db6a22d61186a8&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-13_乖乖嘞！山东这份浅色PPT，太亮眼了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569160&idx=1&sn=843a6da3648a4a3dac95bbee00f4cea3&chksm=fc9136decbe6bfc8ead88427427b2c5a7894d9ec0ffea7e012f9d441ed4f6f05edb17be1f1c3&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-09-12_Hi，本周旁友圈开启了9月开学季优惠活动，【官方补贴，立减￥70】👉点击了解~
+
+超54000位读者加入学习，【一次加入，永久有效】。 加入后，你可免费获得：
+
+🎁超13000页PPT精选版设计灵感手册；
+🎁售价超￥297的定制级PPT灵感手册；
+🎁0元免费预约旁友圈PPT训练营一次；
+🎁4门售价超￥460的PPT学习课程；
+🎁45节售价达￥199案例实操课；
+🎁更新15季的PPT每周模仿训练；
+🎁优秀学员可获得高价商业PPT订单；
+
+【结束后，社群将涨价至429元】
+【结束后，社群将涨价至429元】
+
+一件衬衫的价格，Get职场PPT硬技能，感兴趣的话，点击进一步了解。](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569135&idx=1&sn=c070b33fa66e31999487bf6306e205b6&chksm=fc913739cbe6be2fa190dcb2be3b492697958ecbe4be249fc8c52eede708c0224a4b74c4c550&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2021-09-11_小白看了就会！6个私藏绝招，一秒拯救又low又土的PPT页面！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569133&idx=2&sn=15cbddbd4633da305b58a5ab3963eaf7&chksm=fc91373bcbe6be2dda1f8b2339d4882d5c6b2301321bf89d7697743868734dc8aed014d95f14&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-11_我给大一学生改了份PPT，同事：过渡页的技巧简直万能！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569133&idx=1&sn=e7cd31bbfe92a5bb1321bbbe27dd8cbf&chksm=fc91373bcbe6be2d3b0f5735fc62d9da3310379b2a1e1344521134b481e77818881b33f3af5c&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-09-10_炸场！中国风卷轴动画，用在年会PPT绝了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569096&idx=2&sn=2402278bbc79d6a841bbcc320665cd71&chksm=fc91371ecbe6be08652479ed19664609ac31aef38f2b60781f9c77c3fb7d884ec053dee74f08&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-10_安徽大学的物理老师！您看我改的这页文字超多的PPT，它有问题吗...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569096&idx=1&sn=161132124de26d84443fccbb1d22eea1&chksm=fc91371ecbe6be088c99740ff70e59dea2b010006b3a10a9dd93e4107db8f2d6b05867cda11e&scene=27#wechat_redirect)
+
+文章简介:教师节快乐，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-09_我用两个万能小妙招，搞定了这页超丑的学术型PPT](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569048&idx=2&sn=ca9f41e2b5353f6cd3370f02e3e6d6cd&chksm=fc91374ecbe6be582955f0ced5558384f144c68d5f95d10d7b372bc18ed06bf6b056f591132e&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-09_讲真，读者做的这份工商银行PPT，一页至少能值200块！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247569048&idx=1&sn=19f4a9eb2eafdca02f11599a6b019502&chksm=fc91374ecbe6be58cbce8252644ae23f41c0b1b28623fd38754086140f49a2c6726181c10618&scene=27#wechat_redirect)
+
+文章简介:直播了，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-08_30秒，用PPT搞定《扫黑风暴》同款海报！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568982&idx=2&sn=2b82c4cfce402f8501ab380735af0692&chksm=fc913780cbe6be962bc163edced06c1c274f5b530a8fa564bf86204eabf4f0c3f906d0cb8bf4&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-08_李宁官方这页超丑的PPT，我只换了个颜色，瞬间贵了几倍！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568982&idx=1&sn=466bd1a64ae11e11ac663dc30a2b647d&chksm=fc913780cbe6be961ad36b9ee64aba0bee8555d907a188be901e51d0308503a79a6e4765e9ce&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-09-07_PPT数字页还能这么玩？这最后一步秒高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568625&idx=2&sn=8ef8394c74d44842b43e80d795ca0f6b&chksm=fc913527cbe6bc31a00912bf287879e63ff677c674537f974627a03a7f143fa71893213ab0c4&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-07_当看到这页PPT的地球动起来后！同事：太震撼了，平滑切换厉害...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568625&idx=1&sn=d8527ec1cf8b6a0d6c018bdecd949c9a&chksm=fc913527cbe6bc31fb213326e7a264bf8e408e9c7b549438c320c0a361a131c6956091d0c40b&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-09-06_只需两步，当我把PPT图标调成立体后，老高级了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568601&idx=2&sn=6d50d706f4ce46bcf40e7a3602e05dfd&chksm=fc91350fcbe6bc196569e51f1c5f927171f2c0afd39e469f4bc87f038bdc75514ed80e90da30&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:
+
+[2021-09-06_离谱！看完这名小学生的PPT留言后，我连夜做了一个决定！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568601&idx=1&sn=0794939aff6e6c791d7bff46a290446e&chksm=fc91350fcbe6bc198935c4b65f74dba0f1b253ff7d02243f0f7697da117870b8f155250e3b7f&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-05_这家银行的PPT动画太酷了吧，居然是用这个外挂，直接生成的！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568418&idx=1&sn=55620ab1d9d7bcced5b65cc3a7c3b6db&chksm=fc9135f4cbe6bce232d9d42b82d6c64f0a3fd55dbf719b9cb2a96dd080c6201215d97cb9ff6a&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:宋雪贤
+
+[2021-09-04_PPT图片别再加黑色阴影了！换成这样颜色老高级了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568408&idx=2&sn=08ebc9deff03f3fb6dbafdfa7e0b66a2&chksm=fc9135cecbe6bcd80318b955a3ec8735c2459b2ce9c0776a7e1286d5520969e3924e9753069f&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:
+
+[2021-09-04_这款低调免费的PPT插件，用的好绝对图片王者！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568408&idx=1&sn=c58906c69b3e21ee7d0968e287fced7f&chksm=fc9135cecbe6bcd881c565b239e1adf4f55dc202ebdfc3531d2240a999513942d6786d0a02ca&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:柚子
+
+[2021-09-03_我最新总结了6个懒人PPT技巧！50分的页面一键提升到80分...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568382&idx=1&sn=d612c1b6ab12bdaaf852c364abb6ae06&chksm=fc913228cbe6bb3eaceb4479230696988f125f1b1f9e8af19682e679f224c32ca5da7d44f52d&scene=27#wechat_redirect)
+
+文章简介:下雨了，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-02_我用竹子给全友家居，做了页PPT时间轴，熊猫都馋了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568293&idx=2&sn=5440e716e020f6dbf0ac2c789c2e2111&chksm=fc913273cbe6bb6595985d74aa6cb1fdcc8b418573615532485ccbba71c988b4900af338e270&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:
+
+[2021-09-02_腾讯云的这页浅色PPT，没用一张图，却瞬间征服了我…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568293&idx=1&sn=c48b3c34b8c093082f6291b73a0974af&chksm=fc913273cbe6bb651c593155821399e1246b9e4dc4817839af47bb99d75a14b01d4b0332a3d6&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-09-01_我把一根胡萝卜做成PPT图表后，老洋气了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568268&idx=2&sn=4ba93b919527893f88f8d983bd801212&chksm=fc91325acbe6bb4c7fb8bf2d1429c6a7611513ebf01cb7500eced1530bfc9cf53e60358aa1d6&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-09-01_PPT图片裁剪！青铜玩法VS钻石玩法，差别实在有点大...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568268&idx=1&sn=791bc14050ef9f53ee211558dd8edee7&chksm=fc91325acbe6bb4c5a5784d320c4cf840ad1f1df3a54a3bd46047f1bf32014107ab077adc17f&scene=27#wechat_redirect)
+
+文章简介:天气转冷了， 无摘要
+
+文章作者:邵云蛟
+
+[2021-08-31_【免费直播】邵大，我做的这页中秋活动PPT，有啥问题不？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568197&idx=2&sn=5cd2cb09e4aa2db4e073dc8ce063a2af&chksm=fc913293cbe6bb8594875b7b162c317511e26b560219e583b4c23c7972bb09357a094782cf23&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-30_【免费直播】领导说我PPT图表颜色太乱了！不让删还能咋优化呢？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568182&idx=2&sn=0126524c264580998f79483610c3376e&chksm=fc9132e0cbe6bbf607b979c61c98a08bca658264e3f64109a01e0804aed2f17e030e1c8d968a&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-30_PPT别再傻傻插入自带图表了！这页用11棵数做的图表页，太逼格了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568182&idx=1&sn=127d712d22784b744b221f70315ceb5a&chksm=fc9132e0cbe6bbf62cc818b078878ab8777bcd819e0b1916fc7ea442acd9f6e78462dcd5f65c&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2021-08-29_Hi，周末好啊，下了两天雨，一直宅家里，翻看了下本周的文章，挑几篇给各位看看。
+
+👉 90秒学会5招PPT封面标题排版公式
+
+👉 高级感的PPT配色，到底是咋做的？
+
+👉 科技风的PPT，如何做的更有质感？
+
+另外，补充一个事儿，之前，我们把每天直播的回放视频，放在了B站@邵云蛟这个账号上。
+
+但好像每期视频太长了，想要查找某个知识点有难度，所以，我们从这周开始，会把一些典型问题，单独剪辑成一个个的小视频，大家直接在微信视频号，搜索【旁门左道PPT】就可以看到。
+
+目前已经上传两个了，感兴趣可以去看看，接下来也会做一个视频知识点清单出来。
+
+以上。](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568159&idx=1&sn=4c48278b5280fb26c316b257e156c9e6&chksm=fc9132c9cbe6bbdfe72026990294a72092ac7b83fa7ecb6c6d6a3f160b5c34b304b22c16b9ee&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2021-08-28_做了6年PPT设计师，我总结了5个私藏封面设计套路！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568156&idx=1&sn=54e9952f0bc5c9c7ed4eb4e388c29785&chksm=fc9132cacbe6bbdc73679df564a2c375290d82ad27a234f89e44b23aae8de92085310116151e&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-27_【免费直播】阿里巴巴的这页PPT时间轴，咋做出高级感？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568144&idx=2&sn=5d8d876ee51c4e65361ba27ee38152dc&chksm=fc9132c6cbe6bbd02abcbaf39e6be4d96f35d8ceccf61b159de03f2c3bbcddbc45833634b292&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-27_被雷军的PPT惊艳到了！让人头皮发麻的数字页，还能这么玩...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247568144&idx=1&sn=31a795367789772d6317228d0fc2046b&chksm=fc9132c6cbe6bbd064df108eb41069a903210ab085ef00ec9a81f165872fb186b38feb1cbee2&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2021-08-26_【免费直播】这个发光的PPT三棱锥好酷，能教教我吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567919&idx=2&sn=f8419119dd0a3bbabec5559248b70414&chksm=fc9133f9cbe6baefb67dcbff6cb42e77fb0745c897999aaac796b7a6cf14611aaffdc02c7f54&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-26_邵大，我的这份PPT配色为啥这么单调，还能救吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567919&idx=1&sn=5c49b31045bfb1c391700d94d719538e&chksm=fc9133f9cbe6baef6c4a186bcbb2fa913ad2cda5d3c538bfce7d429274d413d5101e8832e525&scene=27#wechat_redirect)
+
+文章简介:好累，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-25_【免费直播】邵大，一页PPT上有7个图表，该咋排版？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567858&idx=2&sn=181970efcefdf4f954eb427b1c271b93&chksm=fc913024cbe6b932d8652ec9686c37eca40adc782285ab28851a5424b1b7e1c72a0767dfd5a3&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-25_我只用了一个颜色，做了一整套的科技PPT，超酷！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567858&idx=1&sn=041fa2e2e3bd29d3b345a301ca94975b&chksm=fc913024cbe6b932137104ab2dde34374f7f1da35837bba0156a9e5a4b3b51c38270b9c1b54f&scene=27#wechat_redirect)
+
+文章简介:好饿，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-24_【免费直播】5分钟，手把手教你做出腾讯这页PPT！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567772&idx=2&sn=3c95c5472a01247e406d207a6283d51f&chksm=fc91304acbe6b95cadb3edb6c0b77dc3f177068e558824b879a8a62eb878f0f15d0beaf0e1be&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-23_【免费直播】这种立体感十足的PPT流程图，咋做的？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567754&idx=2&sn=8b3fb2d872e98b173f621d32c99c76e2&chksm=fc91305ccbe6b94a27424f88fae49a8b7c5f8e2610933a6f2e547b954c98c75fdc66e3623579&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-23_我帮读者改了份产品PPT，这页300多字，加完动画后超高级！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567754&idx=1&sn=a26a8d6f51ccd15fb337c3d9d78c38f9&chksm=fc91305ccbe6b94a7d18e30981f15494cdf6308ff7ed6859f42be751c981c0cbcf772de49f29&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-08-21_打破常规！这5种创意PPT图片排版方式，拿来就用！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567729&idx=1&sn=c52996f6f63bea45a890da021ca6059c&chksm=fc9130a7cbe6b9b1e302814d5cdb9c64248838f2243d3d32bcd80a10d91287ebc61c3a164635&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-20_【免费直播】字节跳动8年前的融资PPT，咋改才洋气？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567708&idx=2&sn=404bcd415ebf81672d2eaa72449f85dc&chksm=fc91308acbe6b99cdcb268e3e4b3c3ec13d0de864146624782cba3eae8e98baa50326c009efc&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-19_邵大，迪士尼的这张PPT时间轴，咋做出层次感？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567680&idx=2&sn=a7d5bfef6c7389d0c2a402fb7c10d554&chksm=fc913096cbe6b98079f8f925ec9752a4a470c58024ba536d4342e84c9e779e4c4f82d34b2afb&scene=27#wechat_redirect)
+
+文章简介:好撑啊，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-19_微软刚更新的这个PPT功能，太秀了！一键免费复刻雷军同款...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567680&idx=1&sn=8292721d8f435dee4a288af53df64526&chksm=fc913096cbe6b9804defc7e1b0e5a9be03b224c772d5d39acf34c20e2f7a7c19ee5947bc2cb0&scene=27#wechat_redirect)
+
+文章简介:办了一下午业务，无摘要
+
+文章作者:宋雪贤
+
+[2021-08-18_【免费直播】邵大，清华大学这张PPT封面，能做得更大气点吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567582&idx=2&sn=8744b1c1d0a39ed9af0d8aaa1633917b&chksm=fc913108cbe6b81e04c0e6f7f4277a80fdd3f6958d930d611e32651aca712bf561e039362821&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-18_真没想到！中国移动的这个PPT动画，做起来还挺简单…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567582&idx=1&sn=12625f303ebee14ba433be8808b7cc2b&chksm=fc913108cbe6b81e6a418e49b4e375a6642e1d0deb6a0818eb7b25f1c26a12874514ac174840&scene=27#wechat_redirect)
+
+文章简介:喝了点咖啡，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-17_【免费直播】腾讯这页超酷的科技PPT，手把手教你画！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567475&idx=2&sn=db7ec64b68680f4ff69d9a770d5793cb&chksm=fc9131a5cbe6b8b30ee28577cef0414b45ec89265e5ec3979266356e3565eeb7788e6bb0b069&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-16_【直播课】这一页PPT有好几张图，咋设计才好看呢？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567458&idx=2&sn=f03603f1aa5dbcfe873f4993597e22e6&chksm=fc9131b4cbe6b8a2b8dc32fa3ffa8b95fcf5df55da011f7ebcc96a0e0c534ca0ee8aff620de3&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-16_PPT上全是文字，还不让删？我帮知乎网友改的这套作品值得一看！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567458&idx=1&sn=0651585415b8df5cecc7edea15820ae6&chksm=fc9131b4cbe6b8a2a5ee066be19a2419ba69ba1c5c8284591a36b4422625773e9ca3793f8ff3&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2021-08-13_【直播课】邵大，我做的这张PPT过渡页好丑啊，该咋优化？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567429&idx=2&sn=9e0941be03015d09d4b66f5ffab9e85e&chksm=fc913193cbe6b885e44339b1eaa46678de0fed4f9b07b11ee0238d65a244fa3fdd6272dab6a0&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-13_肝了20分钟！读者给的这页PPT，被我改了10个版本...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567429&idx=1&sn=7833173f52a3638672f122f4af238bfb&chksm=fc913193cbe6b885b72034e567512119ce62c4259ab45f318be7eabb177dc268752aa14268b7&scene=27#wechat_redirect)
+
+文章简介:下雨了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-12_今日头条的这页产品介绍PPT，过分好看了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567393&idx=2&sn=856e9fd9c308aa95d1a2d341a036e817&chksm=fc9131f7cbe6b8e1bb809d53559370b16e579b8dbd137e8eb33f2163605b9cc73eb4a9d20da4&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-12_爷青回！我给奥特曼做了一页PPT，字效酷炸了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567393&idx=1&sn=4a1d2c1cad7db7e10ccea7e97824e29b&chksm=fc9131f7cbe6b8e1bfd4528cf8a5a0f0a16028c2dee87059303465f63282c1bf7b9f5efda25e&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2021-08-11_小米的发布会PPT黑白配好赞！为啥我做的这么丑？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567383&idx=2&sn=71a70ca49b58aab25c3f702cd74a4fe9&chksm=fc9131c1cbe6b8d720b7acb5be58e6cfed837fd30a1f7e5175afa362c8555b330274a48e8204&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-11_我一口气送你17个PPT神器！私藏货，真真真是PPT速度暴涨...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567383&idx=1&sn=424153911d651faf33da2bca1d6a33b4&chksm=fc9131c1cbe6b8d7c4c1aa6d283fbe26a6da7f9a5b76a26003d4919cc1e640a99b8d6fafed32&scene=27#wechat_redirect)
+
+文章简介:想去剃头了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-10_腾讯这页PPT时间轴，真太酷了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567264&idx=2&sn=4f69d6ee0f123254acb4ac6f76b7eea9&chksm=fc913e76cbe6b7600f6a710b7c494dd25dbf586cdf8c8793386166db5533e2c3528e8d3e97bd&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-09_这页科技风PPT太酷了，咋做到的？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567255&idx=2&sn=6c24de1d73340dc9932893e0c7b3bfcc&chksm=fc913e41cbe6b757384a1904615d866b8a87d687849e9be29d4f6d06f43e318a9592f1b4ffce&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-09_我用华为最新发布会这个动画，让PPT时间轴动起来了，酷到没朋友！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567255&idx=1&sn=e28b72007dd25b839250426468126930&chksm=fc913e41cbe6b757ca514cc7004ac7cc18b6975f4414335b2e6a128eb936f48061e7cae517f2&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:柚子
+
+[2021-08-07_邵大，这页时间轴PPT的配色，是不是有点诡异？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567248&idx=2&sn=2434b83992534585314d7a5dc8c35144&chksm=fc913e46cbe6b750a478509fc56ccf5624ad50bd55d9dee370beddcd82bae3c916890f41722e&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-07_我做了59页PPT，忍不住向你推荐这9个实用小技巧！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567248&idx=1&sn=d17688ee974810d34e5c451c7118065a&chksm=fc913e46cbe6b75000b09ed98e021ecaf3ad3194f966822193b4a84df9df40e07695a1077716&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-06_我帮一个酒吧改了份PPT！这么丑的模板，做的我头秃...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567234&idx=1&sn=f46605f642cddfb97d76b537614b1d33&chksm=fc913e54cbe6b7425a032b8465e2e4eee29413c2544174389572d1ff142c53cc99cd237a5793&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-08-05_中国航空这张时间轴PPT，能帮我做的高级点吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567121&idx=2&sn=92aa841c90be837c5d4f1b1f39b30694&chksm=fc913ec7cbe6b7d17023b86fcbe5f44f6db74971994e6e6975eb0d421eff9b5be4143d9a5f37&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-05_我从B站这张海报中，学到了一个必杀技！用到PPT上太实用了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567121&idx=1&sn=ce763fc599760a3d9aa41f0e4cba7da8&chksm=fc913ec7cbe6b7d161ed1054f99c935ccf034b1e0f417e0a97fdc9fe872f6f0d588627d0c882&scene=27#wechat_redirect)
+
+文章简介:天气很凉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-04_这页PPT全是字，还没图，咋做才能高大上？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567080&idx=2&sn=77429f347655c6be738f28d7a46c9171&chksm=fc913f3ecbe6b628eddcec761b0adab8eadf537920e47918ae943a30e7e885dae49812fa7ac7&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-04_我帮一名读者改了份竞赛PPT，光封面就做了3版，好纠结...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247567080&idx=1&sn=28f3ad609b478b5e39c44f1d77445345&chksm=fc913f3ecbe6b62810a1b8a5067597c870eb9e85cefdc37a4416818aea44aefa7b1e7ba707d5&scene=27#wechat_redirect)
+
+文章简介:今天太困了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-03_邵大， 鸿星尔克的这页PPT还能怎么改呢？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566907&idx=2&sn=a2e685809df0a8b4f6b2cdea0983067f&chksm=fc913fedcbe6b6fb2ec53ec734c01043b75956333e3edf8a33299cf64646d96ff3c2537eebc5&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-02_头秃！这页图多字多的PPT太乱了！还能做好看？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566892&idx=2&sn=5d96bfd6fb39b75019a1f51ca5b5d01c&chksm=fc913ffacbe6b6eca4a7f9fcd1c8cba27e76c1e1e1589fa577bb8f285314fca08490405099d0&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-08-02_我把55个logo放进了一页PPT中！甲方爸爸：我闭嘴了，就要它...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566892&idx=1&sn=5bb8641f47b80e032fd857463b02e7a7&chksm=fc913ffacbe6b6ec116fc8e3ad14a6b0c54413a92ebfcb855c7ba6767866a4dfd90337044ef0&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-31_火爆外网的毛玻璃！用在PPT里也太高级了，美呆呆...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566858&idx=1&sn=c384fdb677d8c843c20c9d19b9b90a8b&chksm=fc913fdccbe6b6ca45121a5ccf92a8613eb5ded60fc1dea5dc39f4ccf96b33f2eccbdb5d9305&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-30_今晚，旁友圈PPT每周模仿训练直播课的第三期，也是最后一期的【免费试看】课程来了，如果你感兴趣，欢迎扫码加入。
+
+我会为你分享：
+
+PPT过渡页的设计思路；
+如何丰富页面视觉层次；
+如何添加页面修饰元素；
+......](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566852&idx=2&sn=5203b19e308ae701f93d6f78cc768d4d&chksm=fc913fd2cbe6b6c4de67c3f473ff5286303cdcf110c29bc52781cea53c26514c5f43aa8676f8&scene=27#wechat_redirect)
+
+文章简介:今晚，旁友圈PPT每周模仿训练直播课的第三期，也是最后一期的【免费试看】课程来了，如果你感兴趣，欢迎扫码加入。
+
+我会为你分享：
+
+PPT过渡页的设计思路；
+如何丰富页面视觉层次；
+如何添加页面修饰元素；
+......
+
+文章作者:
+
+[2021-07-30_我把这页超丑的PPT，做成了新拟态风格后，美爆了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566852&idx=1&sn=1fb63b1932ec971cf978732f0cd72084&chksm=fc913fd2cbe6b6c45b6ad24262e2e883ef57fd9945e6dfca210adb4b267678ee5bbe1817f921&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-07-29_急！我参加比赛要用的PPT封面，能再优化吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566847&idx=2&sn=26e757a874cc16f340ce37b6f6374313&chksm=fc913c29cbe6b53f054ef818e3b053fb62671d10c6c8c7179a8fd2e927f436ebd9105a0f44d3&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-29_看完腾讯这张PPT架构图，我才明白什么叫细节！太强了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566847&idx=1&sn=bd015f1cf763229a2d32905146d6e926&chksm=fc913c29cbe6b53fd9255efd3db27b8f469f5589d9791339493dbab4190eabba349c0553105e&scene=27#wechat_redirect)
+
+文章简介:天晴了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-28_求助！蜜雪冰城这张粉色的PPT，能改改吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566796&idx=2&sn=5ad56f17cf0af0e9b8f597c63e356242&chksm=fc913c1acbe6b50cf8ae3b515cc36ea6f491ac98b9e46853efe0af1a6bb0837fec4854b3035b&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-27_这页人物排版PPT，还能咋优化呢？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566786&idx=2&sn=1933a47a2e9e4c9d06608a725dbf00a8&chksm=fc913c14cbe6b5025fc8dd8645dd36bc7e0735859de56c44fe4ab911f2a463d06a73dc8c9550&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-27_鸿星尔克支援河南刷屏全网，没想到它的PPT长这样...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566786&idx=1&sn=64b97b2f1c69335164d473956451f688&chksm=fc913c14cbe6b50239db49cc24408f8b9e29ac45baeaabb191ab12cfc37fc151bb7d4e269281&scene=27#wechat_redirect)
+
+文章简介:感冒了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-26_这张新拟态风格的PPT图表，到底是咋做的？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566485&idx=2&sn=91084a5b9dc64bcd972347426d4c1296&chksm=fc913d43cbe6b455cde2562fd135241f0d12e9fdff79f052cd1669bb9f12cb24515bc8bb1ff8&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-26_说实话！这5个看起来就贵的PPT字效，你真不能错过！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566485&idx=1&sn=b5946ee22465bcb580ae03e4c6cf5093&chksm=fc913d43cbe6b455bf3191460637c2c93444dea55e4611b42b337c951c3ddf19a58da3e9b512&scene=27#wechat_redirect)
+
+文章简介:头晕，无摘要
+
+文章作者:柚子
+
+[2021-07-24_可别再这样浪费时间了，学会我这3个PPT神技巧，手速直追大神…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566465&idx=1&sn=ffa5cfa13681ee84ca5712ebbb0d66dd&chksm=fc913d57cbe6b4410717c358ed969261c968256b6eefd94da74395d4e5ef7f807939989506f6&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-23_超350页读者改稿PPT源文件，免费领取!](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566460&idx=2&sn=c9ee12fb71fcb2a015998139c3cc8fca&chksm=fc913daacbe6b4bc6d6a221d9528a3bbc1a39ce15227ba567044bac85e506a981c0f8d68d36f&scene=27#wechat_redirect)
+
+文章简介:欢迎，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-22_这页PPT过渡页，也太简陋了！改！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566459&idx=2&sn=30e3ae032ae003516ca8e938981ef22c&chksm=fc913dadcbe6b4bbef40b3602a06eb97f4394b8a55059d5d70f79f008bd22055b2751af75436&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-22_为难！这份山东公司的PPT，甲方要求商务中带一点柔和感...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566459&idx=1&sn=dcb7695761abd11ad7fa3771e8ebcff7&chksm=fc913dadcbe6b4bb6857116685522dd61b2e35e19569dcf84fac09f7e9e5701f0094f82a9645&scene=27#wechat_redirect)
+
+文章简介:雨停了，无摘要
+
+文章作者:宋雪贤
+
+[2021-07-21_亲身经历：我在郑州暴雨后！以你们的名义捐了10万元...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566394&idx=1&sn=3dc1287014dc9b7f87d2231ff3c3b984&chksm=fc913deccbe6b4fa6ef1eda4b43cb51b3ea92c446700ddc1669b9f41ab8523ae4aedee78cd73&scene=27#wechat_redirect)
+
+文章简介:感恩，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-20_大神！我的这页红蓝配PPT好丑，咋改呢？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566349&idx=2&sn=27b2a411614c2c705a9a62e183ca7e54&chksm=fc913ddbcbe6b4cd030f0c574a9154e984019d407489c3da0c708aef447e53e58752a4f7543f&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-20_我只用了3句话！一下子让女同事的PPT好看了18倍...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566349&idx=1&sn=3e2ed3ad70be30ea6d751f5645aa810b&chksm=fc913ddbcbe6b4cdd05740e8ec110ce4ef76e1f8ec01f2175de0a88590814f560c3256d4aa0d&scene=27#wechat_redirect)
+
+文章简介:下暴雨，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-19_难受！我给西安做的这页PPT封面，真的有点丑…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566293&idx=2&sn=e899eff0ead67ef0063473e9058cbde6&chksm=fc913a03cbe6b315a5f33bd75d554f2f3098898060d06dd3bbca2d554c279fb52c023ce242ea&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-19_Windows自带的这套表情包，放在PPT过渡页，也太高级了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566293&idx=1&sn=bb7212d9292d1ae9953403a2db25c89f&chksm=fc913a03cbe6b3156065d727df87f2a775cdd83605d34624609dcf9c73956baf2893b13f82ff&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-07-17_这页只有4个字的PPT封面！当背景图动起来后，太美了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566288&idx=1&sn=0e69b6a34a519079eca608be6633ec37&chksm=fc913a06cbe6b3107da54fdb4ace62d7d945015b12b75242260ad6a1c99f5b487fa94c120841&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-16_看到VIVO手机最新发布会海报时，我笑了：这PPT技巧教过...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566269&idx=1&sn=06b50dd9a6caba60a9a5bfe39e52624a&chksm=fc913a6bcbe6b37dc117bcccb21c3024ff634da42c8fa8f89e4a71939155e49feadcdb5dd49d&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-15_邵大，我做的这页医疗风的PPT，你打几分？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566217&idx=2&sn=f698b35e2eeca5facb4ed36d21432042&chksm=fc913a5fcbe6b34994c303e321b3dfdf1467faaa8c1120cdab732684948e36b011150a08bb53&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-15_高德这页只有8个字的PPT！用了一个神技巧，不加图也高级...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566217&idx=1&sn=4c2ad5761f4dcad07e8377730ab70643&chksm=fc913a5fcbe6b34921854fe99838b699a1a831ea28a4524bbc9acab2cb1a5fa0dc34de9bd6d2&scene=27#wechat_redirect)
+
+文章简介:明天不播了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-14_超土的PPT架构图，该如何拯救？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566128&idx=2&sn=7fa917e893d999d412d10cc28e47911f&chksm=fc913ae6cbe6b3f0219e6c21664e772817a9a4ab9ec78a0a5e70540361f266bc25b076fc89d2&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-14_学了这7个PPT图片处理方法，我才意识到浪费了多少背景图…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566128&idx=1&sn=29f2c5e679434958c192623ea7e4c6fe&chksm=fc913ae6cbe6b3f07fdd09c2997596c7a7ce55f9d9a7ad785ee41e6cb1de11f5462a8463b060&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2021-07-13_邵大，发展历程PPT怎么做才能更好看？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566054&idx=2&sn=08f607659ffd72a441cea74ef7d825d8&chksm=fc913b30cbe6b2264e6bd38e889fe179a26c86b9ab9fc1e06b53730148f7f7ea2f5fb7b399da&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-12_只有几个字的PPT封面，到底该咋做？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566049&idx=2&sn=283cdd037af20cffe16c0044280cc4fd&chksm=fc913b37cbe6b221da5bef23559ddd7ebdcc0c30afb3625d67cab76b8b6254b3a6350a6d8dab&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-12_当这页PPT中的数字动起来后，没人会不爱！太震撼了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566049&idx=1&sn=88687d5ffe6ebd26e97d802405ad7147&chksm=fc913b37cbe6b221ded1fabb51113789307f0ec42cb7c70201575029f002f70face3de4fd775&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:宋雪贤
+
+[2021-07-10_有一说一，这个小众PPT动画也太酷了吧！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566019&idx=1&sn=e8467e7b276ca057afc542eda17f5cf2&chksm=fc913b15cbe6b203a83ec837afa4227cdfe2a1cf3c7d3429808d4c6a4116601c97a6255a15c4&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-09_难搞！顺丰这页PPT加了红色还能好看吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566002&idx=2&sn=35cef49f8cb764d9ebde0dba180a6832&chksm=fc913b64cbe6b2724bee91b52f21869daa34c625ebf92d7b157ae8bdf07fd8b278dcfef64a75&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-09_我帮读者改了份男性PPT报告，女同事：第一次看到邵大这种风格！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247566002&idx=1&sn=9a0ae9dd479b8c461882cc3bb93b913b&chksm=fc913b64cbe6b272e723c5f0f5897442284870ec2f5ea774a24d2a011ee3ffd22fc9cb80f38e&scene=27#wechat_redirect)
+
+文章简介:明天爸妈来看我，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-08_这种PPT字体，年轻人一定超爱！咋整的？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247565795&idx=2&sn=9ac67f86bf3449376059a0849e26f4b3&chksm=fc913835cbe6b123c905e830c67d0a1d5fecc637cdb64b9479ae9ee60a631e03101cf59890c9&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-08_9项荣誉只能放一页PPT上？领导这要求，让我秃顶...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247565795&idx=1&sn=127da9153569d826eba775fc210e8421&chksm=fc913835cbe6b123292c74bd3e3e9da3cb7712f5737dae5e435275e819f20f89cffaee5ff0c9&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:HAI000
+
+[2021-07-07_超350页读者改稿PPT源文件，免费领取!](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247565783&idx=2&sn=d7d11c51e9e6e50df98c70cd7e525beb&chksm=fc913801cbe6b11768c9e5795afe207d8d27d0d33348d30c5e529904e2b2764fd16c220951df&scene=27#wechat_redirect)
+
+文章简介:欢迎，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-06_哇！这页汉服的PPT封面能放个小姐姐吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247565782&idx=2&sn=c875699ff7c5475402a5bec194f33b93&chksm=fc913800cbe6b116dab3cc76059edbd08d3b875d649c29f75c6ea2cbf895eefca15395a054f7&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-06_PPT自带的4个图片效果，用的好堪比PS！居然没人知道...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247565782&idx=1&sn=5021dfa8a243ca75d2f90a8cca9af9b4&chksm=fc913800cbe6b1164a93e94a3116e2ed22f25b01a4acff7a3dde75c44e6ba21400c81720bbb4&scene=27#wechat_redirect)
+
+文章简介:太热了，无摘要
+
+文章作者:宋雪贤
+
+[2021-07-05_求助：完美日记的这页PPT该咋改？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247565341&idx=2&sn=3f406a288952bbf843f414fc91f85cbe&chksm=fc9139cbcbe6b0dd47ad0ec6654ec5f278fc52682b9d299603b3c0216f2028526e5b191a627d&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-05_看完知乎这名大学生的PPT，我忍不住改了6页，只用了一个字效…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247565341&idx=1&sn=9d8fb50008bf2196f7e5e637e98eca09&chksm=fc9139cbcbe6b0dd4297deb60d8897880b5f37c77495a7d3c4c61e7b6813cde536bb8393f91c&scene=27#wechat_redirect)
+
+文章简介:知乎改稿，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-02_河南的蜜雪冰城刷屏全网，没想到它的PPT长这样...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247565234&idx=1&sn=fa098bf8042a0e8f886648719cac4e37&chksm=fc910664cbe68f723efbf9ec44296ac2f580798db6163a456229a359160c55fcb3078099953d&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:柚子
+
+[2021-07-01_哇！这页的PPT背景好高级呀！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247565224&idx=2&sn=16d4bea6765a2b7db5dbe9ef3db93ef7&chksm=fc91067ecbe68f68053f8aee0a8cb677ce24747cb163295d00dfc85885486dd6b1d346a8bb09&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-07-01_党政PPT封面按照这个公式做，真的太太太惊艳了...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247565224&idx=1&sn=43f8b593484364c0b00c716633fd2e09&chksm=fc91067ecbe68f6898d6a4d513f9a90fcf62cfc61b1bec2e44a9dc0613d0e15b4d70455086a5&scene=27#wechat_redirect)
+
+文章简介:好饿呀，无摘要
+
+文章作者:邵云蛟
+
+[2021-06-30_救命！这页PPT流程图太乱了，能高级一点吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247565177&idx=2&sn=a5c19bac0c4478239d4d45a542c5eed5&chksm=fc9106afcbe68fb9199bcccafb30639b1b4f65fbe931a8fdffe2ebe4c7a49a209bccb4cbec7e&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-06-29_邵大，俺公司的这页架构图PPT，咋优化才好看？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564977&idx=2&sn=11d8943dbe2c5cf693514fac5f708a59&chksm=fc910767cbe68e714343292672651f6f354376f9d41a142d978a353f0f275721592c2c902895&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-06-28_各位，今天不发文了，说件另外的事儿。
+
+今年，我立了一个Flag，说要【做100场免费的视频直播教学】，目前已经进行到第35场。
+
+但上周，我的微信号被恶意举报，导致不能发送直播提醒，如果你想要参与直播，欢迎关注我的直播平台。
+
+这样，每晚7点半直播时，你会收到一条提醒，就这样。](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564926&idx=1&sn=ab3c15bb5cc9f198bfa9a28d1f358054&chksm=fc9107a8cbe68ebec4fdd0ea2223791db8da2e0af3dbfdf2e63766be50c559fda939d3189575&scene=27#wechat_redirect)
+
+文章简介:各位，今天不发文了，说件另外的事儿。
+
+今年，我立了一个Flag，说要【做100场免费的视频直播教学】，目前已经进行到第35场。
+
+但上周，我的微信号被恶意举报，导致不能发送直播提醒，如果你想要参与直播，欢迎关注我的直播平台。
+
+这样，每晚7点半直播时，你会收到一条提醒，就这样。
+
+文章作者:
+
+[2021-06-27_我只用一张图给福建改了份PPT，发到知乎后，一夜火了！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564916&idx=1&sn=9660e4b7257dca4c786b953e9ac9a21d&chksm=fc9107a2cbe68eb414b47bab53b71bba4e07e095621f28fd8f916f04152d91ab45ed9971cd89&scene=27#wechat_redirect)
+
+文章简介:这次的修改容易上手哦！！！
+
+文章作者:宋雪贤
+
+[2021-06-25_超270页读者改稿PPT源文件，免费领取!](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564801&idx=2&sn=2e2bdb291943ed74f022491dd8d4e510&chksm=fc9107d7cbe68ec195b0eacb71a478376ad3812bc76eed1d3ff18eb118c6d427133429a84c7f&scene=27#wechat_redirect)
+
+文章简介:欢迎，无摘要
+
+文章作者:邵云蛟
+
+[2021-06-25_邵大，你几个G的PPT素材库是咋建的？还不乱！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564801&idx=1&sn=263da0f33f5f78ef1987bdcf3a9433fa&chksm=fc9107d7cbe68ec1eafacc437b2bba5906cf375588449bf6e2dd29694333852064e774ef5d40&scene=27#wechat_redirect)
+
+文章简介:来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-06-24_邵大，我做的这张牙齿PPT，贼丑，还能救吗！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564754&idx=2&sn=330e826c7d8fb562f37514cc160a1b0e&chksm=fc910404cbe68d120975e958997e66e16335a6f5c8a2cb7e56d4953f195a29b053a59cfbe8e1&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-06-24_PPT排版中体现对比，别再只写VS了！真的不高级...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564754&idx=1&sn=02d9a914d419900b569335103123d254&chksm=fc910404cbe68d1249730e1e918650b52aceb044061329225f81e88efe9192a8c43ef55a7465&scene=27#wechat_redirect)
+
+文章简介:高考出分了，无摘要
+
+文章作者:邵云蛟
+
+[2021-06-23_这个渐变的PPT图表太绝了！邵大能教我吗？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564659&idx=2&sn=cc6f251fed5433303bf019d255c6a582&chksm=fc9104a5cbe68db3fa39abd42eaa621f0112811b00625a6bfb811facb6282d58245039c7cc30&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-06-23_最后24小时！这份被5.1万人爆赞的PPT资源，一次性送出...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564659&idx=1&sn=4198206e0d2f0ed37ec39646232064e6&chksm=fc9104a5cbe68db3c57d1897e2101aec39c82464e9b33369d7561bf4d499687917e8343715a7&scene=27#wechat_redirect)
+
+文章简介:优惠来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-06-22_天哪！PPT标题超长，有22个字，咋处理？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564589&idx=2&sn=026b9881f2422923db629b0dd840d5d6&chksm=fc9104fbcbe68ded3e6dd56678dc99df53a98b41e8233208fccde70eec6bd0a46e7e571bb4a7&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-06-22_别再给PPT图片加红框了！这样强调重点真的不好看…](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564589&idx=1&sn=4ef3964cd06224f704c9785b87ebe470&chksm=fc9104fbcbe68dedd94653f3313630882b8f0ba89fc2b9fb34f7826d8c38134ab090d7165892&scene=27#wechat_redirect)
+
+文章简介:饿了，无摘要
+
+文章作者:邵云蛟
+
+[2021-06-21_这张蓝色地图页PPT太逼格了，美到窒息！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564523&idx=2&sn=7f6f4f7523e8c088cbca4357d8b7f9cd&chksm=fc91053dcbe68c2b736d44c9d6608bc13fb937d5fb29937da7c5c159adcdd2db0af10e1510c7&scene=27#wechat_redirect)
+
+文章简介:直播来了，无摘要
+
+文章作者:邵云蛟
+
+[2021-06-21_我帮一名读者，改了份内容多到爆的PPT！这页39段文字还能整齐洋气...](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564523&idx=1&sn=1daf67a7fac3aa198814a3e5f8bdbcfe&chksm=fc91053dcbe68c2b1e8a9cddec5725a4f342f8edd5d09e81239efd2e9ddd2241d4ff52bf408b&scene=27#wechat_redirect)
+
+文章简介:天真热，无摘要
+
+文章作者:宋雪贤
+
+[2021-06-20_下周，【旁友圈618优惠即将结束】，现在加入，立减￥66，最后一次299元。👉点击了解详情。
+
+超49000位读者加入学习，一次加入，永久有效。 加入后，你可免费获得：
+
+🎁超13000页PPT精选版设计灵感手册；
+🎁售价超￥297的定制级PPT灵感手册；
+🎁0元免费预约旁友圈PPT训练营一次；
+🎁4门售价超￥460的PPT学习课程；
+🎁更新15季的PPT每周模仿训练；
+🎁优秀学员可获得商业PPT订单推荐；
+
+【结束后，社群将涨价至429元】
+【结束后，社群将涨价至429元】
+【结束后，社群将涨价至429元】
+
+一件衬衫的价格，Get职场PPT硬技能，感兴趣的话，点击进一步了解。](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564480&idx=1&sn=46f4fb2019723e06980f9d0a1f2a02e8&chksm=fc910516cbe68c004e27542310d5b7da7e908e39269020f0540e2b5c845769fd8b39f64e91ab&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:
+
+[2021-06-19_我帮知乎网友，改了一份福建政府的PPT！地图页超逼格！](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564489&idx=1&sn=403a479f2b0c53246e3062163fe8aa0e&chksm=fc91051fcbe68c09414f1f00775659987a33ea5dfdb3234b67515a747ec4cfa7f7351d338ef0&scene=27#wechat_redirect)
+
+文章简介:周末愉快，无摘要
+
+文章作者:邵云蛟
+
 [2021-06-18_邵大，这份党整风PPT是咋做的？](http://mp.weixin.qq.com/s?__biz=MzU2ODEyNzY3Mw==&mid=2247564425&idx=2&sn=0f533fa073ce469457fcba83eb84f5bc&chksm=fc91055fcbe68c49949e80d36302c9a3d201b66a085e32311560b41fa4189079ea08de7342a9&scene=27#wechat_redirect)
 
 文章简介:直播来了，无摘要

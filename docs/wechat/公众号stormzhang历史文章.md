@@ -1,3 +1,175 @@
+[2023-06-02_「新手学习 AI 的正确姿势」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650679097&idx=1&sn=843a2980fdb0dae5f14fd2b3d9cc4f00&chksm=87d2fa66b0a573704f43a451e1c24f18bd0a8f268df1b5396845157e04fba55e4b381e90af7a#rd)
+
+文章简介:
+
+
+
+[2023-06-01_公司裁员不给赔偿怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650679086&idx=1&sn=d60f1b0efdb0eeff64b488406522171a&chksm=87d2fa71b0a57367ecc690dbf399befef581ce1d16806dc770e3158062b3f2bdc95197182358#rd)
+
+文章简介:
+
+
+
+[2023-05-31_存了 100 万](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650679079&idx=1&sn=1425e1227ccc993016e83ae8605b86f3&chksm=87d2fa78b0a5736e7a68201967c5abd823b79f564f8bdbd32a9e2047159497114142a72ae2ad#rd)
+
+文章简介:文末有福利
+
+
+
+[2023-05-29_结束了](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650679027&idx=1&sn=caa35fb5163ee253073d67d504207274&chksm=87d2fbacb0a572bafe204e20cbc2b35cba247c735aded3aa55c52cee63900ab828d958fe84d3#rd)
+
+文章简介:
+
+
+
+[2023-05-26_说明下](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678963&idx=1&sn=ca8a06fa221fbe7bd3fa246adc7c5fb7&chksm=87d2fbecb0a572fadfb6ef040d6ca5d0cb5ef5158116c8d3eaba4543bbf0ecbcfed86df701b2#rd)
+
+文章简介:
+
+
+
+[2023-05-24_养老金上涨，现实很惨.​..](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678957&idx=1&sn=2b7259fe7c1e314cd0230d761ffda771&chksm=87d2fbf2b0a572e480c89711a361bcb207fb378d49dab3718f4612e86d6944fdb19a5fa5b3df#rd)
+
+文章简介:
+
+
+
+[2023-05-22_都过度疲劳了，还谈什么效率？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678938&idx=1&sn=c209648b2e6d60f52f1e65dad9f21518&chksm=87d2fbc5b0a572d32e32fea9e6a3741d481165eb2ac4d1c2fb217b6368ab82a715503bf7b17a#rd)
+
+文章简介:
+
+
+
+[2023-05-18_失业率又新高了](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678928&idx=1&sn=158936d89a177ac3bc593ef5cd5f8314&chksm=87d2fbcfb0a572d9daa10b6b19dbb7fb050bd56760ac0c32854fdac8d493c0df55983b1d6d10#rd)
+
+文章简介:两级分化的就业行情
+
+
+
+[2023-05-17_董小姐大意了](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678870&idx=1&sn=4849e01cb560ce9dad8fe9a96300cd44&chksm=87d2fb09b0a5721f0d59db482a2e3115fff892da86571ec6e3073179f1fd759871240fef9b74#rd)
+
+文章简介:
+
+
+
+[2023-05-15_走好](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678859&idx=1&sn=639d550d2cc479a68416b8168a11b1b1&chksm=87d2fb14b0a57202f7ce679a4916e58834290fc2b62bdbac23db8f50e84210f8258cf9f05942#rd)
+
+文章简介:来生，再一醉方休。
+
+
+
+[2023-05-12_【 过犹不及，几句实话 】](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678852&idx=1&sn=a518249f9435856831bf06d2d2a9b665&chksm=87d2fb1bb0a5720dba391727e11e07b18fc205a51021e724d91e8cda5d397034528c8cfbb285#rd)
+
+文章简介:
+
+
+
+[2023-05-10_补充下](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678843&idx=1&sn=8552fe928485130e36be2a48ce4eacb3&chksm=87d2fb64b0a572728c215170b46615a676dbb5f7f6de5faa6cae67967fad3cddb5b12306db52#rd)
+
+文章简介:
+
+
+
+[2023-05-09_收益率一代不如一代](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678828&idx=1&sn=8f298e0a411cdbf7ff3306c90dee979d&chksm=87d2fb73b0a57265d95456ea5aa8877ce9ad44b98bcb2f73af92145e6b345f9dff48fb2d907a#rd)
+
+文章简介:想尽一切办法消费百姓的存款
+
+
+
+[2023-05-05_这波调休赢麻了](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678819&idx=1&sn=48b289d680326b35095941b362bb9317&chksm=87d2fb7cb0a5726a1c3265e63c1bb5e2ffac82c8dbea6030d3921fed9c77df3d52cdcfa640f9#rd)
+
+文章简介:
+
+
+
+[2023-04-27_「五一出行，不怕一万就怕万一。」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678798&idx=1&sn=3b69164a949ece50c672cb515bacd4ee&chksm=87d2fb51b0a57247b91a15be044a2da66abc334e378dd3623002214000678d258b206f949599#rd)
+
+文章简介:
+
+
+
+[2023-04-26_思路一下子打开了！](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678796&idx=1&sn=cac3b82e19ed88894aa970944b749b2b&chksm=87d2fb53b0a57245f9278ea101f7e858d4fa31076025000356fe26d88555c574c024948d9d6f#rd)
+
+文章简介:
+
+
+
+[2023-04-24_未来高薪中的高薪职位](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678787&idx=1&sn=197c0b0cf2ddf11c9c6a0bc4dae34c4c&chksm=87d2fb5cb0a5724a5e02942535c1bd8b0b366d349055e5d71b4aaed1aa4c9a2f77edc7a1934c#rd)
+
+文章简介:
+
+
+
+[2023-04-20_马斯克才是 IP 营销第一人](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678770&idx=1&sn=c816b7f9b0f5faf9e2e857f9175ea936&chksm=87d2f8adb0a571bb4a0ce99c346244136de163b6d8e0261d3b80ea3009d9684a79f750ed09d7#rd)
+
+文章简介:
+
+
+
+[2023-04-19_昨天在小号写了篇文章，用大模型重做一遍钉钉。
+
+钉钉的魔法斜杆「/」，为国内大模型具体应用开了个头。这给了我们两个启示：
+
+一个是，「钉钉 x 大模型」率先落地，立竿见影的效果，会带给其他生产力工具压力，诸如飞书等各大厂旗下的生产力工具接下来一定会卷起来。
+
+另一个是，之前提到说 AI 时代的来临，新的革新即将开始。当时还有点不确定，现在看来，这句话一点也不浮夸，相应的变化正在发生。
+
+从大厂们对这场 AI 变革的急迫感就可以看出，都想抓住这次机会，都想再上个阶梯。原先的配角想做主角，而原本的主角想继续争霸。
+
+对大厂来说，这是一次机会，对很多创业者和普通人来说，同样是一个有想象空间的机会。](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678759&idx=1&sn=c2e0a541981f3fe8979d076dd3dd36d2&chksm=87d2f8b8b0a571ae1d0eaf937376a064eb33b087177bd83ab00155e5ab0f6d0e2a4dcc9b7dbd#rd)
+
+文章简介:
+
+
+
+[2023-04-17_大佬们隔空互怼](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678752&idx=1&sn=ee5098660e82c67e7e7c03c6ef49ce99&chksm=87d2f8bfb0a571a934b57c086e8df499a98c304ff3f1278fec798ad3cbfd95a86efddd6d29db#rd)
+
+文章简介:
+
+
+
+[2023-04-10_关于 AI ，大家关心的问题](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678732&idx=1&sn=08043aa8a050532496048768bb2280d1&chksm=87d2f893b0a57185991653b8a9f297df8dd156e963261faf6af43bf3b26abb21ec69754844da#rd)
+
+文章简介:
+
+
+
+[2023-04-06_电科聊天事件，反对加班都快说烂了](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678725&idx=1&sn=107c1066d92a70ba390d008de0522a27&chksm=87d2f89ab0a5718c98015b86c11ab347d4a331c9f56550ba8ea9e94aaaee291b24a815dd5b3a#rd)
+
+文章简介:
+
+
+
+[2023-04-03_这次，跟曹大一起搞个事](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678714&idx=1&sn=713388f5451dfb23321c814bf712be74&chksm=87d2f8e5b0a571f330eeec888aed24375d444057001b78c0ed2f79a234f40d130f5c3085dfad#rd)
+
+文章简介:不辜负 AI 的时代
+
+
+
+[2023-03-30_微信公开课透漏了什么信息？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678704&idx=1&sn=bed6cbe06a30730d11c71a9bab6ac6c5&chksm=87d2f8efb0a571f9a2a85af0c115d88fec14e4decb4e518573047c7a9feface33d496dc3507c#rd)
+
+文章简介:
+
+
+
+[2023-03-28_行业大变革。。。](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678692&idx=1&sn=59a331c3ceff75aa22b82d1b11ada069&chksm=87d2f8fbb0a571ed2cc2b83ac51dab58e4829a22070271f92dd61e9da5e1a1d0d9d0196cc9b5#rd)
+
+文章简介:
+
+
+
+[2023-03-27_优化公积金政策，聊胜于无](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678684&idx=1&sn=1ceff2ea3261f3026be785aae7f66c00&chksm=87d2f8c3b0a571d537c79758ff85c4e369fb44e256398c1b8ca524f737260863f73b079fde70#rd)
+
+文章简介:
+
+
+
+[2023-03-23_年终打骨折](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678664&idx=1&sn=b75aaf9c4244a12aa619117dd91538db&chksm=87d2f8d7b0a571c11e0408dd455f59479cd5f11cff20e40ed9ab40e9ea7ecfc51f70f7f9a645#rd)
+
+文章简介:
+
+
+
 [2023-03-21_毕业生就业，压力山大](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650678629&idx=1&sn=836f6b8d3207a89cd0dac2150ac4f2b5&chksm=87d2f83ab0a5712cdfb054c7300213a98b9f8fa3da5cd17928c71ba1702659392228b862659c#rd)
 
 文章简介:
@@ -796,8 +968,10 @@
 
 
 
-[2022-04-14_魔幻年年有，今年特别多，比如今天这个，强如王思聪也得慎重发言。
-
+[2022-04-14_魔幻年年有，今年特别多，比如今天这个，强如王思聪也得慎重发言。
+
+
+
 王思聪怒刚以岭药业！](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650676365&idx=1&sn=347f2bc41c28da6b477d57c5b9b2c2ff&chksm=87d2c1d2b0a548c47cc9bac904c341c2a25018196bb091fad73d6cccaababc841231f259b3e9#rd)
 
 文章简介:
@@ -956,8 +1130,10 @@
 
 [2022-02-28_春招冷淡，跳槽无望？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650675696&idx=1&sn=c9c2215e37f13cb16aef06aedcd738c3&chksm=87d2c4afb0a54db98c760182461c8a4ff3f3a373dc0eb063fb4b88641eda8821b332ee7c8902#rd)
 
-文章简介:看衰所谓的环境没有用，把主动权掌握在自己手中，才更为实用。
-
+文章简介:看衰所谓的环境没有用，把主动权掌握在自己手中，才更为实用。
+
+
+
 ​
 
 
