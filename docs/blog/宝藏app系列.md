@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-5-15
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-6-18
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1425,7 +1425,7 @@ easy163复活版https://github.com/ndroi/easy163
 
 电脑端免安装直接使用。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-341d739041fe3247.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-### 布丁扫描
+# 布丁扫描
 它是个集文档扫描、文字提取、证件扫描、表格识别、文档管理等功能的扫描软件。扫描后可智能切边、矫正，生成高清文件，还能去除屏幕摩尔纹、去阴影、色彩增强等，支持图片、PDF等多格式无水印导出。精准提取图片文字，一键复制导出，助你快人一步，一键扫描证件生成电子版，A4纸等比例打印，轻松办理各种业务，精准提取图片表格，一键导出Excel，编辑分享更轻松，文档精准识别、矫正、调色，极致效果一气呵成，识别准，处理快，无广告，无水印https://www.budingscan.com   https://wwuq.lanzoue.com/ihAOj0iz4x7i   ios版本https://apps.apple.com/cn/app/id1626815079
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-4ec5b76be08454e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-777a365df6745701.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1698,5 +1698,61 @@ https://wwwo.lanzoum.com/b018e4jsf 密码 BBLL
 # BiliYou 
 一个非常简洁的开源第三方B站手机客户端https://github.com/lucinhu/bili_you，功能还在不断完善，最近更新时间2023.5.2。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-11d09a994ff13bce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# autojs
+基于autojs这个app，一个安卓平台的 JavaScript 自动化工具，使用脚本前先在手机设置-> 应用->权限管理 开启无障碍和悬浮窗权限。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a5e1f2f8d7296c8c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-70e11f7c7dab5272.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后打开autojs 这个app，新建或者导入脚本文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4059e2ea18378902.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+![f011ecea1079d40d6de5c458acaf3cd.jpg](https://upload-images.jianshu.io/upload_images/23152173-c7777fdcab4b41b2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后点运行自动打开京东app开始任务。
+![4912180448980de7b7f79ea90e91fd8.jpg](https://upload-images.jianshu.io/upload_images/23152173-1146a818bb660f51.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+任务完成，获得快递箱。
+![700cee78478e4def6652e09f4a9fe37.jpg](https://upload-images.jianshu.io/upload_images/23152173-0792d1ac3e2d5bcd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 活动助手
+使用很简单，开启权限就可以了。
+![66025c054951e8e571752d08d389692.jpg](https://upload-images.jianshu.io/upload_images/23152173-5a1a2529f914d089.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# anything
+这个app堪比 Windows 端的 Everything ，能快速搜索手机里的文件，支持office文档正文内容搜索。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c7ecb017cc75df6e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aeaa9bfc5d4fd365.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# App Usage
+统计每天使用app的时长，数据非常详细。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d139e24bbe056f95.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2151117238ffc0f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-67234ea7d0ae71a6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# BiliYou 
+一个非常简洁的开源第三方B站手机客户端https://github.com/lucinhu/bili_you ，功能还在不断完善，最近更新时间2023.5.27。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-11d09a994ff13bce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c932f9bed1cb507f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# ACAC
+有了b站再分享个AcFun的第三方TV开源软件ACAC，支持2K、弹幕、直播https://github.com/xiaye13579/ACAC
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-083f6f24811f61e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-41ccade7c0d6adbe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# 音悦台
+曾经很火的mv平台回来了https://www.yinyuetai.com/ ，通过分享链接可以在电脑上下载视频.
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-adf2532fff07649c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3f328ab71333a542.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 成分喵
+一键查询各大品牌食品和化妆品成分神器，无论是拍照、扫码或者商品链接都能查https://www.chengfenmiao.com/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-51699e1c05634fb9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4a5e5a63a79da1bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Fast Video Downloader 
+一个支持下载在线视频和音乐的小工具。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e861d7eb1b7c9023.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如这个b站视频。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3fc21365a35c6df3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9d5e75a15ae9cf5c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+输入公众号文章链接也可以下载网页里的视频[再次更新：2023批量下载公众号文章内容/话题/图片/封面/视频/音频，导出文章pdf，文章数据含阅读数/点赞数/在看数/留言数](https://mp.weixin.qq.com/s/NBtb5wp5AgPdCTGqObdT5Q)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d21cb35a1e60877f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
