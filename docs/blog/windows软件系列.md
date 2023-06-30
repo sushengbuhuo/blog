@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-5-15
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-6-18
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1879,7 +1879,7 @@ Windows电脑自带的edge浏览器可以和谷歌的chrome浏览器媲美了，
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-79994063881dd62c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 还有基于yt-dlp 开发的这个安卓app https://github.com/JunkFood02/Seal 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-5a93ce1bc2d4210b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-### Z-library客户端
+# Z-library客户端
 这个Windows软件使用就很简单了，搜索直接下载，下载地址在公众号苏生不惑后台对话框回复 `电子书` https://shiyi11.lanzouo.com/zlib352 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-708514206a4da77c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -2148,7 +2148,7 @@ pdf合并生成书签工具 https://wwuq.lanzoum.com/ifXrC0ke02li    https://wwn
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-1dc8be115dd158e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 效果：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-174bbadf7ebd336f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-### 微信补丁
+# 微信补丁
 微信最新版把保存的文件都变成了只读模式，不可编辑。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-754506f88c95a6f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 比如这个我之前抓取的公众号文章数据文件[2023批量下载公众号文章内容/话题/图片/封面/视频/音频，导出html和pdf格式，含阅读数/点赞数/在看数/留言数/赞赏数](https://mp.weixin.qq.com/s/nIt-dP0Xm6bYBBWvQ3mzUA)
@@ -2310,3 +2310,87 @@ https://github.com/Ponderfly/GoogleTranslateIpCheck 这个工具可以扫描国�
 # zlibrary 电子书下载工具
 打开工具搜索下载就行了，下载地址在公众号苏生不惑后台回复 `电子书`。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-19c8a78f7739095b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Windows实用设置
+一个实用的Windows设置工具，比如显示文件扩展名，关闭防火墙等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-38b3925bac0d3746.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# ExifCleaner
+一个清除图片、PDF、视频中的exif信息工具https://github.com/szTheory/exifcleaner，比如图片里的GPS信息、拍摄时间、相机数据，保护你的隐私。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cb314919c5fc03ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# QrCodeScanner 
+一个二维码扫描器，方便在电脑上通过截图、摄像头来识别二维码https://github.com/1357310795/QrCodeScanner，比如这个我的知识星球二维码地址https://t.zsxq.com/0edzlKGVE
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cc3dfbfa60d6e488.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# zlibrary下载
+之前分享过这个zlibrary 电子书下载工具[找电子书不求人，搭建个自己的 zlibrary](https://mp.weixin.qq.com/s/jzt36r0Zqz7Y4zheBGR1zA)，打开工具搜索下载就行了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-19c8a78f7739095b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 文件比较
+一个免费开源的文件比较和合并工具https://github.com/WinMerge/winmerge，可以方便地比较多个文档内容差异，如果要对比Excel用beyond compare。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-447af2c92835c46b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-87d6b9c713bda361.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# WEBP Converter 
+现在很多网站图片格式用的WEBP ，这个工具可以将 JPEG/PNG/TIFF/GIF/BMP 和WebP互相转换。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6ef8f9728517556d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# SubtitleEdit
+一个好用的视频字幕编辑软件https://github.com/SubtitleEdit/subtitleedit 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f2bf654cb36a0c06.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cd662fa41fa3f0a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Balabolka 
+一个文本转语音工具，支持中文，可导出wav，MP3文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a8018e3a4456ae4e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Bili-Downloader
+一个方便好用的B站视频下载器
+https://gitee.com/majjcom/bili-downloader ，更多b站工具和脚本见文章[搞定 b 站](https://mp.weixin.qq.com/s/RgFOAZuGQe-HWF2AlMItZQ)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-08e54b789dffba8e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ff573ce392110d68.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# PhotoDemon
+一个轻量免安装的 PS 类图像编辑软件https://photodemon.org/download/ ，大小不到3MB。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-743d756719834f20.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# terminal
+再说下命令行工具[很多人问命令行是什么？有什么用](https://mp.weixin.qq.com/s/ZxalxqhL-BFxt6PBFoZK4Q)，由于没有界面，如果报错用不了也看不到提示，可以在工具目录打开命令行，Windows10上推荐用https://github.com/microsoft/terminal/releases ，在应用商店搜索terminal安装。
+![联想截图_20230604154531.png](https://upload-images.jianshu.io/upload_images/23152173-4e22b0846643bc9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+个性化设置可以参考这个https://github.com/lextm/windowsterminal-shell
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-83245095e09257cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# charles
+前几天写了什么是cookie[总有人问我 Cookie 是什么？](https://mp.weixin.qq.com/s/FdXbihJdLYw6XZun1PTY6w)，说到用Charles代理工具抓包，什么是抓包呢？就是抓取浏览器或者客户端的网络请求，因为在浏览器控制台看请求不方便，所以就有了抓包工具，这里主要说说charles ，https://www.charlesproxy.com/download/ 这里下载软件，支持windows和mac系统，软件只有30天免费试用，可以用这个网站在线生成密钥 https://www.zzzmode.com/mytools/charles/ ，作者还提供了对应的golang代码https://github.com/8enet/Charles-Crack ，可以自己本地生成或者编译成Windows工具。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c6a60c42aaceae86.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b9f2df91a47a28e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+启动charles会默认开启你的电脑代理，端口是8888。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-97e50175c79e9cb6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+然后打开网页就可以抓取网络请求了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ff18efaf181af7c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+不过抓取https网页显示unknown。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1ae237b14fe5c9f0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+是证书问题。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-30b6b4e76f9c6ee1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+在help里选择`install charles root certificate` 安装证书，接着选择本地计算机，受信任的根证书颁发机构。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b1a5f3c5690c24b1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+安装成功后reset。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d7a6a9802afcc4c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+看证书更新了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-818521cf6d436474.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+接着设置`ssl proxying setting`。
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c0ca4a1d01d4db07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+host和port为`*`就可以。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0c616ac71cf5b96b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+抓取网络请求效果如图，可以很清晰的看到微博的各种https请求。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aaa54d9010d45b42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+电脑软件也可以抓包，打开一篇公众号文章。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3a9751e14a518e8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5ffcc5bca96dfb62.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+抓微信小程序的请求用这个HTTP Debugger 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4024472bac6ffa03.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+注意如果不想抓包了把Charles代理关了，否则电脑开了代理就用不了我的公众号文章下载工具[2023 更新版：苏生不惑开发过的那些原创工具和脚本](https://mp.weixin.qq.com/s/AW58m6TZGBBZLm-ScnuvGw)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-916395b93d5a7855.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+

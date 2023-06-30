@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-5-15
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-6-18
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1374,7 +1374,10 @@ https://tutorial.pictureknow.com/book?id=cbaee24c11c64cac9d5e384e7814a716
 # json预览
 现在接口几乎都返回JSON格式的数据，不过不方便预览，这个扩展可以很直观的查看数据，层次分明， 比如之前分享的查看b站账户硬币数的接口 [每天自动签到b站快速升级LV6](https://mp.weixin.qq.com/s/vLppcR4imK9WWaga7XLDrA) ，http://api.bilibili.com/x/space/myinfo 扩展地https://chrome.google.com/webstore/detail/jsonvue/chklaanhfefbnpoihckbnefhakgolnmc
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c332940fe10fad1a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+可以很清晰的看每个字段，比如这个https://httpbin.org/headers 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-997f9e333431cad6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果需要在代码里模拟请求接口可以`copy as curl(bash)`
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-17420083a415e619.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # hostadmin
 之前文章[分享几个 Windows 实用技巧](https://mp.weixin.qq.com/s/vPXae_ylqPTTNKoGMN__gg) 分享过通过修改hosts访问GitHub ，这个扩展可以很方便的管理hosts文件，扩展地址 https://chrome.google.com/webstore/detail/hostadmin-app/mfoaclfeiefiehgaojbmncmefhdnikeg 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-146ed8d57f03dfd9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -2213,4 +2216,71 @@ new bing没有历史记录保存功能，每次刷新就没了，如果想导出
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-2609916707df7154.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 选择文字可用翻译，总结，润色，情感分析，代码解释。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-9bb0a2eeb4e98564.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# JourneyDraw Midjourney By ChatGPT  
+基于ChatGPT的AI智能绘画技术，打造最先进、最高质量的图片生成工具
+https://chrome.google.com/webstore/detail/free-ai-draw-journeydraw/nphnjjbohmfkjbphbddjmnddjfiflkme ，效果还行：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5345e9f1d0348b77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# chrome-unlock-new-bing-ai
+如果想在chrome浏览器使用 new bing 可以安装这个扩展https://chrome.google.com/webstore/detail/chrome-unlock-new-bing-ai/nglhdhdfndbadmaiieikpefenkbgpdbf/ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-93a42015e8323e6a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f331112f530dc1fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Voice control for ChatGPT
+这个扩展可以让你和ChatGPT用语音对话https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn，最近更新时间 2023年5月25日
+，比如告诉 ChatGPT 希望它扮演一个 native English speaker 与你对话，并纠正你的单词和语法错误，插件会自动播放语音，用来学英语不错[几个让 ChatGPT 更好用的浏览器脚本神器](https://mp.weixin.qq.com/s/6xqigpjGgvA-9zAC_nbdNA) 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e0be80f57e89c417.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-68b48870b5690214.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# ChatGPT for Google
+在搜索引擎结果中同时显示ChatGPT的回答https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf?hl=zh-CN,支持谷歌，百度，bing等， 最近更新时间2023年5月29日。
+```js
+支持所有主流的搜索引擎
+在获得搜索结果后可直接开始聊天
+从插件弹窗里快速使用ChatGPT
+支持Markdown渲染
+支持代码高亮
+支持深色模式
+可自定义ChatGPT触发模式
+```
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-325aa81039a7a112.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还可以直接在线聊天。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-909f1b4a5fb3e422.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# ICP备案信息
+这个扩展可以轻松查看当前浏览网页的ICP备案信息、Whois、DNS及GEO信息https://chrome.google.com/webstore/detail/icp-query-extension/plmfnmaihcmijdanpbondfejclejejfa/， 最近更新时间2023年5月8日。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3c55db208055ac8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# New-Bing-Anywhere 
+有了这个扩展可以在任何Chromium内核的浏览器中使用New Bing [微软New Bing开放了](https://mp.weixin.qq.com/s/9GdwGizh63aNFlYZ3jlxgA)，比如 Chrome浏览器https://chrome.google.com/webstore/detail/new-bing-anywhere/hceobhjokpdbogjkplmfjeomkeckkngi/reviews ，最近更新时间2023年5月11日。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ffabd7020a3d0fb1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c196a2826d9e163c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 猫抓
+这个网页媒体嗅探扩展之前分享过，2023年5月28日又更新了 https://chrome.google.com/webstore/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb，可以很方便的下载网页音频和视频，比如微博视频： 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-63f42c7ae43112d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+对于b站这种视频先下载ts文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1b1922951cba8eaa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后发送到ffmpeg转换mp4 https://ffmpeg.bmmmd.com/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-38946967eb91504c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# UseChatGPT 
+最后这个厉害了https://chrome.google.com/webstore/detail/usechatgptai-chatgpt-ai-c/mhnlakgilnojmhinhkckjpncpbhabphi，它能在任何网站上让 ChatGPT（插件和GPT-4）、Bard、Bing和Claude 帮你改写、加长、缩短、总结、翻译、解释或回复网页上的任何文字，直接选中文本一键就能完成， 最近更新时间2023年5月29日。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-90389c7e4167bedf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如这段话改写对比效果：
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3c6c1c0e392fe97c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+修复拼写和语法效果如图，Python改为了大写开头：
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-70e1ac6551b748f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+翻译效果如图，支持各种语言：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1e5f15cfd56ac158.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 解除网页复制的限制
+有些网站禁止复制文字，如果不想安装https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc 这类浏览器扩展，可以打开浏览器控制台执行`document.body.contentEditable=true;document.body.outerHTML=document.body.outerHTML;`，然后就可以编辑和复制网页了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b171c072d169a74b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+edge浏览器还有个网页捕获功能，捕获后直接复制。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0256211c588f5446.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+最后再说个冷知识[分享几个有趣实用的冷知识，涨知识了](https://mp.weixin.qq.com/s/EwOiFpRLA-J0r4nQNMRo5g)，@标识符前面的字符会被浏览器忽略，所以这个地址 `https://www.baidu.com@google.com`实际是打开了谷歌，不要看域名就以为链接安全。
 
