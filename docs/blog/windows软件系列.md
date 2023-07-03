@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-6-18
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-7-3
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1851,6 +1851,7 @@ f4.write(date+','+trimName(title)+','+f'http://v.qq.com/x/page/{i}.html'+','+art
 每个时间点都有截图：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-7db63c4fa46c6cbe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-180d5e7ec2821f21.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-91826c72b66df8f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # PowerToys  
 这是微软官方开发的 Windows 辅助小工具https://github.com/microsoft/PowerToys，提供一系列的实用小工具，集成了包括置顶窗口、保持唤醒、颜色选取器、图像大小调整，文件占用解除，OCR 功能等功能。 
@@ -2393,4 +2394,79 @@ host和port为`*`就可以。
 
 注意如果不想抓包了把Charles代理关了，否则电脑开了代理就用不了我的公众号文章下载工具[2023 更新版：苏生不惑开发过的那些原创工具和脚本](https://mp.weixin.qq.com/s/AW58m6TZGBBZLm-ScnuvGw)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-916395b93d5a7855.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# LastActivityView
+这个工具可以显示用户进行的操作和电脑发生的事件日志https://www.nirsoft.net/utils/computer_activity_view.html ，方便查看别人在你电脑做过什么操作。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f91258cf98b761c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果想更详细点用之前分享过的Windows使用记录查看工具。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-44851ae6642c2891.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 文库下载器
+最新的百度文库下载工具[2023 最新一键下载百度网盘/阿里云盘/百度文库/道客巴巴/原创力文档](https://mp.weixin.qq.com/s/lQOItIsPkS_6F9LDGz7-2w)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9360802604c13eb0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# SoftCnKiller
+一个简单实用，功能全面清理流氓软件的工具，一键快速清理电脑中的各种流氓软件和广告弹窗，我最近重装了系统，所以什么也没。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-12c86bc54f40a9ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# WinSnap
+一个小巧绿色的截图工具，内置图像编辑器：箭头，矩形，文本注释等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-820f040a93d6ab52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+顺便分享下这个屏幕标注工具，可以直接在屏幕上划线、写字、涂抹、线框等标注，还可以分享标注后的屏幕。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0a8d65e16b0f74f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ace5fda540d24737.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 文件重命名
+一个简单的批量文件和目录重命名工具https://github.com/Minuhy/YuReRenameTool，支持正则替换文件内容，批量导入文件，修改扩展名。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2a3e884bf382810c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 照片拼图
+这个工具可以轻松制作任意形状的图片拼图，如矩形、心形、圆形、字母等形状。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ef3dcb92039a59b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+有点类似之前分享过的极速图片合成拼接器，支持自定义图片顺序和排版。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dde2fcbd5ac36ea5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 文档转换
+这个工具可以对WORD， PDF， EXCEL批量互转 、替换内容、转换图片、合并图片、合并PDF等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-597fe37b545a9781.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#  MystiQ
+一个基于ffmpeg的媒体转换工具https://github.com/swl-x/MystiQ ，可以转换媒体格式为mp4视频、mp3音频等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-61f0b3b733590f3f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Inpaint
+一个专业的去图片水印瑕疵工具，可以去除图片中不想要的部分，比如水印、划痕、污渍、标志等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6cbf459bf38a295e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 微软文字转语音
+一个基于微软语音接口的文字转语音工具，支持不同的角色选择和语音风格，可以调整语速、音高、音量。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-586dfb23fcaf49a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# ApowerREC 
+一个支持Windows、Mac、Android、iOS 的多平台录屏工具，支持屏幕录制、视频转换、快速截图、高音质录音。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-733f965c19eb3229.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果想简单的录下屏用这个截图工具FastStone Capture https://www.faststonesoft.net/DN/FSCapture100.zip
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-04dcd26cb17fdfec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8584a13ed62929fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# ChatAll
+
+http://chatall.ai/ ，可以让你同时与多个 AI 机器人实时聊天，把一条指令同时发给多个 AI，帮助你发现最好的回答https://github.com/sunner/ChatALL/blob/main/README_ZH-CN.md，支持 ChatGPT、Bing Chat、bard、Alpaca、Vincuna、Claude、ChatGLM、MOSS、iFlytek Spark、ERNIE 等主流 AI 聊天机器人，功能有：
+```js
+快速提示模式：可连续发送多次 Prompt
+本地存储聊天记录
+自动高亮回复内容
+保持 ChatGPT 不掉线
+禁用/启用任意机器人
+多语言支持、多视图切换
+支持 Windows，macOS 和 Linux
+```
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-295e87376d93caf7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+有点类似之前分享过的https://github.com/chathub-dev/chathub
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-27c7e0069a462ad1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+我安装的是Windows版本，可以选择需要的ai。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d38bb8e18e76ac8b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+测试下与new bing对话。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ea37debbac3ca637.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 剪贴板记录
+win+v可以查看剪贴板记录，不过记录有限，https://github.com/sabrogden/Ditto/ 这个工具把你复制过的文字和图片都记录下来了。  https://ditto-cp.sourceforge.io/   
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-71ae1320eca8d14e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的还有这个https://github.com/hluk/CopyQ
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-54247fa8f927d131.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+如果想共享剪贴板试试https://www.anl.ink  ，直接Ctrl + C和Ctrl + V在手机和电脑之间使用。
 

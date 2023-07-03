@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-6-18
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-7-3
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1413,11 +1413,11 @@ https://chrome.google.com/webstore/detail/itab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1
 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-324fa26f90ecf11e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # omni
-最后推荐这个有 50 多项特性，功能强大的 Chrome 扩展，它为提高生产力而生，你可以像极客一样使用 Chrome，比如快速切换和搜索页面标签，浏览和管理书签，搜索网页浏览历史记录，并集成了 Notion、Figma、Docs 等，扩展地址https://chrome.google.com/webstore/detail/omni/mapjgeachilmcbbokkgcbgpbakaaeehi?hl=zh-CN github.com/alyssaxuu/omni 
-
-输入 /history 会自动切换到搜索浏览历史记录：
+最后推荐这个有 50 多项特性，功能强大的 Chrome 扩展，它为提高生产力而生，你可以像极客一样使用 Chrome，比如快速切换和搜索页面标签，浏览和管理书签，搜索网页浏览历史记录，并集成了 Notion、Figma、Docs 等，扩展地址https://chrome.google.com/webstore/detail/omni/mapjgeachilmcbbokkgcbgpbakaaeehi?hl=zh-CN github.com/alyssaxuu/omni  ，使用快捷键Ctrl+Shift+K 打开输入 `/history` 会自动切换到搜索浏览历史记录：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-a63505adb8f83fbb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 还有 /tabs 在打开的标签页搜索和跳转，/bookmarks 搜索书签，/actions 搜索可用动作，/remove 删除书签或者关闭某个tab，/actions搜索支持的跳转操作。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3aa9ca7744d6c302.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 # FakeScreenshot  
 这个chrome扩展一键修改微博内容 https://chrome.google.com/webstore/detail/fakescreenshot/jiojdapfbpmhpihdejiglphhoeakjhmi/ ，如果你下载不了，在公众号后台回复 ``获取扩展文件 ，如何安装chrome扩展见之前我的文章[上不了谷歌如何安装 Chrome 扩展？](https://mp.weixin.qq.com/s/xC9K_z7zpmAIEzUK6s1x3w)

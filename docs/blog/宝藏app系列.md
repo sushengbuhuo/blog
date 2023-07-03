@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-6-18
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-7-3
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1755,4 +1755,25 @@ https://wwwo.lanzoum.com/b018e4jsf 密码 BBLL
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-9d5e75a15ae9cf5c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 输入公众号文章链接也可以下载网页里的视频[再次更新：2023批量下载公众号文章内容/话题/图片/封面/视频/音频，导出文章pdf，文章数据含阅读数/点赞数/在看数/留言数](https://mp.weixin.qq.com/s/NBtb5wp5AgPdCTGqObdT5Q)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-d21cb35a1e60877f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Zlibrary
+https://singlelogin.me/  https://singlelogin.site/ https://singlelogin.re/  
+
+默认每个号一天只能下载10本电子书，下载并登录桌面客户端后可以获得 1 个月高级会员，每天可下载 999 本，还支持文件转换、更多搜索结果等高级功能。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cae32abbf832e3ec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+这里以安卓版本演示下，打开app注册或登陆账号。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-04fd33204d40065c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7538dc46167c19fa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+登陆成功。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2afc34b873170d0a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜索电子书。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-22c65cfaa8669b5b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-47e3b567efae6874.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+开始下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3bae1d06b77a1e3d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c8ab3b1c49b5d2dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
