@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-7-3
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-8-6
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -2461,7 +2461,7 @@ http://chatall.ai/ ，可以让你同时与多个 AI 机器人实时聊天，把
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-d38bb8e18e76ac8b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 测试下与new bing对话。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-ea37debbac3ca637.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-### 剪贴板记录
+# 剪贴板记录
 win+v可以查看剪贴板记录，不过记录有限，https://github.com/sabrogden/Ditto/ 这个工具把你复制过的文字和图片都记录下来了。  https://ditto-cp.sourceforge.io/   
 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-71ae1320eca8d14e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -2469,4 +2469,50 @@ win+v可以查看剪贴板记录，不过记录有限，https://github.com/sabro
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-54247fa8f927d131.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 如果想共享剪贴板试试https://www.anl.ink  ，直接Ctrl + C和Ctrl + V在手机和电脑之间使用。
+
+# musicfox
+这是用golang开发的一个网易云音乐命令行客户端https://github.com/go-musicfox/go-musicfox，适合有能力的小伙伴使用。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-82193ebb74339dae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4160e65f277dc547.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 微信清理
+这个工具也是用来清理微信 PC 版缓存数据，可以针对不同微信账号清理（不会清理聊天记录），分为安全、警告、危险3个类别清理，清理前需要退出微信。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-70134ccef2842b8b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+不过使用以上软件清理还是不够彻底，我是隔段时间手动清理FileStorage目录下的cache和video。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6cae89a661c6ab98.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3fe047a66f346c93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+关键是微信的存储机制不改变，貌似没有什么好的办法，迁移聊天记录太慢，如果不在乎聊天记录重装微信吧。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dae34441af8e85c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# QtScrcpy
+第一个是https://github.com/barry-ran/QtScrcpy ，支持Windows、Linux和MacOS三大系统，可以很方便的用电脑控制手机，把安卓系统桌面投屏到电脑上，画面清晰流畅，基本无明显延迟，支持有线和无线连接操控手机，可同时操作16个设备，还能群控。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8e340994c2957fb2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+首先打开手机在开发者选项中开启USB调试，就是连续点击版本号。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d53e3ecac40558aa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后用手机数据线连接电脑，打开QtScrcpy就能扫描到你的手机设备，双击连接即可启动，效果如图，可以用电脑上操作手机玩微信刷朋友圈了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aa948563bdeeb415.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果没有数据线可以通过wifi连接，需要手机和电脑在同一wifi，然后点击获取设备IP，启动adbd，点击无线连接即可。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-59eb014c370b2f76.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# anlinksoft
+第2个是https://anl.ink/ https://cn.anlinksoft.com，使用上比 QtScrcpy操作更简单，而且功能上更丰富，比如共享剪切板（可以在电脑手机间复制粘贴）、互传文件等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5911443a51087342.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b20de30f77f02de1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+刷支付宝也是一样的。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3f104820ac0cdb01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+直接在电脑端输入同步到手机，摸鱼更方便了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-34636e7ed80175e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 小说规则下载器
+这个工具下载小说功能非常强大，在主界面新建任务确定小说目录页链接，再设置目录页规则，成功捕获后调整下载章节，最后生成下载任务，选择合适的方式下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-71f289991c2383d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b38ce306ddfee40f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 小强阅读
+这个工具有点类似手机上的阅读 APP，支持导入阅读本地小说和在线查找搜索小说资源。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c49d48e09b6403f0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f2df252aa62c1136.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9acbfa95137e59f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 

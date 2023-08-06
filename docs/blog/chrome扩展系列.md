@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-7-3
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-8-6
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -2283,4 +2283,43 @@ edge浏览器还有个网页捕获功能，捕获后直接复制。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-0256211c588f5446.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 最后再说个冷知识[分享几个有趣实用的冷知识，涨知识了](https://mp.weixin.qq.com/s/EwOiFpRLA-J0r4nQNMRo5g)，@标识符前面的字符会被浏览器忽略，所以这个地址 `https://www.baidu.com@google.com`实际是打开了谷歌，不要看域名就以为链接安全。
+# Console Importer
+有时候需要在浏览器调试用到jquery,lodash，react,vue等框架，这时候就要借助`$i`，可以用这个扩展来安装https://chrome.google.com/webstore/detail/console-importer/hgajpakhafplebkdljleajgbpdmplhie/ ，比如使用$i('jquery')来安装jquery。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-504ca7242216fb61.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 网页提醒水印
+https://chrome.google.com/webstore/detail/environment-indicator/kgdbcpllbbnimjgoiomfdebldcofmlbl 这个扩展功能很简单，监测到用户配置的域名之后，在网页上添加水印，效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6f002718afd81f6b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8aef8d51c8b8de61.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Link Grabber
+https://chrome.google.com/webstore/detail/link-grabber/caodelkhipncidmoebgbbeemedohcdma 这个扩展可以轻松获取网页上所有链接，比如[2023 更新版：苏生不惑开发过的那些原创工具和脚本](https://mp.weixin.qq.com/s/AW58m6TZGBBZLm-ScnuvGw) 这个网页的所有链接。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1d36846f5bf8122a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+当然也可以写个脚本`linkList = Array.from(document.getElementsByTagName("a")).map(item=>item.href)`
+# WebPilot
+有了https://chrome.google.com/webstore/detail/webpilot-copilot-for-all/biaggnjibplcfekllonekbonhfgchopo 这个扩展不需要ChatGPT Plus就可以体验WebPilot了，可以对网页摘要、全文翻译、基于网页内容提问。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7710d5dd3407a60c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# AIPRM for ChatGPT
+https://chrome.google.com/webstore/detail/aiprm-for-seo/ojnbohmppadfgpejeebfnmnknjdlckgj 这个扩展可以为你在chat官网提供很多精选的的指令模板列表，比如 SEO、营销、文案、生产力等，在输入框的上方会出现预设选项栏，有语种，语气和写作风格三种预设功能，根据需求选择即可。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d20ed1fd7447d08e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# bing-sidebar-for-chrome
+之前分享过这个扩展https://github.com/haozi/New-Bing-Anywhere可以在谷歌浏览器使用new bing。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8e06c41a70b45cd9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+有了这个扩展可以在任何Chromium内核的浏览器中使用New Bing [微软New Bing开放了](https://mp.weixin.qq.com/s/9GdwGizh63aNFlYZ3jlxgA)，比如 Chrome浏览器https://chrome.google.com/webstore/detail/new-bing-anywhere/hceobhjokpdbogjkplmfjeomkeckkngi/reviews ，最近更新时间2023年5月11日。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ffabd7020a3d0fb1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c196a2826d9e163c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+https://chrome.google.com/webstore/detail/bing-sidebar-for-chrome/ncjedehfkpnliaafimjhdjjeggmfmlgf 这个扩展把 Edge 里的 Bing 侧边栏搬到了 Chrome ，可以根据当前浏览的网页进行问答。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a5704c56aff62605.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+直接总结网页。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3b213daad4ed0e47.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# listen1
+Listen 1可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面，支持浏览器扩展，安卓，Windows和Mac系统https://listen1.github.io/listen1/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-875a612a68fbd076.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c7350048866ed0c1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 

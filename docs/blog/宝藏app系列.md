@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-7-3
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-8-6
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1775,5 +1775,57 @@ https://singlelogin.me/  https://singlelogin.site/ https://singlelogin.re/
 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c8ab3b1c49b5d2dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+# 李跳跳真实好友
+目前依然可用的检测删除你的微信好友，原理是通过转账检测，使用前开启无障碍权限，异常列表里就是删除你的好友，点击复制对方微信号去微信删除他。
 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-378b8fc518d60c0b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+推出微信或者软件终止检测。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f2f82ffd6e569ee4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 鲨鱼听书
+又一个听书神器，内置丰富资源，真人专业的演播，音色根据剧情的走动调整。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9ba3d7d9ac63fe9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ff804a0de407cb0f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 短视频小秘书
+这个app支持下载抖音，快手，b站等平台视频。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c9c3c3584638b8b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0d67d44e27c64931.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 傻瓜英语
+又一个英语学习app，采用真人视频发音，跟着美国人口型学习单词的读音，学习当下最标准最正宗的美式读音，让你听清每一个音节。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c1751add55b0391e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e2ccbbe46ba26943.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Unit Converter
+适用于日常任务的单位换算计算工具，包括能量、物理、时区等。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-15a26ffed02b4f53.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b460ac64ba69c7e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Alook
+一个简单又强大的手机浏览器https://www.alookweb.com，无推送，无新闻，无广告，内置去广告和翻译插件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a4e665cced5fe246.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-086c54677d65b3a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# GIF制作编辑器
+一个简单的GIF制作编辑器，可以图片转gif，视频转gif，gif转视频，gif转图片等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-be4561635a5bb196.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3fec8fdc185252e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 洛雪音乐
+如果只推荐一个音乐app那就是免费的开源软件洛雪音乐https://github.com/lyswhut ，聚合了多个音乐平台的资源，有电脑和app版本 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-35a0a204e989df44.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f627324710965888.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bc0d7c07439b355d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜索直接收听，而且无广告，堪称业界良心。
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c8172d886cb23efb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 阅读app
+这个app不用多介绍https://github.com/gedoor/legado ，看过小说的都知道 ，只要导入书源就可以看各种小说了，书源地址在公众号苏生不惑后台回复 `小说`。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ec154ba478bbc640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d538368be5f6cd44.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-504d698a0219cb56.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜索金庸的《神雕侠侣》。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dbe3ed2635593755.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f648228ee6316be6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
