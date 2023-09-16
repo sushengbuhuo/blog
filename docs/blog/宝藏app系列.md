@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-8-6
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-9-16
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1828,4 +1828,31 @@ https://singlelogin.me/  https://singlelogin.site/ https://singlelogin.re/
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-dbe3ed2635593755.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 效果如图：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-f648228ee6316be6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 黑盒闪搜
+一个文件搜索利器，堪称手机版的Everything，可以快速搜索手机中的任何类型文件，包括、图片、文档、视频、压缩包、音频、安装包等 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5b2c0701e781ebe0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3f7f5714c369b897.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 狐猴浏览器
+一个可以安装chrome扩展的浏览器https://lemurbrowser.com/app/zh，支持大多数 Chrome 桌面扩展。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f8c8c921224ee97e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-31e5782eed914100.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 阅读app
+这个app不用多介绍https://github.com/gedoor/legado ，看过小说的都知道 ，只要导入书源就可以看各种小说了，书源地址在公众号苏生不惑后台回复 `小说`。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ec154ba478bbc640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d538368be5f6cd44.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-504d698a0219cb56.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+搜索金庸的《神雕侠侣》。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dbe3ed2635593755.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f648228ee6316be6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 微博轻享版
+这个版本的微博很清爽，时间线正常。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b20946c41a10fe9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-67f25f5396316871.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 哔哩哔哩精简版
+一个精简去广告版的b站，如果有条件可以用国际版b站。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cd0219276a94247d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-265202367030d864.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

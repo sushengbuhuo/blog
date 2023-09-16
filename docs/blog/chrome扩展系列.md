@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-8-6
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-9-16
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -2322,4 +2322,49 @@ Listen 1可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，�
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-875a612a68fbd076.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-c7350048866ed0c1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+# zlibrary
+现在出了浏览器扩展https://chrome.google.com/webstore/detail/z-library/eebjmekegoofamhbnjoboeifabhbbddn，再也不用担心找不到Zlibrary地址了，安装扩展后点击会跳转到一个可用的地址。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e2abcd06e31245a5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+登陆账号就可以用了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-40b0a3e8842c2322.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+不需要魔法访问，如果不想安装扩展可以在公众号苏生不惑后台回复 `电子书`获取直接访问的地址。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-289a380b2ba79e4f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如搜下之前分享的这本书https://zlibrary-china.se/book/25216608/5cdee9《老实人启蒙》。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-da213647908ab443.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+顺便再分享下类似的《小人研究》。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8c167be9950610df.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+以及刘墉的《我不是教你诈》，告诉你不吃亏的学问，带你认清这个世界。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-478309610bd1efdf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a666168ad304f761.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-31c82adf695ebc0d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# printfriendly
+这个扩展将网页内容保存为 PDF  https://chrome.google.com/webstore/detail/printfriendly-print-and-p/ohlencieiipommannpdfcmfdpjjmeolj，保存效果特别好。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1cb6431542dc22fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4d0773ffebbcc88e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 火山翻译
+字节跳动旗下机器翻译品牌火山翻译开发的多语言翻译插件https://chrome.google.com/webstore/detail/%E7%81%AB%E5%B1%B1%E7%BF%BB%E8%AF%91-%E5%88%92%E8%AF%8D%E5%92%8C%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91/klgfhbiooeogdfodpopgppeadghjjemk/related，支持网页一键翻译、划词翻译、英语词典、生词本、吐司弹词记忆等功能。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-32bda0c66287b809.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+还提供网页版https://translate.volcengine.com
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-552c3547ff2d055e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# shareclaude
+这个插件可以方便的分享https://claude.ai 会话 https://chrome.google.com/webstore/detail/shareclaudeeasily-share-c/blolnhpjnkcjhkbmhmfaihfcdpjnfcnf
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bc3fe7fa04a4cf7b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+生成效果：https://shareclaude.top/c/mdydpkz
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c30f8729f28513fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 语雀剪藏
+这个扩展可以方便捕捉、剪藏网页到语雀，方便日常收集灵感、信息使用https://chrome.google.com/webstore/detail/%E8%AF%AD%E9%9B%80%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/hnbdgfongnkfgnbpamndfiiedhapfecn/related 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1adb97433844155a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 拼音搜索
+一个支持拼音搜索的浏览器扩展https://chrome.google.com/webstore/detail/pinyinsearch-%E2%80%A2-%E6%8B%BC%E9%9F%B3%E6%90%9C%E7%B4%A2/fejaoeigldmlmkplacjhhmbclogihako，在地址栏输入 j + 空格即可使用拼音搜索浏览器历史记录、书签、标签页，支持全拼、首字母、小鹤双拼。https://github.com/onezhjp/pinyin-search
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-18ee507da0dac471.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

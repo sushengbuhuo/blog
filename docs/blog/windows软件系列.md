@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-8-6
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-9-16
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -517,6 +517,18 @@ INFO: Initial texture: 720x1560
 一个从2013年更新至今的分流抢票神器https://www.bypass.cn/，国庆节回家还没买到票可以试试。
 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-0f806d9a43c66317.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+bypass这个抢票神器持续更新多年，最近更新时间9月16日，依然是Windows上最好的抢票工具。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ecd5a2a63ff5c247.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+打开软件扫码登陆。 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-706cbae455ebf58c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+它可以自动查询车票并识别验证码，支持多天、多车次、多席别、多乘客等功能，只需要添加乘客信息，选择席位和车次就可以自动抢票，建议选全程票，多花点钱能买到票值得。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-45c8ee0099ba27a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以设置微信通知。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e87c5ad9a56ab08c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+购票成功。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8ae753081f1a90f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 # 喜马拉雅音频下载
 输入喜马拉雅专辑或者单个音频地址即可下载，比如郭德纲的https://www.ximalaya.com/xiangsheng/10091654/ 。
 
@@ -2515,4 +2527,159 @@ win+v可以查看剪贴板记录，不过记录有限，https://github.com/sabro
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-f2df252aa62c1136.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-9acbfa95137e59f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+# localsend 
+一个局域网传输工具 https://github.com/localsend/localsend，Windows和Android保证在同一个WiFi下使用就可以传输文件了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-53833f91301d8202.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d2cbdd4f2434d6b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 格式工厂
+一个多功能媒体格式转换利器，支持几乎所有类型多媒体格式之间的相互转换，包括各种视频、音频、图片等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7a7706add0783940.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b6ed62665c4954e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 定时点击器
+这个工具可以帮你解决重复任务，节约时间，设置好命令后自动执行。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9d2786793a74d308.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Uninstalr 
+又一个软件卸载工具，可同时批量卸载多个应用程序，自动删除应用程序，监控新软件安装，检测便携式应用程序和以前卸载的软件残留，按文件显示通过安装的软件添加到系统的所有数据，在开始删除之前显示将删除的所有数据，过滤并搜索已安装软件的列表。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8851eafdef4ef92d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 火绒恶性木马专杀
+这个工具体积小,无需安装,没有多余功能，加强了专杀工具针对该病毒的对抗能力和对病毒文件及其注册信息全面清除。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f11cd2c0a603775d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# iwck
+这个工具可以临时锁定键盘输入https://github.com/Nigh/I-wanna-clean-keyboard，用来清洁键盘，点击Block屏蔽键盘输入，再次点击恢复。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cea1b200975885c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 公文写作神器
+一个写公文必备神器，解放你的脑细胞。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0a69eb164706039b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Dont Sleep
+这个工具可以防止系统关机休眠重启，下载电影或者大文件要出去的时候用得上 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7cc5b5216b8f8bd9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#  TCPView
+这个工具可以查看端口占用情况，会显示系统中所有 TCP 和 UDP 端点的详细列表，包括本地和远程地址以及 TCP 连接的状态。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f8b9d8fadfc4c37e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如搜索8888可以看到charles占用了。
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-d75a2217c33adda2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# mpv播放器
+一个开源跨平台免费无广告的播放器，支持绝大多数视频、音频、图片、字幕格式，不需要像mpc或potplayer那样设置解码器渲染器字幕渲染，自定义功能极为丰富，支持javascript和lua脚本 https://github.com/mpv-player/mpv/wiki/User-Scripts
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b42a9c45935f1c76.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# LastActivityView
+这个工具可以显示用户进行的操作和电脑发生的事件日志https://www.nirsoft.net/utils/computer_activity_view.html ，方便查看别人在你电脑做过什么操作。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f91258cf98b761c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果想更详细点用之前分享过的Windows使用记录查看工具。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-44851ae6642c2891.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 文库下载器
+最新的百度文库下载工具[2023 最新一键下载百度网盘/阿里云盘/百度文库/道客巴巴/原创力文档](https://mp.weixin.qq.com/s/lQOItIsPkS_6F9LDGz7-2w)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9360802604c13eb0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# SoftCnKiller
+一个简单实用，功能全面清理流氓软件的工具，一键快速清理电脑中的各种流氓软件和广告弹窗，我最近重装了系统，所以什么也没。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-12c86bc54f40a9ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# WinSnap
+一个小巧绿色的截图工具，内置图像编辑器：箭头，矩形，文本注释等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-820f040a93d6ab52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+顺便分享下这个屏幕标注工具，可以直接在屏幕上划线、写字、涂抹、线框等标注，还可以分享标注后的屏幕。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0a8d65e16b0f74f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ace5fda540d24737.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 文件重命名
+一个简单的批量文件和目录重命名工具https://github.com/Minuhy/YuReRenameTool，支持正则替换文件内容，批量导入文件，修改扩展名。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2a3e884bf382810c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 照片拼图
+这个工具可以轻松制作任意形状的图片拼图，如矩形、心形、圆形、字母等形状。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ef3dcb92039a59b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+有点类似之前分享过的极速图片合成拼接器，支持自定义图片顺序和排版。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dde2fcbd5ac36ea5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 文档转换
+这个工具可以对WORD， PDF， EXCEL批量互转 、替换内容、转换图片、合并图片、合并PDF等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-597fe37b545a9781.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#  MystiQ
+一个基于ffmpeg的媒体转换工具https://github.com/swl-x/MystiQ ，可以转换媒体格式为mp4视频、mp3音频等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-61f0b3b733590f3f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Inpaint
+一个专业的去图片水印瑕疵工具，可以去除图片中不想要的部分，比如水印、划痕、污渍、标志等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6cbf459bf38a295e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 微软文字转语音
+一个基于微软语音接口的文字转语音工具，支持不同的角色选择和语音风格，可以调整语速、音高、音量。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-586dfb23fcaf49a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# ApowerREC 
+一个支持Windows、Mac、Android、iOS 的多平台录屏工具，支持屏幕录制、视频转换、快速截图、高音质录音。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-733f965c19eb3229.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果想简单的录下屏用这个截图工具FastStone Capture https://www.faststonesoft.net/DN/FSCapture100.zip
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-04dcd26cb17fdfec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8584a13ed62929fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 多平台视频解析下载
+这个批量下载工具（下载地址在公众号苏生不惑后台回复 `抖音`），默认使用aira下载视频，如果用不了在下载设置改为http下载，支持下载b站，腾讯，爱奇艺，芒果以及抖音，快手个人主页所有视频，比如刘德华的抖音主页 https://v.douyin.com/rWa6bh8/  ，解析后全选下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-33d863f3b9a217b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+单个视频也可以https://v.douyin.com/eLXBnJE/ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0a11fea0e56c2f98.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+还有b站视频，不过这种下载工具很容易失效的，且用且珍惜。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f8b60f86435839d9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Everything 
+https://www.voidtools.com/zh-cn/ ， Windows 上的一款文件搜索引擎，它基于文件名快速定文件和文件夹位置，搜索效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9efcd8998416586d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+结合Everything  bar https://github.com/srwi/EverythingToolbar 可以直接植入任务栏，保持everything在后台运行，不用打开everything界面。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-44d67b2a8522ccad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-917070e2d4466420.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-455d85c535f79121.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+手机端有对应的anything ，能快速搜索手机端的文件，支持office文档正文内容搜索.
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c7ecb017cc75df6e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aeaa9bfc5d4fd365.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的还有黑盒闪搜这个app，快速搜索手机中的任何类型文件，包括图片、文档、视频、压缩包、音频、安装包等.
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5b2c0701e781ebe0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3f7f5714c369b897.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# dnGrep
+不过Everything只能搜文件名，如果想搜索文件里的内容可以用这个跨文件全文搜索https://github.com/dnGrep/dnGrep ，支持搜索磁盘里txt、word、Excel、PPT、PDF等文件里的内容。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4f47b1616c85675d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-53a7d6551d97fc3c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如搜索我的博客里包含苏生不惑的文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-69adc6b916c91291.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-477d1549433042da.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还支持正则表达式搜索，比如包含github网址` https?://github\.com`
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-250b2476efa63ded.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果习惯命令行推荐用这个 https://github.com/BurntSushi/ripgrep ，其实这个才是我常用的。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-89d11f54f1f13b16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 闪豆多平台视频批量下载器
+复制哔哩哔哩视频地址即可解析视频，包括视频标题，播放量，点赞数，弹幕数，时长，更新时间，可下载视频，音频和字幕。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4e0d9314e3f131dd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果要下载高清晰视频需要登录账号。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6eab85278a376546.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果你的账号是会员，就可以下载会员视频，支持手动设置cookie或者登录账号。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2425f601b1bcc2a7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f91b01f1f2f37796.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还可以批量下载up的所有视频。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f18b589a46b23fd7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+当然还支持下载西瓜视频。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3112f4ef47a3dbea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+腾讯视频。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2433e06e3c80bb9d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+优酷视频。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e1d4937684ca4dfa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+支持搜索视频。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b81ea3afb6ab9c4a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果是不支持的视频网站，你会抓取m3u8视频地址用https://github.com/nilaoda/N_m3u8DL-CLI 或者https://github.com/Harlan-H/M3u8Downloader_H手动下载。
+![img](https://upload-images.jianshu.io/upload_images/23152173-3ee149120ff62684.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# zhouql
+第3个下载神器是这个网站http://zhouql.vip/bilibili/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c8f67c2ad96a9653.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+它还有Windows版 http://zhouql.vip/bilibili/pc/ ，支持下载由UP主上传的单集，多集以及相关封面，弹幕，字幕，音乐，刮削等，登录后最高支持下载1080P视频，大会员可获取所有画质及音质。 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-97a69d8eefcf0a53.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+可选择画质和音质开始下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a551973694a99717.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+下载速度很快。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-12159b1f7ef9a83f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+更多调整可以自己设置。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-42e125d6d32591a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+如果想下载直播视频用这个开源的哔哩哔哩直播录制工具，粘贴房间号或房间链接即可开始录制，可以同时录制直播弹幕、赠送礼物、醒目留言等，保存文件为兼容主站弹幕格式的 XML 文件。
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-29ac37b41d832a38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
