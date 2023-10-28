@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-9-16
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-10-28
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1855,4 +1855,70 @@ https://singlelogin.me/  https://singlelogin.site/ https://singlelogin.re/
 一个精简去广告版的b站，如果有条件可以用国际版b站。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-cd0219276a94247d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-265202367030d864.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 音乐时刻
+这是一款安卓上的手机音乐 APP，支持离线下载音乐，音质可以选择标准超清，无损模式。这款 APP 同样支持导入歌单，复制歌单链接之后，导入 APP，导入歌单并不绝对成功，有一定失败的几率 https://www.123pan.com/s/6zVRVv-rY1md.html https://pan.lanzoum.com/iYgRf161awzg 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a113d22408bc5807.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-310c04a2b79438d5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Papago 
+一个出国旅游必备AI翻译神器，目前支持韩文、英文、日文、中文(简体/繁
+体)、西班牙文、法文、越南语、泰语、印度尼西亚语、俄语、德语、意大利语共13个国家的语言翻译。
+
+https://lanzouq.com/idnTP0uz0kij
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2370e9cd6fe22cd2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f926471daf428b07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# SKIP
+这是一款免费开源的安卓应用 https://github.com/GuoXiCheng/SKIP ，利用 Android 无障碍服务帮助用户快速点击 APP 开屏广告的跳过按钮。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dea8e2a627492cbe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 飞鱼阅读
+这个app自带小说源，无需手动导入源，安装即可看小说，适合小白使用。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-26c21ea1717c1687.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9c1b5a9114ac33fa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Adguard 
+一个好用的广告拦截器，可移除应用和浏览器中的广告
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dab4fd442aa48bae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9cd2351a2da6fab6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# HiPER Calc Pro 
+一个优秀的科学计算器，支持基本算术运算，导数和积分，高级数运算和进制转换等。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2b2c74f477e056d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f218545e43622ca1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 全球网测
+中国信通院出品的网速测试软件
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d46bd3ceced8122e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还支持网络诊断。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4fdb8db170e84e56.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Pure Live
+一个基于Flutter的开源免费聚合直播平台，轻松看直播，支持哔哩哔哩，斗鱼和虎牙3个平台。 所有数据均由本地器获取，不存储在云端，直播数据、视频版权归原平台所有
+https://github.com/Jackiu1997/pure_live  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-01eacd1d945776c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bf7851e94ce7bcce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的软件还有https://github.com/guyijie1211/JustLive-Android ，https://github.com/Jackiu1997/pure_live
+# 活动助手
+京东淘宝双十一全自动活动脚本，解放双手，轻松完成各种活动，第一个活动助手用过好几年了。  https://520xzs.lanzouy.com/b0125styf  https://520xzs.lanzouy.com/b00zseb6f
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4939f8d29674fba5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+打开app需要先开启障碍服务权限。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ce0de505bfb30504.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c1083f938cae9acc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后选择对应要完成的任务（京东领红包，淘宝领红包，芭芭农场），开始运行。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f382a848914efcd9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2d6facc13daf0bc6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Kola京东淘宝任务助手
+http://disk.lanzoum.com/b0c2sg3tg  https://docs.qq.com/doc/p/4c534f66c592b114842b6104bdc3ba5f3a3be94b https://github.com/SuperMonster003/AutoJs6/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aed10d771300c9df.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+同样先开启权限。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d49b49d45d632925.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f525fa8cd50e5589.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+勾选对应的任务自动执行就可以了。 https://github.com/czj2369/jd_tb_auto  https://github.com/MonsterNone/tmall-miao
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7d30e375fbd04cbb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
