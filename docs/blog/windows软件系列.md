@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-9-16
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-10-128
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -2681,5 +2681,161 @@ https://www.voidtools.com/zh-cn/ ， Windows 上的一款文件搜索引擎，�
 
 
 如果想下载直播视频用这个开源的哔哩哔哩直播录制工具，粘贴房间号或房间链接即可开始录制，可以同时录制直播弹幕、赠送礼物、醒目留言等，保存文件为兼容主站弹幕格式的 XML 文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-29ac37b41d832a38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 微信dat转图片
+这个工具在之前文章分享过[微信，你变了](https://mp.weixin.qq.com/s/L0vozhnkkNOzkLGAkxiMkA)，可以将微信加密的dat图片转换为jpg，我的dat文件路径为D:\wechat_files\WeChat Files\wxid_u9lmgnjx60pg21\FileStorage\MsgAttach\0ca0a4baff215a78eba95ee5ee45f325\Image\2022-06 ，输入开始时间和结束时间开始转换，转换后的图片就能正常打开了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-24b1b5fd58f1f526.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 屏幕放大镜
+这个红色放大镜会随鼠标移动并放大画面，可以放大局部和全屏放大，适合录制视频用。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-337adf987a5c8530.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# DRJ教辅资源下载器
+这个工具可以下载各种教材资料，可以选择年级，科目，版本下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-06a9a2c3517c1dfd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的word文件效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e4f7e46a38b9bea9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# umi-OCR
+一个免费开源，可批量的离线OCR工具https://github.com/hiroi-sora/Umi-OCR ，支持批量识别普通图片并识别文字内容导出，可以忽略指定区域，比如屏蔽掉视频右上角水印和游戏的 UI 内容。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-58b79c2fa9f89ec9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a60115a4f90d4f1c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#  Windows Update Blocker 
+一个Windows10和11系统的禁止更新软件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c5fc0ee2c8d66ba4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Calibre
+一个电子书管理软件 https://github.com/kovidgoyal/calibre ，可以全面满足你的电子书需求，包括图书馆管理，格式转换，新闻，材料转换为电子书。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bd5c97a6381274d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d1c5b717cb6163af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# CCleaner
+老牌Windows清理工具。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-683cb03ca709abf6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Easy Context Menu
+这个工具可以很方便的设置右键菜单。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5e40b9e9fca8a8f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Geek Uninstaller
+一个小巧的软件卸载工具。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-eb6e80e9dd5b9f98.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Anti-Twin
+一个查找和删除重复文件工具，可在单个目录搜索，也可搜索两个目录中的相同文件，支持一键选择重复文件，一键删除，用来查找相册里的重复图片很方便。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6ecc6ca524968892.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的工具还有https://github.com/qarmin/czkawka，如果还想搜索文件和文件内容可以用之前分享的工具[绝对的搜索利器](https://mp.weixin.qq.com/s/ZOcULbht02qImIFa2t5y7Q)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ad7e941ecbe4050a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# FocusOn Image Viewer
+一个快速、轻量级、免费的图片查看器。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2eaa5e3e1c40ac15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Memory Cleaner 
+一个免费开源的内存清理工具https://github.com/H3d9/memory_cleaner ，仅87KB，轻便实用。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c9ade9ed67c2db74.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#  FilelistCreator
+这个工具可生成文件列表，可选择多种文件属性输出，支持txt、HTML、Excel、PNG、JPG等多种导出格式。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ec82616701bdb76a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bb627dcc87f5ec08.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#  Wise Auto Shutdown 
+一个自动关机工具，可以在指定的时间执行电脑关机、重启、注销、休眠和关闭电源等操作。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-66a276d85fd9c7b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# AutoHideDesktopIcons
+这个工具可以隐藏桌面图标和任务栏。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c466c2bf7b1222bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# Rimage_Gui
+这是个Squoosh 的替代品https://github.com/Mikachu2333/rimage_gui ，可以有效缩小图片体积 ，批量选中图片进行格式调整或者压缩，压缩后图片体积疯狂缩小，同时质量变化肉眼基本不可见。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a53064f1afb95946.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#  Free Alarm Clock  
+一个桌面闹钟提醒工具，可以为特定日期和时间设置闹钟，为每日、每周或每月的时间表选择重复闹钟，甚至为特殊场合设置一次性闹钟。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d3addef291ba7c40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 哔哩哔哩直播录制
+这个工具可下载哔哩哔哩直播视频https://github.com/BililiveRecorder/BililiveRecorder  ，粘贴房间号或房间链接即可开始录制，可以同时录制直播弹幕、赠送礼物、醒目留言等，保存文件为兼容主站弹幕格式的 XML 文件。
  ![image.png](https://upload-images.jianshu.io/upload_images/23152173-29ac37b41d832a38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#  QuickLook 
+按下空格键，QuickLook可快速预览文件内容https://github.com/QL-Win/QuickLook 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8f88dfa8a5b273cc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 程序定时器 
+一个类似crontab的定时执行工具，可以设定时多个软件自动启动和关闭
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6877cda9309e828d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Reader
+一个开源免费简洁的小说阅读小工具https://github.com/binbyu/Reader ，支持自动翻页、更改字体、网络小说、快捷键丰富、老板键、修改背景、任意窗口调节等，搭配隐藏窗口即可达到摸鱼的效果。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8ddefd1a3f215fd0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#  Memory Cleaner 
+一个内存进程清理小工具https://github.com/IgorMundstein/WinMemoryCleaner ，降低内存占用  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-84e745677f2298b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 资源管理器加速
+有时候打开文件卡住用这个工具可以加速资源管理器https://github.com/schalkburger/ExplorerF11Fix  ，当然也可以在打开文件资源管理器后按下 F11 全屏再退出全屏。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e7ebfdb7a9050726.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#  ScreenCapture 
+仅2MB的截图贴图小工具https://github.com/xland/ScreenCapture 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-05de16d0c6cb9346.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#  bookget 
+一个数字古籍图书下载工具https://github.com/deweizhu/bookget ，支持很多国家和地区的图书馆图书下载 ，比如这个http://read.nlc.cn/allSearch/searchDetail?searchType=10024&showType=1&indexName=data_892&fid=002267596 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b249cc30f8e2b279.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的pdf文件：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-98426c540fe936f0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#  CPU-Z 
+电脑装机必备CPU处理器检测工具，能准确的检测出CPU、主板、内存、显卡、SPD等相关信息，包含制造厂及处理器名称，核心构造及封装技术，内部外部频率，最大超频速度侦测，处理器相关可以使用的指令集等各种数据信息
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-486258bdbda9059a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 天若OCR 
+
+天若OCR 开源版本的本地版https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle ，采用 Chinese-lite 和 paddle-ocr 识别，无需联网识别图片中的文字。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-14c97fd695735028.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# PDF-XChange Editor 
+轻量级的PDF文件查看编辑软件，比如编辑之前下载的李健微博pdf。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2b65f1feea6046e4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 文本朗读器 Balabolka  
+
+这个工具可以快速将电脑上的文本内容转换成语音读出来。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c1c9011f4e7a1596.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 鼠标录制器
+一个轻量级鼠标录制器 ，支持轨迹+键盘操作完美复刻 可以把鼠标轨迹和键盘动作录制下来后重新播放的小工具。
+ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-794fec09316e864d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+这里还是以刘德华的抖音号为例，顺便说个事，9月刘德华来新浪总部，我亲自看见华仔了，真的好激动。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-db5b437e8c322ed2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 抖音批量下载
+https://github.com/jiji262/douyin-downloader  https://wwuq.lanzouq.com/iMxS91bvibud 这个工具支持抖音单个作品下载、主页作品下载、主页喜欢下载、直播解析、单个合集下载、主页所有合集下载、音乐(原声)集合下载等，支持指定下载作品数量，可以下载视频、视频封面、音乐、头像，而且是去水印的，会自动跳过已下载。
+
+将下载的DouYinCommand.exe加入环境变量，使用`DouYinCommand.exe -h`可以查看如何使用,支持使用命令行加参数或者配置文件`config.yml`下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1f035ea4a5af8c29.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-edd98e33c46884ec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+首先打开抖音网页版https://www.douyin.com/user/MS4wLjABAAAAU7ibxriLF-GSBF5QKa1Op9hxcMAPVmzmXwXqqvMfrhs 登陆自己账号获取cookie：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-23263febe8f95ab7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+开始下载单个视频`.\DouYinCommand.exe -C True -l https://v.douyin.com/eLXBnJE/   --cookie "xxxx"` ，抖音链接支持app分享地址和网页版地址。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-81d8f23e5f5cc700.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的封面，音频和视频默认在aweme目录，视频还是无水印的。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ef469c209c3bd9de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d450cad5398b371e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+当然单个视频也可以在网页版直接用idm下载。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-31255caa1ffcad80.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+下载抖音主页所有视频`.\DouYinCommand.exe -C True -l https://v.douyin.com/rWa6bh8/     --cookie "xxxx"`，可以指定数量。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-57e51510c6d8d1d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+很快下载完成。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-788583d037b55500.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+下载直播需要将抓取的直播链接复制到浏览器或者idm下载 https://live.douyin.com/813510864755 https://www.douyin.com/user/MS4wLjABAAAALdUKxEH5egQOpeFzjoZYLFxczk3r5p7SK0tehfrDUVM
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bc66f350cde88733.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-962d0a8dfb8dc19d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果还想下载抖音视频数据需要自己改代码，我改动了下可以将数据导出到excel，数据包括视频日期，视频标题，视频链接，点赞数，评论数，收藏数，转发数等。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2fbe8dcb79ad8400.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 小红书下载
+说完抖音接着说小红书下载https://github.com/JoeanAmier/XHS_Downloader https://wwuq.lanzouq.com/ibRG91bvc2wf ，这个也简单，打开工具main.exe输入小红书分享链接https://www.xiaohongshu.com/explore/651bb983000000001e02027c 点下载无水印图片/视频，如果粘贴不了右键->编辑->粘贴，如果要批量下载将分享链接放到xhs.txt文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-050c59a82be5b0a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f8b699a5efd2428d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
