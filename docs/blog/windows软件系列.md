@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-10-128
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-12-10
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -2838,4 +2838,49 @@ https://github.com/jiji262/douyin-downloader  https://wwuq.lanzouq.com/iMxS91bvi
 下载效果如图：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-f8b699a5efd2428d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+# b站的自动签到
+脚本https://github.com/RayWangQvQ/BiliBiliToolPro，功能不少：
+```js
+扫码登录，自动更新cookie
+每日获取满额升级经验（登录、投币、点赞、分享视频，支持指定支持up主）
+每天漫画签到
+每天直播签到
+直播中心银瓜子兑换为硬币
+每月领取大会员赠送的 5 张 B 币券和福利
+每月领取大会员漫画福利
+月底在 B 币券过期前进行充电
+批量取关
+大会员大积分任务
+支持多账号
+```
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-48773c067fa43657.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+有多种执行方式，这里以Windows下为例，下载工具后打开命令行执行`.\Ray.BiliBiliTool.Console.exe --runTasks=Login` ，然后打开b站app扫码登陆。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fbe31127aaa48cc0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+登陆成功后会在本地生成cookie文件cookies.json
+{
+  "BiliBiliCookies":[
+  ],
+}
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c319a46b1e176bf7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后运行`.\Ray.BiliBiliTool.Console.exe` ，输入要执行的任务，比如1就是 完成每日任务获取满额65点经验（登录、观看视频、分享视频、投币），以及签到、领福利和充电等附属功能 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cf552de5976354b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5260678cc7279d67.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+如果需要更改配置修改appsettings.json文件。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-dcde74620815160c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+除了这个工具还可以用这个python脚本让你的b站账号升级更快https://github.com/Wyatt1026/BilibiliDailyUp ，每天增加65点经验值：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4dc8af440371f6a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+运行效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0ab1c689999e3716.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 新浪博客下载
+https://github.com/junyiz/dature ，以古天乐的新浪博客为例，没想到他居然是日更博客 https://blog.sina.com.cn/louiskoo2008，从2008年一直更新到2023年，近6000条博客， 韩寒  http://blog.sina.com.cn/u/1361074815  
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-112b1981194abe07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+ dature.cmd -u 1191258123 -c "cookie"
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ccc079f4abbee10a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+导出的效果如图，左侧为文章标题，右侧为文章内容：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2900fdd5a0bc776c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

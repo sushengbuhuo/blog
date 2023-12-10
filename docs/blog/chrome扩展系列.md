@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-9-16
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-12-10
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -2367,4 +2367,58 @@ Listen 1可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，�
 # 拼音搜索
 一个支持拼音搜索的浏览器扩展https://chrome.google.com/webstore/detail/pinyinsearch-%E2%80%A2-%E6%8B%BC%E9%9F%B3%E6%90%9C%E7%B4%A2/fejaoeigldmlmkplacjhhmbclogihako，在地址栏输入 j + 空格即可使用拼音搜索浏览器历史记录、书签、标签页，支持全拼、首字母、小鹤双拼。https://github.com/onezhjp/pinyin-search
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-18ee507da0dac471.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 导出微博内容pdf
+
+https://speechless.fun/ https://github.com/meterscao/Speechless Speechless 这个浏览器扩展可以将新浪微博的所有内容导出PDF https://chrome.google.com/webstore/detail/speechless-%E5%BE%AE%E5%8D%9A%E5%A4%87%E4%BB%BD/igilfpckopigflpafgoajlljpdhmoall/related?hl=zh-CN，打开https://weibo.com/musiclijian ，点击右上角开始拉取该用户可见的微博内容，自动拼接生成一个页面，然后用 Chrome 的导出 PDF功能合成pdf。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-15a2229c8ea43af6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+可以设置时间范围和内容类型（全部微博，原创微博）。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-540ae8eb722b4c11.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5773fbf564f33b91.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+抓取完后保存为pdf。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-16ad9dcd59912b30.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-35f13138d22c2fc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+使用浏览器打印另存为pdf 。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8e4f99f1ec7d3e97.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+最后生成的pdf文件 https://pan.baidu.com/s/10PnGO5m2BDcwtZSe4PoLEQ?pwd=5uje https://www.aliyundrive.com/s/upcDe8eNJ28
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f8df9880558f1919.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# scraper
+以渤海小吏这个知乎号为例https://www.zhihu.com/people/dai-zong-66 ，首先安装 web scraper 浏览器扩展  https://wwuq.lanzouq.com/i3woM1fz35te  ，安装后打开浏览器控制台点击import sitemap 。
+
+ 
+复制以下代码：
+```js
+{"_id":"zhihu_answer","startUrl":["https://www.zhihu.com/people/dai-zong-66/answers?page=[1-5]"],"selectors":[{"id":"row","parentSelectors":["_root"],"type":"SelectorElement","selector":"div.List-item","multiple":true},{"id":"知乎问题标题","parentSelectors":["row"],"type":"SelectorText","selector":"div[itemprop='zhihu:question'] a","multiple":false,"regex":""},{"id":"知乎问题链接","parentSelectors":["row"],"type":"SelectorElementAttribute","selector":"[itemprop='zhihu:question'] a","multiple":false,"extractAttribute":"href"}]}
+```
+如果想下载所有回答内容可以对抓取的回答链接再提取，这个就自己研究了，对于知乎文章的抓取也是一样的，导入以下代码：
+```js
+{"_id":"zhihu_zhuanlan","startUrl":["https://www.zhihu.com/people/dai-zong-66/posts/posts?page=[1-30]"],"selectors":[{"id":"row","type":"SelectorElement","parentSelectors":["_root"],"selector":"div.List-item","multiple":true,"delay":0},{"id":"知乎标题","type":"SelectorText","parentSelectors":["row"],"selector":"h2.ContentItem-title","multiple":false,"regex":"","delay":0},{"id":"知乎链接","type":"SelectorElementAttribute","parentSelectors":["row"],"selector":"h2.ContentItem-title span a ","multiple":false,"extractAttribute":"href","delay":0}]}
+
+```
+还有知乎话题的抓取，导入以下代码：
+```js
+{"_id":"zhihu_topic","startUrl":["https://www.zhihu.com/topic/19559424/top-answers"],"selectors":[{"id":"row","parentSelectors":["_root"],"type":"SelectorElementScroll","selector":"div.List-item:nth-of-type(-n+10)","multiple":true,"delay":2000,"elementLimit":500},{"id":"知乎标题","parentSelectors":["row"],"type":"SelectorText","selector":"h2 a","multiple":false,"regex":""},{"id":"知乎链接","parentSelectors":["row"],"type":"SelectorLink","selector":"[itemprop='zhihu:question'] a[data-za-detail-view-element_name]","multiple":false,"linkType":"linkFromHref"}]}
+```
+
+哔哩哔哩视频抓取，比如抓取b站上木鱼水心的所有视频 https://space.bilibili.com/927587/video  ，导入以下代码：
+```js
+{"_id":"bilibili_videos","startUrl":["https://space.bilibili.com/927587/video?tid=0&pn=[1-42:1]&keyword=&order=pubdate"],"selectors":[{"id":"row","parentSelectors":["_root"],"type":"SelectorElement","selector":"li.small-item","multiple":true},{"id":"视频标题","parentSelectors":["row"],"type":"SelectorText","selector":"a.title","multiple":false,"regex":""},{"id":"视频链接","parentSelectors":["row"],"type":"SelectorElementAttribute","selector":"a.cover","multiple":false,"extractAttribute":"href"},{"id":"视频封面","parentSelectors":["row"],"type":"SelectorElementAttribute","selector":"a.cover div.b-img picture img","multiple":false,"extractAttribute":"src"},{"id":"视频播放量","parentSelectors":["row"],"type":"SelectorText","selector":".play span","multiple":false,"regex":""},{"id":"视频长度","parentSelectors":["row"],"type":"SelectorText","selector":" a.cover  span.length","multiple":false,"regex":""},{"id":"发布时间","parentSelectors":["row"],"type":"SelectorText","selector":"span.time","multiple":false,"regex":""}]}
+```
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-18c23e47cdc911d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+导出的excel数据包含视频标题，链接，封面，播放量，长度，时间等，从2013到2023年发布视频1200多个。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-26f58372a240f561.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+b站热榜数据抓取,导入以下代码：
+```js
+{"_id":"bilibili","startUrl":["https://www.bilibili.com/v/popular/rank/all"],"selectors":[{"id":"row","multiple":true,"parentSelectors":["_root"],"selector":"li.rank-item","type":"SelectorElement"},{"id":"视频排名","multiple":false,"parentSelectors":["row"],"regex":"","selector":"i.num","type":"SelectorText"},{"id":"视频标题","multiple":false,"parentSelectors":["row"],"regex":"","selector":"a.title","type":"SelectorText"},{"id":"播放量","multiple":false,"parentSelectors":["row"],"regex":"","selector":".detail-state > span:nth-of-type(1)","type":"SelectorText"},{"id":"弹幕数","multiple":false,"parentSelectors":["row"],"regex":"","selector":"span:nth-of-type(2)","type":"SelectorText"},{"id":"up主","multiple":false,"parentSelectors":["row"],"regex":"","selector":"a span","type":"SelectorText"},{"id":"视频链接","multiple":false,"parentSelectors":["row"],"selector":"a.title","type":"SelectorLink"},{"id":"点赞数","multiple":false,"parentSelectors":["视频链接"],"regex":"","selector":"span.like","type":"SelectorText"},{"id":"投币数","multiple":false,"parentSelectors":["视频链接"],"regex":"","selector":"span.coin","type":"SelectorText"},{"id":"收藏数","multiple":false,"parentSelectors":["视频链接"],"regex":"","selector":"span.collect","type":"SelectorText"}]}
+```
+最后是豆瓣电影排行榜 top 250，导入以下代码:
+
+```js
+{"_id":"douban_movie_top_250","startUrl":["https://movie.douban.com/top250?start=0&filter="],"selectors":[{"id":"next_page","type":"SelectorLink","parentSelectors":["_root","next_page"],"selector":".next a","multiple":true,"delay":0},{"id":"container","type":"SelectorElement","parentSelectors":["_root","next_page"],"selector":".grid_view li","multiple":true,"delay":0},{"id":"title","type":"SelectorText","parentSelectors":["container"],"selector":"span.title:nth-of-type(1)","multiple":false,"regex":"","delay":0},{"id":"number","type":"SelectorText","parentSelectors":["container"],"selector":"em","multiple":false,"regex":"","delay":0}]}
+```
+
 

@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-10-28
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-12-10
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1873,6 +1873,8 @@ https://lanzouq.com/idnTP0uz0kij
 这是一款免费开源的安卓应用 https://github.com/GuoXiCheng/SKIP ，利用 Android 无障碍服务帮助用户快速点击 APP 开屏广告的跳过按钮。
 
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-dea8e2a627492cbe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 # 飞鱼阅读
 这个app自带小说源，无需手动导入源，安装即可看小说，适合小白使用。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-26c21ea1717c1687.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1920,5 +1922,79 @@ http://disk.lanzoum.com/b0c2sg3tg  https://docs.qq.com/doc/p/4c534f66c592b114842
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-f525fa8cd50e5589.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 勾选对应的任务自动执行就可以了。 https://github.com/czj2369/jd_tb_auto  https://github.com/MonsterNone/tmall-miao
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-7d30e375fbd04cbb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# gkd
+
+支持订阅去广告规则的新一代安卓跳过广告应用 https://github.com/gkd-kit/gkd  https://wwuq.lanzouq.com/ie9JZ1d6rn0b，一个基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击APP，可跳过任意开屏广告，关闭应用内部任意弹窗广告。 如关闭百度贴吧帖子广告卡片/知乎回答底部推荐广告卡片，一些快捷操作, 如微信电脑登录自动同意/微信扫描登录自动同意/微信抢红包开源版李跳跳： 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1830d9110a2c2df2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cff56a363802be82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7d978e727eddeb86.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# TapClick 
+https://github.com/LGH1996/TapClick https://wwuq.lanzouq.com/i9hL81d6rlba ，开源免费自动跳过开屏广告、弹窗、自动点击安装应用的APP 。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-071bec7aa73310f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-295e8e8a7967d5c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 速悦音乐
+导入源就能用，免费听全网音乐。https://pan.lanzoum.com/xrjmusictook 全网音乐最全，无会员，无广告，无须注册，最稳定的音乐分享应用。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4a27f35bcf3ce0d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7d9bf2cf1c63f28b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d4e008daeb3fdbd6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 噪音分贝仪 
+一个专业的分贝检测仪，高精度噪音检测， 分贝测量，分贝测量仪，分贝仪，噪音测量，精准显示噪音分贝dB数值，实时显示噪音走势图，显示噪音参照，噪音检测历史记录，一键分享，家用电器、空调、冰箱、热水器噪音大小全掌握，还有丰富工具箱指南针、水平仪、手电筒等方便使用。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-44690528709a641c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6a66f8ce45c3877d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# 抖音短视频
+这个版本的抖音体积很小，安装包只有45.5M，功能齐全，界面简洁，速度流畅，无弹窗广告，支持自动连播（也可关闭），机车、手机、平板均支持。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2157e33eb90de682.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 可拓浏览器
+ http://ktllq.cn/ https://www.coolapk.com/apk/com.yjllq.kito
+这个浏览器能安装Chrome，Firefox，Edge上的拓展以及脚本，收录了2W+的谷歌和火狐扩展，观影模式带来强大的播放器，8倍速，长按倍速，投屏，下载，情侣同步看功能应有尽有。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e1ff44ca99bf97a7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-69710a0366da1626.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+安装油猴扩展：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-40b9b478cee32da1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 漫漫漫画
+这个app可以看海量漫画和小说。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5e5f2cda09994e24.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5d9245afa9258d46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b491e2fadc8a5e1e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# 记忆宫殿
+这个app有记忆力、注意力、判断力、思维等脑力训练，记忆方法理论讲解，还有语文、历史、地理、单词等学科的知识点速记方法。
+
+记忆训练项目有：
+```js
+【记忆本能】：瞬间记忆、短时记忆、机械记忆
+【联想记忆】：配对联想、电话薄、车牌识记
+【记忆宫殿】：分组记忆、数字迷宫、单词记忆、句子记忆
+【最强大脑】：百家姓、二维码、指纹姓名
+【记忆比赛】：虚拟年代、抽象图、词语记忆、人名头像、扑克牌、数字记忆、二进制、数字听记
+```
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7b39497a2e19ab51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 京墨
+一个开源免费的古诗词文（名句）、歇后语、成语阅读 APP，献给喜欢中华文字、文学、文化的人,目前的内容有：
+ https://github.com/hefengbao/jingmo  https://gitee.com/hefengbao/jingmo 
+```js
+1、古诗词文 10000 首（阙、篇）；
+
+2、古诗词文名句 10000 句；
+
+3、歇后语 14026 条；
+
+4、成语 30895 条；
+
+5、中国传统色 161 种；
+```
+安装后需要同步数据
 
 
