@@ -1,4 +1,4 @@
-# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2023-12-10
+# Windows软件系列合集，来自公众号苏生不惑的整理，更新时间2024-2-25
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -2884,3 +2884,92 @@ https://github.com/junyiz/dature ，以古天乐的新浪博客为例，没想�
 导出的效果如图，左侧为文章标题，右侧为文章内容：
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-2900fdd5a0bc776c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+# 小红书下载
+ https://github.com/JoeanAmier/XHS-Downloader 是小红书的 图文/视频 作品采集工具，功能有：
+```js
+✅ 采集小红书图文 / 视频作品信息
+✅ 提取小红书图文 / 视频作品下载地址
+✅ 下载小红书无水印图文 / 视频作品文件
+✅ 自动跳过已下载的作品文件
+✅ 作品文件完整性处理机制
+✅ 持久化储存作品信息至文件
+✅ 作品文件储存至单独文件夹
+☑️ 后台监听剪贴板下载作品
+☑️ 支持 API 调用功能
+```
+项目根目录下的配置文件 settings.json 可以自定义部分运行参数，文件默认下载路径_internal\Download。
+
+支持的小红书链接格式有https://www.xiaohongshu.com/explore/作品ID，https://www.xiaohongshu.com/discovery/item/作品ID，
+https://xhslink.com/分享码，比如这个http://xhslink.com/4KK7Yx
+
+打开工具main.exe输入小红书分享链接https://www.xiaohongshu.com/explore/651bb983000000001e02027c ，点下载无水印图片/视频，如果粘贴不了右键->编辑->粘贴。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9de459caa7d0f4a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 批量下载知乎问题下的回答
+ https://wwuq.lanzouq.com/i2oEE1izwnuf，下载地址在我的知识星球https://t.zsxq.com/15U67NnM1：
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-aa175ed0eedda533.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-4799a48449dbe61e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+导出的excel包含每个回答的回答链接，回答作者，回答内容，回答时间和回答更新时间，本来想把回答里的图片也下载了，但是有些回答的图片太多了。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-89d37fa7c8f1f6a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 批量下载知乎回答和文章
+下载所有知乎回答以渤海小吏的号为例
+https://www.zhihu.com/people/dai-zong-66/posts，效果见视频和gif图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9f333c07dd4f4490.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+导出的excel包含所有知乎回答问题标题和链接。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9139688300b99f74.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后用脚本将excel里的回答批量下载：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6f072a52f6ff648b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的所有回答html内容，文件名为回答日期加标题。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-25533acd054e4ebf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+接着批量将html转换pdf，效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-df1eac870ec7e11a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+再将所有pdf合成一个pdf文件：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-d8c9152e0137b30c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+每个回答都有原回答链接。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8492b8670967092f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+ 
+下载所有知乎文章以半佛仙人的号为例
+https://www.zhihu.com/people/banfoxianren/posts，效果见视频和gif图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e02a6593c07aa7fa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+导出的excel数据包含知乎文章标题，链接，评论数和赞同数。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-57a9c61af777e281.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+然后用脚本将excel里的文章批量下载：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b0e950bc8f51a9dd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+下载的所有文章html内容，文件名为回答日期加标题。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-85297707e082ff6b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+接着批量将html转换pdf，效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-94ca17f89d62c24f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+再将所有pdf合成一个pdf文件，每篇文章都有原文章链接：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e27b23734dff5301.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 中小学课本下载
+中小学课本下载器电子版，包含小学，初中，高中的语文，数学，英语，物理等学科教科书。
+https://wwcv.lanzn.com/iGMkw1lrrmba
+密码:9p1b
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0106e5a8bac3dc6d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还可以选择不同的版本（人教版，北师大版，苏教版等）：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-047bf69ded236a62.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+下载的pdf效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c7a2a3e040782a01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+国家中小学智慧教育平台中小学电子课本下载器，乃家长必备神器，打开网站https://basic.smartedu.cn/tchMaterial 找到需要的课本，在课本图上点右键点击复制图片地址，将图片地址粘贴到软件地址栏下载即可。
+ 
+ https://wwnj.lanzout.com/ioLpC1ldurad
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-169c738cf8004a8b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+还有这个python开发的国家中小学智慧教育平台教材下载https://gitee.com/redballoon/python-Spider-Project/tree/master/%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%99%BA%E6%85%A7%E6%95%99%E8%82%B2%E5%B9%B3%E5%8F%B0 ，输入课程名字，版本，选择小学，初中，高中就可以下载了。
+ https://wwky.lanzouo.com/ir9qB1kimocd 
+ 密码:e207
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-3b13ff8bd58b536b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+很快就下载好了。
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-af77022bcc8f7ca7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-cebf996300548a49.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+中小学各年级电子课本下载 初高中电子课本百度网盘下载 http://zj.xdf.cn/kecheng/202002/248571701.html ，比如这个https://pan.baidu.com/s/15Cg2Pds202gfMrYdqCe_IA 
+ ![image.png](https://upload-images.jianshu.io/upload_images/23152173-6ec7cd6d523e6292.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

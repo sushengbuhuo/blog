@@ -1,4 +1,4 @@
-# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2023-12-10
+# 宝藏app系列合集，来自公众号苏生不惑的整理，更新时间2024-2-25
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-341985f4c55f0640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -1437,6 +1437,28 @@ easy163复活版https://github.com/ndroi/easy163
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-84cfdd8de0bdef07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 顺便分享个更精简的全能扫描王（大小不足10M）https://wwuq.lanzoue.com/ieUVR0iz4xja，可以扫二维码，拍照识字，拍照翻译，身份证识别等功能。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-6d79d4531bbc7ba6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bced1f0923018f7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6e01a8d253963d6c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-fc8e3fb6df27a96d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-337ffcde67c5e5af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+拍照翻译，
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e3d1e1d7c9c47507.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+文字提取，文档扫描，表格识别：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-44c4fe7eed23c505.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+证件扫描：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-76cc85246a07ea93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+口算批改：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-341ef7e63f62999c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+试卷擦除：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f7a7ea5a74d81fec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+照片修复：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-47f17f53c57ce433.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+还有ai绘画。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ba201a7df69af7bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7082f39b66d0b509.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 # 活动助手
 打开活动助手app后先开启无障碍，勾选京东炸年兽或者芭芭农场开始运行。https://wwuq.lanzoue.com/i0vx40jjqb5g
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-8e7daaa148da0402.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -1996,5 +2018,84 @@ https://github.com/LGH1996/TapClick https://wwuq.lanzouq.com/i9hL81d6rlba ，开
 5、中国传统色 161 种；
 ```
 安装后需要同步数据
+# bilimiao2
+ https://github.com/10miaomiao/bilimiao2 支持B站视频下载 bilimiao 2.3.1
+ https://10miaomiao.cn/project/1
+ 链接2：https://wwwf.lanzout.com/b01lraydc   密码：80z4
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-2bcfafc2faeb9382.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6b07bd7b666cafed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+如果要下载视频结合这个项目使用https://gitee.com/10miaomiao/bili-down-out
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-5472d6b078b2b784.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 百度网盘体验版
+这个版本提供了百度网盘的核心功能，包括上传、下载和分享文件等，大小不到40M。
+ https://wwqv.lanzout.com/iGBmo1grnxmd
+密码:2nxy
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-8c66a62ff73a84a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bd113368665708b7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 小米亲戚计算器
+又一个小米计算器，可以计算亲戚关系。 
+https://mehaha.lanzouu.com/imrX81j7tv6j
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-a498aaff07110f6c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-82e856aa1bb62969.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 白马地图
+高德的地图、百度的导航，腾讯在旁边看，第三方地图导航应用 
+  https://bmap.lanzouk.com/b01bujs3i
+一个第三方的安卓地图导航应用，聚合了百度/腾讯/高德地图，可以在地图内随时切换地图源、导航源，甚至可以用高德的地图，百度的导航。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-045f93259f888994.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9bb3e5460df2a7f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+北京地铁：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c300031f4101abd3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 文档阅读器One Read
+一款多合一的文档阅读器，完美兼容所有Office文件，如PDF、DOC、DOCX、XLS、XLXS、PPT、TXT等。它可以自动扫描你手机上的文件，把它们整理到一处，放入相应的文件夹，便于你搜索和查看它们。
+https://52pojie.lanzouy.com/tp/ihVhC1fur3fc
+ https://lz.qaiu.top/lz/ihVhC1fur3fc
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-0fa508fc30533f59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b8f146a16f24a8b2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# Cx File Explorer
+一个简洁好用的免费安卓文件管理器，支持各种常见的远程文件管理，轻松访问和管理手机本地、局域网电脑、NAS、远程服务器以及云存储网盘上的文件。
+基本功能方面，Cx File Explorer 基本能满足所有的文件操作需求：浏览、移动、复制、压缩、重命名、提取、删除、搜索、存储空间分析等等都一应俱全。
+https://wwxq.lanzoub.com/ift0S1gb9u6j
+密码:52pj
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-47337572a3f2554f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-76e7c3bc0fe1abfd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://files.mdnice.com/user/33253/3204b703-5bf2-4702-b00a-4ddd9898a1cb.png)
+# 华为花瓣测速
+
+华为出品的专业测网速App，一个集成移动网络和WIFI网络上传、下载以及诊断功能的专业测试工具，可支持运营商2G/3G/4G/5G网络，功能包括手机网络诊断、网络状态定位、游戏测试、蹭网检测和网络地图。
+https://wwqv.lanzout.com/iX1X61h260cj
+密码:9u7i
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-71ea0b2817830576.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9b0cf4fff4528977.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+类似的还有中国信息通信研究院出品的全球网测。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1880543411e4d766.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 古诗文网
+一个纯净的古诗文app，支持翻译、注释、赏析、背诗。
+https://www.gushiwen.cn/  https://m.gushiwen.cn/app/gushiwen/gushiwenorg.apk https://www.alipan.com/s/5LR937MoARG
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-81c65f2582ee2dca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+比如李白的名句。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-261909a0cd1e83e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+# 龙卷风收音机
+一款免费的电台收听软件，可添加收听全球电台。
+
+定时播放、定时关机、断线自动重连、语音报时、在线更新、皮肤切换、多国语言、热键操作等。
+https://www.123pan.com/s/pajLVv-JaBWv.html 密码:xcfH
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-1658f122c0a72261.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-e07cfdaa83679225.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# via
+一个崇尚速度与简约的手机浏览器，支持广告拦截、插件定制、主题自定义等功能https://viayoo.com/zh-cn/  https://github.com/tuyafeng/Via ，安装包大小不过2MB。
+
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-7a0c5c15e991bbe8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b8dc3b360fe13a52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+资源嗅探可以很方便的下载视频：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-10d2ec2dd3b4f9af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b39d196e8b247c2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

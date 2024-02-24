@@ -1,4 +1,4 @@
-# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2023-12-10
+# 优质chrome扩展合集，来自公众号苏生不惑的整理，更新时间2024-2-25
 
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -2420,5 +2420,10 @@ b站热榜数据抓取,导入以下代码：
 ```js
 {"_id":"douban_movie_top_250","startUrl":["https://movie.douban.com/top250?start=0&filter="],"selectors":[{"id":"next_page","type":"SelectorLink","parentSelectors":["_root","next_page"],"selector":".next a","multiple":true,"delay":0},{"id":"container","type":"SelectorElement","parentSelectors":["_root","next_page"],"selector":".grid_view li","multiple":true,"delay":0},{"id":"title","type":"SelectorText","parentSelectors":["container"],"selector":"span.title:nth-of-type(1)","multiple":false,"regex":"","delay":0},{"id":"number","type":"SelectorText","parentSelectors":["container"],"selector":"em","multiple":false,"regex":"","delay":0}]}
 ```
+# 小红书图片视频下载助手
+https://xiaodigua.app/ https://github.com/OldPanda/xiaodigua-homepage，安装扩展后有下载按钮，直接点击下载即可。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-69b479e21874517e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+效果如图：
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c246532002fd10a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
