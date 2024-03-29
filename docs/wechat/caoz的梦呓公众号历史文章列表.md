@@ -1,16 +1,112 @@
-[2024-01-11_如何有效穿越周期](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871831&idx=1&sn=e018d0e87dfa1b5b2805d20a594d84fb&chksm=f1074fbac670c6ac847624cda137fde31b06aab03e09c0cfb3684653e44f265c6e0e85edbb10#rd)
+[2024-03-27_成长中的七条原则](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871956&idx=1&sn=60f97d88fc82a05314f7be5fcdabe172&chksm=f007484af71d87b650873dc912680f34f22ff7a52c2bcd8a25d64f26cfae0961384f742d603b&scene=27#wechat_redirect)
+
+文章简介:一篇生财社群的作业，展开聊聊。
+
+文章作者:caoz
+
+[2024-03-24_抠门精出游记之吉隆坡篇](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871950&idx=1&sn=8a1b3213dbfce374e17efc688b5665c5&chksm=f02dbc88bc6e33d9350cd868715996468fbeac8a2ce7568879657cc8b8c66ce62433b1f37de7&scene=27#wechat_redirect)
+
+文章简介:citywork，又叫街溜子，我的生活写照。
+
+文章作者:caoz
+
+[2024-03-19_其实，我没打算改变谁](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871918&idx=1&sn=a0bd916536514c067cddb82494110892&chksm=f044fd0d6c49d691da0403973bfb61f41d60c14d6de84140e648f5bbf0be939bbc9a29c12437&scene=27#wechat_redirect)
+
+文章简介:点一盏灯，让孤单的人找到同伴。
+
+文章作者:caoz
+
+[2024-03-15_不要痴迷于规模化](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871911&idx=1&sn=d16cad37617761bb0e8021c794b5db07&chksm=f00200aa368a37a42a2d3bbb1cf1eb8f3afe7c8ad5198b7ef1ec512e88e994bf05d0ef26020a&scene=27#wechat_redirect)
+
+文章简介:创业不是非要做成巨头，小而美也可以很舒服。
+
+文章作者:caoz
+
+[2024-03-11_别再滥用“爱国”的幌子](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871905&idx=1&sn=939e60fca9108b23bca5f7914ef5b32d&chksm=f020897de07640e772f3bae4400f0ce6e7d61a945198d52047aeffecce0dc07ed0f96578bc08&scene=27#wechat_redirect)
+
+文章简介:谁是敌人，谁是朋友。
+
+文章作者:caoz
+
+[2024-03-07_每个人的思想钢印](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871899&idx=1&sn=89cda4e5ae55716a8ca2f4194b18ad20&chksm=f0b16aea17c655508c8fdb671e68dfdfcdafca0fea323076a47e5f4124cc46ce5d7d6870696d&scene=27#wechat_redirect)
+
+文章简介:年轻的时候，形成的一些价值观，会贯穿终生。
+
+文章作者:caoz
+
+[2024-03-02_如何有效戒断恶习](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871893&idx=1&sn=86ef7454b86c720e6da7679b1c5a194c&chksm=f07af012b558d6fec37f054774e3d5dadbd1d227576efb68c74b077ff26236ecb8fb92975694&scene=27#wechat_redirect)
+
+文章简介:我们的时间哪里去了呢。
+
+文章作者:caoz
+
+[2024-02-26_抠门精出游记 - 迟来的一些汇总](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871888&idx=1&sn=e130270bb2fd0cfeda21e16ed6000214&chksm=f0b409a6203a55d7c7b69dc2c8f62456e132653205824b8455585ccd081481930e3def0a44ad&scene=27#wechat_redirect)
+
+文章简介:题图与内容无关
+
+文章作者:caoz
+
+[2024-02-22_如何有效克服惰性](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871873&idx=1&sn=25fd2bb60c423df48f719be386d01858&chksm=f0d2ea5209e44e62a141f260370b22aa1ff25292c3b9886df99e6748b37ec8cc263184ac372e&scene=27#wechat_redirect)
+
+文章简介:立志容易，执行难
+
+文章作者:caoz
+
+[2024-02-18_出境游确实在恢复](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871867&idx=1&sn=394936c52c4065916f52bc2887500cfd&chksm=f083bd981a9e2b239a8c4da738acddb76ba5e83ed7da75e1de849263f07d54a46aa3a9f7eb82&scene=27#wechat_redirect)
+
+文章简介:春节去哪里玩了呢？
+
+文章作者:caoz
+
+[2024-02-14_谈谈内耗与焦虑](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871861&idx=1&sn=0b9dfa0468f8282fc7f9d3867fc0cfbb&chksm=f09659a58eb421cb8bb3c5ae18d1c8b0ed0f5b5d3ffd3a1d5bf7ea14f55ac77ab3cb38be9637&scene=27#wechat_redirect)
+
+文章简介:祝愿大家停止内耗，减少焦虑。
+
+文章作者:caoz
+
+[2024-02-06_抠门精出游记 之四](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871855&idx=1&sn=fc9fc011f49f0465d602eccd30bedec4&chksm=f0a16d979af5d8e07b4a86b41b01fcdc42c2c643e626d072903728d01ed11d21aab6de4b4f7f&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:caoz
+
+[2024-01-31_抠门精出游记第三天](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871851&idx=1&sn=91ee234716042d0e66a995fef4510332&chksm=f06ef2b5f1dea47550e702cb077600df39b09141612be27f2420aa26f1eda90b98b6f5104bbe&scene=27#wechat_redirect)
+
+文章简介:出门也不能太抠门。
+
+文章作者:caoz
+
+[2024-01-26_抠门精出门记 之二](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871846&idx=1&sn=c486719ec219e06a7b8b4e1e54c4669a&chksm=f0830cfe831f168bbeeadbd8f2b6cf804cc17a0c6c1a58930ee9e448228e653523e5014d3a4d&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:caoz
+
+[2024-01-21_抠门精出游记 之一](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871842&idx=1&sn=cfd349ffead668e35fb3ab5ffbee5390&chksm=f060af33ac93159c1764496958e293171d1423590d71ca9b2ed747da0d29411c78b7d0ecdd27&scene=27#wechat_redirect)
+
+文章简介:
+
+文章作者:caoz
+
+[2024-01-16_机会没有以前多，怎么办](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871838&idx=1&sn=aa5eb529316eda5c3ebaf8b15b6d1af4&chksm=f03aeda712d08fcc2a134b547b0e651f1f1a823cac3502b31fbc282ede5ac63b4c402392f0ec&scene=27#wechat_redirect)
+
+文章简介:找借口就很容易，找路径就很难。
+
+文章作者:caoz
+
+[2024-01-11_如何有效穿越周期](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871831&idx=1&sn=e018d0e87dfa1b5b2805d20a594d84fb&chksm=f0b708c6b7c0acacfb3b3c889290a8b53a0d926bffaa74ba9ad4a8674fd98197bfb8ad2c0493&scene=27#wechat_redirect)
 
 文章简介:面临周期，如何掌握命运的选择权。
 
 文章作者:caoz
 
-[2024-01-06_今天，你又学废了么](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871825&idx=1&sn=995672c4279f47fb1dcf9473c839617e&chksm=f1074fbcc670c6aa0e4fc5fdc89bfdadc5e87507e1f2a36dc16c7760374ca3048998b416f875#rd)
+[2024-01-06_今天，你又学废了么](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871825&idx=1&sn=995672c4279f47fb1dcf9473c839617e&chksm=f0485ddc23fe8fec618834c9ae33a7d3994df9169fd5b25e031f8d9b2c3dbfa3d94b296d55dd&scene=27#wechat_redirect)
 
 文章简介:很好很正能量的方法论，也需要经受一下时间的检验。
 
 文章作者:caoz
 
-[2024-01-01_2024新年快乐](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871820&idx=1&sn=247f2744638f655fcf6d7dfd2755ea2b&chksm=f1074fa1c670c6b7d333b1ea3498e8857ac306621338b740c9ecc00df1784d5e6fc479a2e2d6#rd)
+[2024-01-01_2024新年快乐](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871820&idx=1&sn=247f2744638f655fcf6d7dfd2755ea2b&chksm=f0d8129581df45169d1b5dd978a65aaf82181f0417c52b2ff005d44f18a9736d510a42f92f89&scene=27#wechat_redirect)
 
 文章简介:最近沉迷AI绘图，分享一些随手搞出来的作品。
 
@@ -20,37 +116,37 @@
 
 文章作者:caoz
 
-[2023-12-28_今天，你学废了么](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871775&idx=1&sn=3934f8826772137affe4492f58bc3f79&chksm=f1074ff2c670c6e4c85a46f0d7341608d1a8798dd7ed3e928e200d1760e0efafd5d570d34915#rd)
+[2023-12-28_今天，你学废了么](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871775&idx=1&sn=3934f8826772137affe4492f58bc3f79&chksm=f0ad24464f64cb10e9b99598f5c23769dc2003dc851e9893b464a0386844c33fff8338bf73b4&scene=27#wechat_redirect)
 
 文章简介:越学越废。。。
 
 文章作者:caoz
 
-[2023-12-25_关于"利好政策"的碎碎念](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871767&idx=1&sn=cb2e9e4dfd360c316678b620840c6319&chksm=f1074ffac670c6ec0ba5fa8417e36fa1b453fc856b6104f803ce23dc9e44725ef54408555bd0#rd)
+[2023-12-25_关于&quot;利好政策&quot;的碎碎念](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871767&idx=1&sn=cb2e9e4dfd360c316678b620840c6319&chksm=f0de084d5d160a1e504d425d6bc1745a8806d7e876216d8b1f3b24cb6a5e2e984ccc635f3f13&scene=27#wechat_redirect)
 
 文章简介:猜猜这篇活多久
 
 文章作者:caoz
 
-[2023-12-18_曲终人散，扯几句咸淡](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871763&idx=1&sn=1a7da16bd7a251db319679ed63d34bc4&chksm=f1074ffec670c6e8d47b71e6b28df33cbc3221014ccb404d27f0cd981eb6c01aa5c3f3cf2c15#rd)
+[2023-12-18_曲终人散，扯几句咸淡](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871763&idx=1&sn=1a7da16bd7a251db319679ed63d34bc4&chksm=f0f738c070c6d282f599795489a11771cf7e20ccdf27328dbdf6293494f5fc54a8e8d084b5c7&scene=27#wechat_redirect)
 
 文章简介:看热闹的不嫌事大。
 
 文章作者:caoz
 
-[2023-12-15_东方甄选这事其实很简单](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871758&idx=1&sn=abdd1693eeb7598b6a7f0206637f4b98&chksm=f1074fe3c670c6f5e59a1d9c6c4d279de5ed757d0b7bf8a98f4ed55c99e8eb222116b4c9b6e9#rd)
+[2023-12-15_东方甄选这事其实很简单](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871758&idx=1&sn=abdd1693eeb7598b6a7f0206637f4b98&chksm=f08d4d4f9d1426bd46d6003f601df72bb5f2dc54896e974a982ab93e5a85ecf222a2f62db7f0&scene=27#wechat_redirect)
 
 文章简介:随便胡说几句。
 
 文章作者:
 
-[2023-12-14_开源世界杂谈](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871754&idx=1&sn=607e22f348635fb644f4b5db503ab822&chksm=f1074fe7c670c6f1526b769eddd3065e565f6e8dec8225224e3c2c1125c1cc17ad12af7750d2#rd)
+[2023-12-14_开源世界杂谈](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871754&idx=1&sn=607e22f348635fb644f4b5db503ab822&chksm=f06f89dfcb35576b7bcf5344ca55c158970333277c9389187341752708c3a2c340f244d4c418&scene=27#wechat_redirect)
 
 文章简介:小谜题，哪个开源产品商业价值最大。
 
 文章作者:caoz
 
-[2023-12-08_马来西亚随笔](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871748&idx=1&sn=8e60cd0a169eeab4f2d52643b7862595&chksm=f1074fe9c670c6ffbf3a8811337bde9078fff8146cb51aa711792889e06e4b913423fdc9291e#rd)
+[2023-12-08_马来西亚随笔](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871748&idx=1&sn=8e60cd0a169eeab4f2d52643b7862595&chksm=f017114a114288edb322cda16358f063a64ccbaa2ded4bf5b7e3da6ea168335515ab5e8f1209&scene=27#wechat_redirect)
 
 文章简介:马来西亚这个国家，我一直觉得，就是一手好牌打到稀碎的那种。
 
@@ -83,497 +179,497 @@
 
 文章作者:caoz
 
-[2023-11-30_未来已来](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871734&idx=1&sn=681c9a7e9e94e5e0d9e9e036861b5039&chksm=f1074f1bc670c60dd693dfee8b8aa14cca6d7694dd57d9a5a7674c3c99dcfb3b7c3369cfedcc#rd)
+[2023-11-30_未来已来](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871734&idx=1&sn=681c9a7e9e94e5e0d9e9e036861b5039&chksm=f011d2ae9cf797ea06b80c795ebd9bd9697bef21814875185f86629830a2c618cc34485dbc93&scene=27#wechat_redirect)
 
 文章简介:而大众仍在沉睡。
 
 文章作者:caoz
 
-[2023-11-23_写给创业者的几点建议](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871728&idx=1&sn=edcd6affd25aa1b35dddbbbfe9bb17e1&chksm=f1074f1dc670c60b2be4270e889385c15b6017e5c17748b6c75f8bedac58e4b42a929cd7f2c7#rd)
+[2023-11-23_出海竞争卷的飞起，如何才能脱颖而出](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871728&idx=2&sn=78e02670b880a74d7201f78a7ae63da9&chksm=f0829e4b4a18816d72d1e0aa02651eeb75f79fbdf173e6d84fd73bba5ef8497c8bd30e151c63&scene=27#wechat_redirect)
+
+文章简介:中国企业出海成绩确实很好，但背后也有很多创业者的血泪教训。
+
+文章作者:
+
+[2023-11-23_写给创业者的几点建议](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871728&idx=1&sn=edcd6affd25aa1b35dddbbbfe9bb17e1&chksm=f00455959ea26e2ff6a8e56f23de681b0effa9be7fd3f53533b206167b79b9198095b30e0b04&scene=27#wechat_redirect)
 
 文章简介:如果你坚持创业，或许这几条会有帮助。又或许。。。
 
 文章作者:caoz
 
-[2023-11-23_出海竞争卷的飞起，如何才能脱颖而出](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871728&idx=2&sn=78e02670b880a74d7201f78a7ae63da9&chksm=f1074f1dc670c60b65679e778abe6a7a0be633294c0ac2c2c4addc7243a83c6e1625a2ca9aac#rd)
+[2023-11-20_出海竞争卷的飞起，如何才能脱颖而出](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871724&idx=1&sn=3c392a7a1ef33d023799620732770859&chksm=f02ea5fa82ea91a108601f8699594c9d2922cbaafa9c1c71c0c564d862b2513e8be06a1b5d0a&scene=27#wechat_redirect)
 
 文章简介:中国企业出海成绩确实很好，但背后也有很多创业者的血泪教训。
 
 文章作者:
 
-[2023-11-20_出海竞争卷的飞起，如何才能脱颖而出](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871724&idx=1&sn=3c392a7a1ef33d023799620732770859&chksm=f1074f01c670c617c6b2d7b3d00aaf012ae40fe89de71d48e4972f70100dadf7c151f3dd0206#rd)
-
-文章简介:中国企业出海成绩确实很好，但背后也有很多创业者的血泪教训。
-
-文章作者:
-
-[2023-11-12_所谓“红利”，“内卷”的底层逻辑。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871692&idx=1&sn=8b691d2b4239def287bfcc72df544d5e&chksm=f1074f21c670c6375c1d1c501c92bad1fb3c27c4d41f34d5d595d541a9923598af6453392776#rd)
+[2023-11-12_所谓“红利”，“内卷”的底层逻辑。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871692&idx=1&sn=8b691d2b4239def287bfcc72df544d5e&chksm=f0fd08f730bf5cd7dabe672720bfa8c8cf697541f2ebaff540adc05a12e4af361056b1b7a2dd&scene=27#wechat_redirect)
 
 文章简介:
 
 文章作者:caoz
 
-[2023-11-10_谦虚不是美德，是镣铐](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871686&idx=1&sn=a79a77d316f0eca9f5a82175c079ae07&chksm=f1074f2bc670c63db0e50344f25767b5de73fa61e2acfbafb1afe6091582fcb7d21e3854420f#rd)
+[2023-11-10_谦虚不是美德，是镣铐](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871686&idx=1&sn=a79a77d316f0eca9f5a82175c079ae07&chksm=f069b20c014837d2317ce59bce4bf0e9d79c1fa8007240f86f9cf44e2c2c566c61a0b8c16b53&scene=27#wechat_redirect)
 
 文章简介:随便分享点直播里的内容。
 
 文章作者:caoz
 
-[2023-11-06_所谓“另辟蹊径”到底难不难](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871680&idx=1&sn=8f809c8b4367ab18e8090880d0f57392&chksm=f1074f2dc670c63b13b1a12c3eb3ceb642a38680ce8f03884c89a9cb1134b4b52806287a52d5#rd)
+[2023-11-06_所谓“另辟蹊径”到底难不难](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871680&idx=1&sn=8f809c8b4367ab18e8090880d0f57392&chksm=f052cee05c1b9a7f63f2c861ce3d563313a93ee1306c606d8c5ed326a0a410bfdcbe8e2fb87a&scene=27#wechat_redirect)
 
 文章简介:另辟蹊径，可能并不那么依赖运气。
 
 文章作者:caoz
 
-[2023-11-03_我一直不接地气，你不会才知道吧](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871674&idx=1&sn=74413617135138bbc9a9386cc7ecabc8&chksm=f1074f57c670c64109646e9ead1f9dfed1343f7038a7ab5fbc4452b77c3d1853ecb8d362c1b0#rd)
+[2023-11-03_我一直不接地气，你不会才知道吧](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871674&idx=1&sn=74413617135138bbc9a9386cc7ecabc8&chksm=f05374cb6652048c00c12a11c04e7882301741fbbf3842e13483f6655085f3d07182c67c182f&scene=27#wechat_redirect)
 
 文章简介:阶层上升从来不是靠天赋异禀，而是靠另辟蹊径
 
 文章作者:caoz
 
-[2023-11-02_所谓的优秀标准，只会束缚平庸。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871668&idx=1&sn=a50a4ed7c1def861d0788517cca946da&chksm=f1074f59c670c64f9ffc564fb22355473da330ec3848b0753d667ad403f7faa0e5e5faa058b1#rd)
+[2023-11-02_所谓的优秀标准，只会束缚平庸。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871668&idx=1&sn=a50a4ed7c1def861d0788517cca946da&chksm=f02e41434a9a4904e538ba036e1d4e3d60c628979e5595b59e46f18ab34f30da958b471b9b59&scene=27#wechat_redirect)
 
 文章简介:要想又价值，做艺术品，不要做标准件。
 
 文章作者:caoz
 
-[2023-10-29_搞了一场“无意义”的线下活动](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871663&idx=1&sn=2e89eeea11ba10d535a35cc1eb9aa9e5&chksm=f1074f42c670c6543ee317cd1ce27f45530bf9e5b0a27dbb142e445985bb9b6ab1e77407c3d6#rd)
+[2023-10-29_搞了一场“无意义”的线下活动](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871663&idx=1&sn=2e89eeea11ba10d535a35cc1eb9aa9e5&chksm=f098caddcd032f4852615df28577487ebaa4e314b895af9aab804f27cd408bce7f7dd934cea9&scene=27#wechat_redirect)
 
 文章简介:享受过程就是最大的意义
 
 文章作者:caoz
 
-[2023-10-21_财富密码暗黑版](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871657&idx=1&sn=6ffe1bb07770ddb4a5849dba4821fd63&chksm=f1074f44c670c65223b02e8f35ca518afad3015f1d7749e2f21e8604093abbd9ca2c45ee85eb#rd)
+[2023-10-21_财富密码暗黑版](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871657&idx=1&sn=6ffe1bb07770ddb4a5849dba4821fd63&chksm=f02fcc74f61e0e122cd28b24b01bc24c4f78617b0e48ae43fe9165c6121a75c8f86545e6def2&scene=27#wechat_redirect)
 
 文章简介:一旦付费，概不退款。
 
 文章作者:caoz
 
-[2023-10-15_不要等到全准备好了，才敢站出来。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871653&idx=1&sn=7638bb39141ba2094f5b94d78c8011e3&chksm=f1074f48c670c65e0340253c0b83feadd93a37f28847a28e601e7ecef157f369215327698138#rd)
+[2023-10-15_不要等到全准备好了，才敢站出来。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871653&idx=1&sn=7638bb39141ba2094f5b94d78c8011e3&chksm=f0056e869c4e33e737dda91b82f118d05d72350ee21254c838bdf680e0cf95e53693d005620b&scene=27#wechat_redirect)
 
 文章简介:
 
 文章作者:caoz
 
-[2023-10-12_不能因为怕挨骂，就不敢分享](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871647&idx=1&sn=4c28d6ae99176da2437b38fce6f16597&chksm=f1074f72c670c664b225aa3ed088b8d7041677b01d46ca9b38b2fdb46d0544657c4873758487#rd)
+[2023-10-12_不能因为怕挨骂，就不敢分享](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871647&idx=1&sn=4c28d6ae99176da2437b38fce6f16597&chksm=f064bee44094d8f801bc73d4b87df39537d510af6e498698dfdabd0ea2fd8699c25f752d96d1&scene=27#wechat_redirect)
 
 文章简介:第一要敢自吹，第二要不怕挨骂。
 
 文章作者:caoz
 
-[2023-10-07_是谁折断了孩子的翅膀](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871642&idx=1&sn=4ca4d7e3eb5b73c7133daf8b52fbd9ff&chksm=f1074f77c670c66195adcf9784ec8d8bf258bfbd39a7fe7105d5eb55f48ca50bf86deb867e80#rd)
+[2023-10-07_是谁折断了孩子的翅膀](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871642&idx=1&sn=4ca4d7e3eb5b73c7133daf8b52fbd9ff&chksm=f0cc69e6446005d783f1595a53f109de0aaca708ffccbaf272a6d33db8429dc68a1d9b9dc5fc&scene=27#wechat_redirect)
 
 文章简介:不只是吐槽别人，更是反思自己。
 
 文章作者:caoz
 
-[2023-10-02_闲聊四种旅游方式](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871637&idx=1&sn=33fa7e29f40e81c9b8eb4171c1dec90b&chksm=f1074f78c670c66e50eb8256fa2d1409a2d57f57ad414a09986250a4af449583cb3921aa0498#rd)
+[2023-10-02_闲聊四种旅游方式](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871637&idx=1&sn=33fa7e29f40e81c9b8eb4171c1dec90b&chksm=f0f7b4d44669bf276ec5c247ff730a7e7e9205ae2a21873d648df63c6b7983f67031deb69e56&scene=27#wechat_redirect)
 
 文章简介:十一长假，都出去玩了么。
 
 文章作者:caoz
 
-[2023-09-28_聊聊日本的通勤](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871632&idx=1&sn=48582b92da63487214395f0aa354eb97&chksm=f1074f7dc670c66b25208e16b8bca06c2a63aa02dcc8adaaa42b6a169cb98f4f804ec71d7528#rd)
+[2023-09-28_聊聊日本的通勤](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871632&idx=1&sn=48582b92da63487214395f0aa354eb97&chksm=f018738706bbf1ab9412889861fb519472a13fa107ccf6ac0ee11fb3c6f000ad3dd3e46592ed&scene=27#wechat_redirect)
 
 文章简介:你喜欢整理信息么？
 
 文章作者:caoz
 
-[2023-09-25_出境游能不能拎包就走](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871614&idx=1&sn=d7b49e851ccbe7b87f0249ba8f7d36e6&chksm=f1074e93c670c7857ebfdc5487ef1e5c7df120ae663549349a9fdf7ce2cb960fb8778bba7af0#rd)
+[2023-09-25_出境游能不能拎包就走](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871614&idx=1&sn=d7b49e851ccbe7b87f0249ba8f7d36e6&chksm=f0f1efd513287bc7543fe8aef3ff574f9485eababd362cf334b5780dffc8c5fb9629fdc48db3&scene=27#wechat_redirect)
 
 文章简介:拎包就走，不太容易。
 
 文章作者:caoz
 
-[2023-09-22_大学应该怎么学，学什么。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871603&idx=1&sn=4fbf3f602f07083b08dc7e762c0bde47&chksm=f1074e9ec670c788b13de72a655949d289e5496c04f972de2dd88767db52bbda708aaae72b23#rd)
+[2023-09-22_大学应该怎么学，学什么。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871603&idx=1&sn=4fbf3f602f07083b08dc7e762c0bde47&chksm=f08b21323c66d377433b1399021f5f173b9fce3ddb62876fb1ecd398c9861d52f4f45d1170fa&scene=27#wechat_redirect)
 
 文章简介:为自己的前途学习，这是大学生要明白的第一课。
 
 文章作者:caoz
 
-[2023-09-19_预言自证有意义，但不能包治百病](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871597&idx=1&sn=d04dfaa08bda655cfe48b6f0d9a81881&chksm=f1074e80c670c7963dc570d5a63eb2bd0877e26f35dfbeef67e60529485b2373cebbe5b86cae#rd)
+[2023-09-19_预言自证有意义，但不能包治百病](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871597&idx=1&sn=d04dfaa08bda655cfe48b6f0d9a81881&chksm=f0f5642866f80f6a887ca73a3bc7420a0ae2217ebb0011410da24e3c317500f5e02e087eff09&scene=27#wechat_redirect)
 
 文章简介:最近的系列文章，其实是希望给读者厘清，当前一些经济问题，社会问题背后的因果根源，当然，鉴于某些众所周知或不周
 
 文章作者:caoz
 
-[2023-09-16_点燃那团火焰](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871593&idx=1&sn=ee05cad2a7cbdde5462065ea756a51c6&chksm=f1074e84c670c792d4d0ba189f65b18cce04a7928a58d4daadd534892b1b10a9c18d09ab6822#rd)
+[2023-09-16_点燃那团火焰](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871593&idx=1&sn=ee05cad2a7cbdde5462065ea756a51c6&chksm=f0e666523ca842adcac6bf5c51fda0fff7887cb52ac595c480712e42fad89ad8c7802a2d6fb5&scene=27#wechat_redirect)
 
 文章简介:
 
 文章作者:caoz
 
-[2023-09-15_讲正确很容易，讲现实就很难](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871589&idx=1&sn=35b006c354fc820e3856d0f3d833a109&chksm=f1074e88c670c79ea970276e3157db564db9751c4419f5c61560cf5de39753d3ead0eac7d2bd#rd)
+[2023-09-15_讲正确很容易，讲现实就很难](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871589&idx=1&sn=35b006c354fc820e3856d0f3d833a109&chksm=f0a8d5003ccd6561d9163b55369d26a3bfc3c2139998225e9b133dc8c17f5334b896f2280f13&scene=27#wechat_redirect)
 
 文章简介:本文不适合未成年人阅读。
 
 文章作者:caoz
 
-[2023-09-12_创业者，该抱团就抱团](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871584&idx=1&sn=c70c75f24f921d7efb7c5089039b4a94&chksm=f1074e8dc670c79bb91688dc6c14ff7233a1a8e592feba33f06993bce8398be027d74bf65873#rd)
+[2023-09-12_创业者，该抱团就抱团](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871584&idx=1&sn=c70c75f24f921d7efb7c5089039b4a94&chksm=f0cdbcaf9911a352619b0c3ddf99447a0c916037b6a29618520d6e17ef9317313a1d36f99557&scene=27#wechat_redirect)
 
 文章简介:分散创业风险，提高整体回报机会。
 
 文章作者:caoz
 
-[2023-09-09_扒一扒文明的底色](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871578&idx=1&sn=e3cc174d225cdee9e36b6f2d47cc27ac&chksm=f1074eb7c670c7a10189c09505eac808ef977d04d8e5da215f163fbfb3191f47ce912e41d8d7#rd)
+[2023-09-09_扒一扒文明的底色](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871578&idx=1&sn=e3cc174d225cdee9e36b6f2d47cc27ac&chksm=f09ab9d3c54d594de0152ea5aa5c3d79881c9059dfe8998be667e28e5f14a222ec581949364c&scene=27#wechat_redirect)
 
 文章简介:江湖群雄们，你们好。
 
 文章作者:caoz
 
-[2023-09-06_悔过，感恩](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871570&idx=1&sn=e8329eeca01635e2908ec8c1a52e188c&chksm=f1074ebfc670c7a9d6be031d83ce840b626e9bdf7dd7df17e40016bd77658dcaaf131ede5c94#rd)
+[2023-09-06_悔过，感恩](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871570&idx=1&sn=e8329eeca01635e2908ec8c1a52e188c&chksm=f0311de7517892287ab405af07e490f77a9ff800160a53ca1ff9331e09602e84aa70d65e53b4&scene=27#wechat_redirect)
 
 文章简介:不要付费！不要付费！不要付费！
 
 文章作者:caoz
 
-[2023-08-22_政策利好频出，为何市场冷淡。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871563&idx=1&sn=de727b0f4b77cf1fbac9d6242095b2e6&chksm=f1074ea6c670c7b0d0a30bb2d4ec016987943bd8e479f6856c227e9a0e8f34c235f1ddbe3a2e#rd)
+[2023-08-22_政策利好频出，为何市场冷淡。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871563&idx=1&sn=de727b0f4b77cf1fbac9d6242095b2e6&chksm=f0dbf634934d1660b1868e07166c2e8d442f379b2d31730830f4f8e5abebc218fa2ae6c51562&scene=27#wechat_redirect)
 
 文章简介:利好频出，为何市场反馈冷淡？
 
 文章作者:caoz
 
-[2023-08-17_最难的是刚刚好。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871559&idx=1&sn=986897b58c2a0d9c2adc879d3c2fdbf5&chksm=f1074eaac670c7bc6d04ed05f2091c1603108ef0e66e2ff6929587872525589892930a837a16#rd)
+[2023-08-17_最难的是刚刚好。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871559&idx=1&sn=986897b58c2a0d9c2adc879d3c2fdbf5&chksm=f0a5e5f6b94bac562bb0b3fb3846a8161d9ee4c8b43b5a1a9a64a0387a2342a346828294d8e8&scene=27#wechat_redirect)
 
 文章简介:不要非黑即白，平衡最难。
 
 文章作者:caoz
 
-[2023-08-12_有人真敢编，有人真敢信。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871553&idx=1&sn=689440bc7e01469aec0f15f00ab34728&chksm=f1074eacc670c7ba01cfe0fdc890558b529c003d8451f8ee133da97832fdad4e0645a886f7ba#rd)
+[2023-08-12_有人真敢编，有人真敢信。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871553&idx=1&sn=689440bc7e01469aec0f15f00ab34728&chksm=f0735db24fadf54450365ffaf6bbf93dae12861296fac7c94ef690e37b6b4f44530aef1f8233&scene=27#wechat_redirect)
 
 文章简介:各种编故事说什么泰国绑架去缅北的，真的看不下去了
 
 文章作者:caoz
 
-[2023-08-11_总要自己试试才知道](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871546&idx=1&sn=b60d29b5385473ad05216326fe46449d&chksm=f1074ed7c670c7c17ac9d59e1b7e4ed11df9a54ccef0f5f6bc1b88ec41a42d0b1d0c7145fe00#rd)
+[2023-08-11_总要自己试试才知道](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871546&idx=1&sn=b60d29b5385473ad05216326fe46449d&chksm=f04f073a5f94cf7cbe041abbf7fa039adf44d7324c18265b1038194ed32344efcd2ea74d214d&scene=27#wechat_redirect)
 
 文章简介:在网上了解世界，终究是片面的，甚至是误导的。
 
 文章作者:caoz
 
-[2023-08-07_浅谈留学](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871540&idx=1&sn=74b828f45704b36754c7ff985abe05e1&chksm=f1074ed9c670c7cffb1b22683be3bacc8f7226ca1c9489dd58ec0c8e9f8fa605731813e03f1e#rd)
+[2023-08-07_浅谈留学](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871540&idx=1&sn=74b828f45704b36754c7ff985abe05e1&chksm=f0881a09d3f2864922f9164db21e453d461f599d7b5ade6c9f96321ae6c7f0ae2a5791c46a85&scene=27#wechat_redirect)
 
 文章简介:优秀的标准不止一个，上升通道不止一条。记住这个就可以。
 
 文章作者:caoz
 
-[2023-08-02_谈谈所谓商业道德](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871535&idx=1&sn=f66905a45bf65e3bdce5934e6e13a508&chksm=f1074ec2c670c7d4c64f4bf2ce0d679b8e386bf623c9c3f6dc014d1f4f2161cf00646a672615#rd)
+[2023-08-02_谈谈所谓商业道德](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871535&idx=1&sn=f66905a45bf65e3bdce5934e6e13a508&chksm=f08248c621ccdd3aa3296c1e6bbec7f0df89e2ff1f4ae6d22dd3b61beade146f3e7102f1e022&scene=27#wechat_redirect)
 
 文章简介:不要神话道德，理解道德滋生的底层逻辑。
 
 文章作者:caoz
 
-[2023-07-30_自由行的一些小tips](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871527&idx=1&sn=7ed3bcb49850df2dd48c9294a5ce14e8&chksm=f1074ecac670c7dc2542472ac4b253593954dff7bb2f09d4037c29c410cedcb97760d0405122#rd)
+[2023-07-30_自由行的一些小tips](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871527&idx=1&sn=7ed3bcb49850df2dd48c9294a5ce14e8&chksm=f05bab1e40921531c18d59362225dd19b3f3339643147c44c3922ab5500bf658e7bd58268ddf&scene=27#wechat_redirect)
 
 文章简介:关于海外自由行，一些可能会有帮助的小常识。
 
 文章作者:caoz
 
-[2023-07-20_计划赶不上变化？](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871521&idx=1&sn=c3f8d6b760ffb51aa6850295bf3c49b3&chksm=f1074eccc670c7daa8a1b5e6dd558245882128f6e049fe8a5c3a099a773e436d340ca7357252#rd)
+[2023-07-20_计划赶不上变化？](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871521&idx=1&sn=c3f8d6b760ffb51aa6850295bf3c49b3&chksm=f0a60854b8947a79ce8e95672104156e4669043c601691e39860558c41169717e5cb8b30b367&scene=27#wechat_redirect)
 
 文章简介:我们常说，做计划，做规划是个好习惯，凡事预则立。但是，我们又常说，计划赶不上变化，墨守陈规就会不断错失机会。
 
 文章作者:caoz
 
-[2023-07-19_caoz的知识星球（Update）](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871514&idx=1&sn=d764a3ddd971315666ecf19e286f9a3d&chksm=f1074ef7c670c7e1d8bdf89f17b108c20a37b5b99edfcc8d31e40a20e52e1d8e8b48b19d7d52#rd)
+[2023-07-19_caoz的知识星球（Update）](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871514&idx=1&sn=d764a3ddd971315666ecf19e286f9a3d&chksm=f02f37f9fa674249e7fef8bf22b1e8a463cbfad5ae752b64147eb4ff2c8f9573c31705492479&scene=27#wechat_redirect)
 
 文章简介:知识星球参考页面
 
 文章作者:caozsay
 
-[2023-07-14_那些无力做主的人生](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871509&idx=1&sn=2fba4fbcf9af2ef515e55ca6bfbb8adf&chksm=f1074ef8c670c7eeadace0d5e429f73c089e6041f391eec4d64f44e801bef21d80a07b7ddf7e#rd)
+[2023-07-14_那些无力做主的人生](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871509&idx=1&sn=2fba4fbcf9af2ef515e55ca6bfbb8adf&chksm=f0a91af6ca9550dfa3d69c484d119fe32f25f1cfee07410109a359326b10dff6627a28b1ebe8&scene=27#wechat_redirect)
 
 文章简介:只会做题，当听话宝宝的人生是没前途的。
 
 文章作者:caoz
 
-[2023-07-11_再谈人生的选择题与证明题](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871503&idx=1&sn=7d85d7dfa3c9eb2eecb3730297b435a0&chksm=f1074ee2c670c7f484ab0db7bb64d72829fbc5c1904526a533519cbcf9614b1d2f18c79f350a#rd)
+[2023-07-11_再谈人生的选择题与证明题](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871503&idx=1&sn=7d85d7dfa3c9eb2eecb3730297b435a0&chksm=f063e984be2fb6a8453455207177bd51f826635e23375c69b6965691fa11383a1da23b905b78&scene=27#wechat_redirect)
 
 文章简介:请证明，关公和秦琼谁更厉害。
 
 文章作者:caoz
 
-[2023-07-04_所谓卷教育，只有卷，哪有教育。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871499&idx=1&sn=db003933dbd31b98fa870f70bdd576e1&chksm=f1074ee6c670c7f0e58cbc27f9d4c8a4815490615f4db4897c9f1023544561dc5bbbc14ffcd4#rd)
+[2023-07-04_所谓卷教育，只有卷，哪有教育。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871499&idx=1&sn=db003933dbd31b98fa870f70bdd576e1&chksm=f00af0984f35d390e21f082bb12e67d65567db87034605db5fc4785a94df97987a38e46595ff&scene=27#wechat_redirect)
 
 文章简介:我们会误以为，教育就是做题考试。
 
 文章作者:caoz
 
-[2023-07-02_7.8日杭州见](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871494&idx=1&sn=192137096e92748737876b3425889c64&chksm=f1074eebc670c7fdeade46f0cea551fbe3bbd8d5342f9a09b4ac3916982bb616a5cfe37bd3cb#rd)
+[2023-07-02_7.8日杭州见](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871494&idx=1&sn=192137096e92748737876b3425889c64&chksm=f072db6347a0cae82a089be932476ae19d86565ec0e90f9cc6df9079033bed5e7447e00a0291&scene=27#wechat_redirect)
 
 文章简介:星球线下分享会召集中。
 
 文章作者:caoz
 
-
-[2023-06-28_要终身学习，但不要终身考试](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871487&idx=1&sn=c14df73e544d79f98dce1291b35329da&chksm=f1074e12c670c70463a7144ad966d6b0ed650bd9a9dd3c16c5c3cccc487c33d99cf823e53975#rd)
+[2023-06-28_要终身学习，但不要终身考试](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871487&idx=1&sn=c14df73e544d79f98dce1291b35329da&chksm=f0df0123158d09a0682be77398ad7da17e99e2303585a552571ece37c60e47e500a2ff83790f&scene=27#wechat_redirect)
 
 文章简介:沉迷考试，越考越蠢。
 
+文章作者:caoz
 
-
-[2023-06-22_当我们谈领导力，我们在谈什么](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871483&idx=1&sn=04372bc9803e07c4236d8302d4888459&chksm=f1074e16c670c70031195486f1cff27e2ade49aa83b889ae50e2bc672b1ecf934b224363eb30#rd)
+[2023-06-22_当我们谈领导力，我们在谈什么](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871483&idx=1&sn=04372bc9803e07c4236d8302d4888459&chksm=f0b00705af256df10320c51558922ed798ea15f4d9256a821fcd3462e51d3b33682c28389815&scene=27#wechat_redirect)
 
 文章简介:领导力，要从娃娃抓起。
 
+文章作者:caoz
 
-
-[2023-06-16_普通人，如何把握AI时代](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871479&idx=1&sn=55b0e6e19437c883df040cc9a38e17d9&chksm=f1074e1ac670c70ce43ab93251053f5486a30b3f71f48eebc5b4ce8dffc853af4de441691fe9#rd)
+[2023-06-16_普通人，如何把握AI时代](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871479&idx=1&sn=55b0e6e19437c883df040cc9a38e17d9&chksm=f027110ea8d5538a54a5d5962dbebdbe6a0ed2a457b71bd2a363e179db40a2314332b738f7d9&scene=27#wechat_redirect)
 
 文章简介:有人会觉得，AI只是一阵风。。。
 
+文章作者:caoz
 
-
-[2023-06-11_人生这场概率游戏，怎么玩](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871474&idx=1&sn=7dea47d569f75f81bb1c1e2fadfe82bc&chksm=f1074e1fc670c70991e61e9463f04342bfbe0393b5a7df7b852fb1efbb37bc8335a3b294e04c#rd)
+[2023-06-11_人生这场概率游戏，怎么玩](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871474&idx=1&sn=7dea47d569f75f81bb1c1e2fadfe82bc&chksm=f04dee9117e4ae9261be99c327afaf26fc1c4aa197fa306727a8942b4fa300c8acf30c56f096&scene=27#wechat_redirect)
 
 文章简介:。。。
 
+文章作者:caoz
 
-
-[2023-06-07_只会标准答案，是不可救药的愚蠢](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871470&idx=1&sn=0808aa6f5ae2825c1939eed1cfd84916&chksm=f1074e03c670c7156a35faec573e4aea5755dddab77321d5f9d10ff62b8750bf28a8e7bd8d7b#rd)
+[2023-06-07_只会标准答案，是不可救药的愚蠢](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871470&idx=1&sn=0808aa6f5ae2825c1939eed1cfd84916&chksm=f030a0f5eff70c3d49d2fe71c22313231ceb8293ab1a6af39660aa8d40e64587192e917eb18b&scene=27#wechat_redirect)
 
 文章简介:最难沟通的，不是那些头脑空空的人，而是满脑子标准答案的人。
 
+文章作者:caoz
 
-
-[2023-06-03_听不进真话，是穷人最大的困境](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871466&idx=1&sn=b310afb49b7d963f421d8a9ccbea96f2&chksm=f1074e07c670c711021ba209ca443e93e156b6801901d88bbeb6e221d2efee939149dd05e297#rd)
+[2023-06-03_听不进真话，是穷人最大的困境](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871466&idx=1&sn=b310afb49b7d963f421d8a9ccbea96f2&chksm=f02f2ed5f26cccd6e72c481e7a699cd8ccdc631735a2e61b5f58b6f2453ecc5ab55039451fe1&scene=27#wechat_redirect)
 
 文章简介:盛世做牛马，乱世做炮灰。
 
+文章作者:caoz
 
-
-[2023-05-30_杨紫琼对哈佛学生的三条建议](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871462&idx=1&sn=9c855d2b94b81937dfc46f83ec8d0d60&chksm=f1074e0bc670c71dbecced8ba4fb065d7cdac5a687f5ee63990e34f3fa0435f53b1cb8348c26#rd)
+[2023-05-30_杨紫琼对哈佛学生的三条建议](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871462&idx=1&sn=9c855d2b94b81937dfc46f83ec8d0d60&chksm=f0ecf315e239c09b1fcc38b24189f3e3c7e20fc718031952fbe431f53f3ee8e6ca86e7b92057&scene=27#wechat_redirect)
 
 文章简介:杨紫琼对哈佛学生的三条建议
 
+文章作者:
 
-
-[2023-05-27_生意好可不等于赚钱](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871457&idx=1&sn=d11f13b833e8f4d2c8c8c42807c8d376&chksm=f1074e0cc670c71aef8b8078b6722265c53c5a1602fd0015ebbac3445bda41833e4d6dc6e8ef#rd)
+[2023-05-27_生意好可不等于赚钱](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871457&idx=1&sn=d11f13b833e8f4d2c8c8c42807c8d376&chksm=f07bd9d8b9cbf749a35e69e65e89bc49a5a895850f1c099f7bffa7acb8bf987eefc3ffab4b51&scene=27#wechat_redirect)
 
 文章简介:生意好，离赚钱，还是有距离的。
 
+文章作者:caoz
 
-
-[2023-05-22_所谓确定性，只是一厢情愿](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871454&idx=1&sn=e4fa6d58d598826349335768681c69c9&chksm=f1074e33c670c725bd0ab1f3e01700f9e876e770076662d2f355ea636b4608297cba592ae121#rd)
+[2023-05-22_所谓确定性，只是一厢情愿](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871454&idx=1&sn=e4fa6d58d598826349335768681c69c9&chksm=f017aa49d6a888b436ea8d204c038f98fec57edb3260a514cfc434dce33897e64f293f14aac4&scene=27#wechat_redirect)
 
 文章简介:老调重弹。
 
+文章作者:caoz
 
-
-[2023-05-15_赚钱的境界](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871450&idx=1&sn=71a27ff26aa1ad1ff328d5a23259f949&chksm=f1074e37c670c72199a9adb1b410f41a7ff38a84afcbe3ab0a715184f10fb0560b6d0f23d21e#rd)
+[2023-05-15_赚钱的境界](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871450&idx=1&sn=71a27ff26aa1ad1ff328d5a23259f949&chksm=f06005edf7b09c9fe1a3e3fdd11731225e709100eccb3121a059b6dcdaf65d332bf5b3549abe&scene=27#wechat_redirect)
 
 文章简介:又写了一篇骗钱的水文。
 
+文章作者:caoz
 
-
-[2023-05-08_流量密码暗黑版](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871446&idx=1&sn=fb9057c1bd0539a3e001617ad4ce44c3&chksm=f1074e3bc670c72d272dcad86fd9c1eeb378581e54c0dc142e5739b0ce0418c14aeb2940a4d4#rd)
+[2023-05-08_流量密码暗黑版](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871446&idx=1&sn=fb9057c1bd0539a3e001617ad4ce44c3&chksm=f036a83f09cdbcadb3a76c7a72f2778dd207f6b1ab86a6f9c16b7712c5aca70090de17eb5d84&scene=27#wechat_redirect)
 
 文章简介:
 
+文章作者:caoz
 
-
-[2023-05-01_知识星球优惠券放送&新功能测试](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871440&idx=1&sn=b0c9e532b3e5788aaac2219d7219b26b&chksm=f1074e3dc670c72b5288ec2213a8476da1bebd763d3e148a4fb5813d2b05b7193388b9e1b4b0#rd)
+[2023-05-01_知识星球优惠券放送&amp;新功能测试](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871440&idx=1&sn=b0c9e532b3e5788aaac2219d7219b26b&chksm=f007b762aecee5cbf3ec1141422cdec5c738bf63c29244a3cc4cfa83e9ccbd3809f7dd331697&scene=27#wechat_redirect)
 
 文章简介:新功能测试，希望顺利。
 
+文章作者:caoz
 
-
-[2023-04-28_生财有术社群底价最后一天](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871429&idx=1&sn=a75feaf6dfa1b19b6e883d5e7713f911&chksm=f1074e28c670c73e8f0d5bb2c36e382bb38919498c895d50f266be5a046696478a221ff45451#rd)
+[2023-04-28_生财有术社群底价最后一天](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871429&idx=1&sn=a75feaf6dfa1b19b6e883d5e7713f911&chksm=f0d24b347110d021cd5343fe0f056ae776345e2ffaf47749dd2a5eaeec3b3e26a719a036d3da&scene=27#wechat_redirect)
 
 文章简介:底价最后一天
 
+文章作者:caoz
 
-
-[2023-04-25_留学申请的一些建议](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871425&idx=1&sn=f0c34340573d5fc2ddb0b3351f79ce9d&chksm=f1074e2cc670c73a5eda693bddb5cf3026ad6fb63930d6487113466d6facb80fc036d9a85060#rd)
+[2023-04-25_留学申请的一些建议](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871425&idx=1&sn=f0c34340573d5fc2ddb0b3351f79ce9d&chksm=f03e0c591897250cb5248a0f047a3a945bc8680b04d13383b15c97dca18ab7b87b8c23624975&scene=27#wechat_redirect)
 
 文章简介:不要用中国高考的成绩观填报欧美志愿。
 
+文章作者:caoz
 
-
-[2023-04-22_AI新产品层出不穷，学不过来怎么办。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871420&idx=1&sn=ba98ada0c7a2bf584b89e44b1ea2311a&chksm=f1074e51c670c747fc6e09f2dee842cee25ccd28688e1823dde2e9e73a2751c1d24207d2d4d7#rd)
+[2023-04-22_AI新产品层出不穷，学不过来怎么办。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871420&idx=1&sn=ba98ada0c7a2bf584b89e44b1ea2311a&chksm=f0cdd751f6bf274999cb7dc3cbbe42627f1a2991e315f87bc60d0c646b08e3a0c3b41e328e61&scene=27#wechat_redirect)
 
 文章简介:本文未使用AI
 
+文章作者:caoz
 
-
-[2023-04-19_如何与孩子聊ChatGPT：AI大时代的完整版家长指南](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871410&idx=1&sn=f9584331cbe0f643449a45d35528f352&chksm=f1074e5fc670c749facf6326207a0eab0c1673948848d652a222b7a97c34769a691abfec4d85#rd)
+[2023-04-19_如何与孩子聊ChatGPT：AI大时代的完整版家长指南](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871410&idx=1&sn=f9584331cbe0f643449a45d35528f352&chksm=f05ebef08da6bb147e08f1fccf3c7db80c4fc47dc5d0f3a6400f406477238c954ac1ccd79e2c&scene=27#wechat_redirect)
 
 文章简介:ChatGPT开启的新AI大时代，家长该如何向孩子解释AI问题？该如何引导孩子培养科学思维，未来与AI协作？
 
+文章作者:王咏刚
 
-
-[2023-04-16_人人都可用chatgpt开发小项目](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871403&idx=1&sn=f60e77fe8a723d4b003296ababd468a3&chksm=f1074e46c670c750be7a020eea11e6797014619e3d81d6a6c5d7c2e594cfdd02157a32babacf#rd)
+[2023-04-16_人人都可用chatgpt开发小项目](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871403&idx=1&sn=f60e77fe8a723d4b003296ababd468a3&chksm=f09f649cbb38e84b7c063edf02a690b01b7b21cd481816c10419cf033d4529a17b22b288827c&scene=27#wechat_redirect)
 
 文章简介:开发小项目得心应手，产品经理的春天。
 
+文章作者:caoz
 
-
-[2023-04-11_AI是一场革命，我真不是在跟风](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871372&idx=1&sn=6d921357d711aef1ef477cd5050b34c0&chksm=f1074e61c670c777a63f2cd59d61558ab6c0980c1ac0e2cc86aded925d2df370f3a2e9c842ad#rd)
+[2023-04-11_AI是一场革命，我真不是在跟风](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871372&idx=1&sn=6d921357d711aef1ef477cd5050b34c0&chksm=f02931dcaf9ff60368e0f26550181a19db028f8cc02fea3a7ec89fe9615923c67fa18523ccb4&scene=27#wechat_redirect)
 
 文章简介:不好意思，2016年我就这么说了，热点总在我的旧文里。
 
+文章作者:caoz
 
-
-[2023-04-06_被人薅羊毛？其实别在意。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871367&idx=1&sn=5c782e9d363dcea38246e4af9b2856f8&chksm=f1074e6ac670c77c3aec7a2e94896437573673ddced9f5c2286023ae38615a45c983fd0ed94a#rd)
+[2023-04-06_被人薅羊毛？其实别在意。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871367&idx=1&sn=5c782e9d363dcea38246e4af9b2856f8&chksm=f0177edf0c059d40453a9ad39743dbb9e2589f94de72b9106ea247f53c4630a0a79548a01e55&scene=27#wechat_redirect)
 
 文章简介:对长期价值有信心的人，不怕别人来白嫖。
 
+文章作者:caoz
 
-
-[2023-04-03_谁不想多赚点钱呢](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871360&idx=1&sn=96489c31d4dc319c015e84b5ef047c55&chksm=f1074e6dc670c77be6886589381386bbda7357bb24f9789f1d4b554ee98c66073cbfddd5ddc6#rd)
+[2023-04-03_谁不想多赚点钱呢](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871360&idx=1&sn=96489c31d4dc319c015e84b5ef047c55&chksm=f02ddaacb3dce1c693a765d2e7103ed434a39ac1a683b5c8d1fde11a9b1494cb95180f9bb741&scene=27#wechat_redirect)
 
 文章简介:谈钱不伤感情。
 
+文章作者:caoz
 
-
-[2023-03-30_chatgpt把脉知识星球](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871356&idx=1&sn=02f3efc5e0645dd66d474f519c275b22&chksm=f1074991c670c087fdee7b45b8d3b6951556af3e7da47c4f022c9d57d9aee700ab2811377f8b#rd)
+[2023-03-30_chatgpt把脉知识星球](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871356&idx=1&sn=02f3efc5e0645dd66d474f519c275b22&chksm=f0b3f6cb902cbfc316f7e5ace963c842a2fa279306a1bb9045e48bf0aaae6cb2eeff1409184a&scene=27#wechat_redirect)
 
 文章简介:AI生成的内容也是原创么？
 
+文章作者:caoz
 
-
-[2023-03-27_没有健康，没有一切](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871351&idx=1&sn=2ff6e9455c873dbfc59ff824dc1a5dc4&chksm=f107499ac670c08ce126abb78a1fea4a969e2f18d4644dd0ce7179d30526a4a0f9afa216193b#rd)
+[2023-03-27_没有健康，没有一切](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871351&idx=1&sn=2ff6e9455c873dbfc59ff824dc1a5dc4&chksm=f0f475a82c08cb1562e67c5db64139dd19b7b6546735b49aa895c165283d29cad1737d266d62&scene=27#wechat_redirect)
 
 文章简介:人生谁不是负重前行，年轻时健康换金钱，年长后金钱换健康，这样值得么？
 
+文章作者:caoz
 
-
-[2023-03-23_为自己活一把](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871346&idx=1&sn=61b49c389aa7080c898bc60428ec5ab4&chksm=f107499fc670c0899ea7d26c8bef24ebe27ed7375d9811b886bbecf45f3d21456e453fbb214a#rd)
+[2023-03-23_为自己活一把](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871346&idx=1&sn=61b49c389aa7080c898bc60428ec5ab4&chksm=f057bd89039952d5c39521228b48f0cbb66fa01c1cf347fb393fc679f539eeae4521ac0298b8&scene=27#wechat_redirect)
 
 文章简介:不要觉得自己无所不能，不要试图揽起一切重负。
 
+文章作者:caoz
 
-
-[2023-03-20_资本家提桶跑路啦](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871342&idx=1&sn=0e32b01bb69d9b73b18e2e79cced4e36&chksm=f1074983c670c0956a7a46d56999cd15d8523b4e1bdc1af122f915368f23c248a7743a1a9608#rd)
+[2023-03-20_资本家提桶跑路啦](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871342&idx=1&sn=0e32b01bb69d9b73b18e2e79cced4e36&chksm=f07766a01fec5dba2f1377275f138f675ed7155eb95b89c7f519c6eea1ddd4b9c5e576f3f351&scene=27#wechat_redirect)
 
 文章简介:今天不提新加坡
 
+文章作者:caoz
 
-
-[2023-03-17_做题家的末日，出题家的春天](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871338&idx=1&sn=4425b61cfb94c396b039142ed2e3ee80&chksm=f1074987c670c0916f7fcff061c5be26aa64fd1c05fba26ff019e9cd330849298d3c9a1a17b3#rd)
+[2023-03-17_做题家的末日，出题家的春天](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871338&idx=1&sn=4425b61cfb94c396b039142ed2e3ee80&chksm=f06eed95ca7564f692a9b84123e56c6d05e730de9875f15637573347beb19d334532234f44a4&scene=27#wechat_redirect)
 
 文章简介:其实都是老生常谈。
 
+文章作者:caoz
 
-
-[2023-03-12_硅谷银行，可以破产，不能清算](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871333&idx=1&sn=4d36ee50d4ee627b26a1223ecfad9fbc&chksm=f1074988c670c09e45a3fca0bc96a38477d0e8171ab07acb54032b9395dfea4f36bb4f5ea8dd#rd)
+[2023-03-12_硅谷银行，可以破产，不能清算](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871333&idx=1&sn=4d36ee50d4ee627b26a1223ecfad9fbc&chksm=f0b62d378d279b3900d95840394d97a3b1238c7e8afa8da8c89a513e5784fc6ac0bdf7d1897b&scene=27#wechat_redirect)
 
 文章简介:接盘侠，你在哪里。
 
+文章作者:caoz
 
-
-[2023-03-07_AI无敌？人类的反击静悄悄。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871323&idx=1&sn=5d9531e29e28761ddbeae1ee70a9488d&chksm=f10749b6c670c0a06f06e4c69d63593e7967ff07218ce4e4274561b0cf398b19f03448283c7d#rd)
+[2023-03-07_AI无敌？人类的反击静悄悄。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871323&idx=1&sn=5d9531e29e28761ddbeae1ee70a9488d&chksm=f0f8790838e6634a429dd2a1c5291685dfd3e51d70c05194ca36a68c2f7a6a806103e440f289&scene=27#wechat_redirect)
 
 文章简介:用魔法打败魔法。
 
+文章作者:caoz
 
-
-[2023-03-06_恐惧和勇敢，其实并不是对立的](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871319&idx=1&sn=bb321441a4ad3549e1fd3260f21f9248&chksm=f10749bac670c0ac2c272338f1ccd0c388ba85434fbe1c46ed63f1cfd88fbd33b34d697cfc5e#rd)
+[2023-03-06_恐惧和勇敢，其实并不是对立的](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871319&idx=1&sn=bb321441a4ad3549e1fd3260f21f9248&chksm=f06f7632b23c190dd6768c5bc159db9fb2a9e0b7a982dd63f6ff3ffb8578120c0475e24e8d64&scene=27#wechat_redirect)
 
 文章简介:你会在大雾的路上狠踩油门么。
 
+文章作者:caoz
 
-
-[2023-03-02_关于南极旅游 - 王叔特别篇](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871315&idx=1&sn=c1197bf7fa11e19590f21bd167f4d30c&chksm=f10749bec670c0a895b92ebf92155e2888151b55295907addf7223b2f8f241a40483040f84bf#rd)
+[2023-03-02_关于南极旅游 - 王叔特别篇](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871315&idx=1&sn=c1197bf7fa11e19590f21bd167f4d30c&chksm=f01d0190762b9a6fbd7286ef73574e1225f1297fa6eaf28bba7326841d64ca1f30cd67b201c5&scene=27#wechat_redirect)
 
 文章简介:我觉得比二舅更励志。
 
+文章作者:caoz
 
+[2023-02-27_跨境电商账号矩阵运营方法论](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871302&idx=2&sn=330bb3069689a4b37d89d865489a6e9b&chksm=f10749abc670c0bda27561a6ccfeb3608dbca2f56563833143ff6b69ca85e86e7152dff5482f&scene=27#wechat_redirect)
 
-[2023-02-27_关于南极旅游，出行篇](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871302&idx=1&sn=51f3dc4b58c94c2055e7fd54cac5fb07&chksm=f10749abc670c0bd6117d787eb032103954a1b67fd32ce11dd1278fc2ebab91d96ff792ac3af#rd)
+文章简介:聪明人都选择用工具解决问题。
+
+文章作者:
+
+[2023-02-27_关于南极旅游，出行篇](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871302&idx=1&sn=51f3dc4b58c94c2055e7fd54cac5fb07&chksm=f10749abc670c0bd6117d787eb032103954a1b67fd32ce11dd1278fc2ebab91d96ff792ac3af&scene=27#wechat_redirect)
 
 文章简介:你去不去再说，看看我拍的总是可以的。
 
+文章作者:caoz
 
-
-[2023-02-27_跨境电商账号矩阵运营方法论](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871302&idx=2&sn=330bb3069689a4b37d89d865489a6e9b&chksm=f10749abc670c0bda27561a6ccfeb3608dbca2f56563833143ff6b69ca85e86e7152dff5482f#rd)
-
-文章简介:聪明人都选择用工具解决问题。
-
-
-
-[2023-02-24_跨境电商账号矩阵运营方法论](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871240&idx=1&sn=2d9c8f7590d10f519ab54a38a1804c94&chksm=f10749e5c670c0f34019caec9943a2548751d5372207b51db26b8e63bc35e897c05183ddecb6#rd)
+[2023-02-24_跨境电商账号矩阵运营方法论](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871240&idx=1&sn=2d9c8f7590d10f519ab54a38a1804c94&chksm=f10749e5c670c0f34019caec9943a2548751d5372207b51db26b8e63bc35e897c05183ddecb6&scene=27#wechat_redirect)
 
 文章简介:聪明人都选择用工具解决问题。
 
+文章作者:
 
-
-[2023-02-23_关于南极旅游，衣食住篇](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871239&idx=1&sn=01b64b74dc32300a9d4447f1095a3d08&chksm=f10749eac670c0fc264c0275a3aa79f556871d146de4c64b9dbd84b82fc3db946155dbe6bf6b#rd)
+[2023-02-23_关于南极旅游，衣食住篇](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871239&idx=1&sn=01b64b74dc32300a9d4447f1095a3d08&chksm=f10749eac670c0fc264c0275a3aa79f556871d146de4c64b9dbd84b82fc3db946155dbe6bf6b&scene=27#wechat_redirect)
 
 文章简介:关于南极旅游，最常见的问题，会尽量一一说明。
 
+文章作者:caoz
 
-
-[2023-02-22_分享图片](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871224&idx=1&sn=bdcbeee7a8086301bf5f1208629b594d&chksm=f1074915c670c0038cdbea62c9e46af6b87c7a4af2d38edb75accbc21e5a0a769230467f6591#rd)
+[2023-02-22_分享图片](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871224&idx=1&sn=bdcbeee7a8086301bf5f1208629b594d&chksm=f1074915c670c0038cdbea62c9e46af6b87c7a4af2d38edb75accbc21e5a0a769230467f6591&scene=27#wechat_redirect)
 
 文章简介:
 
+文章作者:
 
-
-[2023-02-20_巴塞罗那，高迪的城市](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871215&idx=1&sn=3638089189482555a77982f38d6c35b2&chksm=f1074902c670c014ee22c695dceb4f61d677862876b9a8fa2837ad66805fdfbc1c1e651a3375#rd)
+[2023-02-20_巴塞罗那，高迪的城市](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871215&idx=1&sn=3638089189482555a77982f38d6c35b2&chksm=f1074902c670c014ee22c695dceb4f61d677862876b9a8fa2837ad66805fdfbc1c1e651a3375&scene=27#wechat_redirect)
 
 文章简介:路过巴塞罗那两天，随手记录分享
 
+文章作者:caoz
 
-
-[2023-02-13_智利惊魂记](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871198&idx=1&sn=3e2ccff434d0662e6370c242baf249c4&chksm=f1074933c670c025c83545ba0c16bc09b3f7ec02e817c92201480c712dc53422a1661aa2c310#rd)
+[2023-02-13_智利惊魂记](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871198&idx=1&sn=3e2ccff434d0662e6370c242baf249c4&chksm=f1074933c670c025c83545ba0c16bc09b3f7ec02e817c92201480c712dc53422a1661aa2c310&scene=27#wechat_redirect)
 
 文章简介:一分钟内遭遇连抢。
 
+文章作者:caoz
 
-
-[2023-02-10_关于南极旅游，前奏篇](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871185&idx=1&sn=0e5b5f5e718856c13dc586ffd058a4e2&chksm=f107493cc670c02ac3890a77529a2280eb6e6c912f4f3942d65f7a54f5d4716d5331f32ca08e#rd)
+[2023-02-10_关于南极旅游，前奏篇](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871185&idx=1&sn=0e5b5f5e718856c13dc586ffd058a4e2&chksm=f107493cc670c02ac3890a77529a2280eb6e6c912f4f3942d65f7a54f5d4716d5331f32ca08e&scene=27#wechat_redirect)
 
 文章简介:努力转型做旅游博主
 
+文章作者:caoz
 
-
-[2023-02-07_新加坡的家长会](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871180&idx=1&sn=db0d1f29163a164bb0fd14746abd5962&chksm=f1074921c670c0377031d5d4221bd469d8e43407e1e2e45a51e320f99dcba25fc4d77c0ccc1f#rd)
+[2023-02-07_新加坡的家长会](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871180&idx=1&sn=db0d1f29163a164bb0fd14746abd5962&chksm=f1074921c670c0377031d5d4221bd469d8e43407e1e2e45a51e320f99dcba25fc4d77c0ccc1f&scene=27#wechat_redirect)
 
 文章简介:上一次参加家长会还是在上一次。
 
+文章作者:caoz
 
-
-[2023-02-01_关于目标制定，拍脑袋就够了么](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871171&idx=1&sn=cabd0407dd773b0ac45db0bfa6f2a1d4&chksm=f107492ec670c038b47ddb879d83f5b44b0b6d74b3393ceb9b2df7f91276173784c59c25dea3#rd)
+[2023-02-01_关于目标制定，拍脑袋就够了么](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871171&idx=1&sn=cabd0407dd773b0ac45db0bfa6f2a1d4&chksm=f107492ec670c038b47ddb879d83f5b44b0b6d74b3393ceb9b2df7f91276173784c59c25dea3&scene=27#wechat_redirect)
 
 文章简介:2022年的目标实现了么，2023年你又有怎样的期待？
 
+文章作者:caoz
 
-
-[2023-01-27_说说海外的教育观](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871167&idx=1&sn=a445ad1727245ec8c07256d8dd97afc2&chksm=f1074952c670c044413b1ef970a358efa7ef574f64c57979f0eebf7b2a9c97382a849e5f5701#rd)
+[2023-01-27_说说海外的教育观](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871167&idx=1&sn=a445ad1727245ec8c07256d8dd97afc2&chksm=f1074952c670c044413b1ef970a358efa7ef574f64c57979f0eebf7b2a9c97382a849e5f5701&scene=27#wechat_redirect)
 
 文章简介:国人对考试的痴迷，也是令人诧舌的。
 
+文章作者:caoz
 
-
-[2023-01-24_人要不要信命](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871162&idx=1&sn=5ed305219ca74c6e65d83cdcd88d3b0d&chksm=f1074957c670c041357ae527c3a941b132cb050a41b5094cb6b02d2781201981baae28e0f0ae#rd)
+[2023-01-24_人要不要信命](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871162&idx=1&sn=5ed305219ca74c6e65d83cdcd88d3b0d&chksm=f1074957c670c041357ae527c3a941b132cb050a41b5094cb6b02d2781201981baae28e0f0ae&scene=27#wechat_redirect)
 
 文章简介:虽然封建迷信不可取，但是吧。
 
+文章作者:caoz
 
-
-[2023-01-19_知道正确标准为什么还找不到好工作](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871158&idx=1&sn=4f87ffdc2317dc2a9053728f5a2d3a74&chksm=f107495bc670c04d39ce2aed5faf58fe900184c0bdbdf5a7c3858b95573c7c796e0e73ebaea5#rd)
+[2023-01-19_知道正确标准为什么还找不到好工作](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871158&idx=1&sn=4f87ffdc2317dc2a9053728f5a2d3a74&chksm=f107495bc670c04d39ce2aed5faf58fe900184c0bdbdf5a7c3858b95573c7c796e0e73ebaea5&scene=27#wechat_redirect)
 
 文章简介:很多情况下，所谓正确的标准，往往是无法实证的。
 
+文章作者:caoz
 
-
-[2023-01-14_想赚钱，也别做黑产帮凶](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871154&idx=1&sn=77f8dd270c168ef5c4b328d455545cf8&chksm=f107495fc670c049afb4ff6a31c0da5a0e4f0072d9960f29d4ffdb3a34f9261a7a95fc99c7c9#rd)
+[2023-01-14_想赚钱，也别做黑产帮凶](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871154&idx=1&sn=77f8dd270c168ef5c4b328d455545cf8&chksm=f107495fc670c049afb4ff6a31c0da5a0e4f0072d9960f29d4ffdb3a34f9261a7a95fc99c7c9&scene=27#wechat_redirect)
 
 文章简介:所谓网上兼职赚钱，洗钱已经占据很大的比例。
 
+文章作者:caoz
 
-
-[2023-01-08_关于社交圈，说点不正确的](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871150&idx=1&sn=9d5462201339cf4bcc53f6235e76d319&chksm=f1074943c670c0551285f617db3a50156e108f25a0f788269bf0793797edeffb522fefec44d1#rd)
+[2023-01-08_关于社交圈，说点不正确的](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871150&idx=1&sn=9d5462201339cf4bcc53f6235e76d319&chksm=f1074943c670c0551285f617db3a50156e108f25a0f788269bf0793797edeffb522fefec44d1&scene=27#wechat_redirect)
 
 文章简介:你身边朋友都还好吗。
 
+文章作者:caoz
 
-
-[2023-01-02_一年更比一年好](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871142&idx=1&sn=02a4c3076727197ccdd4a1a45b8aef16&chksm=f107494bc670c05d5d5e3bba0c0207ea7cd79799e6b2a4096b1fd4abe8865010cb8b1f9df577#rd)
+[2023-01-02_一年更比一年好](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871142&idx=1&sn=02a4c3076727197ccdd4a1a45b8aef16&chksm=f107494bc670c05d5d5e3bba0c0207ea7cd79799e6b2a4096b1fd4abe8865010cb8b1f9df577&scene=27#wechat_redirect)
 
 文章简介:一忘皆空，天下太平。
 
+文章作者:caoz
 
 [2022-12-27_关于赚钱，别太轻佻。](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649871132&idx=1&sn=2c27764818bb68014f47347ca66e7586&chksm=f1074971c670c067a64e5e9b18eac1377f8287ed402d623d1c11c16c9da6af322a32c1e5f8c1&scene=27#wechat_redirect)
 
