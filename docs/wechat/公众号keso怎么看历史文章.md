@@ -1,3 +1,10 @@
+[2024-05-06_零售企业的数字化，怎么越做越迷茫了？](http://mp.weixin.qq.com/s?__biz=MzI1ODIyMjAwMA==&mid=2247486453&idx=1&sn=ef786d77a99bebf7b74c634491eac3e4&chksm=ea0a392add7db03ca4603b6194344991e06c4b4bc5ac5fd06e937b81467dd9d1fbe62e8ff4ae#rd)
+
+文章简介:零售无所谓新旧，关键是有没有给自己插上智慧的翅膀。零售业转型没有终点，数字化永远在路上。
+
+文章作者:keso
+
+
 [2023-11-09_后疫情时代我们怎么过双11](http://mp.weixin.qq.com/s?__biz=MzI1ODIyMjAwMA==&mid=2247486443&idx=1&sn=bfd8b2c8629e346ed2facd9320ba39b2&chksm=eb56f4249ad7659b625797efa35099a51f560fe3ea759dd76bad0d5b44751b0a7afc58645975&scene=27#wechat_redirect)
 
 文章简介:双11终于有点回归了它该有的样子，简单，直接，尊重消费者。这不能不让人想到“百亿补贴”。
