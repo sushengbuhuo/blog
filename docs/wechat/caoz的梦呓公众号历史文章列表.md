@@ -1,3 +1,40 @@
+[2025-02-03_关于deepseek的一些普遍误读](https://mp.weixin.qq.com/s/Uc4mo5U9CxVuZ0AaaNNi5g)
+
+文章简介:别过度神话，也别无脑贬低。
+
+文章作者:caoz
+
+[2025-01-28_deepseek再爆大招，janus pro炸裂出场](https://mp.weixin.qq.com/s/XJ16rabb_34c8NvscYt2Cg)
+
+文章简介:刺激，大招连发的。
+
+文章作者:
+
+[2025-01-26_DeepSeek，逆转时刻？](https://mp.weixin.qq.com/s/obYoyQAZuBngOm7G3bl1LQ)
+
+文章简介:真的很棒。
+
+文章作者:caoz
+
+[2025-01-21_自媒体的智能体时代来临](https://mp.weixin.qq.com/s/XtOOut54GgQy8abLlKNhGQ)
+
+文章简介:想和我的数字分身聊几句么。
+
+文章作者:caoz
+
+[2025-01-13_人在曼谷，扯几句安全](https://mp.weixin.qq.com/s/jrc08MNkkrqu27k8eQa38Q)
+
+文章简介:标题换成，我在曼谷出事了，是不是更刺激。
+
+文章作者:caoz
+
+[2025-01-10_EBC之旅 - 在珠峰脚下迎接2025](https://mp.weixin.qq.com/s/y2vgpR-mhY2YwgUatL61bQ)
+
+文章简介:还额外体验了地震。。。
+
+文章作者:caoz
+
+
 [2024-12-31_2024，总结点啥呢。](https://mp.weixin.qq.com/s/zydDqSysDkU61eislG6A7g)
 
 文章简介:
