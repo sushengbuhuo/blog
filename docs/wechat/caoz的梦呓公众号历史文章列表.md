@@ -1,3 +1,36 @@
+[2025-12-31_2025年终总结](https://mp.weixin.qq.com/s/Jn7Te848ULbC98jKr6Qncw)
+
+文章简介:时间过得真快，又一年过去了。2025，五十而知天命，心态更加平和，随遇而安，更能接受命运的安排。
+
+文章作者:caoz
+
+[2025-12-29_旅游常识，经停，联程，中转机票的概念解析和羊毛策略](https://mp.weixin.qq.com/s/s3u9p9902JBWGq2D8i-Ylw)
+
+文章简介:旅游出行，既要省钱，也要省心。
+
+文章作者:caoz
+
+[2025-12-22_从衡水中学走下神坛说起](https://mp.weixin.qq.com/s/ffpCeXKd0rWL2S0vdjBSFQ)
+
+文章简介:衡水中学的清北录取人数断崖式下跌。
+
+文章作者:caoz
+
+[2025-12-18_发布就跑：一个工程师用 30 个小 App 实现月入 17 万的方法论](https://mp.weixin.qq.com/s/75YVz-W6WYJW2Fyntx8sdQ)
+
+文章简介:分享一篇校友的原创文章，挺好的案例总结。
+
+我也用vibe coding做产品，人家这执行力比我强多了。
+
+文章作者:
+
+[2025-12-12_遛娃途中汇报一下](https://mp.weixin.qq.com/s/iGOevpetPLw4LlUKQ-iAJw)
+
+文章简介:证明这个号还在哈
+
+文章作者:caoz
+
+
 [2025-11-21_零代码编程-优化深水区及技术债](https://mp.weixin.qq.com/s/XyxCt3mFuhbH5-kJktinQA)
 
 文章简介:还在编程ing
